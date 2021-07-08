@@ -5,3 +5,11 @@ entrySelector = "#app .blog-box .blogs-content-list .pass-item>.blogs-right"
 titleSelector = ".blogs-list-title"
 linkSelector = ".blogs-list-title>a"
 contentSelector = "p"
+
+[BilibiliTech]
+title = "幻电物业 - B站技术中心"
+url = "https://space.bilibili.com/393183630/article"
+entrySelector = "#page-article .main-content .article>.content>.article-wrap>.article-item"
+titleSelector = ".s-content>.article-title"
+linkSelector = ".s-content>.article-title>a"
+contentSelector = ".s-content>.article-con"
