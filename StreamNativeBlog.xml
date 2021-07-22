@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://streamnative.io/en/blog/</id>
     <title>StreamNative Blog</title>
-    <updated>2021-07-21T17:42:06.751Z</updated>
+    <updated>2021-07-22T05:33:02.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://streamnative.io/streamnative-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Join Us to Organize Your Local Apache Pulsar 2.8.0 Release Party]]></title>
+        <id>https://streamnative.io/en/blog/community/2021-07-16-release-party</id>
+        <link href="https://streamnative.io/en/blog/community/2021-07-16-release-party"/>
+        <updated>2021-07-22T05:33:02.265Z</updated>
+        <content type="html"><![CDATA[To celebrate the release of Pulsar 2.8.0, we decided to organize a release party that would take place across a number of different cities.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcing Pulsar Virtual Summit Europe 2021: CFP Is Open!]]></title>
         <id>https://streamnative.io/en/blog/community/2021-06-30-announcing-pulsar-virtual-summit-europe-2021-cfp-is-open</id>
@@ -67,12 +74,5 @@
         <link href="https://streamnative.io/en/blog/community/2021-06-11-pulsar-user-survey-2021-highlights"/>
         <updated>2021-07-14T17:41:10.477Z</updated>
         <content type="html"><![CDATA[In this report, we look at the key takeaways from the 2021 Apache Pulsar User Report and the major trends driving change across the messaging and streaming landscape.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Apache Pulsar User Report Announcement]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-10-2021-apache-pulsar-user-report-announcement</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-10-2021-apache-pulsar-user-report-announcement"/>
-        <updated>2021-07-14T17:41:10.480Z</updated>
-        <content type="html"><![CDATA[We’re excited to announce the 2021 Apache Pulsar User Report is now available. Read about the growth in adoption and engagement across the Apache Pulsar project!]]></content>
     </entry>
 </feed>
