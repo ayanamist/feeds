@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-03T17:46:34.386Z</updated>
+    <updated>2021-08-04T05:33:07.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[David Kjerrumgaard, Pulsar In Action Author, Talks All Things Pulsar (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/en/blog/community/2021-08-03-david-kjerrumgaard-pulsar-in-action-author-talks-all-things-pulsar</id>
+        <link href="https://streamnative.io/en/blog/community/2021-08-03-david-kjerrumgaard-pulsar-in-action-author-talks-all-things-pulsar"/>
+        <updated>2021-08-04T05:33:07.127Z</updated>
+        <content type="html"><![CDATA[We talked to David Kjerrumgaard, long-time Pulsar user and author of the book Pulsar in Action, a Manning Publication, to get his insights on the messaging and streaming space, the trends driving Pulsar adoption, and his new role as a Developer Advocate at StreamNative.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Join Us to Organize Your Local Apache Pulsar 2.8.0 Release Party (StreamNative Blog)]]></title>
         <id>https://streamnative.io/en/blog/community/2021-07-16-release-party</id>
@@ -66,12 +73,5 @@
         <link href="https://streamnative.io/en/blog/release/2021-06-14-exactly-once-semantics-with-transactions-in-pulsar"/>
         <updated>2021-07-14T17:41:10.475Z</updated>
         <content type="html"><![CDATA[As part of the 2.8 Pulsar release, we have evolved the exactly-once semantic from guaranteed message deduplication on a single topic to atomic produce and acknowledgement over multiple topics via Transaction API.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulsar User Survey 2021 Highlights (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-11-pulsar-user-survey-2021-highlights</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-11-pulsar-user-survey-2021-highlights"/>
-        <updated>2021-07-14T17:41:10.477Z</updated>
-        <content type="html"><![CDATA[In this report, we look at the key takeaways from the 2021 Apache Pulsar User Report and the major trends driving change across the messaging and streaming landscape.]]></content>
     </entry>
 </feed>
