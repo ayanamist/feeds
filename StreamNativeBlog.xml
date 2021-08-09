@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://streamnative.io/en/blog/</id>
     <title>StreamNative Blog</title>
-    <updated>2021-08-08T17:38:39.532Z</updated>
+    <updated>2021-08-09T17:41:42.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://streamnative.io/streamnative-logo.png</icon>
-    <entry>
-        <title type="html"><![CDATA[David Kjerrumgaard, Pulsar In Action Author, Talks All Things Pulsar]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-08-03-david-kjerrumgaard-pulsar-in-action-author-talks-all-things-pulsar</id>
-        <link href="https://streamnative.io/en/blog/community/2021-08-03-david-kjerrumgaard-pulsar-in-action-author-talks-all-things-pulsar"/>
-        <updated>2021-08-04T05:33:07.127Z</updated>
-        <content type="html"><![CDATA[We talked to David Kjerrumgaard, long-time Pulsar user and author of the book Pulsar in Action, a Manning Publication, to get his insights on the messaging and streaming space, the trends driving Pulsar adoption, and his new role as a Developer Advocate at StreamNative.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Us to Organize Your Local Apache Pulsar 2.8.0 Release Party]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-07-16-release-party</id>
-        <link href="https://streamnative.io/en/blog/community/2021-07-16-release-party"/>
-        <updated>2021-07-22T05:33:02.265Z</updated>
-        <content type="html"><![CDATA[To celebrate the release of Pulsar 2.8.0, we decided to organize a release party that would take place across a number of different cities.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Pulsar Virtual Summit Europe 2021: CFP Is Open!]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-30-announcing-pulsar-virtual-summit-europe-2021-cfp-is-open</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-30-announcing-pulsar-virtual-summit-europe-2021-cfp-is-open"/>
-        <updated>2021-07-14T17:41:10.426Z</updated>
-        <content type="html"><![CDATA[Pulsar Summit is coming to Europe! Submit a talk today and share your Pulsar story. CFP is open till July 14th, 2021.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulsar Hackathon 2021 Winners Announced]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-22-pulsar-hackathon-2021-winners-announced</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-22-pulsar-hackathon-2021-winners-announced"/>
-        <updated>2021-07-14T17:41:10.431Z</updated>
-        <content type="html"><![CDATA[Read about the winning projects of the Pulsar Hackathon 2021 and the StreamNative Incubator program.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highlights from The Pulsar Virtual Summit North America 2021]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-22-highlights-from-the-pulsar-virtual-summit-north-america-2021</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-22-highlights-from-the-pulsar-virtual-summit-north-america-2021"/>
-        <updated>2021-07-14T17:41:10.433Z</updated>
-        <content type="html"><![CDATA[The Pulsar Virtual Summit North America 2021 was packed with Pulsar project updates, ecosystem news, and insights into some of the largest and most exciting Pulsar deployments around the globe. This blog shares the highlights of the event.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing StreamNative Platform]]></title>
-        <id>https://streamnative.io/en/blog/release/2021-06-16-streamnative-platform</id>
-        <link href="https://streamnative.io/en/blog/release/2021-06-16-streamnative-platform"/>
-        <updated>2021-07-14T17:41:10.441Z</updated>
-        <content type="html"><![CDATA[We are excited to announce StreamNative Platform 1.0, a cloud-native, unified messaging and streaming platform powered by Apache Pulsar. StreamNative Platform provides a complete, declarative API-driven experience for deploying and self-managing Apache Pulsar in your private environments. With StreamNative Platform, we’ve packaged our enterprise expertise with StreamNative Cloud to help you build your own private cloud Pulsar service.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep-dive of Transactions in Apache Pulsar]]></title>
-        <id>https://streamnative.io/en/blog/tech/2021-06-16-a-deep-dive-of-transactions-in-apache-pulsar</id>
-        <link href="https://streamnative.io/en/blog/tech/2021-06-16-a-deep-dive-of-transactions-in-apache-pulsar"/>
-        <updated>2021-07-14T17:41:10.460Z</updated>
-        <content type="html"><![CDATA[Previously, we introduced the exactly-once semantics enabled by Transaction API for Pulsar. In this blog, we dive deeper into the transactions in Pulsar and familiarize you with the main concepts needed to use the Pulsar Transaction API effectively.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Pulsar Launches 2.8: Unified Messaging and Streaming With Transactions]]></title>
-        <id>https://streamnative.io/en/blog/release/2021-06-15-apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions</id>
-        <link href="https://streamnative.io/en/blog/release/2021-06-15-apache-pulsar-launches-2-8-unified-messaging-and-streaming-with-transactions"/>
-        <updated>2021-07-14T17:41:10.462Z</updated>
-        <content type="html"><![CDATA[This blog provides a deep dive into the updates from the 2.8.0 release as well as a detailed look at the major Pulsar developments that have helped it evolve into the unified messaging and streaming platform it is today.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulsar Hits Its 400th Contributor & Passes Kafka in Monthly Active Contributors]]></title>
-        <id>https://streamnative.io/en/blog/community/2021-06-14-pulsar-hits-its-400th-contributor-and-passes-kafka-in-monthly-active-contributors</id>
-        <link href="https://streamnative.io/en/blog/community/2021-06-14-pulsar-hits-its-400th-contributor-and-passes-kafka-in-monthly-active-contributors"/>
-        <updated>2021-07-14T17:41:10.473Z</updated>
-        <content type="html"><![CDATA[Pulsar is growing faster than ever. Read about key Pulsar milestones and ecosystem development across the project.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exactly-Once Semantics with Transactions in Pulsar]]></title>
-        <id>https://streamnative.io/en/blog/release/2021-06-14-exactly-once-semantics-with-transactions-in-pulsar</id>
-        <link href="https://streamnative.io/en/blog/release/2021-06-14-exactly-once-semantics-with-transactions-in-pulsar"/>
-        <updated>2021-07-14T17:41:10.475Z</updated>
-        <content type="html"><![CDATA[As part of the 2.8 Pulsar release, we have evolved the exactly-once semantic from guaranteed message deduplication on a single topic to atomic produce and acknowledgement over multiple topics via Transaction API.]]></content>
-    </entry>
+    <icon>data:,</icon>
 </feed>
