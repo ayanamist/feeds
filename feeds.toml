@@ -13,3 +13,11 @@ entrySelector = "#page-article .main-content .article>.content>.article-wrap>.ar
 titleSelector = ".s-content>.article-title"
 linkSelector = ".s-content>.article-title>a"
 contentSelector = ".s-content>.article-con"
+
+[acwifi]
+title = "路由器交流-无线路由器使用分享与评测对比"
+url = "https://www.acwifi.net/page/1"
+entrySelector = "body.blog section.container div.content-wrap div.content article.excerpt.excerpt-one"
+titleSelector = "header>h2"
+linkSelector = "header>h2>a"
+contentSelector = "p.note"
