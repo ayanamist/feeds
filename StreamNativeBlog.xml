@@ -1,8 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://streamnative.io/en/blog/</id>
+    <id>https://streamnative.io/blogs/</id>
     <title>StreamNative Blog</title>
-    <updated>2022-01-27T04:48:50.339Z</updated>
+    <updated>2022-01-27T05:00:37.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[Moving Toward a ZooKeeper-Less Apache Pulsar]]></title>
+        <id>https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/"/>
+        <updated>2022-01-27T05:00:12.468Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Moving Toward a ZooKeeper-Less Apache Pulsar" src="/uploads/images/zk-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache ZooKeeper, etcd, Kubernetes, RocksDB
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Moving Toward a ZooKeeper-Less Apache Pulsar
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            January 25, 2022
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/david-kjerrumgaard-profile-pic.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">David Kjerrumgaard</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="https://www.linkedin.com/in/davidkj/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-Scaling Pulsar Functions in Kubernetes Using Custom Metrics]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-01-19-auto-scaling-pulsar-functions-in-kubernetes-using-custom-metrics/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-01-19-auto-scaling-pulsar-functions-in-kubernetes-using-custom-metrics/"/>
+        <updated>2022-01-27T05:00:12.472Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Auto-Scaling Pulsar Functions in Kubernetes Using Custom Metrics" src="/uploads/images/cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Kubernetes, Pulsar Functions
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Auto-Scaling Pulsar Functions in Kubernetes Using Custom Metrics
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            January 19, 2022
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/rui_fu.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Rui Fu</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/neng-lu.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Neng Lu</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/nlu90" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="https://www.linkedin.com/in/neng-lu-002b4a27/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-01-12-pulsar-isolation-part-3-separate-pulsar-clusters-sharing-a-single-bookkeeper-cluster/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-01-12-pulsar-isolation-part-3-separate-pulsar-clusters-sharing-a-single-bookkeeper-cluster/"/>
+        <updated>2022-01-27T05:00:12.473Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster" src="/uploads/images/pulsar-isolation-shared-bk.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            BookKeeper, Isolation
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Pulsar Isolation Part III: Separate Pulsar Clusters Sharing a Single BookKeeper Cluster
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            January 12, 2022
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/rangao.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Ran Gao</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/leon_ran_10" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Information Regarding Log4j Security Vulnerabilities]]></title>
+        <id>https://streamnative.io/blog/engineering/log4-mitigation-en/</id>
+        <link href="https://streamnative.io/blog/engineering/log4-mitigation-en/"/>
+        <updated>2022-01-27T05:00:12.476Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Information Regarding Log4j Security Vulnerabilities" src="/uploads/images/log4shell_logo.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            security, release, product-update
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Information Regarding Log4j Security Vulnerabilities
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 20, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/addison.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Addison Higham</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/addisonjh?lang=en" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="https://www.linkedin.com/in/addisonj/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/matteomerli.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Matteo Merli</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/merlimat" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="https://www.linkedin.com/in/matteomerli/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweaking the BookKeeper Protocol - Unbounded Ledgers]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-12-16-tweaking-the-bookkeeper-protocol-unbounded-ledgers/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-12-16-tweaking-the-bookkeeper-protocol-unbounded-ledgers/"/>
+        <updated>2022-01-27T05:00:12.477Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Tweaking the BookKeeper Protocol - Unbounded Ledgers" src="/uploads/images/100.jpeg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Distributed Systems, Apache BookKeeper, TLA+
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Tweaking the BookKeeper Protocol - Unbounded Ledgers
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 16, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/1_4h2amiyvfbppnd43mokl1q.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Jack Vanlightly</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/vanlightly" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Event-Driven Microservices with Apache Pulsar: Part I]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-12-14-developing-event-driven-microservices-with-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-12-14-developing-event-driven-microservices-with-apache-pulsar/"/>
+        <updated>2022-01-27T05:00:12.478Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Developing Event-Driven Microservices with Apache Pulsar: Part I" src="/uploads/images/d.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Microservices, Pulsar Functions
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Developing Event-Driven Microservices with Apache Pulsar: Part I
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 14, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Tim Spann</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New in Apache Pulsar 2.7.4]]></title>
+        <id>https://streamnative.io/blog/release/2021-12-14-pulsar-274/</id>
+        <link href="https://streamnative.io/blog/release/2021-12-14-pulsar-274/"/>
+        <updated>2022-01-27T05:00:12.480Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="What’s New in Apache Pulsar 2.7.4" src="/uploads/images/blogs/274/cover.jpg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsar, 2.7.4, Release
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            What’s New in Apache Pulsar 2.7.4
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 14, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/郭吉伟.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Jiwei Guo</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/yuliu.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Yu Liu</span><div data-v-512a9b62="" class="author-share-box"><a data-v-512a9b62="" href="https://twitter.com/Anonymitaet1" target="_blank" class="left"><img data-v-512a9b62="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulsar Hits 10,000 GitHub Stars Milestone]]></title>
+        <id>https://streamnative.io/blog/community/2021-12-07-pulsar-hits-10000-github-stars-milestone/</id>
+        <link href="https://streamnative.io/blog/community/2021-12-07-pulsar-hits-10000-github-stars-milestone/"/>
+        <updated>2022-01-27T05:00:12.481Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Pulsar Hits 10,000 GitHub Stars Milestone" src="/uploads/images/screen-shot-2021-12-07-at-8.18.49-am-copy.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsar Contributors, Open Source 
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Pulsar Hits 10,000 GitHub Stars Milestone
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 07, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/alice.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Alice Bi</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="https://www.linkedin.com/in/alicebi" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offset Implementation in Kafka-on-Pulsar]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-12-01-offset-implementation-in-kafka-on-pulsar/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-12-01-offset-implementation-in-kafka-on-pulsar/"/>
+        <updated>2022-01-27T05:00:12.483Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Offset Implementation in Kafka-on-Pulsar" src="/uploads/images/screen-shot-2021-12-01-at-9.18.12-am.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache Kafka, Protocol Handler, Pulsar 2.8.0
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Offset Implementation in Kafka-on-Pulsar
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            December 01, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/yzxu.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Yunze Xu</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Useful Pulsarctl Commands to Manage Your Cluster]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-11-23-10-useful-pulsarctl-commands-to-manage-your-cluster/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-11-23-10-useful-pulsarctl-commands-to-manage-your-cluster/"/>
+        <updated>2022-01-27T05:00:12.484Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="10 Useful Pulsarctl Commands to Manage Your Cluster" src="/uploads/images/screen-shot-2021-11-23-at-12.04.47-pm.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsarctl
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            10 Useful Pulsarctl Commands to Manage Your Cluster
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            November 23, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/1602422364613.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Aniket Bhattacharyea</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Edge Applications With Apache Pulsar]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-11-17-building-edge-applications-with-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-11-17-building-edge-applications-with-apache-pulsar/"/>
+        <updated>2022-01-27T05:00:12.487Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Building Edge Applications With Apache Pulsar" src="/uploads/images/cover-edge.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            IoT, Edge Computing
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Building Edge Applications With Apache Pulsar
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            November 17, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Tim Spann</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streaming Data Pipelines with Pulsar IO]]></title>
+        <id>https://streamnative.io/blog/engineering/2021-11-10-streaming-data-pipelines-with-pulsar-io/</id>
+        <link href="https://streamnative.io/blog/engineering/2021-11-10-streaming-data-pipelines-with-pulsar-io/"/>
+        <updated>2022-01-27T05:00:12.488Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Streaming Data Pipelines with Pulsar IO" src="/uploads/images/screen-shot-2021-11-10-at-9.20.18-am.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsar IO, Pulsar Connectors
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Streaming Data Pipelines with Pulsar IO
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            November 10, 2021
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/ioannis.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Ioannis Polyzos</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
 </feed>
