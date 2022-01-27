@@ -21,3 +21,11 @@ entrySelector = "body.blog section.container div.content-wrap div.content articl
 titleSelector = "header>h2"
 linkSelector = "header>h2>a"
 contentSelector = "p.note"
+
+[cnblogs_cmt]
+title = "博客园官方博客"
+url = "https://www.cnblogs.com/cmt/"
+entrySelector = "#mainContent>.forFlow>.day"
+titleSelector = ".postTitle"
+linkSelector = ".dayTitle>a"
+contentSelector = ".postCon"
