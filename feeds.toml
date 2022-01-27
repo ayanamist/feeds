@@ -4,11 +4,11 @@ waitUntil = "load"
 
 [StreamNativeBlog]
 title = "StreamNative Blog"
-url = "https://streamnative.io/en/blog/"
-entrySelector = "#app .blog-box .blogs-content-list .pass-item>.blogs-right"
-titleSelector = ".blogs-list-title"
-linkSelector = ".blogs-list-title>a"
-contentSelector = "p"
+url = "https://streamnative.io/blogs/"
+entrySelector = "#app > div > div:nth-child(2) > div:nth-child(2) > section > div.mb-6.mx-auto"
+titleSelector = "a > div > div > div > div.flex-1.flex.flex-col.p-6.pl-10 > div.text-4xl.sn-text-25.sn-text-bold.text-gray-darkest"
+linkSelector = "a"
+contentSelector = "a"
 
 [BilibiliTech]
 title = "幻电物业 - B站技术中心"
