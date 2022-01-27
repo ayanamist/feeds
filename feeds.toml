@@ -1,3 +1,7 @@
+[default]
+timeout = 300
+waitUntil = "load"
+
 [StreamNativeBlog]
 title = "StreamNative Blog"
 url = "https://streamnative.io/en/blog/"
