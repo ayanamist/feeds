@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-27T17:38:41.667Z</updated>
+    <updated>2022-01-28T05:34:50.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Moving Toward a ZooKeeper-Less Apache Pulsar (StreamNative Blog)]]></title>
