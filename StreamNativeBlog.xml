@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://streamnative.io/blogs/</id>
     <title>StreamNative Blog</title>
-    <updated>2022-02-03T17:39:59.623Z</updated>
+    <updated>2022-02-04T05:33:51.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
+    <entry>
+        <title type="html"><![CDATA[Integrating Apache Pulsar with BigQuery]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-02-03-integrating-apache-pulsar-with-bigquery/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-02-03-integrating-apache-pulsar-with-bigquery/"/>
+        <updated>2022-02-04T05:33:27.226Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Integrating Apache Pulsar with BigQuery" src="/uploads/images/bqcover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Google Cloud Storage, Google BigQuery
+          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
+            Integrating Apache Pulsar with BigQuery
+          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            February 03, 2022
+          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/ioannis.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Ioannis Polyzos</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moving Toward a ZooKeeper-Less Apache Pulsar]]></title>
         <id>https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/</id>
@@ -169,20 +184,5 @@
           </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             November 17, 2021
           </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Tim Spann</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streaming Data Pipelines with Pulsar IO]]></title>
-        <id>https://streamnative.io/blog/engineering/2021-11-10-streaming-data-pipelines-with-pulsar-io/</id>
-        <link href="https://streamnative.io/blog/engineering/2021-11-10-streaming-data-pipelines-with-pulsar-io/"/>
-        <updated>2022-01-27T05:00:12.488Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-512a9b62="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-512a9b62="" class="h-full hover:text-white"><div data-v-512a9b62="" class="h-full md-ripple flex"><div data-v-512a9b62="" class="hidden md:block w-80 flex-shrink-0"><img data-v-512a9b62="" alt="Streaming Data Pipelines with Pulsar IO" src="/uploads/images/screen-shot-2021-11-10-at-9.20.18-am.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-512a9b62="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-512a9b62="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Pulsar IO, Pulsar Connectors
-          </div><div data-v-512a9b62="" class="text-4xl sn-text-25 sn-text-bold text-gray-darkest">
-            Streaming Data Pipelines with Pulsar IO
-          </div><p data-v-512a9b62="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-512a9b62="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            November 10, 2021
-          </div><div data-v-512a9b62="" class="author-list"><div data-v-512a9b62="" class="article-author mr-6"><div data-v-512a9b62="" class="author-img"><img data-v-512a9b62="" src="/uploads/images/team/ioannis.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-512a9b62="" class="author-info"><span data-v-512a9b62="">Ioannis Polyzos</span><div data-v-512a9b62="" class="author-share-box"><!----><a data-v-512a9b62="" href="" target="_blank" style="display: none;"><img data-v-512a9b62="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-512a9b62="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-512a9b62="" class="flex flex-row"><span data-v-512a9b62="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-512a9b62="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
 </feed>
