@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://space.bilibili.com/393183630/article</id>
     <title>幻电物业 - B站技术中心</title>
-    <updated>2022-02-15T05:34:04.085Z</updated>
+    <updated>2022-02-15T17:38:24.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://space.bilibili.com/393183630/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[直播场景下 高并发的热点处理实践]]></title>
+        <id>https://www.bilibili.com/read/cv15278397</id>
+        <link href="https://www.bilibili.com/read/cv15278397"/>
+        <updated>2022-02-15T17:38:10.307Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278397" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uber automaxprocs 源码分析]]></title>
+        <id>https://www.bilibili.com/read/cv15278182</id>
+        <link href="https://www.bilibili.com/read/cv15278182"/>
+        <updated>2022-02-15T17:38:10.307Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278182" target="_blank" title="来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到">
+                      来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript + 元数据映射，实现 JavaScript 运行时类型检查应用]]></title>
+        <id>https://www.bilibili.com/read/cv15277935</id>
+        <link href="https://www.bilibili.com/read/cv15277935"/>
+        <updated>2022-02-15T17:38:10.318Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15277935" target="_blank" title="来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp">
+                      来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈生产者消费者模式前端侧应用]]></title>
+        <id>https://www.bilibili.com/read/cv15275957</id>
+        <link href="https://www.bilibili.com/read/cv15275957"/>
+        <updated>2022-02-15T17:38:10.319Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15275957" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B站会员购携手HMS Core AR Engine，构建立体世界、打造沉浸式营销]]></title>
         <id>https://www.bilibili.com/read/cv15199068</id>
@@ -29,8 +65,8 @@
         <id>https://www.bilibili.com/read/cv7791059</id>
         <link href="https://www.bilibili.com/read/cv7791059"/>
         <updated>2022-02-15T05:33:47.362Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv7791059" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv7791059" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
                     </a>]]></content>
     </entry>
     <entry>
@@ -76,42 +112,6 @@
         <updated>2022-02-15T05:33:47.381Z</updated>
         <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv3901523" target="_blank" title="最近几年，伴随着开发人员对移动端的跨平台需要，B 站自研的 IJKPlayer 应运而生。它是一款基于 FFmpeg 的轻量级 Android/iOS 视频播放器，具有 API 易于集成、编译配置可裁剪、支持硬件加速解码、DanmakuFlameMaster 架构清晰、简单易用等优势。作为开源项目，IJKPlayer 还支持用户根据业务类型进行定制，受到了越来越多的开发者的喜爱。那么，B 站的这一开源明星项目究竟是怎样炼成的？在开发过程中遇到过哪些技术难题？目前，经过多轮改造，堪称“IJKPla">
                       最近几年，伴随着开发人员对移动端的跨平台需要，B 站自研的 IJKPlayer 应运而生。它是一款基于 FFmpeg 的轻量级 Android/iOS 视频播放器，具有 API 易于集成、编译配置可裁剪、支持硬件加速解码、DanmakuFlameMaster 架构清晰、简单易用等优势。作为开源项目，IJKPlayer 还支持用户根据业务类型进行定制，受到了越来越多的开发者的喜爱。那么，B 站的这一开源明星项目究竟是怎样炼成的？在开发过程中遇到过哪些技术难题？目前，经过多轮改造，堪称“IJKPla
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专访 B 站高级开发工程师李超然：揭秘互动视频背后的故事]]></title>
-        <id>https://www.bilibili.com/read/cv3901485</id>
-        <link href="https://www.bilibili.com/read/cv3901485"/>
-        <updated>2022-02-15T05:33:47.381Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv3901485" target="_blank" title="2018 年 12 月 28 日，Netflix 推出《黑镜·潘达斯奈基》，电影片长为 90 分钟，交互总时长达到 312 分钟，五个主线结局上百种支线选择，虽然口碑两极分化，但服务器流量暴涨，拿奖拿到手软，被称为是“互动视频鼻祖级别的创新”。作为一家以 UGC 内容为主的视频平台和文化社区，B 站（哔哩哔哩）也在互动视频领域做出了一些尝试。在 2019 QCon 上海站的现场，InfoQ 有幸采访到了 B 站高级开发工程师，同时也是 B 站互动视频的负责人李超然先生，并对互动视频进行全方位揭秘">
-                      2018 年 12 月 28 日，Netflix 推出《黑镜·潘达斯奈基》，电影片长为 90 分钟，交互总时长达到 312 分钟，五个主线结局上百种支线选择，虽然口碑两极分化，但服务器流量暴涨，拿奖拿到手软，被称为是“互动视频鼻祖级别的创新”。作为一家以 UGC 内容为主的视频平台和文化社区，B 站（哔哩哔哩）也在互动视频领域做出了一些尝试。在 2019 QCon 上海站的现场，InfoQ 有幸采访到了 B 站高级开发工程师，同时也是 B 站互动视频的负责人李超然先生，并对互动视频进行全方位揭秘
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B 站的视频体验进化之路]]></title>
-        <id>https://www.bilibili.com/read/cv3867711</id>
-        <link href="https://www.bilibili.com/read/cv3867711"/>
-        <updated>2022-02-15T05:33:47.382Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv3867711" target="_blank" title="2018 年，B 站进行了一次基于&quot;video first&quot;的年度性优化，针对用户体验的关键指标进行性能优化改造。因此在今年年初，bilibili 收到了 GMTC 的内容征集，希望分享 B 站开发和优化方面的经验。最终我们决定在性能优化与监控专场分享 B 站视频体验优化的主题。会议开始前一天，在水立方举办了讲师们的欢迎晚宴，还通过分组游戏的方式加深了讲师们的感情。晚宴上有业界大牛 Hax、喵神、狼叔，也有从安全转前端领域的月饼事件的主角。大家非常健谈，能从前端开发的下一个风口，聊到砚台的雕刻艺">
-                      2018 年，B 站进行了一次基于"video first"的年度性优化，针对用户体验的关键指标进行性能优化改造。因此在今年年初，bilibili 收到了 GMTC 的内容征集，希望分享 B 站开发和优化方面的经验。最终我们决定在性能优化与监控专场分享 B 站视频体验优化的主题。会议开始前一天，在水立方举办了讲师们的欢迎晚宴，还通过分组游戏的方式加深了讲师们的感情。晚宴上有业界大牛 Hax、喵神、狼叔，也有从安全转前端领域的月饼事件的主角。大家非常健谈，能从前端开发的下一个风口，聊到砚台的雕刻艺
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vue在B站的高阶应用]]></title>
-        <id>https://www.bilibili.com/read/cv2773361</id>
-        <link href="https://www.bilibili.com/read/cv2773361"/>
-        <updated>2022-02-15T05:33:47.383Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv2773361" target="_blank" title="嗨 各位小伙伴好，好久没有写文章了，这次分享一下我们从使用node以来，前端架构上的一些优化我们从去年开始打烊 使用node 到现在已经经历了一年的迭代，承载的访问量也从百万级别 扩大到了现在的亿级别，这次补充一些干货吧~vue如何实现热更新我们都知道，对于node来说，前端vue代码的迭代节奏是很快的，可能一周要迭代几次，但是node的迭代却没那么平凡，可能一周更新一次甚至更久，那么为了node服务的稳定，减少node服务的发布次数，是非常有用的。配置中心是肯定需要的，因为需要通过配置不同的资">
-                      嗨 各位小伙伴好，好久没有写文章了，这次分享一下我们从使用node以来，前端架构上的一些优化我们从去年开始打烊 使用node 到现在已经经历了一年的迭代，承载的访问量也从百万级别 扩大到了现在的亿级别，这次补充一些干货吧~vue如何实现热更新我们都知道，对于node来说，前端vue代码的迭代节奏是很快的，可能一周要迭代几次，但是node的迭代却没那么平凡，可能一周更新一次甚至更久，那么为了node服务的稳定，减少node服务的发布次数，是非常有用的。配置中心是肯定需要的，因为需要通过配置不同的资
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站的前后端分离之路]]></title>
-        <id>https://www.bilibili.com/read/cv2773338</id>
-        <link href="https://www.bilibili.com/read/cv2773338"/>
-        <updated>2022-02-15T05:33:47.384Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv2773338" target="_blank" title="2017年即将过去了，总结一下17年的主站前端的进化之路过去的开发模式中，我们采用了以后端为主的 MVC 架构方式。具体来说，每次项目评审后，前后端会先一起约定好接口，之后分别进行开发，开发完，前端需要把页面提供给后端，后端配置上数据，然后返回出来。正式基于这样的开发模式，导致了总工作量的增加，同时沟通和联调成本的消耗也十分显著。前后端分离为了摆脱这种前后端过分依赖的情况，（其实前端也不想每次修改或者发布都要后端这边发布，后端也不想每次前端只改个标题，都要发布一下,影响服务的稳定性），那么先从前">
-                      2017年即将过去了，总结一下17年的主站前端的进化之路过去的开发模式中，我们采用了以后端为主的 MVC 架构方式。具体来说，每次项目评审后，前后端会先一起约定好接口，之后分别进行开发，开发完，前端需要把页面提供给后端，后端配置上数据，然后返回出来。正式基于这样的开发模式，导致了总工作量的增加，同时沟通和联调成本的消耗也十分显著。前后端分离为了摆脱这种前后端过分依赖的情况，（其实前端也不想每次修改或者发布都要后端这边发布，后端也不想每次前端只改个标题，都要发布一下,影响服务的稳定性），那么先从前
                     </a>]]></content>
     </entry>
 </feed>
