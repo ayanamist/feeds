@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-02-18T05:34:24.852Z</updated>
+    <updated>2022-02-18T17:36:13.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】周五下午的一次突发故障]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/02/18.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/02/18.html"/>
+        <updated>2022-02-18T17:36:13.004Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+非常抱歉，今天下午 16:30-17:15 期间，由于出现突发故障，造成园子无法正常访问，由此给您带来麻烦，请您谅解。故障经过如下：16:30 开始，Kubernetes 集群上博客站点的部分 pod 出现请求执行时间慢（5-10秒）的问题。16:43 开始，请求执行时间慢的问题更加严重，开始出现执行时间超过10秒的请求。16:50 开始，出现大量数据库连接超时的日志        <a href="https://www.cnblogs.com/cmt/p/15910907.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（2.7-2.13）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/02/14.html</id>
@@ -95,6 +105,96 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc">
 摘要：            
 热点随笔： ·&nbsp;电子表格实战锦囊:巧用稀疏数组是关键!&nbsp;(葡萄城技术团队)·&nbsp;突破技术限制，实现Web端静默打印&nbsp;(葡萄城技术团队)·&nbsp;C# 编写 Windows 动态桌面软件实现（一）之桌面交互功能&nbsp;(he55)·&nbsp;记一次引入Elasticsearch的系统架构实战&nbsp;(陈珙)·&nbsp;35岁大龄程序员转        <a href="https://www.cnblogs.com/cmt/p/15759004.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（12.20-12.26）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/12/27.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/12/27.html"/>
+        <updated>2022-02-18T17:36:13.013Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;一个忙秃头程序媛的 2021 年总结&nbsp;(前端人)·&nbsp;记一次 .NET 某市附属医院 Web程序 偶发性CPU爆高分析&nbsp;(一线码农)·&nbsp;Amazing！！CSS 也能实现极光？&nbsp;(ChokCoco)·&nbsp;前端er必须掌握的数据可视化技术&nbsp;(葡萄城技术团队)·&nbsp;误入 GitHub 游戏区，        <a href="https://www.cnblogs.com/cmt/p/15735160.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（12.13-12.19）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/12/20.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/12/20.html"/>
+        <updated>2022-02-18T17:36:13.014Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;Svelte入门——Web Components实现跨框架组件复用（二）&nbsp;(葡萄城技术团队)·&nbsp;用 WinUI 3 开发了一个摸鱼应用&nbsp;(dino.c)·&nbsp;Blazor是春天还是寒风里的挣扎&nbsp;(寻找和谐)·&nbsp;在腾讯这一年，坚守初心持续单纯 | 2021年终总结&nbsp;(wscats)·&nbsp;.        <a href="https://www.cnblogs.com/cmt/p/15709795.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（12.6-12.12）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/12/13.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/12/13.html"/>
+        <updated>2022-02-18T17:36:13.014Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;干了3年程序员，我开窍了&nbsp;(四猿外)·&nbsp;那些年的开源项目，你跑起来了吗？&nbsp;(削微寒)·&nbsp;进去新项目，接手这样的代码怎么办&nbsp;(四叶笔记)·&nbsp;【翻译】.NET 6 中的 dotnet monitor&nbsp;(晓晨Master)·&nbsp;架构与思维：一次缓存雪崩的灾难复盘&nbsp;(翁智华)·&nbsp;记一次 .NE        <a href="https://www.cnblogs.com/cmt/p/15682027.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.29-12.5）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/12/06.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/12/06.html"/>
+        <updated>2022-02-18T17:36:13.016Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;JavaScript Sanitizer API：原生WEB安全API出现啦&nbsp;(葡萄城技术团队)·&nbsp;带团队后的日常思考（六）&nbsp;(咖啡机（K.F.J）)·&nbsp;冬天里的一把火，园子里的一朵云：满园尽是火山引擎&nbsp;(博客园团队)·&nbsp;异或运算的巧用 → 不用额外的变量，如何交换两个变量的值？&nbsp;(        <a href="https://www.cnblogs.com/cmt/p/15648550.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.22-11.28）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/11/29.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/11/29.html"/>
+        <updated>2022-02-18T17:36:13.016Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;Svelte入门——Web Components实现跨框架组件复用&nbsp;(葡萄城技术团队)·&nbsp;（二）工作三年的一些感悟&nbsp;(Craftsman-L)·&nbsp;.NET 百万级 大数据插入、更新 ，支持多种数据库&nbsp;(果糖大数据科技)·&nbsp;被下属骂，记一次矛盾升级——有心无心，蝴蝶效应？&nbsp;(叶小钗)·        <a href="https://www.cnblogs.com/cmt/p/15618114.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.15-11.21）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/11/22.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/11/22.html"/>
+        <updated>2022-02-18T17:36:13.017Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;CPU被挖矿，Redis竟是内鬼！&nbsp;(轩辕之风)·&nbsp;记一次 .NET 某公交卡扣费系统 程序卡死分析&nbsp;(一线码农)·&nbsp;【故障公告】突然猛增的巨量请求冲垮一共92核CPU的k8s集群&nbsp;(博客园团队)·&nbsp;博客园&amp;阿里云联合征文：最难忘的bug&nbsp;(博客园团队)·&nbsp;详解电子表格中的json数        <a href="https://www.cnblogs.com/cmt/p/15587208.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客园&阿里云联合征文：最难忘的bug]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/11/17.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/11/17.html"/>
+        <updated>2022-02-18T17:36:13.018Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+在码不停蹄、键盘间 bug 灰飞烟灭的代码人生中，也许你忘记了写过的代码，忘记了实现过的功能，但总有一些当时让你无助、让你纠结、让你痛苦、让你绝望、让你魂牵梦萦、让你兴奋、让你尖叫、让你如释重负、让你醍醐灌顶、让你会当凌绝顶的修 bug 经历让你终身难忘，让你体会到码场如战场。        <a href="https://www.cnblogs.com/cmt/p/15564119.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】突然猛增的巨量请求冲垮一共92核CPU的k8s集群]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/11/16.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/11/16.html"/>
+        <updated>2022-02-18T17:36:13.019Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+非常抱歉，今天下午2点左右开始，博客站点突然猛增的巨量请求让k8s集群的节点服务器不堪重负，造成网站无法正常访问，由此给您带来麻烦，请您谅解。当时k8s集群一共6台node服务器，2台32核64G，2台8核64G，1台8核16G，1台4核6G，博客站点一共跑了19个pod，如果不是突然猛增的巨量请求，可以稳稳撑住。        <a href="https://www.cnblogs.com/cmt/p/15562022.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.1-11.7）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2021/11/08.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2021/11/08.html"/>
+        <updated>2022-02-18T17:36:13.021Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">
+摘要：            
+热点随笔： ·&nbsp;.NET 生态系统的蜕变之 .NET 6&nbsp;(张善友)·&nbsp;一次fork引发的惨案！&nbsp;(轩辕之风)·&nbsp;OAuth 2.0 的探险之旅&nbsp;(SpringLeee)·&nbsp;理解ASP.NET Core - 文件服务器(File Server)&nbsp;(xiaoxiaotank)·&nbsp;N 种仅仅使用 HTM        <a href="https://www.cnblogs.com/cmt/p/15522874.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
