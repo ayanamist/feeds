@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T17:41:54.892Z</updated>
+    <updated>2022-02-18T05:34:24.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,74 +185,113 @@
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Tim Spann</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TP-LINK XDR6030 v2拆机，高通方案 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18802.html</id>
-        <link href="https://www.acwifi.net/18802.html"/>
-        <updated>2022-02-17T17:41:43.127Z</updated>
-        <content type="html"><![CDATA[外包装是有封膜的，拆之前测试了一下，所以拍照时没有封膜： 模具外壳和包装都跟V1的博通方案是一样的。 电源输出规格是12V/2.5A，实测联网后的待机功率是10.4W： 四个全千兆网口，支持盲插，支持端口自定义。 机身底部： 型号：TL-XDR6030易展版，序列号后面有个版本号...]]></content>
+        <title type="html"><![CDATA[B站基于Iceberg的湖仓一体架构实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15300511</id>
+        <link href="https://www.bilibili.com/read/cv15300511"/>
+        <updated>2022-02-18T05:34:06.293Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15300511" target="_blank" title="作者：OLAP平台背景在B站，每天都有PB级的数据注入到大数据平台，经过离线或实时的ETL建模后，提供给下游的分析、推荐及预测等场景使用。面对如此大规模的数据，如何高效低成本地满足下游数据的分析需求，一直是我们重点的工作方向。我们之前的数据处理流程基本上是这样的：采集端将客户端埋点、服务端埋点、日志、业务数据库等数据收集到HDFS、Kafka等存储系统中，然后通过Hive、Spark、Flink等离线和实时引擎对数据进行ETL处理及数仓建模，数据存储使用ORC列式存储格式，用户可以通过Prest">
+                      作者：OLAP平台背景在B站，每天都有PB级的数据注入到大数据平台，经过离线或实时的ETL建模后，提供给下游的分析、推荐及预测等场景使用。面对如此大规模的数据，如何高效低成本地满足下游数据的分析需求，一直是我们重点的工作方向。我们之前的数据处理流程基本上是这样的：采集端将客户端埋点、服务端埋点、日志、业务数据库等数据收集到HDFS、Kafka等存储系统中，然后通过Hive、Spark、Flink等离线和实时引擎对数据进行ETL处理及数仓建模，数据存储使用ORC列式存储格式，用户可以通过Prest
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米新品红米AX5400上市预售，549元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18790.html</id>
-        <link href="https://www.acwifi.net/18790.html"/>
-        <updated>2022-02-17T17:41:43.129Z</updated>
-        <content type="html"><![CDATA[红米AX5400，上市预售价格599元，支付50元定金抵100元所以是549元。红米AX5400京东预售链接 不错呀，用了全新的模具，可能是要主打RGB灯效，所以重新定制了模具吧。外置四根天线，这样整齐一些，其中有两根是双频天线。我觉得这外观挺好看的，比小米AX3600/AX60...]]></content>
+        <title type="html"><![CDATA[基于 Chrome DevTools + Service Worker 实现移动设备真机远程 PC 调试（Android) (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15286634</id>
+        <link href="https://www.bilibili.com/read/cv15286634"/>
+        <updated>2022-02-18T05:34:06.294Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15286634" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网件RAX50拆机，有点无语 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18746.html</id>
-        <link href="https://www.acwifi.net/18746.html"/>
-        <updated>2022-02-17T17:41:43.131Z</updated>
-        <content type="html"><![CDATA[网件RAX50官翻版，保修一年，在咸鱼买的，不到700元，而全新保2年的要卖1099元，差价比较大。 RAX50的外包装比较好看，但比较容易破损，因为外盒很薄。 我记得有封膜的，我拆机之前已经拿出来开机进行了D点测速和U口测速。所以拆时没见有膜！ 机身和配件： 四根天线是可拆卸的...]]></content>
+        <title type="html"><![CDATA[直播场景下 高并发的热点处理实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15278397</id>
+        <link href="https://www.bilibili.com/read/cv15278397"/>
+        <updated>2022-02-18T05:34:06.294Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278397" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[盛世之环XTR7890拆机，双万兆口 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18681.html</id>
-        <link href="https://www.acwifi.net/18681.html"/>
-        <updated>2022-02-17T17:41:43.133Z</updated>
-        <content type="html"><![CDATA[XTR7890的包装盒很大，就像XVR5400L一样大。 机身和配件 ： 附送的网线是六类；电源输出规格是12V/4A，电源真给力。实测待机功率是12W，插上电口模块和接上10G网口后待机功率是14.5W。 机身圆形底座的直径约28CM： 接口有两组，以下是其一：最左边是10GE...]]></content>
+        <title type="html"><![CDATA[uber automaxprocs 源码分析 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15278182</id>
+        <link href="https://www.bilibili.com/read/cv15278182"/>
+        <updated>2022-02-18T05:34:06.298Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278182" target="_blank" title="来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到">
+                      来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雅典娜收益低就是我的软路由固件问题，各主路由NAT类型汇总 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18671.html</id>
-        <link href="https://www.acwifi.net/18671.html"/>
-        <updated>2022-02-17T17:41:43.139Z</updated>
-        <content type="html"><![CDATA[从日常的上行速率只有二三十KB/s就知道异常，果不其然，一天只有10多积分，一度怀疑这台京东云娜典娜的AP模式有问题，而接在其它路由器下面用AP模式却一点问题都没有。然后分别拿了几款不同型号的无线路由器做主路由，把这台娜典娜以AP模式接入，然后用京东云无线宝APP里面的“一键检测...]]></content>
+        <title type="html"><![CDATA[TypeScript + 元数据映射，实现 JavaScript 运行时类型检查应用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15277935</id>
+        <link href="https://www.bilibili.com/read/cv15277935"/>
+        <updated>2022-02-18T05:34:06.302Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15277935" target="_blank" title="来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp">
+                      来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[网络巡线测线仪TL-CT128增强版开箱 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18655.html</id>
-        <link href="https://www.acwifi.net/18655.html"/>
-        <updated>2022-02-17T17:41:43.140Z</updated>
-        <content type="html"><![CDATA[其实买来已久啦，就上次折腾换光猫时，我测试电话线通不通，就拿普通的测线仪接在光猫的电话口上，然后就挂了。工具烂了，总要买过个吧，群里有人说TP的巡线仪这东西好用，就是有些贵，200多元。我在咸鱼找了一篇要230左右，京东要250多元，差价这么小，当然选京东了。 TL-CT128增...]]></content>
+        <title type="html"><![CDATA[谈谈生产者消费者模式前端侧应用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15275957</id>
+        <link href="https://www.bilibili.com/read/cv15275957"/>
+        <updated>2022-02-18T05:34:06.302Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15275957" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[京东云无线宝AX6600雅典娜拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18599.html</id>
-        <link href="https://www.acwifi.net/18599.html"/>
-        <updated>2022-02-17T17:41:43.146Z</updated>
-        <content type="html"><![CDATA[京东云无线宝AX6600雅典娜，这是京东云的第一款三频Wi-Fi 6无线路由器吧？不说那么多，拆了再说。 外包装： 打开包装取出机身： 机身和配件？ 电源有点像华硕的。输出规格是12V/3A，实测待机功率是12W，三频嘛，功耗是高一些。如果你只想挖豆，可以把三频无线全部关了，会下...]]></content>
+        <title type="html"><![CDATA[B站会员购携手HMS Core AR Engine，构建立体世界、打造沉浸式营销 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15199068</id>
+        <link href="https://www.bilibili.com/read/cv15199068"/>
+        <updated>2022-02-18T05:34:06.304Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15199068" target="_blank" title="文章来源于华为开发者联盟服务，作者华为开发者联盟随着购物场景的逐渐多元化，越来越多电商平台把线下购物体验搬到线上，运用AR技术，跨越空间距离，帮助用户在购买前“体验”商品，增强购买意愿。哔哩哔哩会员购HMS Core AR Engine哔哩哔哩会员购（后称会员购）是2017年推出的IP消费体验服务平台。为了让广大用户能够真实感受到衍生品商品的细节，平台从今年开始结合AR特效，模拟衍生品与真实场景的交互，打造沉浸式营销，唤起粉丝群体的文化共鸣。携手HMS Core AR Engine开启衍生品特效">
+                      文章来源于华为开发者联盟服务，作者华为开发者联盟随着购物场景的逐渐多元化，越来越多电商平台把线下购物体验搬到线上，运用AR技术，跨越空间距离，帮助用户在购买前“体验”商品，增强购买意愿。哔哩哔哩会员购HMS Core AR Engine哔哩哔哩会员购（后称会员购）是2017年推出的IP消费体验服务平台。为了让广大用户能够真实感受到衍生品商品的细节，平台从今年开始结合AR特效，模拟衍生品与真实场景的交互，打造沉浸式营销，唤起粉丝群体的文化共鸣。携手HMS Core AR Engine开启衍生品特效
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[品速R200 5G CPE路由器拆机，精致小巧真香 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18544.html</id>
-        <link href="https://www.acwifi.net/18544.html"/>
-        <updated>2022-02-17T17:41:43.146Z</updated>
-        <content type="html"><![CDATA[品速R200 5G CPE路由器，以下简称R200，目前市场1999元。是品速的第一款机型，主打让网络脱离网线的束缚，让用户自由自在。 整机有主机、适配器、说明书、合格证、保修卡、入网许可证， 这个有网线，有网线！有网线！！（破音）。 电源输出规格是12V/1.5A，正常工作功率...]]></content>
+        <title type="html"><![CDATA[B站开源自研动漫超分辨率模型，
+助力动漫UGC视频高清化 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15031073</id>
+        <link href="https://www.bilibili.com/read/cv15031073"/>
+        <updated>2022-02-18T05:34:06.305Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15031073" target="_blank" title="人类在不断追求视频画质的极致体验，从马赛克到高清，从720P到4K，各个视频平台也在不断提升自身画质以满足用户的需求，但目前各大视频平台的超高清内容还不是很多，其关键在于超高清视频的制作难度远超普通视频，对设备以及后期技术有一定的要求，这些也为视频内容贡献者带来了很大的阻碍。4K/8K内容缺乏始终是超高清视频产业发展的痛点，完善渠道、拍摄制作水平、技术等方面的不足是关键。随着软硬件能力的提升，4K的消费能力大幅提高，为了应对这种情况，需要提高4K的生产能力。除了新拍4K以外，超分4K是一个很好的">
+                      人类在不断追求视频画质的极致体验，从马赛克到高清，从720P到4K，各个视频平台也在不断提升自身画质以满足用户的需求，但目前各大视频平台的超高清内容还不是很多，其关键在于超高清视频的制作难度远超普通视频，对设备以及后期技术有一定的要求，这些也为视频内容贡献者带来了很大的阻碍。4K/8K内容缺乏始终是超高清视频产业发展的痛点，完善渠道、拍摄制作水平、技术等方面的不足是关键。随着软硬件能力的提升，4K的消费能力大幅提高，为了应对这种情况，需要提高4K的生产能力。除了新拍4K以外，超分4K是一个很好的
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为TC7102拆机，免费的东西就是香 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18510.html</id>
-        <link href="https://www.acwifi.net/18510.html"/>
-        <updated>2022-02-17T17:41:43.147Z</updated>
-        <content type="html"><![CDATA[电信免费升级千兆，你们打客服电话问过没有，别浪费了！&nbsp; 这台华为TC7102是升级千兆宽带时免费送的。 外包装： 取出机身和配件来： 电源输出规格是12V/1A，忘记看待机功率了，跟华为AX3差不多。 带有硬朗线条的侧面，呈现出一个七字，我本人不太喜欢单独一个七字。 机身背面接口...]]></content>
+        <title type="html"><![CDATA[我们为什么要做HDR10 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv7791059</id>
+        <link href="https://www.bilibili.com/read/cv7791059"/>
+        <updated>2022-02-18T05:34:06.306Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv7791059" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XDR6020拆机，MTK第一款AX6000也是最便宜的。（Filogic 830方案） (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/18464.html</id>
-        <link href="https://www.acwifi.net/18464.html"/>
-        <updated>2022-02-17T17:41:43.148Z</updated>
-        <content type="html"><![CDATA[XDR6020是目前最便宜的AX6000机型呀，499元！也是MTK的第一款AX6000机型，可以让市场不那么乏味，多一些产品选择对用户来说是大有好处。 XDR6020的外包装： 有封膜的： 到出东西来： 外壳和包装跟XDR6030是一样的。 电源输出规格是12V/2A，实测待机...]]></content>
+        <title type="html"><![CDATA[为你详解和4K有关的技术细节 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv5843808</id>
+        <link href="https://www.bilibili.com/read/cv5843808"/>
+        <updated>2022-02-18T05:34:06.307Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv5843808" target="_blank" title="前言我们在科技资讯以及电脑显示器、数字电视等电子产品的宣传语中，经常能够看⻅ 4K 的字样。最近， B 站(哔哩哔哩)升级了 HTML5 播放器和视频云等相关服务，为广大用户提供了超高清(UHD: Ultra High Definition)的视频体验。借此机会，我们向大家科普下 4K 分辨率的相关知识，同时解答下大家 可能会遇到的相关疑问。什么是 4K?4K 分辨率，或简称 4K(Kilo)，是指显示设备或显示内容的水平分辨率在 4000 像素左右。达到 4K 分辨率的视频，我们称之为 4K">
+                      前言我们在科技资讯以及电脑显示器、数字电视等电子产品的宣传语中，经常能够看⻅ 4K 的字样。最近， B 站(哔哩哔哩)升级了 HTML5 播放器和视频云等相关服务，为广大用户提供了超高清(UHD: Ultra High Definition)的视频体验。借此机会，我们向大家科普下 4K 分辨率的相关知识，同时解答下大家 可能会遇到的相关疑问。什么是 4K?4K 分辨率，或简称 4K(Kilo)，是指显示设备或显示内容的水平分辨率在 4000 像素左右。达到 4K 分辨率的视频，我们称之为 4K
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[方案设计和选型中的思考 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv5440964</id>
+        <link href="https://www.bilibili.com/read/cv5440964"/>
+        <updated>2022-02-18T05:34:06.307Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv5440964" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bilibili app IOS音画同步问题是如何解决的？ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv4093523</id>
+        <link href="https://www.bilibili.com/read/cv4093523"/>
+        <updated>2022-02-18T05:34:06.308Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv4093523" target="_blank" title="前段时间陆续收到一些舞区UP主和观众姥爷的反馈，表示舞区部分视频有细微的音画不同步。小编第一时间找到多位技术小哥哥确认，但是均表示看不出音画不同步。我们的技术小哥哥是不可能认输的，既然观众姥爷们和UP主反馈，那么肯定存在问题。经过调查，技术小哥哥怀疑是我们对iOS 系统的音频延时评估不准导致的，通俗的讲，我们希望对应的音频和视频能同时被展示，但是iOS音频模块，底层有缓冲区，造成了输出延时，也就是说，写入音频数据需要经过一段时间才能被用户听见，视频则没有这个问题，正常情况写入系统的视频数据，16">
+                      前段时间陆续收到一些舞区UP主和观众姥爷的反馈，表示舞区部分视频有细微的音画不同步。小编第一时间找到多位技术小哥哥确认，但是均表示看不出音画不同步。我们的技术小哥哥是不可能认输的，既然观众姥爷们和UP主反馈，那么肯定存在问题。经过调查，技术小哥哥怀疑是我们对iOS 系统的音频延时评估不准导致的，通俗的讲，我们希望对应的音频和视频能同时被展示，但是iOS音频模块，底层有缓冲区，造成了输出延时，也就是说，写入音频数据需要经过一段时间才能被用户听见，视频则没有这个问题，正常情况写入系统的视频数据，16
+                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（2.7-2.13） (博客园官方博客)]]></title>
@@ -344,106 +383,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc">
 摘要：            
 热点随笔： ·&nbsp;电子表格实战锦囊:巧用稀疏数组是关键!&nbsp;(葡萄城技术团队)·&nbsp;突破技术限制，实现Web端静默打印&nbsp;(葡萄城技术团队)·&nbsp;C# 编写 Windows 动态桌面软件实现（一）之桌面交互功能&nbsp;(he55)·&nbsp;记一次引入Elasticsearch的系统架构实战&nbsp;(陈珙)·&nbsp;35岁大龄程序员转        <a href="https://www.cnblogs.com/cmt/p/15759004.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（12.20-12.26） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/12/27.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/12/27.html"/>
-        <updated>2022-02-17T17:41:54.144Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;一个忙秃头程序媛的 2021 年总结&nbsp;(前端人)·&nbsp;记一次 .NET 某市附属医院 Web程序 偶发性CPU爆高分析&nbsp;(一线码农)·&nbsp;Amazing！！CSS 也能实现极光？&nbsp;(ChokCoco)·&nbsp;前端er必须掌握的数据可视化技术&nbsp;(葡萄城技术团队)·&nbsp;误入 GitHub 游戏区，        <a href="https://www.cnblogs.com/cmt/p/15735160.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（12.13-12.19） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/12/20.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/12/20.html"/>
-        <updated>2022-02-17T17:41:54.145Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;Svelte入门——Web Components实现跨框架组件复用（二）&nbsp;(葡萄城技术团队)·&nbsp;用 WinUI 3 开发了一个摸鱼应用&nbsp;(dino.c)·&nbsp;Blazor是春天还是寒风里的挣扎&nbsp;(寻找和谐)·&nbsp;在腾讯这一年，坚守初心持续单纯 | 2021年终总结&nbsp;(wscats)·&nbsp;.        <a href="https://www.cnblogs.com/cmt/p/15709795.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（12.6-12.12） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/12/13.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/12/13.html"/>
-        <updated>2022-02-17T17:41:54.147Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;干了3年程序员，我开窍了&nbsp;(四猿外)·&nbsp;那些年的开源项目，你跑起来了吗？&nbsp;(削微寒)·&nbsp;进去新项目，接手这样的代码怎么办&nbsp;(四叶笔记)·&nbsp;【翻译】.NET 6 中的 dotnet monitor&nbsp;(晓晨Master)·&nbsp;架构与思维：一次缓存雪崩的灾难复盘&nbsp;(翁智华)·&nbsp;记一次 .NE        <a href="https://www.cnblogs.com/cmt/p/15682027.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.29-12.5） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/12/06.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/12/06.html"/>
-        <updated>2022-02-17T17:41:54.149Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;JavaScript Sanitizer API：原生WEB安全API出现啦&nbsp;(葡萄城技术团队)·&nbsp;带团队后的日常思考（六）&nbsp;(咖啡机（K.F.J）)·&nbsp;冬天里的一把火，园子里的一朵云：满园尽是火山引擎&nbsp;(博客园团队)·&nbsp;异或运算的巧用 → 不用额外的变量，如何交换两个变量的值？&nbsp;(        <a href="https://www.cnblogs.com/cmt/p/15648550.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.22-11.28） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/29.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/29.html"/>
-        <updated>2022-02-17T17:41:54.151Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;Svelte入门——Web Components实现跨框架组件复用&nbsp;(葡萄城技术团队)·&nbsp;（二）工作三年的一些感悟&nbsp;(Craftsman-L)·&nbsp;.NET 百万级 大数据插入、更新 ，支持多种数据库&nbsp;(果糖大数据科技)·&nbsp;被下属骂，记一次矛盾升级——有心无心，蝴蝶效应？&nbsp;(叶小钗)·        <a href="https://www.cnblogs.com/cmt/p/15618114.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.15-11.21） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/22.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/22.html"/>
-        <updated>2022-02-17T17:41:54.154Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;CPU被挖矿，Redis竟是内鬼！&nbsp;(轩辕之风)·&nbsp;记一次 .NET 某公交卡扣费系统 程序卡死分析&nbsp;(一线码农)·&nbsp;【故障公告】突然猛增的巨量请求冲垮一共92核CPU的k8s集群&nbsp;(博客园团队)·&nbsp;博客园&amp;阿里云联合征文：最难忘的bug&nbsp;(博客园团队)·&nbsp;详解电子表格中的json数        <a href="https://www.cnblogs.com/cmt/p/15587208.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客园&阿里云联合征文：最难忘的bug (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/17.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/17.html"/>
-        <updated>2022-02-17T17:41:54.156Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-在码不停蹄、键盘间 bug 灰飞烟灭的代码人生中，也许你忘记了写过的代码，忘记了实现过的功能，但总有一些当时让你无助、让你纠结、让你痛苦、让你绝望、让你魂牵梦萦、让你兴奋、让你尖叫、让你如释重负、让你醍醐灌顶、让你会当凌绝顶的修 bug 经历让你终身难忘，让你体会到码场如战场。        <a href="https://www.cnblogs.com/cmt/p/15564119.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】突然猛增的巨量请求冲垮一共92核CPU的k8s集群 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/16.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/16.html"/>
-        <updated>2022-02-17T17:41:54.158Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-非常抱歉，今天下午2点左右开始，博客站点突然猛增的巨量请求让k8s集群的节点服务器不堪重负，造成网站无法正常访问，由此给您带来麻烦，请您谅解。当时k8s集群一共6台node服务器，2台32核64G，2台8核64G，1台8核16G，1台4核6G，博客站点一共跑了19个pod，如果不是突然猛增的巨量请求，可以稳稳撑住。        <a href="https://www.cnblogs.com/cmt/p/15562022.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.1-11.7） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/08.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/08.html"/>
-        <updated>2022-02-17T17:41:54.159Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;.NET 生态系统的蜕变之 .NET 6&nbsp;(张善友)·&nbsp;一次fork引发的惨案！&nbsp;(轩辕之风)·&nbsp;OAuth 2.0 的探险之旅&nbsp;(SpringLeee)·&nbsp;理解ASP.NET Core - 文件服务器(File Server)&nbsp;(xiaoxiaotank)·&nbsp;N 种仅仅使用 HTM        <a href="https://www.cnblogs.com/cmt/p/15522874.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（10.25-10.31） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2021/11/01.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2021/11/01.html"/>
-        <updated>2022-02-17T17:41:54.169Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc">
-摘要：            
-热点随笔： ·&nbsp;带团队后的日常思考（五）&nbsp;(咖啡机（K.F.J）)·&nbsp;1024 写给程序员的一些建议&nbsp;(—阿辉)·&nbsp;灵光一闪！帮你使用Vue，搞定无法解决的“动态挂载”&nbsp;(葡萄城技术团队)·&nbsp;当项目经理让我负责数据展示功能开发，我的内心为什么是拒绝的？&nbsp;(葡萄城技术团队)·&nbsp;在 ASP.NET Co        <a href="https://www.cnblogs.com/cmt/p/15492137.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
