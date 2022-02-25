@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T17:37:03.651Z</updated>
+    <updated>2022-02-25T05:34:11.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -183,6 +183,114 @@
           </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             November 17, 2021
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Tim Spann</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站开源一种Web服务的网络性能调试工具 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15412900</id>
+        <link href="https://www.bilibili.com/read/cv15412900"/>
+        <updated>2022-02-25T05:33:52.731Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15412900" target="_blank" title="作者：视频云团队项目背景现如今,无论是即时消息,音视频流传输,还是移动应用, 使用HTTP网络协议的服务无处不在。HTTP的性能表现对网络服务的质量和用户的使用体验都有着至关重要的影响。随着技术的进步，包括HTTP的应用的更新、HTTP协议版本的迭代以及拥塞控制算法层面的改进，都不断地推动HTTP性能的提升。对开发者来说，如何有效地调试和评估HTTP网络服务也成为其关心的话题之一。Record and Replay即记录和重放，是一种辅助调试应用程序和改善性能的有效手段，对于调试HTTP网络服务">
+                      作者：视频云团队项目背景现如今,无论是即时消息,音视频流传输,还是移动应用, 使用HTTP网络协议的服务无处不在。HTTP的性能表现对网络服务的质量和用户的使用体验都有着至关重要的影响。随着技术的进步，包括HTTP的应用的更新、HTTP协议版本的迭代以及拥塞控制算法层面的改进，都不断地推动HTTP性能的提升。对开发者来说，如何有效地调试和评估HTTP网络服务也成为其关心的话题之一。Record and Replay即记录和重放，是一种辅助调试应用程序和改善性能的有效手段，对于调试HTTP网络服务
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【图说安全】解读上海公共互联网网络安全信息通报规范要求 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15402302</id>
+        <link href="https://www.bilibili.com/read/cv15402302"/>
+        <updated>2022-02-25T05:33:52.732Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15402302" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2019-05-30 16:47】为加强维护上海市公共网络的安全运行，健全公共互联网领域网络安全监测预警和信息通报制度，切实做好新中国成立70周年大庆、中国国际进口博览会等各项网络安全保障工作，上海市通信管理局依据网络安全法、公共互联网网络安全威胁监测与处置办法、上海市公共互联网网络安午安突发事件应急预案，日前印发了《关于规范和加强本市公共互联网网络安全监测预警和信息通报工作的通知》，主要内容包括建立网络安全工作情况月度报送工作机">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2019-05-30 16:47】为加强维护上海市公共网络的安全运行，健全公共互联网领域网络安全监测预警和信息通报制度，切实做好新中国成立70周年大庆、中国国际进口博览会等各项网络安全保障工作，上海市通信管理局依据网络安全法、公共互联网网络安全威胁监测与处置办法、上海市公共互联网网络安午安突发事件应急预案，日前印发了《关于规范和加强本市公共互联网网络安全监测预警和信息通报工作的通知》，主要内容包括建立网络安全工作情况月度报送工作机
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【图说安全】上海公共互联网网络安全态势（2019年一季度） (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15402222</id>
+        <link href="https://www.bilibili.com/read/cv15402222"/>
+        <updated>2022-02-25T05:33:52.733Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15402222" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2019-05-07 11:57】根据《网络安全法》《公共互联网网络安全突发事件应急预案》等法律法规，上海市通信管理局负责组织、指挥、协调上海地区公共互联网网络安全突发事件的预防、监测、报告和应急处置工作。日前，市通信管理局发布报告，分析2019年一季度上海公共互联网网络安全态势。其中，对2019年第一季度上海市网络流量进行了统计；对公共互联网网络安全态势，主要包括传统公共网络威胁、移动互联网安全、工业互联网安全三大方面进行了统计">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2019-05-07 11:57】根据《网络安全法》《公共互联网网络安全突发事件应急预案》等法律法规，上海市通信管理局负责组织、指挥、协调上海地区公共互联网网络安全突发事件的预防、监测、报告和应急处置工作。日前，市通信管理局发布报告，分析2019年一季度上海公共互联网网络安全态势。其中，对2019年第一季度上海市网络流量进行了统计；对公共互联网网络安全态势，主要包括传统公共网络威胁、移动互联网安全、工业互联网安全三大方面进行了统计
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastOrder - Dota2 solo AI 介绍 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15402075</id>
+        <link href="https://www.bilibili.com/read/cv15402075"/>
+        <updated>2022-02-25T05:33:52.739Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15402075" target="_blank" title="来自【小电视实验室】内容整合背景在一年半前参加了AIIDE的StarCraft AI Competition之后[1]，我们发现虽然深度强化学习(DRL)的方式对于StarCraft的宏观动作是有改进的，但LastOrder（我们AI的名字）整体的机能还是和一般玩家的水平有差距。总结下来主要是两方面的问题：在StarCraft上，模型只能控制宏观动作，微操动作仍然由代码逻辑控制，而这部分能力固化，且并不能学习和改进，进而限制了整体的能力和固定一批对手的训练方式，虽然可以在训练集上得到比较好的效果">
+                      来自【小电视实验室】内容整合背景在一年半前参加了AIIDE的StarCraft AI Competition之后[1]，我们发现虽然深度强化学习(DRL)的方式对于StarCraft的宏观动作是有改进的，但LastOrder（我们AI的名字）整体的机能还是和一般玩家的水平有差距。总结下来主要是两方面的问题：在StarCraft上，模型只能控制宏观动作，微操动作仍然由代码逻辑控制，而这部分能力固化，且并不能学习和改进，进而限制了整体的能力和固定一批对手的训练方式，虽然可以在训练集上得到比较好的效果
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动画弹幕蒙版功能测试以及方法介绍 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15401229</id>
+        <link href="https://www.bilibili.com/read/cv15401229"/>
+        <updated>2022-02-25T05:33:52.740Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15401229" target="_blank" title="来自【小电视实验室】内容整合背景        弹幕是社区文化的重要体现之一，但是随着视频中弹幕的堆积，视频内容尤其是其中的人物形象往往不能被清晰的看到。为了优化用户观看视频的综合体验，我们通计算机视觉相关技术，设计了「弹幕蒙版」这一功能，希望用户在观看弹幕视频时能够获得一种平衡的观看体验。        目前该功能已经应用在很多真人场景的视频中（如AV10048895），但是在动画内容中暂未落地，原因有二： 动画人物和真人的视觉特征有明显区别，而且因为画风不同，不同动画人物之间的视觉特征亦有明">
+                      来自【小电视实验室】内容整合背景        弹幕是社区文化的重要体现之一，但是随着视频中弹幕的堆积，视频内容尤其是其中的人物形象往往不能被清晰的看到。为了优化用户观看视频的综合体验，我们通计算机视觉相关技术，设计了「弹幕蒙版」这一功能，希望用户在观看弹幕视频时能够获得一种平衡的观看体验。        目前该功能已经应用在很多真人场景的视频中（如AV10048895），但是在动画内容中暂未落地，原因有二： 动画人物和真人的视觉特征有明显区别，而且因为画风不同，不同动画人物之间的视觉特征亦有明
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站取数服务演进之路 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15317664</id>
+        <link href="https://www.bilibili.com/read/cv15317664"/>
+        <updated>2022-02-25T05:33:52.741Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15317664" target="_blank" title="作者：数据平台上一篇我们介绍了B站基于Iceberg的湖仓一体架构实践，本篇我们将继续介绍B站在取数服务方向的演进之路，这也是湖仓一体架构的实践的重要表现方式。1. 引言数据平台部作为B站的基础部门，为B站各业务方提供多种数据服务，如BI分析平台，ABTest平台，画像服务，流量分析平台等等，这些服务、平台背后都有海量数据的取数查询需求。伴随着业务的发展，取数服务也面临越来越多的挑战：  需求多、人力紧张，越来越多业务基于数据驱动来做运营，相关的取数需求如：指标查询、UP主、稿件等明细数据的个性">
+                      作者：数据平台上一篇我们介绍了B站基于Iceberg的湖仓一体架构实践，本篇我们将继续介绍B站在取数服务方向的演进之路，这也是湖仓一体架构的实践的重要表现方式。1. 引言数据平台部作为B站的基础部门，为B站各业务方提供多种数据服务，如BI分析平台，ABTest平台，画像服务，流量分析平台等等，这些服务、平台背后都有海量数据的取数查询需求。伴随着业务的发展，取数服务也面临越来越多的挑战：  需求多、人力紧张，越来越多业务基于数据驱动来做运营，相关的取数需求如：指标查询、UP主、稿件等明细数据的个性
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站基于Iceberg的湖仓一体架构实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15300511</id>
+        <link href="https://www.bilibili.com/read/cv15300511"/>
+        <updated>2022-02-25T05:33:52.741Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15300511" target="_blank" title="作者：OLAP平台背景在B站，每天都有PB级的数据注入到大数据平台，经过离线或实时的ETL建模后，提供给下游的分析、推荐及预测等场景使用。面对如此大规模的数据，如何高效低成本地满足下游数据的分析需求，一直是我们重点的工作方向。我们之前的数据处理流程基本上是这样的：采集端将客户端埋点、服务端埋点、日志、业务数据库等数据收集到HDFS、Kafka等存储系统中，然后通过Hive、Spark、Flink等离线和实时引擎对数据进行ETL处理及数仓建模，数据存储使用ORC列式存储格式，用户可以通过Prest">
+                      作者：OLAP平台背景在B站，每天都有PB级的数据注入到大数据平台，经过离线或实时的ETL建模后，提供给下游的分析、推荐及预测等场景使用。面对如此大规模的数据，如何高效低成本地满足下游数据的分析需求，一直是我们重点的工作方向。我们之前的数据处理流程基本上是这样的：采集端将客户端埋点、服务端埋点、日志、业务数据库等数据收集到HDFS、Kafka等存储系统中，然后通过Hive、Spark、Flink等离线和实时引擎对数据进行ETL处理及数仓建模，数据存储使用ORC列式存储格式，用户可以通过Prest
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Chrome DevTools + Service Worker 实现移动设备真机远程 PC 调试（Android) (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15286634</id>
+        <link href="https://www.bilibili.com/read/cv15286634"/>
+        <updated>2022-02-25T05:33:52.742Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15286634" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播场景下 高并发的热点处理实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15278397</id>
+        <link href="https://www.bilibili.com/read/cv15278397"/>
+        <updated>2022-02-25T05:33:52.742Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278397" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uber automaxprocs 源码分析 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15278182</id>
+        <link href="https://www.bilibili.com/read/cv15278182"/>
+        <updated>2022-02-25T05:33:52.743Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15278182" target="_blank" title="来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到">
+                      来自【B站直播技术】内容整合直播内部的 golang 服务都使用了 uber 出品的 automaxpROCs 这个库。据同事 ice 说，这个库解决了一个困扰B站golang（container）技术栈好一段时间的问题。出于好奇这个库到底做了什么 magic，能够解决这个持续了一年多的 pain in the ass，抽了一点时间，稍微翻了一下库的源代码，记录如下。不过在进入正题前，先简单阐述一下此前遇到的问题。背景docker 这种容器化部署逐渐在各家互联网公司中兴起，配合微服务架构可以做到
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript + 元数据映射，实现 JavaScript 运行时类型检查应用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15277935</id>
+        <link href="https://www.bilibili.com/read/cv15277935"/>
+        <updated>2022-02-25T05:33:52.744Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15277935" target="_blank" title="来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp">
+                      来自【B站直播技术】内容整合我们都知道，JavaScript 在设计之初就是一门弱类型语言。类型间允许隐式转换的特性，在给我们更高自由度的同时，也给开发过程带来了许多不可预估的风险。当开发者要验证某一参数的类型正确时，通常可以通过像 typeof 或 instanceof 等方法获取其运行时的参数类型。根据 MDN 文档的介绍，目前 typeof 支持以下多种类型判断：这些基本类型可以满足大部分业务场景的类型校验需要，或者，我们也可以使用 instanceof 来检查构造函数的 prototyp
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈生产者消费者模式前端侧应用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15275957</id>
+        <link href="https://www.bilibili.com/read/cv15275957"/>
+        <updated>2022-02-25T05:33:52.745Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15275957" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】1个存储过程拖垮整个数据库 (博客园官方博客)]]></title>
