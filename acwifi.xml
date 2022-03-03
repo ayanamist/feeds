@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-03T05:53:54.375Z</updated>
+    <updated>2022-03-03T17:42:32.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[R86S软路由拆机和小包测试]]></title>
-        <id>https://www.acwifi.net/18930.html</id>
-        <link href="https://www.acwifi.net/18930.html"/>
-        <updated>2022-03-02T17:44:05.079Z</updated>
-        <content type="html"><![CDATA[一款minipc主机，它的外包装： &nbsp; 型号是R86S，有多种配置，我这台是8G+128G的NFME版本，CPU是N5105，价格1300多。 打开包装： 取出机身和配件： 配的电源输出规格是12V/4A。待机功率可以看后面的小包测试。 主机很小，大约是12x8cm： ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一款适用于小米路由/智能家居的电源12V/2.5A]]></title>
-        <id>https://www.acwifi.net/19031.html</id>
-        <link href="https://www.acwifi.net/19031.html"/>
-        <updated>2022-03-02T17:44:05.081Z</updated>
-        <content type="html"><![CDATA[这款电源我在闲鱼收来，单个10.4元不包邮（二手），因为不包邮所以我一次买了3个​。平时我是通过转接头转在网件12V/3.5A上来接小米的路由器，不太喜欢拆开原装电源，用完还要收起来塞回包装里。 这款电源不是小米原配，是联想的，不知用在什么产品上，只知道DC头的规格就是小米所用的...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KL600拆机]]></title>
-        <id>https://www.acwifi.net/18980.html</id>
-        <link href="https://www.acwifi.net/18980.html"/>
-        <updated>2022-03-02T17:44:05.081Z</updated>
-        <content type="html"><![CDATA[KL600是中国移动的定制机，无线规格是AX3000，全新价格139元，PDD购入，拆开看看值不值。 外包装： 有没有觉得背景很纯清？ 我换了新的背景布啦，20多元，肉痛。 包装盒底部标准的产品信息： 厂家是山东卡尔电气，所以叫它做卡尔KL600还是中国移动KL600呢？ 就简单...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米CR880888888888888888888888888888888拆机]]></title>
-        <id>https://www.acwifi.net/18938.html</id>
-        <link href="https://www.acwifi.net/18938.html"/>
-        <updated>2022-03-02T17:44:05.081Z</updated>
-        <content type="html"><![CDATA[小米CR8808，吉利过吉利的型号，从PDD买入，价格185元包邮，全新没拆款的，不是二手。贵在AX3000，如果是AX1800这个价格就贵了，希望以后卖的人多，价格会降一些。 小米CR8808的外包装： 透明胶布封口： &nbsp; 打开包装： 取出路由器和配件 ： 电源输出规...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX5400待解决的三个BUG]]></title>
-        <id>https://www.acwifi.net/18917.html</id>
-        <link href="https://www.acwifi.net/18917.html"/>
-        <updated>2022-03-02T17:44:05.081Z</updated>
-        <content type="html"><![CDATA[其实不解决也行，我只是说说。 第一个BGU：开了双WAN就没有了2.5G LAN口可用。 这个问题在之前的拆机和简单测试时均说过了，我也不理解为啥会样，这个双WAN的端口选择最好后交给用户自己选择，就不算不能让用户选择，你也可以固定到LAN1和LAN4嘛，为啥是1和4？&nbsp; 因为双...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX5400拆机，没1G瓶颈啦]]></title>
-        <id>https://www.acwifi.net/18859.html</id>
-        <link href="https://www.acwifi.net/18859.html"/>
-        <updated>2022-03-02T17:44:05.083Z</updated>
-        <content type="html"><![CDATA[拆机之前已经简单地测试了一下，本身有封膜的。红米AX5400的外包装比较好看： 包装背面： 机身和配件 ： 电源输出规格是12V/2A，实测待机功率是8.6W左右。 这款红米AX5400拿在手上很沉，估计用了很大的散热器。它有的前脸有RGB效，所以我拿了移动电源接上电拍照给你们看...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX5400 D点测速、小包和LAN口瓶颈测试]]></title>
-        <id>https://www.acwifi.net/18840.html</id>
-        <link href="https://www.acwifi.net/18840.html"/>
-        <updated>2022-03-02T17:44:05.084Z</updated>
-        <content type="html"><![CDATA[傍晚京东快递小哥把红米AX5400送到，我晚上都不会进行拆机的，因为光线问题，光线是照片的灵魂。但群友建议先测D点和一些端口测试。 整台路由器的手感很重，实物我都还没有拍照。 因为是IPQ5018的CPU所以呢，小包转发性能应该跟小米AX6000一样的，但实测下来是不一样的，跟T...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK XDR6030 v2拆机，高通方案]]></title>
-        <id>https://www.acwifi.net/18802.html</id>
-        <link href="https://www.acwifi.net/18802.html"/>
-        <updated>2022-03-02T17:44:05.088Z</updated>
-        <content type="html"><![CDATA[外包装是有封膜的，拆之前测试了一下，所以拍照时没有封膜： 模具外壳和包装都跟V1的博通方案是一样的。 电源输出规格是12V/2.5A，实测联网后的待机功率是10.4W： 四个全千兆网口，支持盲插，支持端口自定义。 机身底部： 型号：TL-XDR6030易展版，序列号后面有个版本号...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米新品红米AX5400上市预售，549元]]></title>
-        <id>https://www.acwifi.net/18790.html</id>
-        <link href="https://www.acwifi.net/18790.html"/>
-        <updated>2022-03-02T17:44:05.089Z</updated>
-        <content type="html"><![CDATA[红米AX5400，上市预售价格599元，支付50元定金抵100元所以是549元。红米AX5400京东预售链接 不错呀，用了全新的模具，可能是要主打RGB灯效，所以重新定制了模具吧。外置四根天线，这样整齐一些，其中有两根是双频天线。我觉得这外观挺好看的，比小米AX3600/AX60...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网件RAX50拆机，有点无语]]></title>
-        <id>https://www.acwifi.net/18746.html</id>
-        <link href="https://www.acwifi.net/18746.html"/>
-        <updated>2022-03-02T17:44:05.091Z</updated>
-        <content type="html"><![CDATA[网件RAX50官翻版，保修一年，在咸鱼买的，不到700元，而全新保2年的要卖1099元，差价比较大。 RAX50的外包装比较好看，但比较容易破损，因为外盒很薄。 我记得有封膜的，我拆机之前已经拿出来开机进行了D点测速和U口测速。所以拆时没见有膜！ 机身和配件： 四根天线是可拆卸的...]]></content>
-    </entry>
 </feed>
