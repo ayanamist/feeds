@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://space.bilibili.com/393183630/article</id>
     <title>幻电物业 - B站技术中心</title>
-    <updated>2022-03-05T05:34:32.070Z</updated>
+    <updated>2022-03-05T17:35:40.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://space.bilibili.com/393183630/favicon.ico</icon>
     <entry>
@@ -100,8 +100,8 @@
         <id>https://www.bilibili.com/read/cv15473554</id>
         <link href="https://www.bilibili.com/read/cv15473554"/>
         <updated>2022-03-05T05:34:05.665Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15473554" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15473554" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
                     </a>]]></content>
     </entry>
     <entry>
