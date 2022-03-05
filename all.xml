@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T17:37:44.431Z</updated>
+    <updated>2022-03-05T05:34:32.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -183,6 +183,184 @@
           </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             November 17, 2021
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Tim Spann</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[redis getshell姿势总结 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15518168</id>
+        <link href="https://www.bilibili.com/read/cv15518168"/>
+        <updated>2022-03-05T05:34:05.647Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15518168" target="_blank" title="1.redis简介  redis是一个使用C语言编写，开源高性能非关系型的键值对存储系统，和memcached类似，在企业中一般被当作缓存中间件使用，典型的应用场景如秒杀活动、热点数据缓存和分布式锁等。  redis按操作系统可分为linux和windows两类，其中持续更新的是linux版本（https://github.com/redis/redis，已更新到6.0.9版本），windows版本已有较长时间未更新（https://github.com/microsoftarchive/red">
+                      1.redis简介  redis是一个使用C语言编写，开源高性能非关系型的键值对存储系统，和memcached类似，在企业中一般被当作缓存中间件使用，典型的应用场景如秒杀活动、热点数据缓存和分布式锁等。  redis按操作系统可分为linux和windows两类，其中持续更新的是linux版本（https://github.com/redis/redis，已更新到6.0.9版本），windows版本已有较长时间未更新（https://github.com/microsoftarchive/red
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APP隐私安全浅谈 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15518025</id>
+        <link href="https://www.bilibili.com/read/cv15518025"/>
+        <updated>2022-03-05T05:34:05.651Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15518025" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-01-27 12:35】1.隐私数据是什么   个人可标识数据（PII）：如社会安全号码，数据组合（如名字+出生日期或姓氏+邮政编码）或用户生成的数据（如电子邮件或用户名，如bywang@thoughtworks.com），手机号。·         健康信息·         财务数据（如信用卡号）·         密码·         IP地址：IP地址也有可能是个人隐私数据，尤其是与个人可标识数据与其有某种绑定">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-01-27 12:35】1.隐私数据是什么   个人可标识数据（PII）：如社会安全号码，数据组合（如名字+出生日期或姓氏+邮政编码）或用户生成的数据（如电子邮件或用户名，如bywang@thoughtworks.com），手机号。·         健康信息·         财务数据（如信用卡号）·         密码·         IP地址：IP地址也有可能是个人隐私数据，尤其是与个人可标识数据与其有某种绑定
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭晓！2020年BILISRC 年度榜单盘点，”公开处刑“已来 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15517988</id>
+        <link href="https://www.bilibili.com/read/cv15517988"/>
+        <updated>2022-03-05T05:34:05.654Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15517988" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S11全球总决赛B站直播在线稳定性保障简介 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15512308</id>
+        <link href="https://www.bilibili.com/read/cv15512308"/>
+        <updated>2022-03-05T05:34:05.656Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15512308" target="_blank" title="作者：直播技术团队01 背景2021年11月7日凌晨，在《英雄联盟》S11全球总决赛·决赛中，中国战队EDG对战韩国战队DK，经过5个小时5轮比赛，EDG最终以比分 3:2 击败DK，赢得S11总冠军。B站作为英雄联盟2021全球总决赛直播独家版权方不仅在整个比赛过程中保证了直播整体总体运行的平稳，还抗住了超预期的流量，观赛人数破亿。02 大型活动的稳定性如何保障为了保障这场活动的稳定性，我们投入了近4个月的时间，上百人参与其中。不但保证了S11的正常播出，同时我们也以S11稳定性保障为例，总结">
+                      作者：直播技术团队01 背景2021年11月7日凌晨，在《英雄联盟》S11全球总决赛·决赛中，中国战队EDG对战韩国战队DK，经过5个小时5轮比赛，EDG最终以比分 3:2 击败DK，赢得S11总冠军。B站作为英雄联盟2021全球总决赛直播独家版权方不仅在整个比赛过程中保证了直播整体总体运行的平稳，还抗住了超预期的流量，观赛人数破亿。02 大型活动的稳定性如何保障为了保障这场活动的稳定性，我们投入了近4个月的时间，上百人参与其中。不但保证了S11的正常播出，同时我们也以S11稳定性保障为例，总结
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021哔哩哔哩安全岗位招聘正式启动 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15489884</id>
+        <link href="https://www.bilibili.com/read/cv15489884"/>
+        <updated>2022-03-05T05:34:05.658Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489884" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一条喊你领礼物的推文，诚邀点击 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15489804</id>
+        <link href="https://www.bilibili.com/read/cv15489804"/>
+        <updated>2022-03-05T05:34:05.659Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489804" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[挥别过去，2021请多指教 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15489767</id>
+        <link href="https://www.bilibili.com/read/cv15489767"/>
+        <updated>2022-03-05T05:34:05.660Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489767" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BILISRC向你发出本年度最后一次活动邀请，狂发跨年礼物的内种！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15489742</id>
+        <link href="https://www.bilibili.com/read/cv15489742"/>
+        <updated>2022-03-05T05:34:05.661Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489742" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-12-29 09:00】2020年的最后几个工作日，BILISRC将在CIS与大家见面除了有趣的展位互动，横跨2020-2021的线上活动正式开启在名为“起航”的本次活动中我们将送出新人起航礼，以及超有吸引力的航行宝藏包括但不限于哔哩哔哩特供弹幕buff电竞椅、小电视机械键盘、图标鼠标垫等豪华酷炫周边活动时间：2020年12月29号-20201年1月15号具体活动规则请见下图所有礼品将于活动结束后统一发放，如对活动有任何">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-12-29 09:00】2020年的最后几个工作日，BILISRC将在CIS与大家见面除了有趣的展位互动，横跨2020-2021的线上活动正式开启在名为“起航”的本次活动中我们将送出新人起航礼，以及超有吸引力的航行宝藏包括但不限于哔哩哔哩特供弹幕buff电竞椅、小电视机械键盘、图标鼠标垫等豪华酷炫周边活动时间：2020年12月29号-20201年1月15号具体活动规则请见下图所有礼品将于活动结束后统一发放，如对活动有任何
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜜罐建设的一些思考 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15489683</id>
+        <link href="https://www.bilibili.com/read/cv15489683"/>
+        <updated>2022-03-05T05:34:05.662Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489683" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-12-22 18:33】本文属于bilisrc技术文章栏目的第二篇文章，探讨关于蜜罐建设的一些思考，欢迎有共同经验或者感兴趣的小伙伴们多多交流。引言：在自然界，蜜罐是用于抓熊的，通过伪装成“食物”引诱熊来享用，最后猎人再将熊一并拿下。在网络安全中，蜜罐起的作用也类似。 1.蜜罐的概念蜜罐可以理解为安全攻防中的陷阱，通过在信息系统中的各个环境或者网络中部署一些特定协议服务或者组件来诱导恶意行为对其进行探测或利用，从而达到发">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-12-22 18:33】本文属于bilisrc技术文章栏目的第二篇文章，探讨关于蜜罐建设的一些思考，欢迎有共同经验或者感兴趣的小伙伴们多多交流。引言：在自然界，蜜罐是用于抓熊的，通过伪装成“食物”引诱熊来享用，最后猎人再将熊一并拿下。在网络安全中，蜜罐起的作用也类似。 1.蜜罐的概念蜜罐可以理解为安全攻防中的陷阱，通过在信息系统中的各个环境或者网络中部署一些特定协议服务或者组件来诱导恶意行为对其进行探测或利用，从而达到发
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[威胁建模浅谈 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15473697</id>
+        <link href="https://www.bilibili.com/read/cv15473697"/>
+        <updated>2022-03-05T05:34:05.664Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15473697" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自BILISRC的邀请 ：本年度奖励最丰厚的活动来了 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15473554</id>
+        <link href="https://www.bilibili.com/read/cv15473554"/>
+        <updated>2022-03-05T05:34:05.665Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15473554" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谜底等你揭晓，首届哔哩哔哩安全挑战赛来啦！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15473441</id>
+        <link href="https://www.bilibili.com/read/cv15473441"/>
+        <updated>2022-03-05T05:34:05.667Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15473441" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-10-23 20:24】有没有幻想过有朝一日亲手“黑”进B站服务器？讲真？现在机会来啦！bilibili 1024程序员节活动——首届哔哩哔哩安全挑战赛将于10月24日0点正式开始挑战成功有亮闪闪的静电容键盘、机械键盘、无线鼠标、周边大礼包等豪华装备奉上～进入1024程序员节活动页面，开启33的挑战状。谜底等你揭晓https://www.bilibili.com/blackboard/activity-20201024.">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2020-10-23 20:24】有没有幻想过有朝一日亲手“黑”进B站服务器？讲真？现在机会来啦！bilibili 1024程序员节活动——首届哔哩哔哩安全挑战赛将于10月24日0点正式开始挑战成功有亮闪闪的静电容键盘、机械键盘、无线鼠标、周边大礼包等豪华装备奉上～进入1024程序员节活动页面，开启33的挑战状。谜底等你揭晓https://www.bilibili.com/blackboard/activity-20201024.
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前最便宜的AX5400中国移动RX3 Pro拆机，还送你无线充 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/19076.html</id>
+        <link href="https://www.acwifi.net/19076.html"/>
+        <updated>2022-03-05T05:34:23.924Z</updated>
+        <content type="html"><![CDATA[是的，最便宜的双频AX5400，我在咸鱼花230元收了一台，这个价格还能买到别的？买不到！更过份的还带无线充功能，还有NFC一碰即连，痴线既。不过有个缺点，不能mesh组网，我这台按mesh键没有任何反应，菜单里也没有mesh选项，最大的问题是只有v没有k，所以，这款只适合单台使...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R86S软路由拆机和小包测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18930.html</id>
+        <link href="https://www.acwifi.net/18930.html"/>
+        <updated>2022-03-05T05:34:23.925Z</updated>
+        <content type="html"><![CDATA[一款minipc主机，它的外包装： &nbsp; 型号是R86S，有多种配置，我这台是8G+128G的NFME版本，CPU是N5105，价格1300多。 打开包装： 取出机身和配件： 配的电源输出规格是12V/4A。待机功率可以看后面的小包测试。 主机很小，大约是12x8cm： ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一款适用于小米路由/智能家居的电源12V/2.5A (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/19031.html</id>
+        <link href="https://www.acwifi.net/19031.html"/>
+        <updated>2022-03-05T05:34:23.940Z</updated>
+        <content type="html"><![CDATA[这款电源我在闲鱼收来，单个10.4元不包邮（二手），因为不包邮所以我一次买了3个​。平时我是通过转接头转在网件12V/3.5A上来接小米的路由器，不太喜欢拆开原装电源，用完还要收起来塞回包装里。 这款电源不是小米原配，是联想的，不知用在什么产品上，只知道DC头的规格就是小米所用的...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KL600拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18980.html</id>
+        <link href="https://www.acwifi.net/18980.html"/>
+        <updated>2022-03-05T05:34:23.941Z</updated>
+        <content type="html"><![CDATA[KL600是中国移动的定制机，无线规格是AX3000，全新价格139元，PDD购入，拆开看看值不值。 外包装： 有没有觉得背景很纯清？ 我换了新的背景布啦，20多元，肉痛。 包装盒底部标准的产品信息： 厂家是山东卡尔电气，所以叫它做卡尔KL600还是中国移动KL600呢？ 就简单...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米CR880888888888888888888888888888888拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18938.html</id>
+        <link href="https://www.acwifi.net/18938.html"/>
+        <updated>2022-03-05T05:34:23.948Z</updated>
+        <content type="html"><![CDATA[小米CR8808，吉利过吉利的型号，从PDD买入，价格185元包邮，全新没拆款的，不是二手。贵在AX3000，如果是AX1800这个价格就贵了，希望以后卖的人多，价格会降一些。 小米CR8808的外包装： 透明胶布封口： &nbsp; 打开包装： 取出路由器和配件 ： 电源输出规...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红米AX5400待解决的三个BUG (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18917.html</id>
+        <link href="https://www.acwifi.net/18917.html"/>
+        <updated>2022-03-05T05:34:23.953Z</updated>
+        <content type="html"><![CDATA[其实不解决也行，我只是说说。 第一个BGU：开了双WAN就没有了2.5G LAN口可用。 这个问题在之前的拆机和简单测试时均说过了，我也不理解为啥会样，这个双WAN的端口选择最好后交给用户自己选择，就不算不能让用户选择，你也可以固定到LAN1和LAN4嘛，为啥是1和4？&nbsp; 因为双...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红米AX5400拆机，没1G瓶颈啦 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18859.html</id>
+        <link href="https://www.acwifi.net/18859.html"/>
+        <updated>2022-03-05T05:34:23.954Z</updated>
+        <content type="html"><![CDATA[拆机之前已经简单地测试了一下，本身有封膜的。红米AX5400的外包装比较好看： 包装背面： 机身和配件 ： 电源输出规格是12V/2A，实测待机功率是8.6W左右。 这款红米AX5400拿在手上很沉，估计用了很大的散热器。它有的前脸有RGB效，所以我拿了移动电源接上电拍照给你们看...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红米AX5400 D点测速、小包和LAN口瓶颈测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18840.html</id>
+        <link href="https://www.acwifi.net/18840.html"/>
+        <updated>2022-03-05T05:34:23.955Z</updated>
+        <content type="html"><![CDATA[傍晚京东快递小哥把红米AX5400送到，我晚上都不会进行拆机的，因为光线问题，光线是照片的灵魂。但群友建议先测D点和一些端口测试。 整台路由器的手感很重，实物我都还没有拍照。 因为是IPQ5018的CPU所以呢，小包转发性能应该跟小米AX6000一样的，但实测下来是不一样的，跟T...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK XDR6030 v2拆机，高通方案 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18802.html</id>
+        <link href="https://www.acwifi.net/18802.html"/>
+        <updated>2022-03-05T05:34:23.956Z</updated>
+        <content type="html"><![CDATA[外包装是有封膜的，拆之前测试了一下，所以拍照时没有封膜： 模具外壳和包装都跟V1的博通方案是一样的。 电源输出规格是12V/2.5A，实测联网后的待机功率是10.4W： 四个全千兆网口，支持盲插，支持端口自定义。 机身底部： 型号：TL-XDR6030易展版，序列号后面有个版本号...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米新品红米AX5400上市预售，549元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/18790.html</id>
+        <link href="https://www.acwifi.net/18790.html"/>
+        <updated>2022-03-05T05:34:23.958Z</updated>
+        <content type="html"><![CDATA[红米AX5400，上市预售价格599元，支付50元定金抵100元所以是549元。红米AX5400京东预售链接 不错呀，用了全新的模具，可能是要主打RGB灯效，所以重新定制了模具吧。外置四根天线，这样整齐一些，其中有两根是双频天线。我觉得这外观挺好看的，比小米AX3600/AX60...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年阿里云上云采购季大促全攻略 (博客园官方博客)]]></title>
