@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-06T05:34:34.429Z</updated>
+    <updated>2022-03-06T17:35:53.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[不简单地谈一谈TP-LINK 2022发布会上的新品]]></title>
+        <id>https://www.acwifi.net/19189.html</id>
+        <link href="https://www.acwifi.net/19189.html"/>
+        <updated>2022-03-06T17:35:44.518Z</updated>
+        <content type="html"><![CDATA[Wi-Fi 7果然没有呀！ 这话就跟“我果然不帅”一样。现在连WI-Fi 7 的Sample产品都还没出现，在科技有国界的时代再多等几年吧。以下所有图片均来自于发布会视频中的截图.。 “两岸猿声啼不住,轻舟已过万重山”，先来一张轻舟系列产品图片： 全系列都采用一样的CPU、内存、...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目前最便宜的AX5400中国移动RX3 Pro拆机，还送你无线充]]></title>
         <id>https://www.acwifi.net/19076.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/18802.html"/>
         <updated>2022-03-05T05:34:23.956Z</updated>
         <content type="html"><![CDATA[外包装是有封膜的，拆之前测试了一下，所以拍照时没有封膜： 模具外壳和包装都跟V1的博通方案是一样的。 电源输出规格是12V/2.5A，实测联网后的待机功率是10.4W： 四个全千兆网口，支持盲插，支持端口自定义。 机身底部： 型号：TL-XDR6030易展版，序列号后面有个版本号...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米新品红米AX5400上市预售，549元]]></title>
-        <id>https://www.acwifi.net/18790.html</id>
-        <link href="https://www.acwifi.net/18790.html"/>
-        <updated>2022-03-05T05:34:23.958Z</updated>
-        <content type="html"><![CDATA[红米AX5400，上市预售价格599元，支付50元定金抵100元所以是549元。红米AX5400京东预售链接 不错呀，用了全新的模具，可能是要主打RGB灯效，所以重新定制了模具吧。外置四根天线，这样整齐一些，其中有两根是双频天线。我觉得这外观挺好看的，比小米AX3600/AX60...]]></content>
     </entry>
 </feed>
