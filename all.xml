@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T05:34:27.509Z</updated>
+    <updated>2022-03-08T17:37:53.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -255,6 +255,16 @@
         <content type="html"><![CDATA[拆机之前已经简单地测试了一下，本身有封膜的。红米AX5400的外包装比较好看： 包装背面： 机身和配件 ： 电源输出规格是12V/2A，实测待机功率是8.6W左右。 这款红米AX5400拿在手上很沉，估计用了很大的散热器。它有的前脸有RGB效，所以我拿了移动电源接上电拍照给你们看...]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿里云2022采购季来袭，企业上云数字化转型实例 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/03/08.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/03/08.html"/>
+        <updated>2022-03-08T17:37:50.817Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15980233">
+摘要：            
+数字科技陪伴企业成长，2022年，阿里云“上云采购季”全面来袭。为期一个月的采购季活动，阿里云给中小企业和开发者客户准备了各种优惠：采购季大礼包、虎虎生威抽大奖、拼团优惠购、秒杀福利、新人特惠等等。 域名、公司注册1元起，云网络新用户0.01元入门，云服务器首购低至35元一年，云数据库RDS9.9元        <a href="https://www.cnblogs.com/cmt/p/15980233.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[上周热点回顾（2.28-3.6） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/03/07.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2022/03/07.html"/>
@@ -333,17 +343,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15867093">
 摘要：            
 热点随笔： ·&nbsp;刚入职没多久，连夜手写了一个代码生成器，项目开发速度瞬间屌炸了！&nbsp;(程序员志哥)·&nbsp;Three.js 实现2022冬奥主题3D趣味页面 🐼&nbsp;(Dragonir)·&nbsp;.NET 20周年软件趋势随想&nbsp;(张善友)·&nbsp;Windows 是最安全的操作系统&nbsp;(编程一生)·&nbsp;.NET 7 预览版        <a href="https://www.cnblogs.com/cmt/p/15867093.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】数据库服务器 CPU 100% 引发全站故障 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/31.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/31.html"/>
-        <updated>2022-01-31T17:36:37.145Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15858185">
-摘要：            
-今天 11:12-12:03 期间，园子使用的阿里云 RDS 实例（SQL Server2016 标准版，16核CPU）出现 CPU 100% 问题，引发全站故障，由此给您带来麻烦，请您谅解。
-发现故障后，我们进行了 RDS 的主备切换，第1次切换失败，再次进行主备切换，再次失败，改为重启实例后才恢复正常。        <a href="https://www.cnblogs.com/cmt/p/15858185.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
