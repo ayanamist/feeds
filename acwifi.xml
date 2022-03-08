@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-07T17:44:06.812Z</updated>
+    <updated>2022-03-08T05:34:27.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[宇宙最强acwifi猜测轻舟系列无线路由器价格]]></title>
+        <id>https://www.acwifi.net/19230.html</id>
+        <link href="https://www.acwifi.net/19230.html"/>
+        <updated>2022-03-08T05:34:17.926Z</updated>
+        <content type="html"><![CDATA[好多人问我价格，我猜一下吧。已知XDR6020的售价是499元，京东购买链接，以99元为基础价格，再算上各项配置的价格： 每个2.5G口+80元，USB3.0+80元，软件系统+100元，满血CPU+100元 每4颗高功率FEM+80元，第二个5G 4x4MIMO +200元 得...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不简单地谈一谈TP-LINK 2022发布会上的新品]]></title>
         <id>https://www.acwifi.net/19189.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/18859.html"/>
         <updated>2022-03-05T05:34:23.954Z</updated>
         <content type="html"><![CDATA[拆机之前已经简单地测试了一下，本身有封膜的。红米AX5400的外包装比较好看： 包装背面： 机身和配件 ： 电源输出规格是12V/2A，实测待机功率是8.6W左右。 这款红米AX5400拿在手上很沉，估计用了很大的散热器。它有的前脸有RGB效，所以我拿了移动电源接上电拍照给你们看...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX5400 D点测速、小包和LAN口瓶颈测试]]></title>
-        <id>https://www.acwifi.net/18840.html</id>
-        <link href="https://www.acwifi.net/18840.html"/>
-        <updated>2022-03-05T05:34:23.955Z</updated>
-        <content type="html"><![CDATA[傍晚京东快递小哥把红米AX5400送到，我晚上都不会进行拆机的，因为光线问题，光线是照片的灵魂。但群友建议先测D点和一些端口测试。 整台路由器的手感很重，实物我都还没有拍照。 因为是IPQ5018的CPU所以呢，小包转发性能应该跟小米AX6000一样的，但实测下来是不一样的，跟T...]]></content>
     </entry>
 </feed>
