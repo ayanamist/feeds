@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T17:37:53.477Z</updated>
+    <updated>2022-03-09T17:38:15.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/"/>
+        <updated>2022-03-09T17:37:38.692Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-14532904="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-14532904="" class="h-full hover:text-white"><div data-v-14532904="" class="h-full md-ripple flex"><div data-v-14532904="" class="hidden md:block w-80 flex-shrink-0"><img data-v-14532904="" alt="Cloudera and StreamNative Announce the Integration of Apache NiFi™ and Apache Pulsar™" src="/uploads/images/nifi-blog-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-14532904="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-14532904="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache NiFi, Cloudera
+          </div><div data-v-14532904="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Cloudera and StreamNative Announce the Integration of Apache NiFi™ and Apache Pulsar™
+          </div><p data-v-14532904="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            March 09, 2022
+          </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/david-kjerrumgaard-profile-pic.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">David Kjerrumgaard</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/davidkj/" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/release/2022-03-07-failure-is-not-an-option-its-a-given/</id>
@@ -168,21 +183,6 @@
           </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             December 01, 2021
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/team/yzxu.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Yunze Xu</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/engineering/2021-11-23-10-useful-pulsarctl-commands-to-manage-your-cluster/</id>
-        <link href="https://streamnative.io/blog/engineering/2021-11-23-10-useful-pulsarctl-commands-to-manage-your-cluster/"/>
-        <updated>2022-01-27T05:00:12.484Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-14532904="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-14532904="" class="h-full hover:text-white"><div data-v-14532904="" class="h-full md-ripple flex"><div data-v-14532904="" class="hidden md:block w-80 flex-shrink-0"><img data-v-14532904="" alt="10 Useful Pulsarctl Commands to Manage Your Cluster" src="/uploads/images/screen-shot-2021-11-23-at-12.04.47-pm.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-14532904="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-14532904="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Pulsarctl
-          </div><div data-v-14532904="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            10 Useful Pulsarctl Commands to Manage Your Cluster
-          </div><p data-v-14532904="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            November 23, 2021
-          </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/1602422364613.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Aniket Bhattacharyea</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宇宙最强acwifi猜测轻舟系列无线路由器价格 (路由器交流-无线路由器使用分享与评测对比)]]></title>
