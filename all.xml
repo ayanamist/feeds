@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-13T17:36:18.409Z</updated>
+    <updated>2022-03-14T05:49:35.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,112 +185,14 @@
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/team/alice.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Alice Bi</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/alicebi" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B站分布式KV存储实践 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15610515</id>
-        <link href="https://www.bilibili.com/read/cv15610515"/>
-        <updated>2022-03-13T17:36:04.784Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15610515" target="_blank" title="作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护">
-                      作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3.26线上联合沙龙 】演讲议题介绍，惊喜连连！ (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603705</id>
-        <link href="https://www.bilibili.com/read/cv15603705"/>
-        <updated>2022-03-13T17:36:04.784Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603705" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫谈SDL之三方库漏洞检测与CICD (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603656</id>
-        <link href="https://www.bilibili.com/read/cv15603656"/>
-        <updated>2022-03-13T17:36:04.785Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603656" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-22 19:04】背景最近有小伙伴在做落地、推动三方包漏洞检测时遇到了一些问题：与devops工具侧同学以及业务线研发同学沟通时，存在双方不理解对方表述，鸡同鸭讲的情况。解答了几次相关问题后，发现这些问题有一些共性：都会涉及到研发流程、CICD、工程化的一些点，比如CICD具体是哪些，commit、build这些阶段是属于哪个阶段，具体是什么含义，哪个是合适的安全检测触发点，有实现安全左移么？工具侧同学说的gitl">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-22 19:04】背景最近有小伙伴在做落地、推动三方包漏洞检测时遇到了一些问题：与devops工具侧同学以及业务线研发同学沟通时，存在双方不理解对方表述，鸡同鸭讲的情况。解答了几次相关问题后，发现这些问题有一些共性：都会涉及到研发流程、CICD、工程化的一些点，比如CICD具体是哪些，commit、build这些阶段是属于哪个阶段，具体是什么含义，哪个是合适的安全检测触发点，有实现安全左移么？工具侧同学说的gitl
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月26日线上沙龙 | “聚焦·共谋—企业安全建设探索之路”正式开启！ (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603570</id>
-        <link href="https://www.bilibili.com/read/cv15603570"/>
-        <updated>2022-03-13T17:36:04.789Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603570" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-15 16:25】企业安全建设是企业发展的基石，伴随业务发展的整个生命周期。3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。 本次沙龙有哪些硬核之处？Part.1  重磅议题攻防对抗、安全管理运营、零信任安全、数据保护……四大重磅议题汇聚行业热点话题安全专家们将分享安全建设道路的深度思考与探索">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-15 16:25】企业安全建设是企业发展的基石，伴随业务发展的整个生命周期。3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。 本次沙龙有哪些硬核之处？Part.1  重磅议题攻防对抗、安全管理运营、零信任安全、数据保护……四大重磅议题汇聚行业热点话题安全专家们将分享安全建设道路的深度思考与探索
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[活动|白帽子的元宵过节姿势 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603493</id>
-        <link href="https://www.bilibili.com/read/cv15603493"/>
-        <updated>2022-03-13T17:36:04.789Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603493" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查收你的“起航”活动礼！ (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603467</id>
-        <link href="https://www.bilibili.com/read/cv15603467"/>
-        <updated>2022-03-13T17:36:04.790Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603467" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[redis getshell姿势总结 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15518168</id>
-        <link href="https://www.bilibili.com/read/cv15518168"/>
-        <updated>2022-03-13T17:36:04.791Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15518168" target="_blank" title="1.redis简介  redis是一个使用C语言编写，开源高性能非关系型的键值对存储系统，和memcached类似，在企业中一般被当作缓存中间件使用，典型的应用场景如秒杀活动、热点数据缓存和分布式锁等。  redis按操作系统可分为linux和windows两类，其中持续更新的是linux版本（https://github.com/redis/redis，已更新到6.0.9版本），windows版本已有较长时间未更新（https://github.com/microsoftarchive/red">
-                      1.redis简介  redis是一个使用C语言编写，开源高性能非关系型的键值对存储系统，和memcached类似，在企业中一般被当作缓存中间件使用，典型的应用场景如秒杀活动、热点数据缓存和分布式锁等。  redis按操作系统可分为linux和windows两类，其中持续更新的是linux版本（https://github.com/redis/redis，已更新到6.0.9版本），windows版本已有较长时间未更新（https://github.com/microsoftarchive/red
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APP隐私安全浅谈 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15518025</id>
-        <link href="https://www.bilibili.com/read/cv15518025"/>
-        <updated>2022-03-13T17:36:04.792Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15518025" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-01-27 12:35】1.隐私数据是什么   个人可标识数据（PII）：如社会安全号码，数据组合（如名字+出生日期或姓氏+邮政编码）或用户生成的数据（如电子邮件或用户名，如bywang@thoughtworks.com），手机号。·         健康信息·         财务数据（如信用卡号）·         密码·         IP地址：IP地址也有可能是个人隐私数据，尤其是与个人可标识数据与其有某种绑定">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-01-27 12:35】1.隐私数据是什么   个人可标识数据（PII）：如社会安全号码，数据组合（如名字+出生日期或姓氏+邮政编码）或用户生成的数据（如电子邮件或用户名，如bywang@thoughtworks.com），手机号。·         健康信息·         财务数据（如信用卡号）·         密码·         IP地址：IP地址也有可能是个人隐私数据，尤其是与个人可标识数据与其有某种绑定
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭晓！2020年BILISRC 年度榜单盘点，”公开处刑“已来 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15517988</id>
-        <link href="https://www.bilibili.com/read/cv15517988"/>
-        <updated>2022-03-13T17:36:04.793Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15517988" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S11全球总决赛B站直播在线稳定性保障简介 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15512308</id>
-        <link href="https://www.bilibili.com/read/cv15512308"/>
-        <updated>2022-03-13T17:36:04.795Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15512308" target="_blank" title="作者：直播技术团队01 背景2021年11月7日凌晨，在《英雄联盟》S11全球总决赛·决赛中，中国战队EDG对战韩国战队DK，经过5个小时5轮比赛，EDG最终以比分 3:2 击败DK，赢得S11总冠军。B站作为英雄联盟2021全球总决赛直播独家版权方不仅在整个比赛过程中保证了直播整体总体运行的平稳，还抗住了超预期的流量，观赛人数破亿。02 大型活动的稳定性如何保障为了保障这场活动的稳定性，我们投入了近4个月的时间，上百人参与其中。不但保证了S11的正常播出，同时我们也以S11稳定性保障为例，总结">
-                      作者：直播技术团队01 背景2021年11月7日凌晨，在《英雄联盟》S11全球总决赛·决赛中，中国战队EDG对战韩国战队DK，经过5个小时5轮比赛，EDG最终以比分 3:2 击败DK，赢得S11总冠军。B站作为英雄联盟2021全球总决赛直播独家版权方不仅在整个比赛过程中保证了直播整体总体运行的平稳，还抗住了超预期的流量，观赛人数破亿。02 大型活动的稳定性如何保障为了保障这场活动的稳定性，我们投入了近4个月的时间，上百人参与其中。不但保证了S11的正常播出，同时我们也以S11稳定性保障为例，总结
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021哔哩哔哩安全岗位招聘正式启动 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15489884</id>
-        <link href="https://www.bilibili.com/read/cv15489884"/>
-        <updated>2022-03-13T17:36:04.796Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489884" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一条喊你领礼物的推文，诚邀点击 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15489804</id>
-        <link href="https://www.bilibili.com/read/cv15489804"/>
-        <updated>2022-03-13T17:36:04.797Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15489804" target="_blank" title="点击进入查看全文>">
-                      点击进入查看全文&gt;
-                    </a>]]></content>
+        <title type="html"><![CDATA[上周热点回顾（3.7-3.13） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/03/14.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/03/14.html"/>
+        <updated>2022-03-14T05:49:32.598Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16003072">
+摘要：            
+热点随笔： ·&nbsp;.Net Core中无处不在的Async/Await是如何提升性能的？&nbsp;(包子wxl)·&nbsp;我完成了10000小时开发3D引擎&nbsp;(Wonder-YYC)·&nbsp;昨天的面试官居然是位小姐姐，聊了半个多小时的异常处理&nbsp;(万猫学社)·&nbsp;两天两夜，1M图片优化到100kb！&nbsp;(沉默王二)·&nbsp;ASP        <a href="https://www.cnblogs.com/cmt/p/16003072.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】龙卷风来袭：突增的并发请求，撑不住的CPU (博客园官方博客)]]></title>
@@ -370,17 +272,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15910907">
 摘要：            
 非常抱歉，今天下午 16:30-17:15 期间，由于出现突发故障，造成园子无法正常访问，由此给您带来麻烦，请您谅解。故障经过如下：16:30 开始，Kubernetes 集群上博客站点的部分 pod 出现请求执行时间慢（5-10秒）的问题。16:43 开始，请求执行时间慢的问题更加严重，开始出现执行时间超过10秒的请求。16:50 开始，出现大量数据库连接超时的日志        <a href="https://www.cnblogs.com/cmt/p/15910907.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.7-2.13） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/14.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/14.html"/>
-        <updated>2022-02-14T05:34:08.155Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15891285">
-摘要：            
-热点随笔：·&nbsp;2021年度总结 | 葡萄城软件开发技术回顾（上）&nbsp;(葡萄城技术团队)，·&nbsp;从服务端生成Excel电子表格（GcExcel + SpreadJS）&nbsp;(葡萄城技术团队)，·&nbsp;张高兴的 .NET IoT 入门指南：（七）制作一个气象站&nbsp;(张高兴)
-·&nbsp;Element Plus 正式版发布啦！(朱昆)，· .NET 诞生已20周年，您的 .NET 技能是否还停留在2010 年？&nbsp;(张善友)        <a href="https://www.cnblogs.com/cmt/p/15891285.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
