@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-03-16T05:34:57.479Z</updated>
+    <updated>2022-03-16T17:37:59.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】没有龙卷风，k8s集群翻船3次，投用双集群恢复]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/03/16.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/03/16.html"/>
+        <updated>2022-03-16T17:37:58.193Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16012744">
+摘要：            
+今天没有龙卷风（异常的高并发请求），故障却依然出现，问题非常奇怪。某种异常情况会造成短时间内， k8s 集群中大量 pod （超过60%）因健康检查失败而处于 CrashLoopBackOff 状态，健康检查失败的错误是 `connection refused`。第2次翻船后我们非常紧张，如果中午找不到有效的避免翻船的紧急措施，下午不知要翻多少次，而当前我们对这个从天而降的突发问题毫无头绪。        <a href="https://www.cnblogs.com/cmt/p/16012744.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】龙卷风继续袭击，服务器们顽强抵抗]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/03/14.html</id>
@@ -73,16 +83,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15919408">
 摘要：            
 非常抱歉，今天下午 15:00-16:00 期间，由于查询网站分类博文数的1个存储过程缓存了性能极差的执行计划，造成全表扫描，拖垮了整个数据库服务器，从而造成网站访问缓慢或者500。由此给您带来很大的麻烦，请您谅解。        <a href="https://www.cnblogs.com/cmt/p/15919408.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】k8s 开船记：增加控制舱（control-plane）造成的翻船]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/20.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/20.html"/>
-        <updated>2022-02-20T17:34:59.661Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15916721">
-摘要：            
-非常抱歉，今天 19:10~19:50 期间由于 k8s 集群操作引发全站全站故障，由此给您带来很大的麻烦，请您谅解。春节期间我们更换了 kubernetes 生产集群，旧集群的 kubernetes 版本是 1.17.0，新集群版本是 1.23.3，新集群上部署了 dapr，最近准备将更多独立部署的服务器部署到 k8s 集群上        <a href="https://www.cnblogs.com/cmt/p/15916721.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
