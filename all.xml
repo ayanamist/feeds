@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T05:34:33.893Z</updated>
+    <updated>2022-03-18T17:38:27.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,6 +185,42 @@
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/郭吉伟.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Jiwei Guo</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/team/yuliu.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Yu Liu</span><div data-v-14532904="" class="author-share-box"><a data-v-14532904="" href="https://twitter.com/Anonymitaet1" target="_blank" class="left"><img data-v-14532904="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[k8s对外攻击面总结 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15722560</id>
+        <link href="https://www.bilibili.com/read/cv15722560"/>
+        <updated>2022-03-18T17:38:06.211Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722560" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于账号异常关注问题的说明 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15722581</id>
+        <link href="https://www.bilibili.com/read/cv15722581"/>
+        <updated>2022-03-18T17:38:06.211Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722581" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员节大冒险， 1024技术对抗赛正式上线！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15722388</id>
+        <link href="https://www.bilibili.com/read/cv15722388"/>
+        <updated>2022-03-18T17:38:06.212Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722388" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活动 丨BILISRC回血补给站开张，奖励再升级 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15722420</id>
+        <link href="https://www.bilibili.com/read/cv15722420"/>
+        <updated>2022-03-18T17:38:06.214Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722420" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从甲方安全视角看漏洞（一）——跨站请求伪造 (幻电物业 - B站技术中心)]]></title>
         <id>https://www.bilibili.com/read/cv15703636</id>
         <link href="https://www.bilibili.com/read/cv15703636"/>
@@ -252,44 +288,8 @@
         <id>https://www.bilibili.com/read/cv15687473</id>
         <link href="https://www.bilibili.com/read/cv15687473"/>
         <updated>2022-03-18T05:34:21.928Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687473" target="_blank" title="点击进入查看全文">
-                      点击进入查看全文
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[排行榜|BILISRC第一季度排名出炉 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15687252</id>
-        <link href="https://www.bilibili.com/read/cv15687252"/>
-        <updated>2022-03-18T05:34:21.928Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687252" target="_blank" title="点击进入查看全文>">
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687473" target="_blank" title="点击进入查看全文>">
                       点击进入查看全文&gt;
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“聚焦·共谋—企业安全建设探索之路”线上沙龙中奖名单出炉！ (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15687230</id>
-        <link href="https://www.bilibili.com/read/cv15687230"/>
-        <updated>2022-03-18T05:34:21.929Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687230" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-26 18:57】感谢各位小伙伴的热情参与。“聚焦·共谋—企业安全建设探索之路”线上沙龙已完美结束。本次沙龙完整获奖名单如下。 b站安全获奖名单1、小电视机械键盘：千滴泪孤城寒影    2、哔哩哔哩弹幕BUFF电竞椅：高老庄悍匪可乐中通安全获奖名单1、小吉玩偶5个中奖者：西范哩share008chains的滑稽梦蒙狄西西刹那间无语凝噎2、京东卡500元中奖者：35027176451_bili3、airpods pr">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-26 18:57】感谢各位小伙伴的热情参与。“聚焦·共谋—企业安全建设探索之路”线上沙龙已完美结束。本次沙龙完整获奖名单如下。 b站安全获奖名单1、小电视机械键盘：千滴泪孤城寒影    2、哔哩哔哩弹幕BUFF电竞椅：高老庄悍匪可乐中通安全获奖名单1、小吉玩偶5个中奖者：西范哩share008chains的滑稽梦蒙狄西西刹那间无语凝噎2、京东卡500元中奖者：35027176451_bili3、airpods pr
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站分布式KV存储实践 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15610515</id>
-        <link href="https://www.bilibili.com/read/cv15610515"/>
-        <updated>2022-03-18T05:34:21.930Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15610515" target="_blank" title="作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护">
-                      作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3.26线上联合沙龙 】演讲议题介绍，惊喜连连！ (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv15603705</id>
-        <link href="https://www.bilibili.com/read/cv15603705"/>
-        <updated>2022-03-18T05:34:21.933Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603705" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获">
-                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获
                     </a>]]></content>
     </entry>
     <entry>
