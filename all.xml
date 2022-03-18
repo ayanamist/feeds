@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-17T17:39:27.289Z</updated>
+    <updated>2022-03-18T05:34:33.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-03-17-streaming-real-time-chat-messages-into-scylla-with-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-03-17-streaming-real-time-chat-messages-into-scylla-with-apache-pulsar/"/>
+        <updated>2022-03-18T05:34:12.860Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-14532904="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-14532904="" class="h-full hover:text-white"><div data-v-14532904="" class="h-full md-ripple flex"><div data-v-14532904="" class="hidden md:block w-80 flex-shrink-0"><img data-v-14532904="" alt="Streaming Real-Time Chat Messages into Scylla with Apache Pulsar" src="/uploads/images/scylla-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-14532904="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-14532904="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Scylla DB, Pulsar Functions
+          </div><div data-v-14532904="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Streaming Real-Time Chat Messages into Scylla with Apache Pulsar
+          </div><p data-v-14532904="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            March 17, 2022
+          </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Tim Spann</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/engineering/2022-03-10-apache-pulsar-client-application-best-practices/</id>
@@ -170,19 +185,112 @@
           </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/郭吉伟.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Jiwei Guo</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/team/yuliu.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Yu Liu</span><div data-v-14532904="" class="author-share-box"><a data-v-14532904="" href="https://twitter.com/Anonymitaet1" target="_blank" class="left"><img data-v-14532904="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-14532904="" href="" target="_blank" style="display: none;"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/community/2021-12-07-pulsar-hits-10000-github-stars-milestone/</id>
-        <link href="https://streamnative.io/blog/community/2021-12-07-pulsar-hits-10000-github-stars-milestone/"/>
-        <updated>2022-01-27T05:00:12.481Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-14532904="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-14532904="" class="h-full hover:text-white"><div data-v-14532904="" class="h-full md-ripple flex"><div data-v-14532904="" class="hidden md:block w-80 flex-shrink-0"><img data-v-14532904="" alt="Pulsar Hits 10,000 GitHub Stars Milestone" src="/uploads/images/screen-shot-2021-12-07-at-8.18.49-am-copy.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-14532904="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-14532904="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Pulsar Contributors, Open Source 
-          </div><div data-v-14532904="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Pulsar Hits 10,000 GitHub Stars Milestone
-          </div><p data-v-14532904="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-14532904="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            December 07, 2021
-          </div><div data-v-14532904="" class="author-list"><div data-v-14532904="" class="article-author mr-6"><div data-v-14532904="" class="author-img"><img data-v-14532904="" src="/uploads/images/team/alice.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-14532904="" class="author-info"><span data-v-14532904="">Alice Bi</span><div data-v-14532904="" class="author-share-box"><!----><a data-v-14532904="" href="https://www.linkedin.com/in/alicebi" target="_blank"><img data-v-14532904="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-14532904="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-14532904="" class="flex flex-row"><span data-v-14532904="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-14532904="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[从甲方安全视角看漏洞（一）——跨站请求伪造 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15703636</id>
+        <link href="https://www.bilibili.com/read/cv15703636"/>
+        <updated>2022-03-18T05:34:21.915Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15703636" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于业务场景的漏洞挖掘 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15703432</id>
+        <link href="https://www.bilibili.com/read/cv15703432"/>
+        <updated>2022-03-18T05:34:21.916Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15703432" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔113天，BILISRC活动终于来了，还有奖励升级 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15703277</id>
+        <link href="https://www.bilibili.com/read/cv15703277"/>
+        <updated>2022-03-18T05:34:21.918Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15703277" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[漫谈SDL之三方库漏洞检测与运营 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15703243</id>
+        <link href="https://www.bilibili.com/read/cv15703243"/>
+        <updated>2022-03-18T05:34:21.920Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15703243" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-06-01 16:08】前言  第三方组件具有开放、共享、自由等特性，在软件开发中扮演着越来越重要的角色，也是软件供应链的重要组成部分，它的使用大大提高企业中软件研发的效率、缩短上线时间，能有效降低开发成本。但这些组件，可能会存在一些安全问题，所以对开发使用的这些组件进行监控，是很有必要的。之前我们写过一篇文章《漫谈SDL之三方库漏洞检测与CICD》，文章介绍了如何在CI/CD流程中接入第三方组件漏洞检测工具。紧接上一篇">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-06-01 16:08】前言  第三方组件具有开放、共享、自由等特性，在软件开发中扮演着越来越重要的角色，也是软件供应链的重要组成部分，它的使用大大提高企业中软件研发的效率、缩短上线时间，能有效降低开发成本。但这些组件，可能会存在一些安全问题，所以对开发使用的这些组件进行监控，是很有必要的。之前我们写过一篇文章《漫谈SDL之三方库漏洞检测与CICD》，文章介绍了如何在CI/CD流程中接入第三方组件漏洞检测工具。紧接上一篇
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常数时间国密算法（一） (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15698384</id>
+        <link href="https://www.bilibili.com/read/cv15698384"/>
+        <updated>2022-03-18T05:34:21.924Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15698384" target="_blank" title="作者：高能链01 背景区块链离普通人越来越近了。相应地，安全问题也会逐渐凸显出来。作为区块链基础设施建设者以及重要参与者，我们十分重视链的安全和用户资产的安全。其中一个至关重要的环节便是支持国家的商密算法，特别是其中的SM2椭圆曲线公钥密码算法、SM3杂凑算法、SM4分组密码算法。02 密码算法而谈到密码算法，就不得不谈侧信道保护和常数时间实现。所谓侧信道保护，指的是在使用密码算法进行敏感信息计算（如签名、密钥交换、加解密）的时候，如果实现不当，有可能通过“侧信道”泄漏敏感信息，从而造成泄密，因">
+                      作者：高能链01 背景区块链离普通人越来越近了。相应地，安全问题也会逐渐凸显出来。作为区块链基础设施建设者以及重要参与者，我们十分重视链的安全和用户资产的安全。其中一个至关重要的环节便是支持国家的商密算法，特别是其中的SM2椭圆曲线公钥密码算法、SM3杂凑算法、SM4分组密码算法。02 密码算法而谈到密码算法，就不得不谈侧信道保护和常数时间实现。所谓侧信道保护，指的是在使用密码算法进行敏感信息计算（如签名、密钥交换、加解密）的时候，如果实现不当，有可能通过“侧信道”泄漏敏感信息，从而造成泄密，因
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BILISRC 漏洞处理和评分标准V1.4版本发布 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15687763</id>
+        <link href="https://www.bilibili.com/read/cv15687763"/>
+        <updated>2022-03-18T05:34:21.925Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687763" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows下免杀思路分享 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15687619</id>
+        <link href="https://www.bilibili.com/read/cv15687619"/>
+        <updated>2022-03-18T05:34:21.926Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687619" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-04-27 16:50】1.简介在安全厂商日趋成熟的背景下，编写免杀马的难度和成本日益增长。好用新兴的开源项目在短时间内就被分析并加入特征库。笔者调研了部分开源项目，其中也有项目做了类似的分析 [1]，目前能够免杀的项目初步统计，其特征一是star数不过千，二是发布时间不会很长。尽管以上开源测试项目已经无法免杀，也有两种可以发展的方向，一个是学习其思想，自己实现并去特征免杀；二是改造原有项目，自己查特征、去特征，经过测试">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-04-27 16:50】1.简介在安全厂商日趋成熟的背景下，编写免杀马的难度和成本日益增长。好用新兴的开源项目在短时间内就被分析并加入特征库。笔者调研了部分开源项目，其中也有项目做了类似的分析 [1]，目前能够免杀的项目初步统计，其特征一是star数不过千，二是发布时间不会很长。尽管以上开源测试项目已经无法免杀，也有两种可以发展的方向，一个是学习其思想，自己实现并去特征免杀；二是改造原有项目，自己查特征、去特征，经过测试
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DGA域名检测的工程实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15687473</id>
+        <link href="https://www.bilibili.com/read/cv15687473"/>
+        <updated>2022-03-18T05:34:21.928Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687473" target="_blank" title="点击进入查看全文">
+                      点击进入查看全文
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排行榜|BILISRC第一季度排名出炉 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15687252</id>
+        <link href="https://www.bilibili.com/read/cv15687252"/>
+        <updated>2022-03-18T05:34:21.928Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687252" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“聚焦·共谋—企业安全建设探索之路”线上沙龙中奖名单出炉！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15687230</id>
+        <link href="https://www.bilibili.com/read/cv15687230"/>
+        <updated>2022-03-18T05:34:21.929Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15687230" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-26 18:57】感谢各位小伙伴的热情参与。“聚焦·共谋—企业安全建设探索之路”线上沙龙已完美结束。本次沙龙完整获奖名单如下。 b站安全获奖名单1、小电视机械键盘：千滴泪孤城寒影    2、哔哩哔哩弹幕BUFF电竞椅：高老庄悍匪可乐中通安全获奖名单1、小吉玩偶5个中奖者：西范哩share008chains的滑稽梦蒙狄西西刹那间无语凝噎2、京东卡500元中奖者：35027176451_bili3、airpods pr">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-26 18:57】感谢各位小伙伴的热情参与。“聚焦·共谋—企业安全建设探索之路”线上沙龙已完美结束。本次沙龙完整获奖名单如下。 b站安全获奖名单1、小电视机械键盘：千滴泪孤城寒影    2、哔哩哔哩弹幕BUFF电竞椅：高老庄悍匪可乐中通安全获奖名单1、小吉玩偶5个中奖者：西范哩share008chains的滑稽梦蒙狄西西刹那间无语凝噎2、京东卡500元中奖者：35027176451_bili3、airpods pr
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站分布式KV存储实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15610515</id>
+        <link href="https://www.bilibili.com/read/cv15610515"/>
+        <updated>2022-03-18T05:34:21.930Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15610515" target="_blank" title="作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护">
+                      作者：分布式存储团队01 背景     在B站的业务场景中，存在很多种不同模型的数据，有些数据关系比较复杂像：账号、稿件信息。有些数据关系比较简单，只需要简单的kv模型即可满足。此外，又存在某些读写吞吐比较高的业务场景，该场景早期的解决方案是通过MySQL来进行数据的持久化存储，同时通过redis来提升访问的速度与吞吐。但是这种模式带来了两个问题，其一是存储与缓存一致性的问题，该问题在B站通过canal异步更新缓存的方式得以解决，其二则是开发的复杂度，对于这样一套存储系统，每个业务都需要额外维护
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3.26线上联合沙龙 】演讲议题介绍，惊喜连连！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv15603705</id>
+        <link href="https://www.bilibili.com/read/cv15603705"/>
+        <updated>2022-03-18T05:34:21.933Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15603705" target="_blank" title="来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获">
+                      来自【哔哩哔哩安全应急响应中心】内容整合      原发布时间：【2021-03-25 11:12】3月26日下午14:00哔哩哔哩安全应急响应中心、中通安全应急响应中心、华住安全响应中心将围绕“安全管理运营、安全隐私保护、零信任安全建设”等话题共同探索企业安全建设之路。诚（礼）意（品）满(多) 满（多）要成为一名幸运鹅，记得坚守到最后！3月26日登陆B站直播间 一起围观啊~礼品图一览3月26日（星期五）下午14:00“聚焦·共谋—企业安全建设探索之路”安全沙龙正在火热报名中！想了解更多干货想获
+                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】没有龙卷风，k8s集群翻船3次，投用双集群恢复 (博客园官方博客)]]></title>
@@ -262,98 +370,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15919408">
 摘要：            
 非常抱歉，今天下午 15:00-16:00 期间，由于查询网站分类博文数的1个存储过程缓存了性能极差的执行计划，造成全表扫描，拖垮了整个数据库服务器，从而造成网站访问缓慢或者500。由此给您带来很大的麻烦，请您谅解。        <a href="https://www.cnblogs.com/cmt/p/15919408.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】k8s 开船记：增加控制舱（control-plane）造成的翻船 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/20.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/20.html"/>
-        <updated>2022-03-17T17:39:26.505Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15916721">
-摘要：            
-非常抱歉，今天 19:10~19:50 期间由于 k8s 集群操作引发全站全站故障，由此给您带来很大的麻烦，请您谅解。春节期间我们更换了 kubernetes 生产集群，旧集群的 kubernetes 版本是 1.17.0，新集群版本是 1.23.3，新集群上部署了 dapr，最近准备将更多独立部署的服务器部署到 k8s 集群上        <a href="https://www.cnblogs.com/cmt/p/15916721.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】周五下午的一次突发故障 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/18.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/18.html"/>
-        <updated>2022-03-17T17:39:26.505Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15910907">
-摘要：            
-非常抱歉，今天下午 16:30-17:15 期间，由于出现突发故障，造成园子无法正常访问，由此给您带来麻烦，请您谅解。故障经过如下：16:30 开始，Kubernetes 集群上博客站点的部分 pod 出现请求执行时间慢（5-10秒）的问题。16:43 开始，请求执行时间慢的问题更加严重，开始出现执行时间超过10秒的请求。16:50 开始，出现大量数据库连接超时的日志        <a href="https://www.cnblogs.com/cmt/p/15910907.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.7-2.13） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/14.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/14.html"/>
-        <updated>2022-03-17T17:39:26.523Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15891285">
-摘要：            
-热点随笔：·&nbsp;2021年度总结 | 葡萄城软件开发技术回顾（上）&nbsp;(葡萄城技术团队)，·&nbsp;从服务端生成Excel电子表格（GcExcel + SpreadJS）&nbsp;(葡萄城技术团队)，·&nbsp;张高兴的 .NET IoT 入门指南：（七）制作一个气象站&nbsp;(张高兴)
-·&nbsp;Element Plus 正式版发布啦！(朱昆)，· .NET 诞生已20周年，您的 .NET 技能是否还停留在2010 年？&nbsp;(张善友)        <a href="https://www.cnblogs.com/cmt/p/15891285.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.31-2.6） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/02/07.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/02/07.html"/>
-        <updated>2022-03-17T17:39:26.529Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15867093">
-摘要：            
-热点随笔： ·&nbsp;刚入职没多久，连夜手写了一个代码生成器，项目开发速度瞬间屌炸了！&nbsp;(程序员志哥)·&nbsp;Three.js 实现2022冬奥主题3D趣味页面 🐼&nbsp;(Dragonir)·&nbsp;.NET 20周年软件趋势随想&nbsp;(张善友)·&nbsp;Windows 是最安全的操作系统&nbsp;(编程一生)·&nbsp;.NET 7 预览版        <a href="https://www.cnblogs.com/cmt/p/15867093.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】数据库服务器 CPU 100% 引发全站故障 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/31.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/31.html"/>
-        <updated>2022-03-17T17:39:26.535Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15858185">
-摘要：            
-今天 11:12-12:03 期间，园子使用的阿里云 RDS 实例（SQL Server2016 标准版，16核CPU）出现 CPU 100% 问题，引发全站故障，由此给您带来麻烦，请您谅解。
-发现故障后，我们进行了 RDS 的主备切换，第1次切换失败，再次进行主备切换，再次失败，改为重启实例后才恢复正常。        <a href="https://www.cnblogs.com/cmt/p/15858185.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.17-1.23） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/24.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/24.html"/>
-        <updated>2022-03-17T17:39:26.539Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15838536">
-摘要：            
-热点随笔： ·&nbsp;PWA 技术落地！让你的站点（Web）秒变APP（应用程序）&nbsp;(葡萄城技术团队)·&nbsp;Abp vnext EFCore 实现动态上下文DbSet踩坑记&nbsp;(初心如故)·&nbsp;Nginx 代理解决跨域问题分析&nbsp;(酒香逢)·&nbsp;理解ASP.NET Core - 基于Cookie的身份认证(Auth        <a href="https://www.cnblogs.com/cmt/p/15838536.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.10-1.16） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/17.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/17.html"/>
-        <updated>2022-03-17T17:39:26.551Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15812296">
-摘要：            
-热点随笔： ·&nbsp;使用VUE组件创建SpreadJS自定义单元格(二)&nbsp;(葡萄城技术团队)·&nbsp;关于代码质量退化的思考&nbsp;(li-peng)·&nbsp;Three.js 实现虎年春节3D创意页面&nbsp;(Dragonir)·&nbsp;狠人！标星 3.4 万的项目说删就删，几行代码搞崩数万个开源项目&nbsp;(削微寒)·&nbsp;来一个有诚意的        <a href="https://www.cnblogs.com/cmt/p/15812296.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[园子的不务正业：开始做华为云代理业务 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/12.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/12.html"/>
-        <updated>2022-03-17T17:39:26.551Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15788104">
-摘要：            
-为了增加园子的收入来源，最近我们加入了华为云精英服务商计划，开始做华为云的代理业务。代理业务的模式很简单，通过我们的专属链接关联华为云账号，只要该账号下产生消费，华为云就会给我们返利。对于客户的支持工作，中软国际与华为云会提供帮助，我们的重点是拓展客户与我们的代理账号进行关联。        <a href="https://www.cnblogs.com/cmt/p/15788104.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.3-1.9） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/01/10.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/01/10.html"/>
-        <updated>2022-03-17T17:39:26.552Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15783294">
-摘要：            
-热点随笔： ·&nbsp;使用VUE组件创建SpreadJS自定义单元格(一)&nbsp;(葡萄城技术团队)·&nbsp;技术管理进阶——精要主义设计人生，对混乱的工作说不&nbsp;(叶小钗)·&nbsp;中华古诗词知识图谱之网页设计及实现（完结）&nbsp;(清风紫雪)·&nbsp;凡是过往，皆为序章 |2021年终总结&nbsp;(—阿辉)·&nbsp;从0开始手把手带你入门Vue        <a href="https://www.cnblogs.com/cmt/p/15783294.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
