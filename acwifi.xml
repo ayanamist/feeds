@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-21T05:34:56.063Z</updated>
+    <updated>2022-03-21T17:43:03.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Turbo ACC里面的Shortcut-FE对小包转发性能的2倍提升]]></title>
+        <id>https://www.acwifi.net/19426.html</id>
+        <link href="https://www.acwifi.net/19426.html"/>
+        <updated>2022-03-21T17:42:50.080Z</updated>
+        <content type="html"><![CDATA[随便拿了台电脑刷入了随手找来的openwrt固件，系统系统如下图： CPU是I5-8600K，我并不打算拿它做软路由使用，是想在OP里面装个PPPOE拨号服务器来测试用的。所以不要评论用什么配置来装OP。 网卡里面有Intel X550-T2，刷入固件，默认就支持了，不需要自己安...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XAP30002GI薄款拆机]]></title>
         <id>https://www.acwifi.net/19366.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19189.html"/>
         <updated>2022-03-21T05:34:34.906Z</updated>
         <content type="html"><![CDATA[Wi-Fi 7果然没有呀！ 这话就跟“我果然不帅”一样。现在连WI-Fi 7 的Sample产品都还没出现，在科技有国界的时代再多等几年吧。以下所有图片均来自于发布会视频中的截图.。 “两岸猿声啼不住,轻舟已过万重山”，先来一张轻舟系列产品图片： 全系列都采用一样的CPU、内存、...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movistar HGW-500IX4X8-Q v5拆机]]></title>
-        <id>https://www.acwifi.net/19126.html</id>
-        <link href="https://www.acwifi.net/19126.html"/>
-        <updated>2022-03-21T05:34:34.907Z</updated>
-        <content type="html"><![CDATA[Movistar这是西班牙电信的子公司，这款 HGW-500IX4X8-Q v5可以看作是运营商定制机。它的无线规格，我搞不清，因为看不懂！ 内置天线的设计，外形是圆柱体，就像一台蓝牙音箱，这外观也太好看了吧。 配件： 电源输出规格是12V/2.5A，实际待机功率是14.5W，功...]]></content>
     </entry>
 </feed>
