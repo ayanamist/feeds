@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-22T05:35:11.986Z</updated>
+    <updated>2022-03-22T17:46:00.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINk各无线路由器型号配置汇总表更新]]></title>
+        <id>https://www.acwifi.net/19437.html</id>
+        <link href="https://www.acwifi.net/19437.html"/>
+        <updated>2022-03-22T17:45:53.233Z</updated>
+        <content type="html"><![CDATA[在轻舟上市之前，把还没有加入汇总表的型号都补充好了，一些项目也作了一些修改，比如网口总数量、内置天线还是外置天线，看不见一根根天线的我都称为内置天线了。因为XDR5430V2最近更新了固件，可以支持端口自定义，也就是双WAN、IPTV和端口汇聚这些功能，所以一切型号都可以支持，想...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turbo ACC里面的Shortcut-FE对小包转发性能的2倍提升]]></title>
         <id>https://www.acwifi.net/19426.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19230.html"/>
         <updated>2022-03-21T05:34:34.902Z</updated>
         <content type="html"><![CDATA[好多人问我价格，我猜一下吧。已知XDR6020的售价是499元，京东购买链接，以99元为基础价格，再算上各项配置的价格： 每个2.5G口+80元，USB3.0+80元，软件系统+100元，满血CPU+100元 每4颗高功率FEM+80元，第二个5G 4x4MIMO +200元 得...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不简单地谈一谈TP-LINK 2022发布会上的新品]]></title>
-        <id>https://www.acwifi.net/19189.html</id>
-        <link href="https://www.acwifi.net/19189.html"/>
-        <updated>2022-03-21T05:34:34.906Z</updated>
-        <content type="html"><![CDATA[Wi-Fi 7果然没有呀！ 这话就跟“我果然不帅”一样。现在连WI-Fi 7 的Sample产品都还没出现，在科技有国界的时代再多等几年吧。以下所有图片均来自于发布会视频中的截图.。 “两岸猿声啼不住,轻舟已过万重山”，先来一张轻舟系列产品图片： 全系列都采用一样的CPU、内存、...]]></content>
     </entry>
 </feed>
