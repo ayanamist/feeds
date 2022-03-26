@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-26T05:34:38.115Z</updated>
+    <updated>2022-03-26T17:36:29.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[谈一谈1G瓶颈的原理和影响]]></title>
+        <id>https://www.acwifi.net/19509.html</id>
+        <link href="https://www.acwifi.net/19509.html"/>
+        <updated>2022-03-26T17:36:21.370Z</updated>
+        <content type="html"><![CDATA[最近拆了红米AX5400之后，有不少人问这个1G瓶颈有啥影响，我说没啥影响的。多个LAN口之间交换是没有影响的，影响的只是多个网口同时向无线传输数据时，而这种场景很少用到。比如你同时用5G去读到2个LAN口上的电脑/NAS文件。 当你遇见IPQ5018+QCA8337-AL3C时...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红米AX5400千兆版拆机，看看与电竞版有什么差别]]></title>
         <id>https://www.acwifi.net/19451.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19261.html"/>
         <updated>2022-03-21T05:34:34.897Z</updated>
         <content type="html"><![CDATA[上次发布会我说怎么TP还没有出2.5G POE交换机，于是大把人留言这个型号：SH1005PB给我了。打开包装： 取出机身和配件： 电源输出规格是53V/2.4A，粗算是128W，实测空口待机功率是4.8W，全接上5个2.5G速率的非POE设备功率11.5W。 一共5个网口： 其...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想用8x8mimo 9.6Gbps的无线来测试4x4mimo 4.8Gbps的传输速度]]></title>
-        <id>https://www.acwifi.net/19236.html</id>
-        <link href="https://www.acwifi.net/19236.html"/>
-        <updated>2022-03-21T05:34:34.898Z</updated>
-        <content type="html"><![CDATA[要想制造出精度0.0001mm的机床就要用精度为0.00001母床，同理，要测试4x4mimo 160MHz 4804Mbps的无线传输速度就要有一台8x8mimo 160MHz 9608Mbps的无线设备。找篇全球只有华为有两款无线AP是支持8×8 mimo且支持16...]]></content>
     </entry>
 </feed>
