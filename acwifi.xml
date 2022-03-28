@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-03-27T17:36:53.025Z</updated>
+    <updated>2022-03-28T05:36:42.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TL-XAP3000GC拆机，这款吸顶AP测速有点牛]]></title>
+        <id>https://www.acwifi.net/19521.html</id>
+        <link href="https://www.acwifi.net/19521.html"/>
+        <updated>2022-03-28T05:36:31.812Z</updated>
+        <content type="html"><![CDATA[圆圆的吸顶AP，闲鱼价格不到400元，无线规格是AX3000。安装在天花板，天生就有利于无线覆盖，因为避开了许多家具、柜子、家电这些大件物体嘛（若放在桌子上）。 配件包含了快装支架、孔位贴纸、螺丝等，没有DC电源。 一圈的散热孔： 整体尺寸忘记量了，商品参数是这样的：Φ235×5...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谈一谈1G瓶颈的原理和影响]]></title>
         <id>https://www.acwifi.net/19509.html</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[随便拿了台电脑刷入了随手找来的openwrt固件，系统系统如下图： CPU是I5-8600K，我并不打算拿它做软路由使用，是想在OP里面装个PPPOE拨号服务器来测试用的。所以不要评论用什么配置来装OP。 网卡里面有Intel X550-T2，刷入固件，默认就支持了，不需要自己安...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XAP30002GI薄款拆机]]></title>
+        <title type="html"><![CDATA[XAP3002GI薄款拆机]]></title>
         <id>https://www.acwifi.net/19366.html</id>
         <link href="https://www.acwifi.net/19366.html"/>
         <updated>2022-03-21T05:34:34.886Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19291.html"/>
         <updated>2022-03-21T05:34:34.896Z</updated>
         <content type="html"><![CDATA[红米AX6S有个测试版固件流出，默认开了telnet，不知是有意还是无意，现时这款型号销量很高（MI），在200多的预算里，这款信号还是很不错的，缺点只是没有160MHz频宽。 红米AX6S刷机的方法我不懂，我只是看着人家说的方法操作，要刷的请转到原文链接： https://ww...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.5G POE交换机SH1005PB拆机]]></title>
-        <id>https://www.acwifi.net/19261.html</id>
-        <link href="https://www.acwifi.net/19261.html"/>
-        <updated>2022-03-21T05:34:34.897Z</updated>
-        <content type="html"><![CDATA[上次发布会我说怎么TP还没有出2.5G POE交换机，于是大把人留言这个型号：SH1005PB给我了。打开包装： 取出机身和配件： 电源输出规格是53V/2.4A，粗算是128W，实测空口待机功率是4.8W，全接上5个2.5G速率的非POE设备功率11.5W。 一共5个网口： 其...]]></content>
     </entry>
 </feed>
