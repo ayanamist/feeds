@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-01T17:40:43.137Z</updated>
+    <updated>2022-04-02T05:35:13.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[红米K50 Pro测试无线Wi-Fi与5G LTE]]></title>
+        <id>https://www.acwifi.net/19569.html</id>
+        <link href="https://www.acwifi.net/19569.html"/>
+        <updated>2022-04-02T05:35:01.177Z</updated>
+        <content type="html"><![CDATA[红米K50 Pro，我买的是8G+256G，对于习惯了华为mate20的乱杀进程的我来说，早已麻了！我也未必拿它做日常用的手机。为啥不买天玑8100的？因为我需要160MHz频宽的Wi-Fi 6。我就是冲着天玑9000的Wi-Fi来的（Wi-Fi和蓝牙模块集成在CPU里）。本篇重...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雅典娜又开卖了799元，公布一下之前的收益情况]]></title>
         <id>https://www.acwifi.net/19614.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19375.html"/>
         <updated>2022-03-21T05:34:34.893Z</updated>
         <content type="html"><![CDATA[发布会过了两天还没见商城和京东上华为AX6的商品链接，只在华为官网找到商品介绍，不知几时上架卖，价格也不知道。 从我的这个标题应该可以猜到是哪家的芯片。 华为AX6的无线规格是双频AX7200，2.4G和5G均是4x4MIMO，且在4x4MIMO下还能支持4096-QAM。用排除...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX5400千兆版上市预售]]></title>
-        <id>https://www.acwifi.net/19368.html</id>
-        <link href="https://www.acwifi.net/19368.html"/>
-        <updated>2022-03-21T05:34:34.895Z</updated>
-        <content type="html"><![CDATA[红米AX5400电竞版有2.5G口，这款红米AX5400没有2.5G口，所以我叫它做红米AX5400千兆版，不知官方怎么定义它。 预售价格399元，付30定抵50即便宜20元，所以是379元。红米aX5400千兆版京东预售链接 看外壳同跟红米AX6一样呀！ 与2.5G口的电竞版相...]]></content>
     </entry>
 </feed>
