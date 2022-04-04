@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-04-03T17:37:40.808Z</updated>
+    <updated>2022-04-04T05:35:53.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（3.28-4.3）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/04/04.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/04/04.html"/>
+        <updated>2022-04-04T05:35:52.783Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16098352">
+摘要：            
+热点随笔： ·&nbsp;换个数据结构，一不小心节约了 591 台机器！&nbsp;(why技术)·&nbsp;寒冬下的跑路与裁员...&nbsp;(叶小钗)·&nbsp;ASP.NET Core 在 IIS 下的两种部署模式&nbsp;(Artech)·&nbsp;记我第一次做线下技术分享的那些事&nbsp;(陈珙)·&nbsp;趣说 ｜ 数据库和缓存如何保证一致性？&nbsp;(小林codin        <a href="https://www.cnblogs.com/cmt/p/16098352.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（3.21-3.27）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/03/28.html</id>
@@ -84,16 +94,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15974653">
 摘要：            
 热点随笔： ·&nbsp;“四大高手”为你的 Vue 应用程序保驾护航&nbsp;(葡萄城技术团队)·&nbsp;黑炫酷的监控界面，实际上是用了什么开源工具？&nbsp;(Java3y)·&nbsp;浅谈C#字符串构建利器StringBuilder&nbsp;(yi念之间)·&nbsp;贵公司技术有话语权吗，为什么？&nbsp;(叶小钗)·&nbsp;C#异步编程由浅入深（三）细说Awa        <a href="https://www.cnblogs.com/cmt/p/15974653.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年阿里云上云采购季大促全攻略]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/03/01.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/03/01.html"/>
-        <updated>2022-03-01T17:43:10.847Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_15949814">
-摘要：            
-开年好“云”，钜惠升级。2022采购季来啦。为期一个月的采购季活动，我们给开发者和中小企业的客户朋友们准备了各种优惠，采购季大礼包，虎虎生威抽大奖，拼团优惠购，秒杀福利，新人特惠等等。2022阿里云上云采购季共1个主会场和8个分会场。主会场将集合各种优惠玩法及热卖产品，一起呈现给大家。        <a href="https://www.cnblogs.com/cmt/p/15949814.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
