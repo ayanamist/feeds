@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-06T05:35:51.794Z</updated>
+    <updated>2022-04-06T17:39:03.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[红米AX6000拆机，最便宜的四核2.0GHz]]></title>
+        <id>https://www.acwifi.net/19676.html</id>
+        <link href="https://www.acwifi.net/19676.html"/>
+        <updated>2022-04-06T17:38:54.775Z</updated>
+        <content type="html"><![CDATA[红米AX6000外包装： 打开包装： 取出机身和配件： 电源输出规格是12V/2A，DC插头尺寸是4.0/1.7mm，小米红米路由器都是这个尺寸。 连接宽带后实测待机功率是7.4W，比XDR6020的高出1.8W左右，CPU频率高了，所以待机功率也高些，而且还有8颗独立的FEM芯...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红米AX6000新品上市489元，FiLogic 830 MT7986A]]></title>
         <id>https://www.acwifi.net/19656.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19426.html"/>
         <updated>2022-03-21T17:42:50.080Z</updated>
         <content type="html"><![CDATA[随便拿了台电脑刷入了随手找来的openwrt固件，系统系统如下图： CPU是I5-8600K，我并不打算拿它做软路由使用，是想在OP里面装个PPPOE拨号服务器来测试用的。所以不要评论用什么配置来装OP。 网卡里面有Intel X550-T2，刷入固件，默认就支持了，不需要自己安...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XAP3002GI薄款拆机]]></title>
-        <id>https://www.acwifi.net/19366.html</id>
-        <link href="https://www.acwifi.net/19366.html"/>
-        <updated>2022-03-21T05:34:34.886Z</updated>
-        <content type="html"><![CDATA[XAP30002GI薄款经常有人问，可能都喜欢薄的吧。 是相对薄一些： 正面： 掀开面盖： 拆开外壳： 我之前以为薄款是没有功放芯片的，事实是颗粒饱满，双频均有独立FEM芯片。 两侧的双频天线： 把主板分离出来： 底下有铝块，帮助把主板热量导热到底部： 暂时拆开的四件： 先看看这...]]></content>
     </entry>
 </feed>
