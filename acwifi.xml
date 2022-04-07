@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-07T05:36:13.566Z</updated>
+    <updated>2022-04-07T17:39:12.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中国移动RX3拆机]]></title>
+        <id>https://www.acwifi.net/19630.html</id>
+        <link href="https://www.acwifi.net/19630.html"/>
+        <updated>2022-04-07T17:39:04.968Z</updated>
+        <content type="html"><![CDATA[中国移动RX3，有人催着拆呢，这货很少有得卖，而且也涨价了。这台RX3是我跟RX3 Pro一起买的，RX3+RX3 Pro一共360元包邮。RX3是小一号的RX3 Pro，也少了无线充功能，5G空间流也变成了2x2mimo，无线规格是AX3000。 外观与包装： 机身和配件： 电...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红米AX6000拆机，最便宜的四核2.0GHz]]></title>
         <id>https://www.acwifi.net/19676.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19437.html"/>
         <updated>2022-03-22T17:45:53.233Z</updated>
         <content type="html"><![CDATA[在轻舟上市之前，把还没有加入汇总表的型号都补充好了，一些项目也作了一些修改，比如网口总数量、内置天线还是外置天线，看不见一根根天线的我都称为内置天线了。因为XDR5430V2最近更新了固件，可以支持端口自定义，也就是双WAN、IPTV和端口汇聚这些功能，所以一切型号都可以支持，想...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbo ACC里面的Shortcut-FE对小包转发性能的2倍提升]]></title>
-        <id>https://www.acwifi.net/19426.html</id>
-        <link href="https://www.acwifi.net/19426.html"/>
-        <updated>2022-03-21T17:42:50.080Z</updated>
-        <content type="html"><![CDATA[随便拿了台电脑刷入了随手找来的openwrt固件，系统系统如下图： CPU是I5-8600K，我并不打算拿它做软路由使用，是想在OP里面装个PPPOE拨号服务器来测试用的。所以不要评论用什么配置来装OP。 网卡里面有Intel X550-T2，刷入固件，默认就支持了，不需要自己安...]]></content>
     </entry>
 </feed>
