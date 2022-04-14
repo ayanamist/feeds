@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-14T05:36:37.738Z</updated>
+    <updated>2022-04-14T17:42:29.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RTL8125B小包转发性能测试]]></title>
+        <id>https://www.acwifi.net/19777.html</id>
+        <link href="https://www.acwifi.net/19777.html"/>
+        <updated>2022-04-14T17:41:23.613Z</updated>
+        <content type="html"><![CDATA[RTL8125B之前买过两款，一款双口的(228元)，一款是四口的（284元），均是乐扩这个牌子的，可是这两款网卡都是坑，同时传输时会有瓶颈，其它品牌的多口2.5G网卡可能不会这样，所以我又买了别的品牌的四口RTL8125B网卡，这个今天才下单，过两天再看看吧。 双口网卡当天已经...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四口2.5G网卡RTL8125B拆机和瓶颈速度测试]]></title>
         <id>https://www.acwifi.net/19753.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19521.html"/>
         <updated>2022-03-28T05:36:31.812Z</updated>
         <content type="html"><![CDATA[圆圆的吸顶AP，闲鱼价格不到400元，无线规格是AX3000。安装在天花板，天生就有利于无线覆盖，因为避开了许多家具、柜子、家电这些大件物体嘛（若放在桌子上）。 配件包含了快装支架、孔位贴纸、螺丝等，没有DC电源。 一圈的散热孔： 整体尺寸忘记量了，商品参数是这样的：Φ235×5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈一谈1G瓶颈的原理和影响]]></title>
-        <id>https://www.acwifi.net/19509.html</id>
-        <link href="https://www.acwifi.net/19509.html"/>
-        <updated>2022-03-26T17:36:21.370Z</updated>
-        <content type="html"><![CDATA[最近拆了红米AX5400之后，有不少人问这个1G瓶颈有啥影响，我说没啥影响的。多个LAN口之间交换是没有影响的，影响的只是多个网口同时向无线传输数据时，而这种场景很少用到。比如你同时用5G去读到2个LAN口上的电脑/NAS文件。 当你遇见IPQ5018+QCA8337-AL3C时...]]></content>
     </entry>
 </feed>
