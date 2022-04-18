@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-18T05:37:06.728Z</updated>
+    <updated>2022-04-18T17:41:16.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I225V与RTL8125B两款2.5G网卡的小包转发率实测]]></title>
+        <id>https://www.acwifi.net/19810.html</id>
+        <link href="https://www.acwifi.net/19810.html"/>
+        <updated>2022-04-18T17:41:08.767Z</updated>
+        <content type="html"><![CDATA[I225V买的是双口网卡，价格288元，等于四口的RTL8125B的价格了。两款网卡都装在各款itx主板上面进行测试，本想拿两三款的，后来顺便又顺便直到不耐烦和有恶心感才停止，稍后再说具体硬件。在测试之前先看看这款双口intel的2.5G网卡是啥样的。 越看越喜欢的DIY的东西，...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIEWU 四口2.5G网卡拆解，简单测试四口速度]]></title>
         <id>https://www.acwifi.net/19789.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19614.html"/>
         <updated>2022-04-01T05:35:14.874Z</updated>
         <content type="html"><![CDATA[最近没有挂机雅典娜，因为有时测D点就要把它关机，否则影响了上行速度，它是三频，即使可以关掉5G1，但也怕它会影响到我的44信道测速质量，短时间关机后再开机，收益会明显降的。 最近打算拿它做些简单的评测，只测了信号强度，双腿膝关节和髋关节痛了2个星期，更不想测试了。这2天才感觉好了...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filogic 820系列之 XDR3020易展版上市预售，AX3000]]></title>
-        <id>https://www.acwifi.net/19595.html</id>
-        <link href="https://www.acwifi.net/19595.html"/>
-        <updated>2022-03-31T17:39:41.214Z</updated>
-        <content type="html"><![CDATA[XDR3020以前是用Intel方案，虽停产已久，但不知为何接着使用这个型号。预售价格379元，付10抵40，即349元。全千兆网口的AX3000卖300多元，我都觉得不那么划算！ 外置5根天线，左边三根，右边两根，不对称，有强逼症的朋友肯定不会买它。不知为何不把第三根5G天线内...]]></content>
     </entry>
 </feed>
