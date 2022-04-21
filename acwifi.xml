@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-20T17:46:08.348Z</updated>
+    <updated>2022-04-21T05:54:26.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.acwifi.net/19837.html</id>
         <link href="https://www.acwifi.net/19837.html"/>
         <updated>2022-04-20T05:53:50.047Z</updated>
-        <content type="html"><![CDATA[XDR3020的外包装，拆机之前先拿来简单的测试一下，所以外层的塑料膜我撕开了： 机身和配件： 电源输出规格是12V/1A，实测待机功率5.7W，不高，而且这货发热很低。 外置了五根天线，采用了有艺术性的非对称天线布局： 四个全千兆网口，支持盲插，但我通常先插电脑的网线，设置好P...]]></content>
+        <content type="html"><![CDATA[XDR3020的外包装，拆机之前先拿来简单的测试一下，所以外层的塑料膜我撕开了： 机身和配件： 电源输出规格是12V/1A，实测待机功率4.3W，待机功率低，而且这货发热很低。 外置了五根天线，采用了有艺术性的非对称天线布局： 四个全千兆网口，支持盲插，但我通常先插电脑的网线，设...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I225V与RTL8125B两款2.5G网卡的小包转发率实测]]></title>
