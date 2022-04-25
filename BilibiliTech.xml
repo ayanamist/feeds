@@ -2,7 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://space.bilibili.com/393183630/article</id>
     <title>幻电物业 - B站技术中心</title>
-    <updated>2022-04-25T05:37:22.078Z</updated>
+    <updated>2022-04-25T17:44:03.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://space.bilibili.com/393183630/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[互联网场景下基于拉链表的全量表极限存储优化方案]]></title>
+        <id>https://www.bilibili.com/read/cv16296632</id>
+        <link href="https://www.bilibili.com/read/cv16296632"/>
+        <updated>2022-04-25T17:43:42.467Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16296632" target="_blank" title="本期作者：董子平，哔哩哔哩资深开发工程师，负责B站主站数仓团队社区、数据安全运营，专注于数据仓库、数据安全的落地、应用和推广。01 背景2020年以来，半导体生产不足，这个问题困扰着全世界。互联网企业高度依赖于网络基础设施和服务器设施，没有半导体就没有满足个人需要的个人电子消费品，也就没有蓬勃发展的互联网行业。哔哩哔哩作为一家以多媒体内容为核心服务的公司，亦高度依赖于企业级服务器设备，需要大量的服务器设备进行数据计算和数据存储。芯片荒引起采购周期的延长、采购数量的被动减少，甚至导致设备一机难求。">
+                      本期作者：董子平，哔哩哔哩资深开发工程师，负责B站主站数仓团队社区、数据安全运营，专注于数据仓库、数据安全的落地、应用和推广。01 背景2020年以来，半导体生产不足，这个问题困扰着全世界。互联网企业高度依赖于网络基础设施和服务器设施，没有半导体就没有满足个人需要的个人电子消费品，也就没有蓬勃发展的互联网行业。哔哩哔哩作为一家以多媒体内容为核心服务的公司，亦高度依赖于企业级服务器设备，需要大量的服务器设备进行数据计算和数据存储。芯片荒引起采购周期的延长、采购数量的被动减少，甚至导致设备一机难求。
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly 软解 HEVC 在 B 站的实践]]></title>
+        <id>https://www.bilibili.com/read/cv16257864</id>
+        <link href="https://www.bilibili.com/read/cv16257864"/>
+        <updated>2022-04-25T17:43:42.477Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16257864" target="_blank" title="作者：视频云&amp;主站产研背景B 站是一家把用户体验放在第一位的公司，在 AVC 编码下我们已经做到了不错的视频播放卡顿率控制，为了进一步的降低卡顿率我们开始了对 HEVC 编码的探索。HEVC 是比 AVC 更加高效的视频压缩标准，可以在同等画质下减少 50% 的文件体积，意味着只要原先一半的带宽下就能流畅播放 HEVC 视频，在更差的网络环境下依旧能得到不错的用户体验。目前业内 HEVC 编码主要用于各类移动端设备上，Web 端常见浏览器仅在 Safari 、旧版 Edge 和部分魔改的 Chr">
+                      作者：视频云&amp;主站产研背景B 站是一家把用户体验放在第一位的公司，在 AVC 编码下我们已经做到了不错的视频播放卡顿率控制，为了进一步的降低卡顿率我们开始了对 HEVC 编码的探索。HEVC 是比 AVC 更加高效的视频压缩标准，可以在同等画质下减少 50% 的文件体积，意味着只要原先一半的带宽下就能流畅播放 HEVC 视频，在更差的网络环境下依旧能得到不错的用户体验。目前业内 HEVC 编码主要用于各类移动端设备上，Web 端常见浏览器仅在 Safari 、旧版 Edge 和部分魔改的 Chr
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是什么影响了视频的码率]]></title>
+        <id>https://www.bilibili.com/read/cv16198183</id>
+        <link href="https://www.bilibili.com/read/cv16198183"/>
+        <updated>2022-04-25T17:43:42.489Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16198183" target="_blank" title="团队简介：B站视频云团队，负责B站的视频存储、编解码和视频传输等业务。1. 前言对于观众而言，视频编码是一门熟悉但又陌生的技术。熟悉是因为用户点开链接就能看到视频，而每一条视频都是经过压缩编码的。陌生是因为观众对于视频编码这种专业词汇基本都没有听说过。没听说过的原因之一，是因为视频压缩编码技术相当硬核，要理解这门技术并不容易。所幸 B 站卧虎藏龙，前段时间知名 UP 主差评君发布了一条科普视频，生动形象地介绍了视频编码的基本原理，可以作为编码技术的启蒙材料。差评君科普视频编码技术我们常听到的视频">
+                      团队简介：B站视频云团队，负责B站的视频存储、编解码和视频传输等业务。1. 前言对于观众而言，视频编码是一门熟悉但又陌生的技术。熟悉是因为用户点开链接就能看到视频，而每一条视频都是经过压缩编码的。陌生是因为观众对于视频编码这种专业词汇基本都没有听说过。没听说过的原因之一，是因为视频压缩编码技术相当硬核，要理解这门技术并不容易。所幸 B 站卧虎藏龙，前段时间知名 UP 主差评君发布了一条科普视频，生动形象地介绍了视频编码的基本原理，可以作为编码技术的启蒙材料。差评君科普视频编码技术我们常听到的视频
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站移动真机测试集群建设实践]]></title>
+        <id>https://www.bilibili.com/read/cv16085769</id>
+        <link href="https://www.bilibili.com/read/cv16085769"/>
+        <updated>2022-04-25T17:43:42.490Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16085769" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presto在B站的实践]]></title>
+        <id>https://www.bilibili.com/read/cv16043517</id>
+        <link href="https://www.bilibili.com/read/cv16043517"/>
+        <updated>2022-04-25T17:43:42.490Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16043517" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊QUIC协议的发展]]></title>
+        <id>https://www.bilibili.com/read/cv16018386</id>
+        <link href="https://www.bilibili.com/read/cv16018386"/>
+        <updated>2022-04-25T17:43:42.491Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv16018386" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[砥砺前行 | Kratos 框架 v2 版本架构演进之路]]></title>
+        <id>https://www.bilibili.com/read/cv15947122</id>
+        <link href="https://www.bilibili.com/read/cv15947122"/>
+        <updated>2022-04-25T17:43:42.494Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15947122" target="_blank" title="Kratos 是一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。名字来源于游戏《战神》，该游戏以希腊神话为背景，讲述了奎托斯（Kratos）由凡人成为战神并展开弑神屠杀的冒险历程。写在前面从 2021 年 2 月份，github 上 kratos v2(下文简称 kratos)版本第一次代码提交，到功能模块的讨论，修改，测试，最终定稿，已经过去了 13 个月，在社区各位伙伴的贡献下，kratos v2 已经从 2.0.0 alpha1 版本迭代到了 2.2.1 版本，已经具备微服务框">
+                      Kratos 是一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。名字来源于游戏《战神》，该游戏以希腊神话为背景，讲述了奎托斯（Kratos）由凡人成为战神并展开弑神屠杀的冒险历程。写在前面从 2021 年 2 月份，github 上 kratos v2(下文简称 kratos)版本第一次代码提交，到功能模块的讨论，修改，测试，最终定稿，已经过去了 13 个月，在社区各位伙伴的贡献下，kratos v2 已经从 2.0.0 alpha1 版本迭代到了 2.2.1 版本，已经具备微服务框
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDFS在B站的探索和实践]]></title>
+        <id>https://www.bilibili.com/read/cv15897101</id>
+        <link href="https://www.bilibili.com/read/cv15897101"/>
+        <updated>2022-04-25T17:43:42.495Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15897101" target="_blank" title="上周我们介绍了大数据调度YARN在B站的落地实践（点击回顾前文），本周哔哩哔哩技术给大家带来的是HDFS在B站的应用与展望。一、HDFS 架构介绍HDFS离线存储平台是Hadoop大数据计算的底层架构，在B站应用已经超过5年的时间。经过多年的发展，HDFS存储平台目前已经发展成为总存储数据量近EB级，元数据总量近百亿级，NameSpace 数量近20组，节点数量近万台，日均吞吐几十PB数据量的大型分布式文件存储系统。首先我们来介绍一下B站的HDFS离线存储平台的总体架构。图 1-1 HDFS 总">
+                      上周我们介绍了大数据调度YARN在B站的落地实践（点击回顾前文），本周哔哩哔哩技术给大家带来的是HDFS在B站的应用与展望。一、HDFS 架构介绍HDFS离线存储平台是Hadoop大数据计算的底层架构，在B站应用已经超过5年的时间。经过多年的发展，HDFS存储平台目前已经发展成为总存储数据量近EB级，元数据总量近百亿级，NameSpace 数量近20组，节点数量近万台，日均吞吐几十PB数据量的大型分布式文件存储系统。首先我们来介绍一下B站的HDFS离线存储平台的总体架构。图 1-1 HDFS 总
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站调度优化实践]]></title>
+        <id>https://www.bilibili.com/read/cv15813169</id>
+        <link href="https://www.bilibili.com/read/cv15813169"/>
+        <updated>2022-04-25T17:43:42.497Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15813169" target="_blank" title="1. 背景B站的YARN以社区的2.8.4分支构建，采用CapacityScheduler作为调度器， 期间进行过多次核心功能改造，目前支撑了B站的离线业务、实时业务以及部分AI训练任务。2020年以来，随着B站业务规模的迅速增长，集群总规模达到8k左右，其中单集群规模已经达到4k+ ，日均application（下文简称app）数量在20w到30w左右。当前最大单集群整体cpu使用率，峰值通常会达到80%：2021年，在原有的AZ1机房无法扩容的背景下，启用了AZ2机房。在每个机房中同时存在离">
+                      1. 背景B站的YARN以社区的2.8.4分支构建，采用CapacityScheduler作为调度器， 期间进行过多次核心功能改造，目前支撑了B站的离线业务、实时业务以及部分AI训练任务。2020年以来，随着B站业务规模的迅速增长，集群总规模达到8k左右，其中单集群规模已经达到4k+ ，日均application（下文简称app）数量在20w到30w左右。当前最大单集群整体cpu使用率，峰值通常会达到80%：2021年，在原有的AZ1机房无法扩容的背景下，启用了AZ2机房。在每个机房中同时存在离
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[k8s对外攻击面总结]]></title>
+        <id>https://www.bilibili.com/read/cv15722560</id>
+        <link href="https://www.bilibili.com/read/cv15722560"/>
+        <updated>2022-04-25T17:43:42.500Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722560" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于账号异常关注问题的说明]]></title>
+        <id>https://www.bilibili.com/read/cv15722581</id>
+        <link href="https://www.bilibili.com/read/cv15722581"/>
+        <updated>2022-04-25T17:43:42.504Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722581" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员节大冒险， 1024技术对抗赛正式上线！]]></title>
+        <id>https://www.bilibili.com/read/cv15722388</id>
+        <link href="https://www.bilibili.com/read/cv15722388"/>
+        <updated>2022-04-25T17:43:42.505Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv15722388" target="_blank" title="点击进入查看全文>">
+                      点击进入查看全文&gt;
+                    </a>]]></content>
+    </entry>
 </feed>
