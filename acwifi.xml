@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-28T06:08:30.792Z</updated>
+    <updated>2022-04-28T17:42:07.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[最小内存的AX7200上市啦，华为AX6 549元]]></title>
+        <id>https://www.acwifi.net/19926.html</id>
+        <link href="https://www.acwifi.net/19926.html"/>
+        <updated>2022-04-28T17:41:58.616Z</updated>
+        <content type="html"><![CDATA[华为AX6上市价格599元，付100抵150元，即549元，再加上京东的20元全品券就是529元到手。 华为AX6京东预售链接 从官网看见的参数里，内存是256MB，可以排除高通了。 全千兆网口，支持近距离都没有速度提升的4K-QAM（以往实测经验），8颗不知什么样的FEM，卖5...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天邑TY6261M拆机，BCM6756]]></title>
         <id>https://www.acwifi.net/19879.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19676.html"/>
         <updated>2022-04-06T17:38:54.775Z</updated>
         <content type="html"><![CDATA[红米AX6000外包装： 打开包装： 取出机身和配件： 电源输出规格是12V/2A，DC插头尺寸是4.0/1.7mm，小米红米路由器都是这个尺寸。 连接宽带后实测待机功率是7.4W，比XDR6020的高出1.8W左右，CPU频率高了，所以待机功率也高些，而且还有8颗独立的FEM芯...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX6000新品上市489元，FiLogic 830 MT7986A]]></title>
-        <id>https://www.acwifi.net/19656.html</id>
-        <link href="https://www.acwifi.net/19656.html"/>
-        <updated>2022-04-05T17:39:38.392Z</updated>
-        <content type="html"><![CDATA[突然就上市了，以为等到6月份之后才会出来。而且还是FiLogic 830系列里面的MT7986A，即四核2.0GHz，还配有独立外置功放，可惜是全千兆网口，而没有一个2.5G网口，不过价格才489元。 这台红米AX6000比较于红米AX5400AX5400千兆版会强上不少，至少是...]]></content>
     </entry>
 </feed>
