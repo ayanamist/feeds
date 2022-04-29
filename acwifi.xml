@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-04-29T05:39:13.628Z</updated>
+    <updated>2022-04-29T17:42:15.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-ER2260T拆机，双10G SFP+，测测小包转发率]]></title>
+        <id>https://www.acwifi.net/19935.html</id>
+        <link href="https://www.acwifi.net/19935.html"/>
+        <updated>2022-04-29T17:42:06.203Z</updated>
+        <content type="html"><![CDATA[TP-LINK TL-ER2260T，拥有两个10G SFP+，全部端口可自定义，即用哪几个做WAN口你说了算。因为这个自定义第一次接触，所以我花了一个多小时才能设置上网，没办法啦，好多东西都是“我识条铁咩”。开机后就要先去设置也LAN口，先动其它设置就又要恢复出厂设置才可以指定...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最小内存的AX7200上市啦，华为AX6 549元]]></title>
         <id>https://www.acwifi.net/19926.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19630.html"/>
         <updated>2022-04-07T17:39:04.968Z</updated>
         <content type="html"><![CDATA[中国移动RX3，有人催着拆呢，这货很少有得卖，而且也涨价了。这台RX3是我跟RX3 Pro一起买的，RX3+RX3 Pro一共360元包邮。RX3是小一号的RX3 Pro，也少了无线充功能，5G空间流也变成了2x2mimo，无线规格是AX3000。 外观与包装： 机身和配件： 电...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红米AX6000拆机，最便宜的四核2.0GHz]]></title>
-        <id>https://www.acwifi.net/19676.html</id>
-        <link href="https://www.acwifi.net/19676.html"/>
-        <updated>2022-04-06T17:38:54.775Z</updated>
-        <content type="html"><![CDATA[红米AX6000外包装： 打开包装： 取出机身和配件： 电源输出规格是12V/2A，DC插头尺寸是4.0/1.7mm，小米红米路由器都是这个尺寸。 连接宽带后实测待机功率是7.4W，比XDR6020的高出1.8W左右，CPU频率高了，所以待机功率也高些，而且还有8颗独立的FEM芯...]]></content>
     </entry>
 </feed>
