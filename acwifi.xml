@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-05-07T05:37:37.466Z</updated>
+    <updated>2022-05-07T17:39:47.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[烽火R1S拆机，又一款博通AX3000]]></title>
+        <id>https://www.acwifi.net/20119.html</id>
+        <link href="https://www.acwifi.net/20119.html"/>
+        <updated>2022-05-07T17:39:39.120Z</updated>
+        <content type="html"><![CDATA[烽火R1S在京东偶尔279元，加上满250减12的全品券，267元到手。有人留言说这款是博通的，我才知道的，且是512MB内存，你们不都是喜欢大吗，我指的是内存内存。 外包装： 取出机身和配件： 电源输出规格是12V/1A，实测待机功率5W，发热不大。 机身正面： 背面的接口： ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米CR8806拆机，与小米CR8808大同小异]]></title>
         <id>https://www.acwifi.net/20090.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19777.html"/>
         <updated>2022-05-05T17:43:56.048Z</updated>
         <content type="html"><![CDATA[RTL8125B之前买过两款，一款双口的(228元)，一款是四口的（284元），均是乐扩这个牌子的，可是这两款网卡都是坑，同时传输时会有瓶颈，其它品牌的多口2.5G网卡可能不会这样，所以我又买了别的品牌的四口RTL8125B网卡，这个今天才下单，过两天再看看吧。 双口网卡当天已经...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四口2.5G网卡RTL8125B拆机和瓶颈速度测试]]></title>
-        <id>https://www.acwifi.net/19753.html</id>
-        <link href="https://www.acwifi.net/19753.html"/>
-        <updated>2022-05-05T17:43:56.049Z</updated>
-        <content type="html"><![CDATA[一张网卡有四个2.5G网口，接口是PCIe 2.0 x4，有多款，有款乐扩四口2.5G网卡，卖299元，价格不贵，且在京东也有卖，有个15元的全品券，到手284元，平均一个2.5G口71元。很合理！ 配有短挡板： 先拆开看看，从硬件上来看后面测试结果，会让你容易明白一些。硬件是基...]]></content>
     </entry>
 </feed>
