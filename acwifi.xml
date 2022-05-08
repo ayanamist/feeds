@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-05-08T05:37:04.580Z</updated>
+    <updated>2022-05-08T17:40:18.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WinFi一直Loading的解决办法，与其它抓包工具]]></title>
+        <id>https://www.acwifi.net/20163.html</id>
+        <link href="https://www.acwifi.net/20163.html"/>
+        <updated>2022-05-08T17:40:09.820Z</updated>
+        <content type="html"><![CDATA[今天不拆机，来聊一聊WinFi的那些事那些情。最近一个星期它就是打不开，”小兔子乖乖 把门开开 快点开开 我要进来 不开不开我不开 妈妈没回来 谁来也不开”。不好意，儿歌听多了有点醉！ 要把这个问题解决其实很容易，有个人留言给我了，只要修改系统时间为5月份...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烽火R1S拆机，又一款博通AX3000]]></title>
         <id>https://www.acwifi.net/20119.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19789.html"/>
         <updated>2022-05-05T17:43:56.046Z</updated>
         <content type="html"><![CDATA[这张DIEWU的四口2.5G网卡是在淘宝买的298元，跟乐扩一样的价格，但有好大差别：PCIe x4与PCIe x2。 两张放在一起：（上方是DIEWU，下方是乐扩） 把DIEWU这张网卡的金手指放大放大看看，全部接上了线路，是PCIe x4。 拿走散热器，PCIe交换芯片用的是...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTL8125B小包转发性能测试]]></title>
-        <id>https://www.acwifi.net/19777.html</id>
-        <link href="https://www.acwifi.net/19777.html"/>
-        <updated>2022-05-05T17:43:56.048Z</updated>
-        <content type="html"><![CDATA[RTL8125B之前买过两款，一款双口的(228元)，一款是四口的（284元），均是乐扩这个牌子的，可是这两款网卡都是坑，同时传输时会有瓶颈，其它品牌的多口2.5G网卡可能不会这样，所以我又买了别的品牌的四口RTL8125B网卡，这个今天才下单，过两天再看看吧。 双口网卡当天已经...]]></content>
     </entry>
 </feed>
