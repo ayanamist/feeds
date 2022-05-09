@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-05-08T17:40:18.457Z</updated>
+    <updated>2022-05-09T05:40:35.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕TUF-AX3000V2 小旋风新品预售]]></title>
+        <id>https://www.acwifi.net/20190.html</id>
+        <link href="https://www.acwifi.net/20190.html"/>
+        <updated>2022-05-09T05:40:23.899Z</updated>
+        <content type="html"><![CDATA[华硕TUF-AX3000的壳子装上真正的AX3000，就变成了”小旋风“，型号是华硕TUF AX3000 V2。上市价格999元，现支付定金50元可抵300，即749元。京东预售链接 我挺喜欢这个主图的，无线路由器产品总是缺一点元素，下图做到了补全，跟补全shell有着异工同曲之...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WinFi一直Loading的解决办法，与其它抓包工具]]></title>
         <id>https://www.acwifi.net/20163.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19810.html"/>
         <updated>2022-05-05T17:43:56.044Z</updated>
         <content type="html"><![CDATA[I225V买的是双口网卡，价格288元，等于四口的RTL8125B的价格了。两款网卡都装在各款itx主板上面进行测试，本想拿两三款的，后来顺便又顺便直到不耐烦和有恶心感才停止，稍后再说具体硬件。在测试之前先看看这款双口intel的2.5G网卡是啥样的。 越看越喜欢的DIY的东西，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIEWU 四口2.5G网卡拆解，简单测试四口速度]]></title>
-        <id>https://www.acwifi.net/19789.html</id>
-        <link href="https://www.acwifi.net/19789.html"/>
-        <updated>2022-05-05T17:43:56.046Z</updated>
-        <content type="html"><![CDATA[这张DIEWU的四口2.5G网卡是在淘宝买的298元，跟乐扩一样的价格，但有好大差别：PCIe x4与PCIe x2。 两张放在一起：（上方是DIEWU，下方是乐扩） 把DIEWU这张网卡的金手指放大放大看看，全部接上了线路，是PCIe x4。 拿走散热器，PCIe交换芯片用的是...]]></content>
     </entry>
 </feed>
