@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-05-12T05:44:28.789Z</updated>
+    <updated>2022-05-12T17:46:21.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TL-R4010GP-AC拆机，一些功能设置说明]]></title>
+        <id>https://www.acwifi.net/20323.html</id>
+        <link href="https://www.acwifi.net/20323.html"/>
+        <updated>2022-05-12T17:46:11.678Z</updated>
+        <content type="html"><![CDATA[雪白小巧不玲珑的机身，惹人爱，所以有不少人问这款。 机身和配件: 电源输出规格是53.5V、1.6A，如果是TL-R4010GPE-AC版本，电源功率更大。买不买高功率的E版，就看你要接多少个AP了，我建议待机功率总和不要超过电源最大输出功率的一半。 说明书里列出了两个型号的最大...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TL-XAP6000GC拆机，2.5G吸顶AP，破D点记录]]></title>
         <id>https://www.acwifi.net/20250.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/19926.html"/>
         <updated>2022-05-05T17:43:56.038Z</updated>
         <content type="html"><![CDATA[华为AX6上市价格599元，付100抵150元，即549元，再加上京东的20元全品券就是529元到手。 华为AX6京东预售链接 从官网看见的参数里，内存是256MB，可以排除高通了。 全千兆网口，支持近距离都没有速度提升的4K-QAM（以往实测经验），8颗不知什么样的FEM，卖5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天邑TY6261M拆机，BCM6756]]></title>
-        <id>https://www.acwifi.net/19879.html</id>
-        <link href="https://www.acwifi.net/19879.html"/>
-        <updated>2022-05-05T17:43:56.040Z</updated>
-        <content type="html"><![CDATA[140元收了台天邑TY6261M，包装齐全，像是全新的。它的无线规格是AX3000，作为博通的好机油，这款有可能是BCM6756，才100元，就算是BCM6750也可以了。 TY6261M的外包装： 这是它的样子太难看了吧，像是一个苍蝇头，也有点像蒙面超人RX黑化版： 它有一对复...]]></content>
     </entry>
 </feed>
