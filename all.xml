@@ -2,8 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T17:46:21.215Z</updated>
+    <updated>2022-07-05T05:43:59.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/release/2022-6-24-announcing-the-google-cloud-pub-sub-connector-for-apache-pulsar/</id>
+        <link href="https://streamnative.io/blog/release/2022-6-24-announcing-the-google-cloud-pub-sub-connector-for-apache-pulsar/"/>
+        <updated>2022-07-05T05:43:36.490Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Announcing the Google Cloud Pub/Sub Connector for Apache Pulsar" src="/uploads/images/cover-google-pub-sub-pulsar.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Connector, Google Cloud Pub/Sub
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Announcing the Google Cloud Pub/Sub Connector for Apache Pulsar
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            June 24, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/zixuan.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Zixuan Liu</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/release/2022-06-15-introducing-streamnative-platform-1-5/</id>
+        <link href="https://streamnative.io/blog/release/2022-06-15-introducing-streamnative-platform-1-5/"/>
+        <updated>2022-07-05T05:43:36.493Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Introducing StreamNative Platform 1.5" src="/uploads/images/platform-1.5-blog-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            StreamNative Platform
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Introducing StreamNative Platform 1.5
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            June 15, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/eric-shen.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Eric Shen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/community/2022-06-14-join-streamnative-at-distributed-data-systems-masterclass/</id>
+        <link href="https://streamnative.io/blog/community/2022-06-14-join-streamnative-at-distributed-data-systems-masterclass/"/>
+        <updated>2022-07-05T05:43:36.493Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Join StreamNative at Distributed Data Systems Masterclass" src="/uploads/images/400x300-reddit-distributed-data-systems-masterclass-2.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            ScyllaDB, AWS, Distributed Data System
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Join StreamNative at Distributed Data Systems Masterclass
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            June 14, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Tim Spann</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-05-26-pulsar-isolation-part-4-single-cluster-isolation/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-05-26-pulsar-isolation-part-4-single-cluster-isolation/"/>
+        <updated>2022-07-05T05:43:36.493Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Pulsar Isolation Part IV: Single Cluster Isolation" src="/uploads/images/artboard-1_1.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsar Isolation, BookKeeper
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Pulsar Isolation Part IV: Single Cluster Isolation
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            June 01, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/rangao.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Ran Gao</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/leon_ran_10" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-05-26-spring-into-pulsar/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-05-26-spring-into-pulsar/"/>
+        <updated>2022-07-05T05:43:36.500Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Spring into Pulsar" src="/uploads/images/spring-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Spring, Java, Microservices
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Spring into Pulsar
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            May 26, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Tim Spann</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/release/2022-05-12-whats-new-in-apache-pulsar-210/</id>
@@ -110,249 +185,173 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/timspann.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Tim Spann</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/timothyspann/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/engineering/2022-03-10-apache-pulsar-client-application-best-practices/</id>
-        <link href="https://streamnative.io/blog/engineering/2022-03-10-apache-pulsar-client-application-best-practices/"/>
-        <updated>2022-03-11T05:39:29.892Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Apache Pulsar Client Application Best Practices" src="/uploads/images/blog-client-app-best-practices.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Best Practices
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Apache Pulsar Client Application Best Practices
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            March 10, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/ioannis.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Ioannis Polyzos</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[目前最贵的小米路由产品上市：小米HomeWiFi三频WI-Fi 6 套装 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21367.html</id>
+        <link href="https://www.acwifi.net/21367.html"/>
+        <updated>2022-07-05T05:43:50.960Z</updated>
+        <content type="html"><![CDATA[售价1499元，直接开卖了没有搞预售活动。虽然是1499元，可这是两只套装，不是单只装。但是呢，我还没决定付不付款！想等单只装的！ 外观是黑色的内置天线，为啥不弄个白色呢。 先看最下面的小字说明： 注释： * 以上页面中的产品图片仅作示意，实物产品效果可能略有差异，请以实物为准。...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/</id>
-        <link href="https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/"/>
-        <updated>2022-03-09T17:37:38.692Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Cloudera and StreamNative Announce the Integration of Apache NiFi™ and Apache Pulsar™" src="/uploads/images/nifi-blog-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Apache NiFi, Cloudera
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Cloudera and StreamNative Announce the Integration of Apache NiFi™ and Apache Pulsar™
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            March 09, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/david-kjerrumgaard-profile-pic.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">David Kjerrumgaard</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/davidkj/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[1个2.5G+4个千兆口的交换机拆机和测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21320.html</id>
+        <link href="https://www.acwifi.net/21320.html"/>
+        <updated>2022-07-05T05:43:50.962Z</updated>
+        <content type="html"><![CDATA[这款交换机淘宝128元包邮，有1个2.5G口和4个1G口，这个价格完全可以买到铁壳8口的全千兆交换机，如果不是对多个接口有并发需求，或者你的另一个交换机有多余的2.5G网口又有想扩充多个千兆口来用的，那就不用买它。 外包装： 机身和配件 ： 电源输出规格是5V/1A，我接的12V...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/release/2022-03-07-failure-is-not-an-option-its-a-given/</id>
-        <link href="https://streamnative.io/blog/release/2022-03-07-failure-is-not-an-option-its-a-given/"/>
-        <updated>2022-03-07T17:43:33.384Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Failure Is Not an Option; It Is a Given." src="/uploads/images/automated-failover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Automated Cluster Failover
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Failure Is Not an Option; It Is a Given.
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            March 07, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/david-kjerrumgaard-profile-pic.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">David Kjerrumgaard</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/davidkj/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[12V电源踩坑记，坑里还有一只小虫子 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21298.html</id>
+        <link href="https://www.acwifi.net/21298.html"/>
+        <updated>2022-07-05T05:43:50.963Z</updated>
+        <content type="html"><![CDATA[由于有不少ITX小主机，加上路由器和交换机也是12V，所以12V电源有不少，最近又装了3台小的ITX主机，有些体积较大的电源不太方便，所以找些体积适中的10A左右的电源来用用。 以下一堆是比较早入手的，特别是那块戴尔12V/18A的大砖头。 618期间买过一个全新的国产电源，12...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/engineering/2022-02-03-integrating-apache-pulsar-with-bigquery/</id>
-        <link href="https://streamnative.io/blog/engineering/2022-02-03-integrating-apache-pulsar-with-bigquery/"/>
-        <updated>2022-02-04T05:33:27.226Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Integrating Apache Pulsar with BigQuery" src="/uploads/images/bqcover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Google Cloud Storage, Google BigQuery
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Integrating Apache Pulsar with BigQuery
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            February 03, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/ioannis.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Ioannis Polyzos</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[威联通QNAP QSW-2104-2T评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21251.html</id>
+        <link href="https://www.acwifi.net/21251.html"/>
+        <updated>2022-07-05T05:43:50.968Z</updated>
+        <content type="html"><![CDATA[威联通这款QNAP QSW-2104-2T在618期间购买，加上京东红包实付1038.78元。之前有在闲鱼问过价，950元不卖。买它是因为有人在微博at我提到了一个问题（当然他@的不只我一个人），因为这个问题，我就先做一下简单的测试，如果没有问题，后面再进行拆机。如果有问题还拆机...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/</id>
-        <link href="https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/"/>
-        <updated>2022-01-27T05:00:12.468Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Moving Toward a ZooKeeper-Less Apache Pulsar" src="/uploads/images/zk-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Apache ZooKeeper, etcd, Kubernetes, RocksDB
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Moving Toward a ZooKeeper-Less Apache Pulsar
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            January 25, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/david-kjerrumgaard-profile-pic.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">David Kjerrumgaard</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/davidkj/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[第二款轻舟：XDR4288上市预售，还有第二款纸片路由AX5400也一起上 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21259.html</id>
+        <link href="https://www.acwifi.net/21259.html"/>
+        <updated>2022-07-05T05:43:50.969Z</updated>
+        <content type="html"><![CDATA[轻舟的第二个上市的型号XDR4288，无线规格是AX4200，看速率以为是三频是吧。但它是双频。而且比较讨厌的不对称天线布局，左三右二： 有人说把第五极天线放后面的中间位置不行吗？ 你看它背面的接口，6个网口呀，还有USB3.0和DC电源接口，排得满满的。 最简单是装一根假的在右...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TL-R4010GP-AC拆机，一些功能设置说明 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20323.html</id>
-        <link href="https://www.acwifi.net/20323.html"/>
-        <updated>2022-05-12T17:46:11.678Z</updated>
-        <content type="html"><![CDATA[雪白小巧不玲珑的机身，惹人爱，所以有不少人问这款。 机身和配件: 电源输出规格是53.5V、1.6A，如果是TL-R4010GPE-AC版本，电源功率更大。买不买高功率的E版，就看你要接多少个AP了，我建议待机功率总和不要超过电源最大输出功率的一半。 说明书里列出了两个型号的最大...]]></content>
+        <title type="html"><![CDATA[新品XDR6050易展版上市预售，499元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21245.html</id>
+        <link href="https://www.acwifi.net/21245.html"/>
+        <updated>2022-07-05T05:43:50.970Z</updated>
+        <content type="html"><![CDATA[TP-LINK的XDR6050，也就是XDR6020的内置天线版本，外壳就是用了“烟灰缸”。这是一款AX6000的双频无线路由器，详情页里已经说明了是四核1.6GMhz，Filogic 830。12nm制程。全千兆网口，这些都跟XDR6020一模一样，一样的强信号，一样的低功耗，...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TL-XAP6000GC拆机，2.5G吸顶AP，破D点记录 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20250.html</id>
-        <link href="https://www.acwifi.net/20250.html"/>
-        <updated>2022-05-11T17:48:23.067Z</updated>
-        <content type="html"><![CDATA[之前拆过一款XAP3000GC，这款XAP6000GC的外观与它并不多，尺寸一样，但质感和价格都相差好大。咸鱼价1500多元。最近好多人问各款AP的，所以满足一下。XAP5400GC还没有卖的，不等了，先拆这款TL-XAP6000GC看看吧。 真的很重很重： 机身和配件： 还有这...]]></content>
+        <title type="html"><![CDATA[纽曼newsmy-6无线路由器拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21209.html</id>
+        <link href="https://www.acwifi.net/21209.html"/>
+        <updated>2022-07-05T05:43:50.971Z</updated>
+        <content type="html"><![CDATA[又有人叫我捡垃圾了，纽曼这款Wi-Fi 6无线路由器，闲鱼120元收来，无线规格是AX1800，内置天线，像个饭盒，也可以开个孔当“猪仔钱罂”，或直接用来藏私房钱，用途多到简直了。 纽曼newsmy-6的外包装： 纽曼车联网？？ 生产者和生产企业为啥不是同一个呢？ 机身和配件： ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TL-XAP3022GI拆机，2.5G面板AP (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20202.html</id>
-        <link href="https://www.acwifi.net/20202.html"/>
-        <updated>2022-05-10T17:47:06.348Z</updated>
-        <content type="html"><![CDATA[TL-XAP3022GI，带有2.5G PoE供电输入口，无线规格是AX3000，2x2MIMO，支持160MHz频宽，2.5G+160MHz频宽可以让手机轻易突破千兆。闲鱼价格465元。 两颗螺丝和安装说明书： 底壳是一体铝金属，所以整个AP拿在手里沉甸甸的。 撬开面板盖子，有...]]></content>
+        <title type="html"><![CDATA[2.5G USB网卡（RTL8156B）上行跑不满的解决办法 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21188.html</id>
+        <link href="https://www.acwifi.net/21188.html"/>
+        <updated>2022-07-05T05:43:50.973Z</updated>
+        <content type="html"><![CDATA[好久好久好久好久，大概在几天前，因为我一堆低档的小主机都没有2.5G网口，所以找来了好久好久好久之前买的两个USB 2.5G网卡来用，测一下是否能满足2.5G端口吞吐率。但是，插了几台电脑主机，它的上行速率都不足2000Mbps，根据CPU的强弱，从弱的1500Mbps到强的19...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华硕TUF-AX3000V2 小旋风新品预售，2.5G网口只能做WAN口 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20190.html</id>
-        <link href="https://www.acwifi.net/20190.html"/>
-        <updated>2022-05-09T05:40:23.899Z</updated>
-        <content type="html"><![CDATA[华硕TUF-AX3000的壳子装上真正的AX3000，就变成了”小旋风“，型号是华硕TUF AX3000 V2。上市价格999元，现支付定金50元可抵300，即749元。京东预售链接 我挺喜欢这个主图的，无线路由器产品总是缺一点元素，下图做到了补全，跟补全shell有着异工同曲之...]]></content>
+        <title type="html"><![CDATA[友善NanoPi R5S小包转发率实测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21163.html</id>
+        <link href="https://www.acwifi.net/21163.html"/>
+        <updated>2022-07-05T05:43:50.973Z</updated>
+        <content type="html"><![CDATA[友善R5S我买的是2G标准版，479元不含邮，只有主机没有电源和TF卡，因为机身内置了8G eMMC，所以不需要TF也能用。 也没要电源，电源算上要增加31元，我觉得嘛，谁家里没有一堆闲置的电源呀，比如这里的冰山一角： R5S的电源输入口是Type-C，输入电压是5/9/12V，...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WinFi一直Loading的解决办法，与其它抓包工具 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20163.html</id>
-        <link href="https://www.acwifi.net/20163.html"/>
-        <updated>2022-05-08T17:40:09.820Z</updated>
-        <content type="html"><![CDATA[今天不拆机，来聊一聊WinFi的那些事那些情。最近一个星期它就是打不开，”小兔子乖乖 把门开开 快点开开 我要进来 不开不开我不开 妈妈没回来 谁来也不开”。不好意，儿歌听多了有点醉！ 要把这个问题解决其实很容易，有个人留言给我了，只要修改系统时间为5月份...]]></content>
+        <title type="html"><![CDATA[兆能ZN-AX1800 Pro拆机，拆完就开不了机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/21135.html</id>
+        <link href="https://www.acwifi.net/21135.html"/>
+        <updated>2022-07-05T05:43:50.973Z</updated>
+        <content type="html"><![CDATA[春节前收的，一直放着没拆，想不到。。。。 价格忘记了，懒得翻咸鱼的记录，太多记录了。 外包装： 买它，是有人说它可能是高通IPQ6000的，但不是的。。亏大了这次。 电源输出规格是12V/1A，实测待机功率是5.5W，一般。 不好意思，电源上的丝印没拍清楚。 这款也可以叫做6灯版...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[烽火R1S拆机，又一款博通AX3000 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20119.html</id>
-        <link href="https://www.acwifi.net/20119.html"/>
-        <updated>2022-05-07T17:39:39.120Z</updated>
-        <content type="html"><![CDATA[烽火R1S在京东偶尔279元，加上满250减12的全品券，267元到手。有人留言说这款是博通的，我才知道的，且是512MB内存，你们不都是喜欢大吗，我指的是内存内存。 外包装： 取出机身和配件： 电源输出规格是12V/1A，实测待机功率5W，发热不大。 机身正面： 背面的接口： ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米CR8806拆机，与小米CR8808大同小异 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/20090.html</id>
-        <link href="https://www.acwifi.net/20090.html"/>
-        <updated>2022-05-06T17:43:54.289Z</updated>
-        <content type="html"><![CDATA[因为CR8806与CR8808大同小异，所以这篇可以到此为止了。拆机完。在PDD上159元收来，全新未拆封的，无线规格是AX3000。简单拆开看看吧！ 外包装： 白色拍得不够白，所以这相机是属于低端的。我绝对不会承认拍照技术低端！对于拍女与拍机无数的我来说，技术乃是浮云！ 外装盒...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H3C Magic NX15000拆机和评测，一款四频Wi-Fi 6 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/19980.html</id>
-        <link href="https://www.acwifi.net/19980.html"/>
-        <updated>2022-05-05T17:43:56.034Z</updated>
-        <content type="html"><![CDATA[H3C Magic NX15000是厂商送来拆机的，零售版本。这是一款四频的Wi-Fi 6无线路由器，有点特别。 一、拆机 外包装： 取出机身和配件： 机身尺寸挺大的，高度足有30CM，底盘不算占地方，最宽的地方有20cm，比较好摆放！ 有点个像鼎，三足鼎立。顶部三个天线体，里面...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-ER2260T拆机，双10G SFP+，测测小包转发率 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/19935.html</id>
-        <link href="https://www.acwifi.net/19935.html"/>
-        <updated>2022-05-05T17:43:56.037Z</updated>
-        <content type="html"><![CDATA[TP-LINK TL-ER2260T，拥有两个10G SFP+，全部端口可自定义，即用哪几个做WAN口你说了算。因为这个自定义第一次接触，所以我花了一个多小时才能设置上网，没办法啦，好多东西都是“我识条铁咩”。开机后就要先去设置也LAN口，先动其它设置就又要恢复出厂设置才可以指定...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最小内存的AX7200上市啦，华为AX6 549元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/19926.html</id>
-        <link href="https://www.acwifi.net/19926.html"/>
-        <updated>2022-05-05T17:43:56.038Z</updated>
-        <content type="html"><![CDATA[华为AX6上市价格599元，付100抵150元，即549元，再加上京东的20元全品券就是529元到手。 华为AX6京东预售链接 从官网看见的参数里，内存是256MB，可以排除高通了。 全千兆网口，支持近距离都没有速度提升的4K-QAM（以往实测经验），8颗不知什么样的FEM，卖5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.2-5.8） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/05/09.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/05/09.html"/>
-        <updated>2022-05-09T05:40:34.515Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16247941">
+        <title type="html"><![CDATA[上周热点回顾（6.27-7.3） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/04.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/04.html"/>
+        <updated>2022-07-05T05:43:58.845Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16441671">
 摘要：            
-热点随笔： ·&nbsp;.NET性能优化-使用结构体替代类&nbsp;(InCerry)·&nbsp;通过代码解释什么是API，什么是SDK？&nbsp;(胡涂阿菌)·&nbsp;记一次生产问题的排查，让我领略了算法的重要性&nbsp;(孤舟蓑翁)·&nbsp;从旧金山到上海, HTTP/3 非常快!&nbsp;(SpringLeee)·&nbsp;.NET ORM 仓储层必备的功能介        <a href="https://www.cnblogs.com/cmt/p/16247941.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;记一次 .NET 某物管后台服务 卡死分析&nbsp;(一线码农)·&nbsp;c# 怎样能写个sql的解析器&nbsp;(tansar)·&nbsp;C# Winform程序界面优化实例&nbsp;(锅叔)·&nbsp;请求一下子太多了，数据库危&nbsp;(七淅在学Java)·&nbsp;.NET混合开发解决方案24 WebView2对比CefSharp的超        <a href="https://www.cnblogs.com/cmt/p/16441671.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.25-5.1） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/05/03.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/05/03.html"/>
-        <updated>2022-05-03T05:40:17.302Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16217787">
+        <title type="html"><![CDATA[上周热点回顾（6.20-6.26） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/27.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/27.html"/>
+        <updated>2022-07-05T05:43:58.850Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16415186">
 摘要：            
-热点随笔： ·&nbsp;【前端干货】别再羡慕别人的Excel啦，教你点击按钮直接打开侧边栏！&nbsp;(葡萄城技术团队)·&nbsp;微信聊天内容可以被监听吗&nbsp;(锅叔)·&nbsp;.NET LoongArch64 正式合并进入.NET&nbsp;(张善友)·&nbsp;.NET桌面程序集成Web网页开发的多种解决方案&nbsp;(张传宁)·&nbsp;上班摸鱼与网络安全&nbsp;        <a href="https://www.cnblogs.com/cmt/p/16217787.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;基于Vite+React构建在线Excel&nbsp;(葡萄城技术团队)·&nbsp;CentOS中实现基于Docker部署BI数据分析&nbsp;(葡萄城技术团队)·&nbsp;MAUI与Blazor共享一套UI，媲美Flutter，实现Windows、macOS、Android、iOS、Web通用UI&nbsp;(Dotnet9        <a href="https://www.cnblogs.com/cmt/p/16415186.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.18-4.24） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/04/25.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/04/25.html"/>
-        <updated>2022-04-25T05:37:21.380Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16188857">
+        <title type="html"><![CDATA[【故障公告】取代 memcached 的 redis 出现问题造成网站故障（已解决） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/23.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/23.html"/>
+        <updated>2022-07-05T05:43:58.851Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16405164">
 摘要：            
-热点随笔： ·&nbsp;数据传输POST心法分享，做前端的你还解决不了这个bug？&nbsp;(葡萄城技术团队)·&nbsp;C# 11 的这个新特性，我愿称之最强！&nbsp;(gui.h)·&nbsp;【Java分享客栈】我曾经的两个Java老师一个找不到工作了一个被迫转行了&nbsp;(福隆苑居士)·&nbsp;超越iTerm！ 号称下一代终端神器，功能贼强大        <a href="https://www.cnblogs.com/cmt/p/16188857.html" class="c_b_p_desc_readmore">阅读全文</a>
+6月19日开始，我们将博客站点的缓存服务器从 memcached 换成了 redis，稳定运行了3天，今天上午访问高峰突然出现问题，在 11:00 -12:30 期间影响了网站的正常访问，由此给您带来麻烦，请求谅解。接下来我们会进一步分析问题的原因，优化 redis 的部署，目前是在 k8s 集群上部署的非高可用&nbsp; redis 集群（3个节点）。        <a href="https://www.cnblogs.com/cmt/p/16405164.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.11-4.17） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/04/18.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/04/18.html"/>
-        <updated>2022-04-18T05:37:05.976Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16158191">
+        <title type="html"><![CDATA[周热点回顾（6.13-6.19） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/20.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/20.html"/>
+        <updated>2022-07-05T05:43:58.852Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16392184">
 摘要：            
-热点随笔： ·&nbsp;后端思维之数据库性能优化方案&nbsp;(陈珙)·&nbsp;初看一脸问号，看懂直接跪下！&nbsp;(why技术)·&nbsp;比较爽的导航查询 功能 .NET ORM / SqlSugar&nbsp;(果糖大数据科技)·&nbsp;ASP.NET Core WebApi返回结果统一包装实践&nbsp;(yi念之间)·&nbsp;技术管理进阶——扎心了！老板问        <a href="https://www.cnblogs.com/cmt/p/16158191.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;React Suspense 尝鲜,处理前后端IO异步操作&nbsp;(葡萄城技术团队)·&nbsp;2 万字 + 20张图｜ 细说 Redis 九种数据类型和应用场景&nbsp;(小林coding)·&nbsp;技术管理进阶——管理者可以使用哪些管理工具&nbsp;(叶小钗)·&nbsp;BI与SaaS碰撞，让数据处理更加轻松（下）&nbsp;(葡萄        <a href="https://www.cnblogs.com/cmt/p/16392184.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.4-4.10） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/04/11.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/04/11.html"/>
-        <updated>2022-04-11T05:35:57.122Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16128704">
+        <title type="html"><![CDATA[给王心凌打Call的，原来是神奇的智能湖仓 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/15.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/15.html"/>
+        <updated>2022-07-05T05:43:58.853Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16376604">
 摘要：            
-热点随笔： ·&nbsp;BI系统打包Docker镜像及容器化部署的具体实现&nbsp;(葡萄城技术团队)·&nbsp;.NET如何快速比较两个byte数组是否相等&nbsp;(InCerry)·&nbsp;.NET 6 史上最全攻略&nbsp;(MicrosoftReactor)·&nbsp;中小团队的技术负责人如何做好技术团队建设&nbsp;(乔达摩（嘿~）)·&nbsp;ASP.N        <a href="https://www.cnblogs.com/cmt/p/16128704.html" class="c_b_p_desc_readmore">阅读全文</a>
+图文原创：谭婧（王❤凌老粉） “爷青回” “我们只是老了，并没有死。” 谭老师作为老粉，热烈庆祝“甜心教主”王❤凌成为现象级翻红顶流。 只要地球不爆炸，她的数据就一个都不能丢，还得用好了。 那为王❤凌从头开发一套大数据与智能系统吧？ 答案，没必要。 不能把精力花在和IT基础设施你死我活地缠斗中。 就        <a href="https://www.cnblogs.com/cmt/p/16376604.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.28-4.3） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/04/04.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/04/04.html"/>
-        <updated>2022-04-04T05:35:52.783Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16098352">
+        <title type="html"><![CDATA[上周热点回顾（6.6-6.12） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/13.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/13.html"/>
+        <updated>2022-07-05T05:43:58.856Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16369812">
 摘要：            
-热点随笔： ·&nbsp;换个数据结构，一不小心节约了 591 台机器！&nbsp;(why技术)·&nbsp;寒冬下的跑路与裁员...&nbsp;(叶小钗)·&nbsp;ASP.NET Core 在 IIS 下的两种部署模式&nbsp;(Artech)·&nbsp;记我第一次做线下技术分享的那些事&nbsp;(陈珙)·&nbsp;趣说 ｜ 数据库和缓存如何保证一致性？&nbsp;(小林codin        <a href="https://www.cnblogs.com/cmt/p/16098352.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;C#和Java，究竟选哪个方向？我只说事实，你自己分析……&nbsp;(自由飞)·&nbsp;构建基于React18的电子表格程序&nbsp;(葡萄城技术团队)·&nbsp;BI　如何让SaaS产品具有 “安全感”和“敏锐感”（上）&nbsp;(葡萄城技术团队)·&nbsp;在 4GB 物理内存的机器上，申请 8G 内存会怎么样？&nbsp;(小林co        <a href="https://www.cnblogs.com/cmt/p/16369812.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.21-3.27） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/03/28.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/03/28.html"/>
-        <updated>2022-03-28T05:36:41.969Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16065794">
+        <title type="html"><![CDATA[上周热点回顾（5.30-6.5） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/06.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/06.html"/>
+        <updated>2022-07-05T05:43:58.856Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16346997">
 摘要：            
-热点随笔： ·&nbsp;萌新看过来，你还学不懂VScode插件吗？&nbsp;(葡萄城技术团队)·&nbsp;一个程序员的战斗：在线客服系统，一年30个版本更新，收获首批忠实用户&nbsp;(曹旭升（sheng.c）)·&nbsp;dotnet 6 使用 string.Create 提升字符串创建和拼接性能&nbsp;(lindexi)·&nbsp;张高兴的 Ent        <a href="https://www.cnblogs.com/cmt/p/16065794.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;为了更好的吃这个瓜，我去拉了一下评论，吵起来了，太有意思了。&nbsp;(why技术)·&nbsp;.NET Core中JWT+OAuth2.0实现SSO，附完整源码（.NET6）&nbsp;(包子wxl)·&nbsp;技术管理进阶——你遇到过耍小聪明的同学吗？&nbsp;(叶小钗)·&nbsp;为什么人们都讨厌开会？&nbsp;(叶小钗)·&nbsp;在 .N        <a href="https://www.cnblogs.com/cmt/p/16346997.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[k8s 开船记-脚踏两只船：船儿还是旧的好，不翻船才是硬道理 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/03/22.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/03/22.html"/>
-        <updated>2022-03-22T17:46:00.019Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16039407">
+        <title type="html"><![CDATA[上周热点回顾（5.23-5.29） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/05/30.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/05/30.html"/>
+        <updated>2022-07-05T05:43:58.859Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16325710">
 摘要：            
-自从上次开始脚踏两只船（2个独立的k8s集群同时运行），园子暂时用奢侈的土豪方式过上了安稳的船上生活。
-这种方式除了费钱之外，还带来一个问题，我们的集装箱自动装船系统（基于gitlab-ci的自动化部署）不灵了，不支持同时向2艘船装同样的货（2个gitlab-runner运行同1个job），后来，我们通过 gitlab 的秘密武器 parallel-matrix 解决了。        <a href="https://www.cnblogs.com/cmt/p/16039407.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;桌面软件开发框架大赏&nbsp;(liulun)·&nbsp;最近身边一个技术负责人裸辞了...&nbsp;(叶小钗)·&nbsp;.NET MAUI 正式发布，再见了 Xamarin.Forms&nbsp;(张善友)·&nbsp;.NET性能优化-推荐使用Collections.Pooled&nbsp;(InCerry)·&nbsp;理解RESTful Api        <a href="https://www.cnblogs.com/cmt/p/16325710.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.14-3.20） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/03/21.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/03/21.html"/>
-        <updated>2022-03-21T05:34:55.298Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16033348">
+        <title type="html"><![CDATA[新功能发布：突出显示代码块的指定行 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/05/27.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/05/27.html"/>
+        <updated>2022-07-05T05:43:58.861Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16318708">
 摘要：            
-热点随笔： ·&nbsp;当.Net撞上BI可视化，这3种“套路”你必须知道&nbsp;(葡萄城技术团队)·&nbsp;【故障公告】龙卷风继续袭击，服务器们顽强抵抗&nbsp;(博客园团队)·&nbsp;纯后端如何写前端？我用了低代码平台&nbsp;(Java3y)·&nbsp;程序员转业指南 - 当文员&nbsp;(ataola)·&nbsp;【故障公告】没有龙卷风，k8s集群翻船3次        <a href="https://www.cnblogs.com/cmt/p/16033348.html" class="c_b_p_desc_readmore">阅读全文</a>
+今天发布了一个新功能，可以突出显示代码块的指定行（仅支持 markdown 格式），比如想突出显示下面代码块的第1行与第4行，只需在代码块语法编程语言名称之后加上`{1,4}`即可        <a href="https://www.cnblogs.com/cmt/p/16318708.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【故障公告】没有龙卷风，k8s集群翻船3次，投用双集群恢复 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/03/16.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/03/16.html"/>
-        <updated>2022-03-16T17:37:58.193Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16012744">
+        <title type="html"><![CDATA[上周热点回顾（5.16-5.22） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/05/23.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/05/23.html"/>
+        <updated>2022-07-05T05:43:58.862Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16300266">
 摘要：            
-今天没有龙卷风（异常的高并发请求），故障却依然出现，问题非常奇怪。某种异常情况会造成短时间内， k8s 集群中大量 pod （超过60%）因健康检查失败而处于 CrashLoopBackOff 状态，健康检查失败的错误是 `connection refused`。第2次翻船后我们非常紧张，如果中午找不到有效的避免翻船的紧急措施，下午不知要翻多少次，而当前我们对这个从天而降的突发问题毫无头绪。        <a href="https://www.cnblogs.com/cmt/p/16012744.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;如何在 30 分钟完成表格增删改查的前后端框架搭建&nbsp;(葡萄城技术团队)·&nbsp;JSON数据传输大法第一式——用OADate处理日期格式&nbsp;(葡萄城技术团队)·&nbsp;闲置树莓派：种朵花然后做延时摄影吧&nbsp;(猫猫子)·&nbsp;我怀疑这是IDEA的BUG，但是我翻遍全网没找到证据！&nbsp;(why技术)·&nbsp;【低码        <a href="https://www.cnblogs.com/cmt/p/16300266.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
