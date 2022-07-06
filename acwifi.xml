@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-06T05:46:58.525Z</updated>
+    <updated>2022-07-06T17:45:15.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK XDR6050易展版拆机]]></title>
+        <id>https://www.acwifi.net/21385.html</id>
+        <link href="https://www.acwifi.net/21385.html"/>
+        <updated>2022-07-06T17:43:37.702Z</updated>
+        <content type="html"><![CDATA[XDR6050的外包装是有封塑的，拆机之前已经拿出来简单开机测试。 机身和配件 ： 电源输出规格是12V/2A，实测联网后的待机功率是4.9W，比XDR6020还要低一点点，可能电路板体积小了，走线短了所以损耗就少了吗？？ 可以说这是目前为止功耗最低的AX6000 Wi-Fi 6...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半高直插ITX机箱真漂亮，所以装了台主机]]></title>
         <id>https://www.acwifi.net/21355.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21188.html"/>
         <updated>2022-07-05T05:43:50.973Z</updated>
         <content type="html"><![CDATA[好久好久好久好久，大概在几天前，因为我一堆低档的小主机都没有2.5G网口，所以找来了好久好久好久之前买的两个USB 2.5G网卡来用，测一下是否能满足2.5G端口吞吐率。但是，插了几台电脑主机，它的上行速率都不足2000Mbps，根据CPU的强弱，从弱的1500Mbps到强的19...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友善NanoPi R5S小包转发率实测]]></title>
-        <id>https://www.acwifi.net/21163.html</id>
-        <link href="https://www.acwifi.net/21163.html"/>
-        <updated>2022-07-05T05:43:50.973Z</updated>
-        <content type="html"><![CDATA[友善R5S我买的是2G标准版，479元不含邮，只有主机没有电源和TF卡，因为机身内置了8G eMMC，所以不需要TF也能用。 也没要电源，电源算上要增加31元，我觉得嘛，谁家里没有一堆闲置的电源呀，比如这里的冰山一角： R5S的电源输入口是Type-C，输入电压是5/9/12V，...]]></content>
     </entry>
 </feed>
