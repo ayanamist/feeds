@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-10T05:36:14.988Z</updated>
+    <updated>2022-07-10T17:37:38.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK纸片路由XDR5400拆机]]></title>
+        <id>https://www.acwifi.net/21427.html</id>
+        <link href="https://www.acwifi.net/21427.html"/>
+        <updated>2022-07-10T17:37:29.712Z</updated>
+        <content type="html"><![CDATA[这是第二款纸片路由器，双频AX5400的规格。 外包装：（有封膜的，拍照前撕掉了） 带有Turbo字样，那么5G FEM很可能是高功率的。 机身和电源： 电源是专用，输出规格是5V/2A或12V/2A，实测组网后的待机功率是7W，电源足够了。 纸片路由的电源输入口和RESET键：...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK XDR6050易展版拆机]]></title>
         <id>https://www.acwifi.net/21385.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21209.html"/>
         <updated>2022-07-05T05:43:50.971Z</updated>
         <content type="html"><![CDATA[又有人叫我捡垃圾了，纽曼这款Wi-Fi 6无线路由器，闲鱼120元收来，无线规格是AX1800，内置天线，像个饭盒，也可以开个孔当“猪仔钱罂”，或直接用来藏私房钱，用途多到简直了。 纽曼newsmy-6的外包装： 纽曼车联网？？ 生产者和生产企业为啥不是同一个呢？ 机身和配件： ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.5G USB网卡（RTL8156B）上行跑不满的解决办法]]></title>
-        <id>https://www.acwifi.net/21188.html</id>
-        <link href="https://www.acwifi.net/21188.html"/>
-        <updated>2022-07-05T05:43:50.973Z</updated>
-        <content type="html"><![CDATA[好久好久好久好久，大概在几天前，因为我一堆低档的小主机都没有2.5G网口，所以找来了好久好久好久之前买的两个USB 2.5G网卡来用，测一下是否能满足2.5G端口吞吐率。但是，插了几台电脑主机，它的上行速率都不足2000Mbps，根据CPU的强弱，从弱的1500Mbps到强的19...]]></content>
     </entry>
 </feed>
