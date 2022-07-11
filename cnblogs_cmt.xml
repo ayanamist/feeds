@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-07-10T17:37:38.183Z</updated>
+    <updated>2022-07-11T05:42:03.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（7.4-7.10）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/11.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/11.html"/>
+        <updated>2022-07-11T05:42:02.904Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16465389">
+摘要：            
+热点随笔： ·&nbsp;一大波开源小抄来袭&nbsp;(削微寒)·&nbsp;一题多解，ASP.NET Core应用启动初始化的N种方案[上篇]&nbsp;(Artech)·&nbsp;[开源精品] .NET Redis Client 又多了一个选择，还在被 StackExchange.Redis Timeout 问题困扰吗？&nbsp;(FreeSql)        <a href="https://www.cnblogs.com/cmt/p/16465389.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（6.27-7.3）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/07/04.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16318708">
 摘要：            
 今天发布了一个新功能，可以突出显示代码块的指定行（仅支持 markdown 格式），比如想突出显示下面代码块的第1行与第4行，只需在代码块语法编程语言名称之后加上`{1,4}`即可        <a href="https://www.cnblogs.com/cmt/p/16318708.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.16-5.22）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/05/23.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/05/23.html"/>
-        <updated>2022-07-05T05:43:58.862Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16300266">
-摘要：            
-热点随笔： ·&nbsp;如何在 30 分钟完成表格增删改查的前后端框架搭建&nbsp;(葡萄城技术团队)·&nbsp;JSON数据传输大法第一式——用OADate处理日期格式&nbsp;(葡萄城技术团队)·&nbsp;闲置树莓派：种朵花然后做延时摄影吧&nbsp;(猫猫子)·&nbsp;我怀疑这是IDEA的BUG，但是我翻遍全网没找到证据！&nbsp;(why技术)·&nbsp;【低码        <a href="https://www.cnblogs.com/cmt/p/16300266.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
