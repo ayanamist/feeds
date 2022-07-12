@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-12T05:50:31.337Z</updated>
+    <updated>2022-07-12T17:40:57.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[锐捷RG-MA3063拆机]]></title>
+        <id>https://www.acwifi.net/21472.html</id>
+        <link href="https://www.acwifi.net/21472.html"/>
+        <updated>2022-07-12T17:40:48.253Z</updated>
+        <content type="html"><![CDATA[锐捷这款RG-MA3063挺多人问的。 外包装： 包装盒背面没有说明硬件参数。 取出机身和配件 ： 电源适配器的输出规格是12V/1A，实测联网后的待机功率是5.8W。 天线可以折叠收起来，有些人喜欢把无线路由器塞进弱电箱的，这种折叠天线的就可以做到。 有一根天线上面印有金色的W...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK纸片路由XDR5400拆机]]></title>
         <id>https://www.acwifi.net/21427.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21245.html"/>
         <updated>2022-07-05T05:43:50.970Z</updated>
         <content type="html"><![CDATA[TP-LINK的XDR6050，也就是XDR6020的内置天线版本，外壳就是用了“烟灰缸”。这是一款AX6000的双频无线路由器，详情页里已经说明了是四核1.6GMhz，Filogic 830。12nm制程。全千兆网口，这些都跟XDR6020一模一样，一样的强信号，一样的低功耗，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽曼newsmy-6无线路由器拆机]]></title>
-        <id>https://www.acwifi.net/21209.html</id>
-        <link href="https://www.acwifi.net/21209.html"/>
-        <updated>2022-07-05T05:43:50.971Z</updated>
-        <content type="html"><![CDATA[又有人叫我捡垃圾了，纽曼这款Wi-Fi 6无线路由器，闲鱼120元收来，无线规格是AX1800，内置天线，像个饭盒，也可以开个孔当“猪仔钱罂”，或直接用来藏私房钱，用途多到简直了。 纽曼newsmy-6的外包装： 纽曼车联网？？ 生产者和生产企业为啥不是同一个呢？ 机身和配件： ...]]></content>
     </entry>
 </feed>
