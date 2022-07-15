@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-14T17:50:36.070Z</updated>
+    <updated>2022-07-15T05:54:13.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-07-15-deep-dive-into-data-placement-policies/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-07-15-deep-dive-into-data-placement-policies/"/>
+        <updated>2022-07-15T05:53:50.306Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Deep Dive into Data Placement Policies" src="/uploads/images/deep-dive-of-data-placement-policies-.jpg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Pulsar, Data Placement, Racks
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Deep Dive into Data Placement Policies
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            July 15, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/picture2.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Hang Chen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/hang-chen-135525201/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/community/2022-07-06-speakers-and-sponsorship-prospectus-announced-for-pulsar-summit-san-francisco/</id>
@@ -168,21 +183,6 @@
           </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             April 08, 2022
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/rangao.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Ran Gao</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/leon_ran_10" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/yuliu.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Yu Liu</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/Anonymitaet1" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/engineering/2022-04-07-pulsar-vs-kafka-benchmark/</id>
-        <link href="https://streamnative.io/blog/engineering/2022-04-07-pulsar-vs-kafka-benchmark/"/>
-        <updated>2022-04-07T17:38:45.818Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Apache Pulsar vs. Apache Kafka 2022 Benchmark" src="/uploads/images/blog_cover_pulsar_vs_kafka.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Apache Pulsar, Apache Kafka, Benchmark
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Apache Pulsar vs. Apache Kafka 2022 Benchmark
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            April 07, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/matteomerli.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Matteo Merli</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/merlimat" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/matteomerli/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中兴E2633拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
