@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-16T17:37:17.637Z</updated>
+    <updated>2022-07-17T05:37:43.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[哈哈，又装一台ITX小主机]]></title>
+        <id>https://www.acwifi.net/21543.html</id>
+        <link href="https://www.acwifi.net/21543.html"/>
+        <updated>2022-07-17T05:37:35.439Z</updated>
+        <content type="html"><![CDATA[上次说还有一个更小的机箱，我本想让它放I3算了，但在PDD上12100（684元）和12400（951元）只是相差267元，所以呢，我再次买了一片I5-12400。主板还是铭瑄H610 ITX（512元），无它，就是因为有2.5G网口。 机箱就这款，半高直插，280元，不过没有U...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴E2633拆机]]></title>
         <id>https://www.acwifi.net/21508.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21251.html"/>
         <updated>2022-07-05T05:43:50.968Z</updated>
         <content type="html"><![CDATA[威联通这款QNAP QSW-2104-2T在618期间购买，加上京东红包实付1038.78元。之前有在闲鱼问过价，950元不卖。买它是因为有人在微博at我提到了一个问题（当然他@的不只我一个人），因为这个问题，我就先做一下简单的测试，如果没有问题，后面再进行拆机。如果有问题还拆机...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第二款轻舟：XDR4288上市预售，还有第二款纸片路由AX5400也一起上]]></title>
-        <id>https://www.acwifi.net/21259.html</id>
-        <link href="https://www.acwifi.net/21259.html"/>
-        <updated>2022-07-05T05:43:50.969Z</updated>
-        <content type="html"><![CDATA[轻舟的第二个上市的型号XDR4288，无线规格是AX4200，看速率以为是三频是吧。但它是双频。而且比较讨厌的不对称天线布局，左三右二： 有人说把第五极天线放后面的中间位置不行吗？ 你看它背面的接口，6个网口呀，还有USB3.0和DC电源接口，排得满满的。 最简单是装一根假的在右...]]></content>
     </entry>
 </feed>
