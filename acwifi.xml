@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-22T05:48:19.766Z</updated>
+    <updated>2022-07-22T17:48:23.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米Xiaomi HomeWiFi Wi-Fi6全屋路由两只装拆机]]></title>
+        <id>https://www.acwifi.net/21604.html</id>
+        <link href="https://www.acwifi.net/21604.html"/>
+        <updated>2022-07-22T17:48:07.874Z</updated>
+        <content type="html"><![CDATA[等到有优惠降价时才买来。预售的时候好多人留言说很快会跳水的。果然在PDD上1215元到手！有人买的比我更便宜不？ 全新有封膜的，拆机前开封拿出来摸一了番。一件两套，囊个包装显得比较重，所以呢，快递在手动时突然受到G的影响（重力加速度），所以四个角不太好看。 打开包装： 两个是一模...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻舟XDR6088更新1.0.21固件支持Docker、行为管控、游戏加速]]></title>
         <id>https://www.acwifi.net/21581.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21320.html"/>
         <updated>2022-07-05T05:43:50.962Z</updated>
         <content type="html"><![CDATA[这款交换机淘宝128元包邮，有1个2.5G口和4个1G口，这个价格完全可以买到铁壳8口的全千兆交换机，如果不是对多个接口有并发需求，或者你的另一个交换机有多余的2.5G网口又有想扩充多个千兆口来用的，那就不用买它。 外包装： 机身和配件 ： 电源输出规格是5V/1A，我接的12V...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12V电源踩坑记，坑里还有一只小虫子]]></title>
-        <id>https://www.acwifi.net/21298.html</id>
-        <link href="https://www.acwifi.net/21298.html"/>
-        <updated>2022-07-05T05:43:50.963Z</updated>
-        <content type="html"><![CDATA[由于有不少ITX小主机，加上路由器和交换机也是12V，所以12V电源有不少，最近又装了3台小的ITX主机，有些体积较大的电源不太方便，所以找些体积适中的10A左右的电源来用用。 以下一堆是比较早入手的，特别是那块戴尔12V/18A的大砖头。 618期间买过一个全新的国产电源，12...]]></content>
     </entry>
 </feed>
