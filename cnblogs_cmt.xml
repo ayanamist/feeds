@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-07-24T17:40:17.377Z</updated>
+    <updated>2022-07-25T05:49:21.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（7.18-7.24）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/25.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/25.html"/>
+        <updated>2022-07-25T05:49:20.643Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16516435">
+摘要：            
+热点随笔： ·&nbsp;聊一聊 C# 后台GC 到底是怎么回事？&nbsp;(一线码农)·&nbsp;从工程师到技术leader思维升级&nbsp;(温一壶清酒)·&nbsp;超酷炫的转场动画？CSS 轻松拿下！&nbsp;(ChokCoco)·&nbsp;我有 7种 实现web实时消息推送的方案，7种！&nbsp;(程序员小富)·&nbsp;从全局角度，如何设计一个秒杀系统？&nbsp;(陈树        <a href="https://www.cnblogs.com/cmt/p/16516435.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（7.11-7.17）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/07/18.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16346997">
 摘要：            
 热点随笔： ·&nbsp;为了更好的吃这个瓜，我去拉了一下评论，吵起来了，太有意思了。&nbsp;(why技术)·&nbsp;.NET Core中JWT+OAuth2.0实现SSO，附完整源码（.NET6）&nbsp;(包子wxl)·&nbsp;技术管理进阶——你遇到过耍小聪明的同学吗？&nbsp;(叶小钗)·&nbsp;为什么人们都讨厌开会？&nbsp;(叶小钗)·&nbsp;在 .N        <a href="https://www.cnblogs.com/cmt/p/16346997.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.23-5.29）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/05/30.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/05/30.html"/>
-        <updated>2022-07-05T05:43:58.859Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16325710">
-摘要：            
-热点随笔： ·&nbsp;桌面软件开发框架大赏&nbsp;(liulun)·&nbsp;最近身边一个技术负责人裸辞了...&nbsp;(叶小钗)·&nbsp;.NET MAUI 正式发布，再见了 Xamarin.Forms&nbsp;(张善友)·&nbsp;.NET性能优化-推荐使用Collections.Pooled&nbsp;(InCerry)·&nbsp;理解RESTful Api        <a href="https://www.cnblogs.com/cmt/p/16325710.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>

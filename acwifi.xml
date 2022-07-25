@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-24T17:40:17.366Z</updated>
+    <updated>2022-07-25T05:49:21.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[又又装了一台ITX小小主机，手里的各款CPU测试分数对比]]></title>
+        <id>https://www.acwifi.net/21672.html</id>
+        <link href="https://www.acwifi.net/21672.html"/>
+        <updated>2022-07-25T05:49:04.028Z</updated>
+        <content type="html"><![CDATA[想看看十二代奔腾够不够用，于是就装了这么一台。这款机箱是第10几台了，没数清楚，从最初的68包邮卖到现在的120元不包邮，一直有需求就买，没办法，这机箱太适合我用了，而且也确保每台的天线在水平线上是一样的。 主板480元，H610 ITX工控板，写着19V供电的都可以用12V供电...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米Xiaomi HomeWiFi Wi-Fi6全屋路由两只装拆机]]></title>
         <id>https://www.acwifi.net/21604.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21367.html"/>
         <updated>2022-07-05T05:43:50.960Z</updated>
         <content type="html"><![CDATA[售价1499元，直接开卖了没有搞预售活动。虽然是1499元，可这是两只套装，不是单只装。但是呢，我还没决定付不付款！想等单只装的！ 外观是黑色的内置天线，为啥不弄个白色呢。 先看最下面的小字说明： 注释： * 以上页面中的产品图片仅作示意，实物产品效果可能略有差异，请以实物为准。...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1个2.5G+4个千兆口的交换机拆机和测试]]></title>
-        <id>https://www.acwifi.net/21320.html</id>
-        <link href="https://www.acwifi.net/21320.html"/>
-        <updated>2022-07-05T05:43:50.962Z</updated>
-        <content type="html"><![CDATA[这款交换机淘宝128元包邮，有1个2.5G口和4个1G口，这个价格完全可以买到铁壳8口的全千兆交换机，如果不是对多个接口有并发需求，或者你的另一个交换机有多余的2.5G网口又有想扩充多个千兆口来用的，那就不用买它。 外包装： 机身和配件 ： 电源输出规格是5V/1A，我接的12V...]]></content>
     </entry>
 </feed>
