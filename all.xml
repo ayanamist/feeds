@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T05:54:32.823Z</updated>
+    <updated>2022-07-26T17:42:27.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -32,7 +32,7 @@
             
           </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             July 21, 2022
-          </div><div data-v-2803187e="" class="author-list"></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/heesung.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Heesung Sohn</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/photo_kaiwang.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Kai Wang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -69,7 +69,7 @@
         <id>https://streamnative.io/blog/community/2022-07-06-speakers-and-sponsorship-prospectus-announced-for-pulsar-summit-san-francisco/</id>
         <link href="https://streamnative.io/blog/community/2022-07-06-speakers-and-sponsorship-prospectus-announced-for-pulsar-summit-san-francisco/"/>
         <updated>2022-07-07T05:42:12.089Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Speakers and Sponsorship Prospectus Announced for Pulsar Summit San Francisco 2022" src="/uploads/images/pulsarsummitsf22_speakers-announcement-blog-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Speakers and Sponsorship Prospectus Announced for Pulsar Summit San Francisco 2022" src="/uploads/images/blog-cover-800x800-.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
             Pulsar Summit
           </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
             Speakers and Sponsorship Prospectus Announced for Pulsar Summit San Francisco 2022
@@ -183,6 +183,114 @@
           </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             May 10, 2022
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/screen-shot-2022-05-10-at-9.31.05-am.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Zike Yang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全链路压测改造之全链自动化测试实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17759501</id>
+        <link href="https://www.bilibili.com/read/cv17759501"/>
+        <updated>2022-07-26T17:42:05.878Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17759501" target="_blank" title="本期作者01 背景与意义B站直播营收送礼业务有着高写、在跨晚和S赛等大型活动下流量陡增、数据实时性要求高等特性，传统压测对于写场景为了避免影响线上数据做了各种屏蔽和黑名单处理，有着无法逼近线上真实情况的问题，因此业务对全链路压测有着较大的诉求，需要通过全链路压测来系统性地评估服务容量，发现瓶颈和隐患。对于该诉求，直播技术侧结合公司的全链路压测方案，对营收送礼业务进行了全链路压测的服务改造。整个过程涉及到营收核心服务、底层中间件、压测sdk、压测控制台、施压平台等多处改造，链路长、配置多、影响的业">
+                      本期作者01 背景与意义B站直播营收送礼业务有着高写、在跨晚和S赛等大型活动下流量陡增、数据实时性要求高等特性，传统压测对于写场景为了避免影响线上数据做了各种屏蔽和黑名单处理，有着无法逼近线上真实情况的问题，因此业务对全链路压测有着较大的诉求，需要通过全链路压测来系统性地评估服务容量，发现瓶颈和隐患。对于该诉求，直播技术侧结合公司的全链路压测方案，对营收送礼业务进行了全链路压测的服务改造。整个过程涉及到营收核心服务、底层中间件、压测sdk、压测控制台、施压平台等多处改造，链路长、配置多、影响的业
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内容速达 | bilibili 在 GIAC 上的演讲 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17712747</id>
+        <link href="https://www.bilibili.com/read/cv17712747"/>
+        <updated>2022-07-26T17:42:05.879Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17712747" target="_blank" title="API Gateway 演进与工程化实践运用ClickHouse处理海量数据分析场景的实践，探索与思考欢迎关注哔哩哔哩技术！">
+                      API Gateway 演进与工程化实践运用ClickHouse处理海量数据分析场景的实践，探索与思考欢迎关注哔哩哔哩技术！
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BILISRC 白帽子七夕情人节三倍积分活动来啦！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17696137</id>
+        <link href="https://www.bilibili.com/read/cv17696137"/>
+        <updated>2022-07-26T17:42:05.880Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17696137" target="_blank" title="BILISRC白帽子七夕情人节三倍积分活动许久未见的活动终于来啦！感谢白帽子们一直在线的支持与关注！！！转眼又将迎来七夕节情人节，大家想要的BILISRC年中活动也将同步开启。本次活动为三倍积分奖励活动，活动期间经过审核有效的中、高危漏洞均为三倍积分奖励。活动时间为2022年7月24日至2022年8月4日。欢迎来玩～">
+                      BILISRC白帽子七夕情人节三倍积分活动许久未见的活动终于来啦！感谢白帽子们一直在线的支持与关注！！！转眼又将迎来七夕节情人节，大家想要的BILISRC年中活动也将同步开启。本次活动为三倍积分奖励活动，活动期间经过审核有效的中、高危漏洞均为三倍积分奖励。活动时间为2022年7月24日至2022年8月4日。欢迎来玩～
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站基于Apache Ranger的大数据权限服务的技术演进 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17696131</id>
+        <link href="https://www.bilibili.com/read/cv17696131"/>
+        <updated>2022-07-26T17:42:05.880Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17696131" target="_blank" title="本期作者01 背景随着云计算、大数据技术的日趋成熟，复杂多元、规模庞大的数据所蕴含的经济价值和社会价值逐步凸显，数据安全也是企业面临的巨大挑战，B站一直致力于对用户隐私数据的保护。02 Ranger概述2.1 用户认证提到安全，就不得不提及用户认证，Hadoop默认是没有安全认证的，用户可以伪装成任意用户访问集群，存在巨大安全隐患。Hadoop 1.x 版本以后就已经加入了Kerberos认证机制，只有经过认证的用户才可以访问集群，目前我们数据平台的客户端及早期开放给用户的一些开发客户端已经全部">
+                      本期作者01 背景随着云计算、大数据技术的日趋成熟，复杂多元、规模庞大的数据所蕴含的经济价值和社会价值逐步凸显，数据安全也是企业面临的巨大挑战，B站一直致力于对用户隐私数据的保护。02 Ranger概述2.1 用户认证提到安全，就不得不提及用户认证，Hadoop默认是没有安全认证的，用户可以伪装成任意用户访问集群，存在巨大安全隐患。Hadoop 1.x 版本以后就已经加入了Kerberos认证机制，只有经过认证的用户才可以访问集群，目前我们数据平台的客户端及早期开放给用户的一些开发客户端已经全部
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月22-23日 | GIAC 全球互联网架构大会 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17696135</id>
+        <link href="https://www.bilibili.com/read/cv17696135"/>
+        <updated>2022-07-26T17:42:05.881Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17696135" target="_blank" title="GIAC 全球互联网架构大会B站基础架构部资深开发工程师陈志辉、胡甫旺将于本周22-23日参加GIAC 全球互联网架构大会，分享《API Gateway 演进与工程化实践》、《运用Clickhouse处理海量数据分析场景的实践，探索与思考》。欢迎大家积极参会交流！欢迎关注哔哩哔哩技术！">
+                      GIAC 全球互联网架构大会B站基础架构部资深开发工程师陈志辉、胡甫旺将于本周22-23日参加GIAC 全球互联网架构大会，分享《API Gateway 演进与工程化实践》、《运用Clickhouse处理海量数据分析场景的实践，探索与思考》。欢迎大家积极参会交流！欢迎关注哔哩哔哩技术！
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哔哩哔哩自研虚拟偶像文件格式BVA已开源！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17641860</id>
+        <link href="https://www.bilibili.com/read/cv17641860"/>
+        <updated>2022-07-26T17:42:05.882Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17641860" target="_blank" title="本期作者背景目前现存的3D文件格式，主要有三大类，有专门面向模型设计者的格式如FBX，DAZ，还有引擎专用的资源，该类资源可以包含几乎所有引擎支持的功能性数据，而还有一类偏小众的文件格式就专门针对某些特定领域，其中在互联网上流传最广泛的当属MMD格式，在B站上也有大量用MMD生成的视频内容，类型下图对现有的一些3D格式类型做了功能和应用场景上的对比。3D格式对比图通过分析当前主流3D格式，我们了解到现有几种主流3D格式的局限性，为了支持玩家创作高自由度的3D世界，并能进行分享交易，有必要拥有一个">
+                      本期作者背景目前现存的3D文件格式，主要有三大类，有专门面向模型设计者的格式如FBX，DAZ，还有引擎专用的资源，该类资源可以包含几乎所有引擎支持的功能性数据，而还有一类偏小众的文件格式就专门针对某些特定领域，其中在互联网上流传最广泛的当属MMD格式，在B站上也有大量用MMD生成的视频内容，类型下图对现有的一些3D格式类型做了功能和应用场景上的对比。3D格式对比图通过分析当前主流3D格式，我们了解到现有几种主流3D格式的局限性，为了支持玩家创作高自由度的3D世界，并能进行分享交易，有必要拥有一个
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站在全链路压测上的实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17581400</id>
+        <link href="https://www.bilibili.com/read/cv17581400"/>
+        <updated>2022-07-26T17:42:05.883Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17581400" target="_blank" title="本期作者01 背景全链路压测是在线上生产环境中通过模拟正常用户操作路径进行压力测试的一种方式，对比于我们通常的接口压测具有仿真度高、场景覆盖全等特点。过去的几年里，阿里、美团、字节等大厂均有一系列的实践技术文章进行分享公开，更有PTS全链路压测、XSea全链路压测平台、Takin全链路压测平台等商业化解决方案。站在巨人们的肩膀上，本文将基于这些成熟的实践经验并结合 B 站的基础设施来介绍我们在全链路压测的建设和落地经验。02 方案选择我们首先看看实施全链路压测需要具备哪些能力？整体分为两部分：基">
+                      本期作者01 背景全链路压测是在线上生产环境中通过模拟正常用户操作路径进行压力测试的一种方式，对比于我们通常的接口压测具有仿真度高、场景覆盖全等特点。过去的几年里，阿里、美团、字节等大厂均有一系列的实践技术文章进行分享公开，更有PTS全链路压测、XSea全链路压测平台、Takin全链路压测平台等商业化解决方案。站在巨人们的肩膀上，本文将基于这些成熟的实践经验并结合 B 站的基础设施来介绍我们在全链路压测的建设和落地经验。02 方案选择我们首先看看实施全链路压测需要具备哪些能力？整体分为两部分：基
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月16日 直播预告 | 系统故障踩坑复盘：B站“713事故”后的多活容灾建设优化 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17581401</id>
+        <link href="https://www.bilibili.com/read/cv17581401"/>
+        <updated>2022-07-26T17:42:05.884Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17581401" target="_blank" title="如何写好一篇复盘报告？看B站的713复盘来获取经验吧。分享嘉宾曾深度参与713故障处理，本次分享将对713部分问题做答疑解惑，同时还会分享B站常见的高可用方案和故障后的多活容灾建设优化。直播前必看：2021.07.13 我们是这样崩的">
+                      如何写好一篇复盘报告？看B站的713复盘来获取经验吧。分享嘉宾曾深度参与713故障处理，本次分享将对713部分问题做答疑解惑，同时还会分享B站常见的高可用方案和故障后的多活容灾建设优化。直播前必看：2021.07.13 我们是这样崩的
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021.07.13 我们是这样崩的 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17521097</id>
+        <link href="https://www.bilibili.com/read/cv17521097"/>
+        <updated>2022-07-26T17:42:05.885Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17521097" target="_blank" title="至暗时刻2021年7月13日22:52，SRE收到大量服务和域名的接入层不可用报警，客服侧开始收到大量用户反馈B站无法使用，同时内部同学也反馈B站无法打开，甚至APP首页也无法打开。基于报警内容，SRE第一时间怀疑机房、网络、四层LB、七层SLB等基础设施出现问题，紧急发起语音会议，拉各团队相关人员开始紧急处理（为了方便理解，下述事故处理过程做了部分简化）。初因定位22:55 远程在家的相关同学登陆VPN后，无法登陆内网鉴权系统（B站内部系统有统一鉴权，需要先获取登录态后才可登陆其他内部系统），">
+                      至暗时刻2021年7月13日22:52，SRE收到大量服务和域名的接入层不可用报警，客服侧开始收到大量用户反馈B站无法使用，同时内部同学也反馈B站无法打开，甚至APP首页也无法打开。基于报警内容，SRE第一时间怀疑机房、网络、四层LB、七层SLB等基础设施出现问题，紧急发起语音会议，拉各团队相关人员开始紧急处理（为了方便理解，下述事故处理过程做了部分简化）。初因定位22:55 远程在家的相关同学登陆VPN后，无法登陆内网鉴权系统（B站内部系统有统一鉴权，需要先获取登录态后才可登陆其他内部系统），
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月15日 直播预告 | TOP互联网公司的SRE体系是如何建成的？ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17521185</id>
+        <link href="https://www.bilibili.com/read/cv17521185"/>
+        <updated>2022-07-26T17:42:05.886Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17521185" target="_blank" title="">
+                      
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站移动端低代码测试探索与实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17467248</id>
+        <link href="https://www.bilibili.com/read/cv17467248"/>
+        <updated>2022-07-26T17:42:05.887Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17467248" target="_blank" title="本期作者01 背景移动互联网作为一个跨度十年有余的行业，业内的技术生态已经基本上定型。在经历过各大公司技术创新跟实践后，移动端的质量保障方案逐渐演变为几个大的方向，第一个方向是将测试能力右移，通过灰度、容灾、监控建立质量保障方案，如 Crash 告警、舆情监控、问题排查、业务全链路问题定位等，基于线上规模化效应，快速发现线上问题，再通过配置、热更新、动态化等技术手段修复线上问题。另外一个方向是将测试能力左移，建设一些列的线下保障手段，如测试流程规范化、UI 自动化、Monkey、性能专项测试工具">
+                      本期作者01 背景移动互联网作为一个跨度十年有余的行业，业内的技术生态已经基本上定型。在经历过各大公司技术创新跟实践后，移动端的质量保障方案逐渐演变为几个大的方向，第一个方向是将测试能力右移，通过灰度、容灾、监控建立质量保障方案，如 Crash 告警、舆情监控、问题排查、业务全链路问题定位等，基于线上规模化效应，快速发现线上问题，再通过配置、热更新、动态化等技术手段修复线上问题。另外一个方向是将测试能力左移，建设一些列的线下保障手段，如测试流程规范化、UI 自动化、Monkey、性能专项测试工具
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月5日 直播预告 | AB公开课之数据存储系列第①期：KV存储 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17418653</id>
+        <link href="https://www.bilibili.com/read/cv17418653"/>
+        <updated>2022-07-26T17:42:05.888Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17418653" target="_blank" title="AB公开课 ( AI &amp; Big Data Open Class ) ，是 DataFun 策划的针对大数据和 AI 某一细分领域的系列垂直在线公开课。旨在为广大数据智能从业者提供一个日常学习交流的平台，促进先进的数据智能技术的传播与广泛落地。7月5日，18:00-19:30，AB公开课 | 数据存储系列第①期，将邀请来自 bilibili 和抖音的两位嘉宾，就 KV 存储的相关主题进行深度分享与交流，欢迎大家按时收看直播~主办方：DataFun直播时间：7.5 18:00-19:30活动地点：">
+                      AB公开课 ( AI &amp; Big Data Open Class ) ，是 DataFun 策划的针对大数据和 AI 某一细分领域的系列垂直在线公开课。旨在为广大数据智能从业者提供一个日常学习交流的平台，促进先进的数据智能技术的传播与广泛落地。7月5日，18:00-19:30，AB公开课 | 数据存储系列第①期，将邀请来自 bilibili 和抖音的两位嘉宾，就 KV 存储的相关主题进行深度分享与交流，欢迎大家按时收看直播~主办方：DataFun直播时间：7.5 18:00-19:30活动地点：
+                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又又装了一台ITX小小主机，手里的各款CPU测试分数对比 (路由器交流-无线路由器使用分享与评测对比)]]></title>
