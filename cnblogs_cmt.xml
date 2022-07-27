@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-07-26T17:42:27.108Z</updated>
+    <updated>2022-07-27T05:49:22.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[下一步，敏捷！｜ 助力远程办公走向成功系列讲座]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/27.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/27.html"/>
+        <updated>2022-07-27T05:49:21.498Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16524224">
+摘要：            
+新冠病毒的常态化让中国经济社会环境发生了翻天覆地的变化，彻底改变了很多企业在工作环境中的沟通及协作方式，并为企业带来更多不可预估的风险。 2022年，我国多个城市的大量公司经历了被迫让员工在家办公的无奈，远程办公为很多企业主和管理人员带来了挑战和困扰，全球各大企业也在重新思考未来可持续的工作模式。         <a href="https://www.cnblogs.com/cmt/p/16524224.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（7.18-7.24）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/07/25.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16369812">
 摘要：            
 热点随笔： ·&nbsp;C#和Java，究竟选哪个方向？我只说事实，你自己分析……&nbsp;(自由飞)·&nbsp;构建基于React18的电子表格程序&nbsp;(葡萄城技术团队)·&nbsp;BI　如何让SaaS产品具有 “安全感”和“敏锐感”（上）&nbsp;(葡萄城技术团队)·&nbsp;在 4GB 物理内存的机器上，申请 8G 内存会怎么样？&nbsp;(小林co        <a href="https://www.cnblogs.com/cmt/p/16369812.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.30-6.5）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/06/06.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/06/06.html"/>
-        <updated>2022-07-05T05:43:58.856Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16346997">
-摘要：            
-热点随笔： ·&nbsp;为了更好的吃这个瓜，我去拉了一下评论，吵起来了，太有意思了。&nbsp;(why技术)·&nbsp;.NET Core中JWT+OAuth2.0实现SSO，附完整源码（.NET6）&nbsp;(包子wxl)·&nbsp;技术管理进阶——你遇到过耍小聪明的同学吗？&nbsp;(叶小钗)·&nbsp;为什么人们都讨厌开会？&nbsp;(叶小钗)·&nbsp;在 .N        <a href="https://www.cnblogs.com/cmt/p/16346997.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
