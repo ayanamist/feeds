@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-07-29T05:46:04.028Z</updated>
+    <updated>2022-07-29T17:41:56.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[第三款纸片路由XDR6000上市，是高通还是联发科呢？]]></title>
+        <id>https://www.acwifi.net/21759.html</id>
+        <link href="https://www.acwifi.net/21759.html"/>
+        <updated>2022-07-29T17:41:48.258Z</updated>
+        <content type="html"><![CDATA[今天有人在公众号留言说AX6000的纸片路由在京东开卖了，没有预售，直接挂卖了，型号是XDR6000，价格529元。2.4G和5G都是4x4MIMO，一共8条空间流，似乎跟XDR5400只差在2.4G上。 以下是前两款XDR3000和XDR5400的硬件配置： 从上图可直观看出，...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL-R5010PE-AC新款一体机拆机]]></title>
         <id>https://www.acwifi.net/21706.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21385.html"/>
         <updated>2022-07-06T17:43:37.702Z</updated>
         <content type="html"><![CDATA[XDR6050的外包装是有封塑的，拆机之前已经拿出来简单开机测试。 机身和配件 ： 电源输出规格是12V/2A，实测联网后的待机功率是4.9W，比XDR6020还要低一点点，可能电路板体积小了，走线短了所以损耗就少了吗？？ 可以说这是目前为止功耗最低的AX6000 Wi-Fi 6...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半高直插ITX机箱真漂亮，所以装了台主机]]></title>
-        <id>https://www.acwifi.net/21355.html</id>
-        <link href="https://www.acwifi.net/21355.html"/>
-        <updated>2022-07-05T17:44:28.851Z</updated>
-        <content type="html"><![CDATA[一共买了两个ITX全铝机箱，一个是可以安装1U电源的半高直插（300元），另一个是没有这个电源安装空间的（280元），更小一点，但还是有半高直插，觉得体积小的更好看。但这次没有拿综出来拍照。不然怎么能水多一篇呢。 所有东西在下图中了。我是边拍照边装的，以为比较简单，但这个半高真插...]]></content>
     </entry>
 </feed>
