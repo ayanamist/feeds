@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-08-08T05:40:52.048Z</updated>
+    <updated>2022-08-08T17:43:31.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新华三（H3C） AX71无线AP拆机，AX5400 Wi-Fi 6 2.5G网口]]></title>
+        <id>https://www.acwifi.net/21780.html</id>
+        <link href="https://www.acwifi.net/21780.html"/>
+        <updated>2022-08-08T17:42:50.013Z</updated>
+        <content type="html"><![CDATA[感觉有一个世纪没有拆机了，最近没时间呀，这篇也以最省的时间编辑一下吧。“新华三（H3C） AX71”，以下都简称H3C AX71，它的外包装： 这款偶尔有人提出来要拆的，我几个月前问过咸鱼的一个卖家680元卖不卖，当时不卖。在我拼多多感觉变黑号后只能出一些没用的券，比如500-1...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最少千兆网口的Wi-Fi 6无线路由器XDR6086上市预售]]></title>
         <id>https://www.acwifi.net/21773.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21472.html"/>
         <updated>2022-07-12T17:40:48.253Z</updated>
         <content type="html"><![CDATA[锐捷这款RG-MA3063挺多人问的。 外包装： 包装盒背面没有说明硬件参数。 取出机身和配件 ： 电源适配器的输出规格是12V/1A，实测联网后的待机功率是5.8W。 天线可以折叠收起来，有些人喜欢把无线路由器塞进弱电箱的，这种折叠天线的就可以做到。 有一根天线上面印有金色的W...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK纸片路由XDR5400拆机]]></title>
-        <id>https://www.acwifi.net/21427.html</id>
-        <link href="https://www.acwifi.net/21427.html"/>
-        <updated>2022-07-10T17:37:29.712Z</updated>
-        <content type="html"><![CDATA[这是第二款纸片路由器，双频AX5400的规格。 外包装：（有封膜的，拍照前撕掉了） 带有Turbo字样，那么5G FEM很可能是高功率的。 机身和电源： 电源是专用，输出规格是5V/2A或12V/2A，实测组网后的待机功率是7W，电源足够了。 纸片路由的电源输入口和RESET键：...]]></content>
     </entry>
 </feed>
