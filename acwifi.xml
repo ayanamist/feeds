@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-08-09T05:42:27.914Z</updated>
+    <updated>2022-08-09T17:41:05.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[磊科S16G拆机，16口千兆交换机铁壳]]></title>
+        <id>https://www.acwifi.net/21831.html</id>
+        <link href="https://www.acwifi.net/21831.html"/>
+        <updated>2022-08-09T17:40:54.851Z</updated>
+        <content type="html"><![CDATA[这款我想买来换掉老掉牙的网件GS108，一来网口数量不够用，二来网口灯光的光线太强烈了，每个网口上方有指示灯，真是一闪一闪亮晶晶，也不方便拿黑色电工胶带粘住。 为啥桌面型的交换机不做个指示灯的物理总开关呢？需要时才打开，不需要时就关闭，减少灯光污染呀。 磊科S16G我在PDD上不...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华三（H3C） AX71无线AP拆机，AX5400 Wi-Fi 6 2.5G网口]]></title>
         <id>https://www.acwifi.net/21780.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21508.html"/>
         <updated>2022-07-14T17:50:25.816Z</updated>
         <content type="html"><![CDATA[中兴E2633的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是5.2W。 五根可折叠且可旋转的天线，最左、最中间，最右这三根是5G天线。 背面接口，最左边是WAN口： 机身顶部没有散热孔，你看见的那些点点不是孔，而是坑。 机身底部有不多不少的散热孔，也...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锐捷RG-MA3063拆机]]></title>
-        <id>https://www.acwifi.net/21472.html</id>
-        <link href="https://www.acwifi.net/21472.html"/>
-        <updated>2022-07-12T17:40:48.253Z</updated>
-        <content type="html"><![CDATA[锐捷这款RG-MA3063挺多人问的。 外包装： 包装盒背面没有说明硬件参数。 取出机身和配件 ： 电源适配器的输出规格是12V/1A，实测联网后的待机功率是5.8W。 天线可以折叠收起来，有些人喜欢把无线路由器塞进弱电箱的，这种折叠天线的就可以做到。 有一根天线上面印有金色的W...]]></content>
     </entry>
 </feed>
