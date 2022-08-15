@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-08-14T17:42:02.542Z</updated>
+    <updated>2022-08-15T05:50:52.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（8.8-8.14）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/08/15.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/08/15.html"/>
+        <updated>2022-08-15T05:50:51.868Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16587220">
+摘要：            
+热点随笔： ·&nbsp;如何在BI中增加“路线地图”并进行数据分析？&nbsp;(葡萄城技术团队)·&nbsp;程序员的悲哀&nbsp;(林子er)·&nbsp;学长告诉我，大厂MySQL都是通过SSH连接的&nbsp;(咔咔-)·&nbsp;【Maui正式版】创建可跨平台的Maui程序，以及有关依赖注入、MVVM双向绑定的实现和演示&nbsp;(WeskyNet)·&nbsp;Fre        <a href="https://www.cnblogs.com/cmt/p/16587220.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（8.1-8.7）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/08/08.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16405164">
 摘要：            
 6月19日开始，我们将博客站点的缓存服务器从 memcached 换成了 redis，稳定运行了3天，今天上午访问高峰突然出现问题，在 11:00 -12:30 期间影响了网站的正常访问，由此给您带来麻烦，请求谅解。接下来我们会进一步分析问题的原因，优化 redis 的部署，目前是在 k8s 集群上部署的非高可用&nbsp; redis 集群（3个节点）。        <a href="https://www.cnblogs.com/cmt/p/16405164.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周热点回顾（6.13-6.19）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/06/20.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/06/20.html"/>
-        <updated>2022-07-05T05:43:58.852Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16392184">
-摘要：            
-热点随笔： ·&nbsp;React Suspense 尝鲜,处理前后端IO异步操作&nbsp;(葡萄城技术团队)·&nbsp;2 万字 + 20张图｜ 细说 Redis 九种数据类型和应用场景&nbsp;(小林coding)·&nbsp;技术管理进阶——管理者可以使用哪些管理工具&nbsp;(叶小钗)·&nbsp;BI与SaaS碰撞，让数据处理更加轻松（下）&nbsp;(葡萄        <a href="https://www.cnblogs.com/cmt/p/16392184.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
