@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-08-23T06:10:17.726Z</updated>
+    <updated>2022-08-23T17:41:28.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK AX6000双频WiFi6 XDR6086易展Turbo版拆机]]></title>
+        <id>https://www.acwifi.net/21922.html</id>
+        <link href="https://www.acwifi.net/21922.html"/>
+        <updated>2022-08-23T17:41:19.979Z</updated>
+        <content type="html"><![CDATA[XDR6086是内置天线的轻舟，有好多人在等这款。话不多说了！ 机身和配件 ： 机身背面就三个网口，双2.5G口再加一个千兆口，还有一个USB3.0接口。现时千元以内，最快的USB3.0正是轻舟身上的。 有个TURBO键，有它就是有强的FEM芯片的意思。（XDR5450有点例外，...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腾达TEG1016M拆机16口千兆交换机]]></title>
         <id>https://www.acwifi.net/21893.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21604.html"/>
         <updated>2022-07-22T17:48:07.874Z</updated>
         <content type="html"><![CDATA[等到有优惠降价时才买来。预售的时候好多人留言说很快会跳水的。果然在PDD上1215元到手！有人买的比我更便宜不？ 全新有封膜的，拆机前开封拿出来摸一了番。一件两套，囊个包装显得比较重，所以呢，快递在手动时突然受到G的影响（重力加速度），所以四个角不太好看。 打开包装： 两个是一模...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻舟XDR6088更新1.0.21固件支持Docker、行为管控、游戏加速]]></title>
-        <id>https://www.acwifi.net/21581.html</id>
-        <link href="https://www.acwifi.net/21581.html"/>
-        <updated>2022-07-20T17:43:30.573Z</updated>
-        <content type="html"><![CDATA[XDR6088今天收到自动更新的提示，终于支持Docker、行为管控这两个重要功能了，游戏加速这功能在行为管控面前还有什么用，禁你玩王者，禁你玩和平精英，禁你访问指定网站和APP应用。 更新之后的功能界面： 首先说一下Docker，开启它必须要插入U盘或移动硬盘。上次买铭瑄H61...]]></content>
     </entry>
 </feed>
