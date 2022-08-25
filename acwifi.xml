@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-08-25T06:11:26.424Z</updated>
+    <updated>2022-08-25T17:42:43.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[腾达AX12 Pro新品上市预售]]></title>
+        <id>https://www.acwifi.net/21975.html</id>
+        <link href="https://www.acwifi.net/21975.html"/>
+        <updated>2022-08-25T17:42:34.220Z</updated>
+        <content type="html"><![CDATA[发哥呀高哥呀这些东西好像都不能用，所以腾达在Wi-Fi 6的时代，新产品很少很少。想当年的腾达AC9和AC15，增加对网件华硕造成了一些冲击（当年的AC9与后来的AC9不是同一个AC9）。腾达有不少老用户，所以这款新上市的AX12 Pro也有几个人来问。我希望市场上能多几个有实力...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK AX6000双频WiFi6 XDR6086易展Turbo版拆机]]></title>
         <id>https://www.acwifi.net/21922.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21672.html"/>
         <updated>2022-07-25T05:49:04.028Z</updated>
         <content type="html"><![CDATA[想看看十二代奔腾够不够用，于是就装了这么一台。这款机箱是第10几台了，没数清楚，从最初的68包邮卖到现在的120元不包邮，一直有需求就买，没办法，这机箱太适合我用了，而且也确保每台的天线在水平线上是一样的。 主板480元，H610 ITX工控板，写着19V供电的都可以用12V供电...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米Xiaomi HomeWiFi Wi-Fi6全屋路由两只装拆机]]></title>
-        <id>https://www.acwifi.net/21604.html</id>
-        <link href="https://www.acwifi.net/21604.html"/>
-        <updated>2022-07-22T17:48:07.874Z</updated>
-        <content type="html"><![CDATA[等到有优惠降价时才买来。预售的时候好多人留言说很快会跳水的。果然在PDD上1215元到手！有人买的比我更便宜不？ 全新有封膜的，拆机前开封拿出来摸一了番。一件两套，囊个包装显得比较重，所以呢，快递在手动时突然受到G的影响（重力加速度），所以四个角不太好看。 打开包装： 两个是一模...]]></content>
     </entry>
 </feed>
