@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-08-30T17:44:36.954Z</updated>
+    <updated>2022-08-31T06:45:57.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WCN685x QCNFA765支持2882Mbps的无线网卡]]></title>
+        <id>https://www.acwifi.net/21994.html</id>
+        <link href="https://www.acwifi.net/21994.html"/>
+        <updated>2022-08-31T06:45:44.257Z</updated>
+        <content type="html"><![CDATA[虽说如此，但2882Mbps，只是你能看见的数字，并不能代表它真有这个能力。上星期有人留言说买了张QCNFA765无线网卡，但安装不了，于是我闲鱼找到了这个网卡。在此之前我已经有一张WCN685x，也就是WCN6856了，不确定是否跟QCNFA765一样。现在告诉你们，是一样的东...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华三（H3C）NX15路由器新品上市]]></title>
         <id>https://www.acwifi.net/21984.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21759.html"/>
         <updated>2022-07-29T17:41:48.258Z</updated>
         <content type="html"><![CDATA[今天有人在公众号留言说AX6000的纸片路由在京东开卖了，没有预售，直接挂卖了，型号是XDR6000，价格529元。2.4G和5G都是4x4MIMO，一共8条空间流，似乎跟XDR5400只差在2.4G上。 以下是前两款XDR3000和XDR5400的硬件配置： 从上图可直观看出，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-R5010PE-AC新款一体机拆机]]></title>
-        <id>https://www.acwifi.net/21706.html</id>
-        <link href="https://www.acwifi.net/21706.html"/>
-        <updated>2022-07-28T17:46:01.602Z</updated>
-        <content type="html"><![CDATA[TP新出的这款TL-R5010PE-AC一体机，几乎每天都有人问，闲鱼1500多。只要问得多了，基本都会拆，不需要什么一键三连呀也不需要赞赏呀关注呀这些，留言问得多的我就会关注相关机型。最近运营商定制机没出新款了吗，有也可以留言告诉我，在PDD黑我的号之前还可以买得便宜一些。 直...]]></content>
     </entry>
 </feed>
