@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-01T06:03:58.394Z</updated>
+    <updated>2022-09-01T17:44:20.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,6 +185,114 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自研虚拟偶像文件的制作与使用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18360660</id>
+        <link href="https://www.bilibili.com/read/cv18360660"/>
+        <updated>2022-09-01T17:43:43.203Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18360660" target="_blank" title="本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V">
+                      本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站摘冠！！！强化学习 LastOrder 团队在IJCAI2022-NeuralMMO的比赛中获得冠军 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18360663</id>
+        <link href="https://www.bilibili.com/read/cv18360663"/>
+        <updated>2022-09-01T17:43:43.205Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18360663" target="_blank" title="本期作者01 背景自从在棋类游戏中取得成功以来，强化学习继续在FPS（雷神之锤3）、RTS（星际2）、MOBA（DOTA2）等类型的游戏中表现出色。与这些游戏相比，MMO游戏模拟了更宏观的世界，拥有更丰富的游戏内容，成为强化学习新的应用研究领域。2019年，OpenAI发布了支持强化学习训练的大规模多智能体游戏环境——Neural MMO。NMMO以丰富的内容和优秀的开放性成为2022年国际人工智能联合会议（IJCAI）的比赛项目。在IJCAI2022-NeuralMMO的比赛中，哔哩哔哩的强化">
+                      本期作者01 背景自从在棋类游戏中取得成功以来，强化学习继续在FPS（雷神之锤3）、RTS（星际2）、MOBA（DOTA2）等类型的游戏中表现出色。与这些游戏相比，MMO游戏模拟了更宏观的世界，拥有更丰富的游戏内容，成为强化学习新的应用研究领域。2019年，OpenAI发布了支持强化学习训练的大规模多智能体游戏环境——Neural MMO。NMMO以丰富的内容和优秀的开放性成为2022年国际人工智能联合会议（IJCAI）的比赛项目。在IJCAI2022-NeuralMMO的比赛中，哔哩哔哩的强化
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B 站 Kratos 项目大揭秘！快来 get 一条龙项目贡献指导 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18343195</id>
+        <link href="https://www.bilibili.com/read/cv18343195"/>
+        <updated>2022-09-01T17:43:43.206Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18343195" target="_blank" title="本期直播亮点抢先看大厂技术负责人带你了解 Kratos 框架整体设计理念，理解框架工程化实践带你了解开源项目贡献的二三事，了解如何向 Kratos 项目进行贡献现场 show code 带你手把手尝试向 Kratos 贡献力量1 关于 Kratos 项目Kratos 是 bilibili 开源的一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。开发者可以按照自己的习惯选用或定制其中的组件，来打造自己的微服务。也正是由于这样的原因，Kratos 并不绑定于特定的基础设施，不限定于某种注册">
+                      本期直播亮点抢先看大厂技术负责人带你了解 Kratos 框架整体设计理念，理解框架工程化实践带你了解开源项目贡献的二三事，了解如何向 Kratos 项目进行贡献现场 show code 带你手把手尝试向 Kratos 贡献力量1 关于 Kratos 项目Kratos 是 bilibili 开源的一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。开发者可以按照自己的习惯选用或定制其中的组件，来打造自己的微服务。也正是由于这样的原因，Kratos 并不绑定于特定的基础设施，不限定于某种注册
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站云原生混部技术实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18300335</id>
+        <link href="https://www.bilibili.com/read/cv18300335"/>
+        <updated>2022-09-01T17:43:43.207Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18300335" target="_blank" title="本期作者01 背景中大型互联网公司的服务器数量可达万级别，在降本增效的大背景下，机器资源利用率的重要性日益凸显。如何在确保服务SLO影响最小的情况下提高机器资源利用率，从而降低服务器的采购成本，是一项非常值得研究的课题。对于k8s云平台来说，造成机器平均资源利用率低的原因可以概括为以下几点：业务申请的资源配额超过实际使用量。即用户在申请资源时可能会对服务的真实资源使用情况估计不足，一般倾向于申请过量的资源。这就导致机器配额被占满，无法继续调度容器，而实际资源利用率却很低。服务的资源使用量存在波峰">
+                      本期作者01 背景中大型互联网公司的服务器数量可达万级别，在降本增效的大背景下，机器资源利用率的重要性日益凸显。如何在确保服务SLO影响最小的情况下提高机器资源利用率，从而降低服务器的采购成本，是一项非常值得研究的课题。对于k8s云平台来说，造成机器平均资源利用率低的原因可以概括为以下几点：业务申请的资源配额超过实际使用量。即用户在申请资源时可能会对服务的真实资源使用情况估计不足，一般倾向于申请过量的资源。这就导致机器配额被占满，无法继续调度容器，而实际资源利用率却很低。服务的资源使用量存在波峰
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常数时间国密算法（三）：SM2的素域求逆技术 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18234103</id>
+        <link href="https://www.bilibili.com/read/cv18234103"/>
+        <updated>2022-09-01T17:43:43.215Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18234103" target="_blank" title="本期作者现在我们来看SM2常数时间实现的另一个技术点，即素域求逆。在这篇文章，我们先介绍SM2的签名验签算法，指出实现中的安全隐患，然后介绍相关的数学知识，最后讲解如何安全地实现签名验签算法。01 SM2签名算法简单介绍素域求逆是SM2签名算法所要求的。使用规范文本GMT 0003.2-2012的符号约定：e    为原始待签名信息、椭圆曲线公共参数、签名者信息的综合摘要，为一个256位整数；k    为使用安全的随机数生成器所生成的随机数，取值范围[1, n-1]，其中n为椭圆曲线的参数，并且">
+                      本期作者现在我们来看SM2常数时间实现的另一个技术点，即素域求逆。在这篇文章，我们先介绍SM2的签名验签算法，指出实现中的安全隐患，然后介绍相关的数学知识，最后讲解如何安全地实现签名验签算法。01 SM2签名算法简单介绍素域求逆是SM2签名算法所要求的。使用规范文本GMT 0003.2-2012的符号约定：e    为原始待签名信息、椭圆曲线公共参数、签名者信息的综合摘要，为一个256位整数；k    为使用安全的随机数生成器所生成的随机数，取值范围[1, n-1]，其中n为椭圆曲线的参数，并且
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[web端pdf编辑能力设计与实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18234094</id>
+        <link href="https://www.bilibili.com/read/cv18234094"/>
+        <updated>2022-09-01T17:43:43.215Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18234094" target="_blank" title="本期作者本文将从业务场景与技术实现等角度对“web端pdf编辑能力”进行基本的介绍。01 背景B站电子签约平台业务简介正如其名，该平台用于B站各场景下的“电子签约”业务，相当于把大量原本需在线下完成的纸质合同签约过程移至线上。其中一种典型的签约流程示意如下：其中最核心的就是第三步，也是最耗时、最易出错的一步。常见pdf合同模板如下（局部）：是的，pdf支持表单。这种“含表单的pdf”就构成了电子签约平台的“合同模板”，各签约方在其基础上填写并经过电子签章后，就形成了具有法律效益的电子合同。使用市">
+                      本期作者本文将从业务场景与技术实现等角度对“web端pdf编辑能力”进行基本的介绍。01 背景B站电子签约平台业务简介正如其名，该平台用于B站各场景下的“电子签约”业务，相当于把大量原本需在线下完成的纸质合同签约过程移至线上。其中一种典型的签约流程示意如下：其中最核心的就是第三步，也是最耗时、最易出错的一步。常见pdf合同模板如下（局部）：是的，pdf支持表单。这种“含表单的pdf”就构成了电子签约平台的“合同模板”，各签约方在其基础上填写并经过电子签章后，就形成了具有法律效益的电子合同。使用市
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HLS直播协议在B站的实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18179472</id>
+        <link href="https://www.bilibili.com/read/cv18179472"/>
+        <updated>2022-09-01T17:43:43.216Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18179472" target="_blank" title="本期作者01 背景在音视频直播领域，各种新技术与新标准层出不穷，直播场景也愈发复杂。为了更好的面对未来的挑战，我们需要亟需下一代直播协议来支持这些新标准的落地，B站在此方面进行了探索，率先在国内推行HLS(fmp4)协议在国内直播领域大规模落地。本期我们主要分享HLS在B站落地方面的工程实践经验。02 现状与问题传统直播技术使用的传输协议主要是RTMP/HTTP-FLV。其中RTMP是有Adobe公司开发的，虽然不是国际标准，但在当年Flash流行的年代影响下，成为了业界事实标准。基于RTMP/">
+                      本期作者01 背景在音视频直播领域，各种新技术与新标准层出不穷，直播场景也愈发复杂。为了更好的面对未来的挑战，我们需要亟需下一代直播协议来支持这些新标准的落地，B站在此方面进行了探索，率先在国内推行HLS(fmp4)协议在国内直播领域大规模落地。本期我们主要分享HLS在B站落地方面的工程实践经验。02 现状与问题传统直播技术使用的传输协议主要是RTMP/HTTP-FLV。其中RTMP是有Adobe公司开发的，虽然不是国际标准，但在当年Flash流行的年代影响下，成为了业界事实标准。基于RTMP/
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月19日 | Techo TVP 开发者峰会 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18179484</id>
+        <link href="https://www.bilibili.com/read/cv18179484"/>
+        <updated>2022-09-01T17:43:43.216Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18179484" target="_blank" title="直播预告B站基础架构部OLAP-ES平台负责人王星轶将于8月19日16:05-16:20参加Techo TVP 开发者峰会，分享《构建健壮的数据基础设施-数据接入》。欢迎大家积极参会交流！峰会简介Techo TVP 开发者峰会，是面向广大开发者的大型技术交流盛会，旨在通过最用心的分享、最前沿的洞察、最实际的观点，为开发者朋友献上“最有料、有趣、且有用”的开发者峰会。最有料：每一期大会，都将展现一个技术领域的发展全景，在这里，我们带你俯瞰全局。最有趣：再硬核的技术，也因开发者而拥有了温度，在这里，">
+                      直播预告B站基础架构部OLAP-ES平台负责人王星轶将于8月19日16:05-16:20参加Techo TVP 开发者峰会，分享《构建健壮的数据基础设施-数据接入》。欢迎大家积极参会交流！峰会简介Techo TVP 开发者峰会，是面向广大开发者的大型技术交流盛会，旨在通过最用心的分享、最前沿的洞察、最实际的观点，为开发者朋友献上“最有料、有趣、且有用”的开发者峰会。最有料：每一期大会，都将展现一个技术领域的发展全景，在这里，我们带你俯瞰全局。最有趣：再硬核的技术，也因开发者而拥有了温度，在这里，
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月19日-20日 | GOPS全球运维大会2022·深圳站 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18124171</id>
+        <link href="https://www.bilibili.com/read/cv18124171"/>
+        <updated>2022-09-01T17:43:43.216Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18124171" target="_blank" title="直播预告B站基础架构部在线业务SRE负责人武安闯将于8月19日-20日参加GOPS全球运维大会2022·深圳站，分享《B站SRE的稳定性实践与反思》。欢迎大家积极参会交流！SRE如何转型落地？B站SRE做了什么事情？SRE按Google SRE模式实践是最佳吗？我们对Google SRE有哪些反思？本次分享会从组织转型、多活容灾、容量管理、活动保障、故障处理、质量运营等多个方面解析B站的稳定性体系建设实践与反思。">
+                      直播预告B站基础架构部在线业务SRE负责人武安闯将于8月19日-20日参加GOPS全球运维大会2022·深圳站，分享《B站SRE的稳定性实践与反思》。欢迎大家积极参会交流！SRE如何转型落地？B站SRE做了什么事情？SRE按Google SRE模式实践是最佳吗？我们对Google SRE有哪些反思？本次分享会从组织转型、多活容灾、容量管理、活动保障、故障处理、质量运营等多个方面解析B站的稳定性体系建设实践与反思。
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站自动分辨率落地实战 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18124109</id>
+        <link href="https://www.bilibili.com/read/cv18124109"/>
+        <updated>2022-09-01T17:43:43.218Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18124109" target="_blank" title="本期作者01 传统自动分辨率算法的落地 1.1 自动分辨率的背景在网络基础设施升级换代的今天，流媒体的用户希望看到1080P、4K、8K等更高清的视频内容。一般而言，由于高分辨率视频的像素点更多，视频稿件的码率（单位视频时长的数据位数，单位kbps）也会指数级上涨。但用户的下行网速却并不总是稳定高速的。高网速依赖于良好的网络基建，但从服务器到用户链路上的任意一环都有可能发生拥塞。尤其在用户的播放场景从家用电脑扩散到移动端的趋势下，完全避免网速的抖动更是不可能的。为了解决卡顿，最直接的方法是加大播">
+                      本期作者01 传统自动分辨率算法的落地 1.1 自动分辨率的背景在网络基础设施升级换代的今天，流媒体的用户希望看到1080P、4K、8K等更高清的视频内容。一般而言，由于高分辨率视频的像素点更多，视频稿件的码率（单位视频时长的数据位数，单位kbps）也会指数级上涨。但用户的下行网速却并不总是稳定高速的。高网速依赖于良好的网络基建，但从服务器到用户链路上的任意一环都有可能发生拥塞。尤其在用户的播放场景从家用电脑扩散到移动端的趋势下，完全避免网速的抖动更是不可能的。为了解决卡顿，最直接的方法是加大播
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有SLO就没有SRE？来看看B站SRE对SLO的实践总结（下） (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18060342</id>
+        <link href="https://www.bilibili.com/read/cv18060342"/>
+        <updated>2022-09-01T17:43:43.220Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18060342" target="_blank" title="01 背景在上篇文章《没有SLO就没有SRE？来看看B站SRE对SLO的实践总结（上）》中，详细介绍了我们在实践SLO体系时的思路，落地方式和遇到的问题。在没彻底理解SLO及其价值的情况下，我们就尝试建设SLO体系，走了很多弯路。反思阶段我们也认清了SLO的价值。本篇我们就来讲述我们新认知下的SLO体系建设思路。02 业务分级优化等级分级还是分为L0-L3四个级别L0：公司级核心业务，一般是公司级基础服务或公司核心业务场景，如APP推荐、视频播放、支付平台及强依赖业务等，同时需满足1.满足DAU">
+                      01 背景在上篇文章《没有SLO就没有SRE？来看看B站SRE对SLO的实践总结（上）》中，详细介绍了我们在实践SLO体系时的思路，落地方式和遇到的问题。在没彻底理解SLO及其价值的情况下，我们就尝试建设SLO体系，走了很多弯路。反思阶段我们也认清了SLO的价值。本篇我们就来讲述我们新认知下的SLO体系建设思路。02 业务分级优化等级分级还是分为L0-L3四个级别L0：公司级核心业务，一般是公司级基础服务或公司核心业务场景，如APP推荐、视频播放、支付平台及强依赖业务等，同时需满足1.满足DAU
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[元宇宙？Web3！智能合约设计与工程化实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv17997197</id>
+        <link href="https://www.bilibili.com/read/cv17997197"/>
+        <updated>2022-09-01T17:43:43.222Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv17997197" target="_blank" title="本期作者01 背景Web3.0描述的是一种在零信任网络上进行交互的能力，它旨在创建一个全新的信任体系，并改变人与人、人与机构、机构与机构达成协议的方式，用户不需要相信来自任何实体的任何承诺，就可以依赖确定性的软件逻辑，完全按照程序执行协议，这将大幅减少建立信任的成本，提高社会运作的效率。而这一愿景，其实很大程度上依赖于区块链以及智能合约技术。智能合约的概念首次出现在1994年的时候，在美国的密码学家、计算机科学家Nick Szabo的一篇文章里，他是这样定义智能合约的：A smart contr">
+                      本期作者01 背景Web3.0描述的是一种在零信任网络上进行交互的能力，它旨在创建一个全新的信任体系，并改变人与人、人与机构、机构与机构达成协议的方式，用户不需要相信来自任何实体的任何承诺，就可以依赖确定性的软件逻辑，完全按照程序执行协议，这将大幅减少建立信任的成本，提高社会运作的效率。而这一愿景，其实很大程度上依赖于区块链以及智能合约技术。智能合约的概念首次出现在1994年的时候，在美国的密码学家、计算机科学家Nick Szabo的一篇文章里，他是这样定义智能合约的：A smart contr
+                    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WCN685x QCNFA765支持2882Mbps的无线网卡 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/21994.html</id>
         <link href="https://www.acwifi.net/21994.html"/>
@@ -253,6 +361,16 @@
         <link href="https://www.acwifi.net/21759.html"/>
         <updated>2022-07-29T17:41:48.258Z</updated>
         <content type="html"><![CDATA[今天有人在公众号留言说AX6000的纸片路由在京东开卖了，没有预售，直接挂卖了，型号是XDR6000，价格529元。2.4G和5G都是4x4MIMO，一共8条空间流，似乎跟XDR5400只差在2.4G上。 以下是前两款XDR3000和XDR5400的硬件配置： 从上图可直观看出，...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云安全践行者：亚马逊云科技如何打好“安全”牌？ (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/09/01.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/09/01.html"/>
+        <updated>2022-09-01T17:44:19.536Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16647139">
+摘要：            
+云计算发展正迅疾如风，猛烈似火。为业务赋能之下，上“云”已成大势所趋！特别是在疫情持续了将近三年的背景下，云市场需求持续爆发。资本方、企业主、客户、用户等等，云正成为各方最受关注的科技领域。2022年，运营商、独立云厂商、外资云厂商纷纷登场，众多企业“卷”向云端。        <a href="https://www.cnblogs.com/cmt/p/16647139.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[16年云存储历程，亚马逊云科技如何应对数据存储挑战 (博客园官方博客)]]></title>
@@ -332,26 +450,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16516435">
 摘要：            
 热点随笔： ·&nbsp;聊一聊 C# 后台GC 到底是怎么回事？&nbsp;(一线码农)·&nbsp;从工程师到技术leader思维升级&nbsp;(温一壶清酒)·&nbsp;超酷炫的转场动画？CSS 轻松拿下！&nbsp;(ChokCoco)·&nbsp;我有 7种 实现web实时消息推送的方案，7种！&nbsp;(程序员小富)·&nbsp;从全局角度，如何设计一个秒杀系统？&nbsp;(陈树        <a href="https://www.cnblogs.com/cmt/p/16516435.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.11-7.17） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/07/18.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/07/18.html"/>
-        <updated>2022-07-18T05:48:53.345Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16489429">
-摘要：            
-热点随笔： ·&nbsp;一次线上事故，我顿悟了异步的精髓&nbsp;(勇哥编程游记)·&nbsp;跟HR在大群吵架是什么体验？&nbsp;(叶小钗)·&nbsp;利用噪声构建美妙的 CSS 图形&nbsp;(ChokCoco)·&nbsp;.NET GC工作流程&nbsp;(InCerry)·&nbsp;HTTPS 如何保证数据传输安全&nbsp;(lulianqi15)·&nbsp;记一次 .NET 某        <a href="https://www.cnblogs.com/cmt/p/16489429.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.4-7.10） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/07/11.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/07/11.html"/>
-        <updated>2022-07-11T05:42:02.904Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16465389">
-摘要：            
-热点随笔： ·&nbsp;一大波开源小抄来袭&nbsp;(削微寒)·&nbsp;一题多解，ASP.NET Core应用启动初始化的N种方案[上篇]&nbsp;(Artech)·&nbsp;[开源精品] .NET Redis Client 又多了一个选择，还在被 StackExchange.Redis Timeout 问题困扰吗？&nbsp;(FreeSql)        <a href="https://www.cnblogs.com/cmt/p/16465389.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
