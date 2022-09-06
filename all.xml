@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-05T17:44:24.052Z</updated>
+    <updated>2022-09-06T06:42:25.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -342,6 +342,106 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16524224">
 摘要：            
 新冠病毒的常态化让中国经济社会环境发生了翻天覆地的变化，彻底改变了很多企业在工作环境中的沟通及协作方式，并为企业带来更多不可预估的风险。 2022年，我国多个城市的大量公司经历了被迫让员工在家办公的无奈，远程办公为很多企业主和管理人员带来了挑战和困扰，全球各大企业也在重新思考未来可持续的工作模式。         <a href="https://www.cnblogs.com/cmt/p/16524224.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（7.18-7.24） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/25.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/25.html"/>
+        <updated>2022-09-06T06:42:24.688Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16516435">
+摘要：            
+热点随笔： ·&nbsp;聊一聊 C# 后台GC 到底是怎么回事？&nbsp;(一线码农)·&nbsp;从工程师到技术leader思维升级&nbsp;(温一壶清酒)·&nbsp;超酷炫的转场动画？CSS 轻松拿下！&nbsp;(ChokCoco)·&nbsp;我有 7种 实现web实时消息推送的方案，7种！&nbsp;(程序员小富)·&nbsp;从全局角度，如何设计一个秒杀系统？&nbsp;(陈树        <a href="https://www.cnblogs.com/cmt/p/16516435.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（7.11-7.17） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/18.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/18.html"/>
+        <updated>2022-09-06T06:42:24.696Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16489429">
+摘要：            
+热点随笔： ·&nbsp;一次线上事故，我顿悟了异步的精髓&nbsp;(勇哥编程游记)·&nbsp;跟HR在大群吵架是什么体验？&nbsp;(叶小钗)·&nbsp;利用噪声构建美妙的 CSS 图形&nbsp;(ChokCoco)·&nbsp;.NET GC工作流程&nbsp;(InCerry)·&nbsp;HTTPS 如何保证数据传输安全&nbsp;(lulianqi15)·&nbsp;记一次 .NET 某        <a href="https://www.cnblogs.com/cmt/p/16489429.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（7.4-7.10） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/11.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/11.html"/>
+        <updated>2022-09-06T06:42:24.696Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16465389">
+摘要：            
+热点随笔： ·&nbsp;一大波开源小抄来袭&nbsp;(削微寒)·&nbsp;一题多解，ASP.NET Core应用启动初始化的N种方案[上篇]&nbsp;(Artech)·&nbsp;[开源精品] .NET Redis Client 又多了一个选择，还在被 StackExchange.Redis Timeout 问题困扰吗？&nbsp;(FreeSql)        <a href="https://www.cnblogs.com/cmt/p/16465389.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（6.27-7.3） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/07/04.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/07/04.html"/>
+        <updated>2022-09-06T06:42:24.697Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16441671">
+摘要：            
+热点随笔： ·&nbsp;记一次 .NET 某物管后台服务 卡死分析&nbsp;(一线码农)·&nbsp;c# 怎样能写个sql的解析器&nbsp;(tansar)·&nbsp;C# Winform程序界面优化实例&nbsp;(锅叔)·&nbsp;请求一下子太多了，数据库危&nbsp;(七淅在学Java)·&nbsp;.NET混合开发解决方案24 WebView2对比CefSharp的超        <a href="https://www.cnblogs.com/cmt/p/16441671.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（6.20-6.26） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/27.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/27.html"/>
+        <updated>2022-09-06T06:42:24.698Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16415186">
+摘要：            
+热点随笔： ·&nbsp;基于Vite+React构建在线Excel&nbsp;(葡萄城技术团队)·&nbsp;CentOS中实现基于Docker部署BI数据分析&nbsp;(葡萄城技术团队)·&nbsp;MAUI与Blazor共享一套UI，媲美Flutter，实现Windows、macOS、Android、iOS、Web通用UI&nbsp;(Dotnet9        <a href="https://www.cnblogs.com/cmt/p/16415186.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】取代 memcached 的 redis 出现问题造成网站故障（已解决） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/23.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/23.html"/>
+        <updated>2022-09-06T06:42:24.699Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16405164">
+摘要：            
+6月19日开始，我们将博客站点的缓存服务器从 memcached 换成了 redis，稳定运行了3天，今天上午访问高峰突然出现问题，在 11:00 -12:30 期间影响了网站的正常访问，由此给您带来麻烦，请求谅解。接下来我们会进一步分析问题的原因，优化 redis 的部署，目前是在 k8s 集群上部署的非高可用&nbsp; redis 集群（3个节点）。        <a href="https://www.cnblogs.com/cmt/p/16405164.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周热点回顾（6.13-6.19） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/20.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/20.html"/>
+        <updated>2022-09-06T06:42:24.701Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16392184">
+摘要：            
+热点随笔： ·&nbsp;React Suspense 尝鲜,处理前后端IO异步操作&nbsp;(葡萄城技术团队)·&nbsp;2 万字 + 20张图｜ 细说 Redis 九种数据类型和应用场景&nbsp;(小林coding)·&nbsp;技术管理进阶——管理者可以使用哪些管理工具&nbsp;(叶小钗)·&nbsp;BI与SaaS碰撞，让数据处理更加轻松（下）&nbsp;(葡萄        <a href="https://www.cnblogs.com/cmt/p/16392184.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给王心凌打Call的，原来是神奇的智能湖仓 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/15.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/15.html"/>
+        <updated>2022-09-06T06:42:24.710Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16376604">
+摘要：            
+图文原创：谭婧（王❤凌老粉） “爷青回” “我们只是老了，并没有死。” 谭老师作为老粉，热烈庆祝“甜心教主”王❤凌成为现象级翻红顶流。 只要地球不爆炸，她的数据就一个都不能丢，还得用好了。 那为王❤凌从头开发一套大数据与智能系统吧？ 答案，没必要。 不能把精力花在和IT基础设施你死我活地缠斗中。 就        <a href="https://www.cnblogs.com/cmt/p/16376604.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（6.6-6.12） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/13.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/13.html"/>
+        <updated>2022-09-06T06:42:24.710Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16369812">
+摘要：            
+热点随笔： ·&nbsp;C#和Java，究竟选哪个方向？我只说事实，你自己分析……&nbsp;(自由飞)·&nbsp;构建基于React18的电子表格程序&nbsp;(葡萄城技术团队)·&nbsp;BI　如何让SaaS产品具有 “安全感”和“敏锐感”（上）&nbsp;(葡萄城技术团队)·&nbsp;在 4GB 物理内存的机器上，申请 8G 内存会怎么样？&nbsp;(小林co        <a href="https://www.cnblogs.com/cmt/p/16369812.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（5.30-6.5） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/06/06.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/06/06.html"/>
+        <updated>2022-09-06T06:42:24.711Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16346997">
+摘要：            
+热点随笔： ·&nbsp;为了更好的吃这个瓜，我去拉了一下评论，吵起来了，太有意思了。&nbsp;(why技术)·&nbsp;.NET Core中JWT+OAuth2.0实现SSO，附完整源码（.NET6）&nbsp;(包子wxl)·&nbsp;技术管理进阶——你遇到过耍小聪明的同学吗？&nbsp;(叶小钗)·&nbsp;为什么人们都讨厌开会？&nbsp;(叶小钗)·&nbsp;在 .N        <a href="https://www.cnblogs.com/cmt/p/16346997.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
