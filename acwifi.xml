@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-08T06:24:42.024Z</updated>
+    <updated>2022-09-08T17:50:45.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK  XDR5410易展版·玄鸟新品上市预售]]></title>
+        <id>https://www.acwifi.net/22019.html</id>
+        <link href="https://www.acwifi.net/22019.html"/>
+        <updated>2022-09-08T17:50:36.217Z</updated>
+        <content type="html"><![CDATA[TP-LINK XDR5410易展版，这个外壳有一个系列名称：玄鸟。我猜的！ 立式设计，天线更高，散热好些。 背面： 立式的摆放，非常的节省空间，如果你的房子是10万一平方，本来放的是XDR5430，那么放这台就可以省出0.027个平方米，能省出2700块钱出为了。 从各种描述可...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WCN685x QCNFA765支持2882Mbps的无线网卡]]></title>
         <id>https://www.acwifi.net/21994.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21773.html"/>
         <updated>2022-08-05T17:46:31.082Z</updated>
         <content type="html"><![CDATA[这样定义好像也没什么毛病呀，这款XDR6086只有一个千兆网口，所以是目前最少千兆网口的Wi-Fi 6 无线路由器呀，不过它有两个2.5G网口。还有一个USB3.0接口，这配置就是轻舟系列。 预售价格829元，付10抵50，即789元。XDR6086京东预售链接 XDR6086就...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三款纸片路由XDR6000上市，是高通还是联发科呢？]]></title>
-        <id>https://www.acwifi.net/21759.html</id>
-        <link href="https://www.acwifi.net/21759.html"/>
-        <updated>2022-07-29T17:41:48.258Z</updated>
-        <content type="html"><![CDATA[今天有人在公众号留言说AX6000的纸片路由在京东开卖了，没有预售，直接挂卖了，型号是XDR6000，价格529元。2.4G和5G都是4x4MIMO，一共8条空间流，似乎跟XDR5400只差在2.4G上。 以下是前两款XDR3000和XDR5400的硬件配置： 从上图可直观看出，...]]></content>
     </entry>
 </feed>
