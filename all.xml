@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-13T06:40:05.364Z</updated>
+    <updated>2022-09-13T17:50:06.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,6 +185,13 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新华三（H3C）Magic NX15路由器拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/22015.html</id>
+        <link href="https://www.acwifi.net/22015.html"/>
+        <updated>2022-09-13T17:49:44.351Z</updated>
+        <content type="html"><![CDATA[一、拆机 H3C Magic NX15（以下简称H3C NX15），看型号就知道是AX1500，先拆机看看是什么配置。外包装： 取出机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是2.9W。功耗真低呀！ 天线是不可以折叠，固定形态： 背面好多散热孔： 四个千兆网口...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TP-LINK  XDR5410易展版·玄鸟新品上市预售 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/22019.html</id>
         <link href="https://www.acwifi.net/22019.html"/>
@@ -246,13 +253,6 @@
         <link href="https://www.acwifi.net/21780.html"/>
         <updated>2022-08-08T17:42:50.013Z</updated>
         <content type="html"><![CDATA[感觉有一个世纪没有拆机了，最近没时间呀，这篇也以最省的时间编辑一下吧。“新华三（H3C） AX71”，以下都简称H3C AX71，它的外包装： 这款偶尔有人提出来要拆的，我几个月前问过咸鱼的一个卖家680元卖不卖，当时不卖。在我拼多多感觉变黑号后只能出一些没用的券，比如500-1...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最少千兆网口的Wi-Fi 6无线路由器XDR6086上市预售 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/21773.html</id>
-        <link href="https://www.acwifi.net/21773.html"/>
-        <updated>2022-08-05T17:46:31.082Z</updated>
-        <content type="html"><![CDATA[这样定义好像也没什么毛病呀，这款XDR6086只有一个千兆网口，所以是目前最少千兆网口的Wi-Fi 6 无线路由器呀，不过它有两个2.5G网口。还有一个USB3.0接口，这配置就是轻舟系列。 预售价格829元，付10抵50，即789元。XDR6086京东预售链接 XDR6086就...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.5-9.11） (博客园官方博客)]]></title>
