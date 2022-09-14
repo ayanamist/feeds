@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-13T17:50:06.772Z</updated>
+    <updated>2022-09-14T06:35:11.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK轻舟XDR4288拆机，双频不对称空间流]]></title>
+        <id>https://www.acwifi.net/22095.html</id>
+        <link href="https://www.acwifi.net/22095.html"/>
+        <updated>2022-09-14T06:34:47.877Z</updated>
+        <content type="html"><![CDATA[轻舟系列里无线规格最低的版本XDR4288。包外装有封膜，拆机前做了简单的测试，所以下图没看见封膜： 轻舟系列都支持支持双2.5G网口，配合将来的2.5G LAN口光猫，又如果你的宽带没有限速，轻松白赚个200兆左右的下行速度回来。说到2.5G LAN光锚，我会很快拆一台，我意思...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华三（H3C）Magic NX15路由器拆机和评测]]></title>
         <id>https://www.acwifi.net/22015.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21831.html"/>
         <updated>2022-08-09T17:40:54.851Z</updated>
         <content type="html"><![CDATA[这款我想买来换掉老掉牙的网件GS108，一来网口数量不够用，二来网口灯光的光线太强烈了，每个网口上方有指示灯，真是一闪一闪亮晶晶，也不方便拿黑色电工胶带粘住。 为啥桌面型的交换机不做个指示灯的物理总开关呢？需要时才打开，不需要时就关闭，减少灯光污染呀。 磊科S16G我在PDD上不...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新华三（H3C） AX71无线AP拆机，AX5400 Wi-Fi 6 2.5G网口]]></title>
-        <id>https://www.acwifi.net/21780.html</id>
-        <link href="https://www.acwifi.net/21780.html"/>
-        <updated>2022-08-08T17:42:50.013Z</updated>
-        <content type="html"><![CDATA[感觉有一个世纪没有拆机了，最近没时间呀，这篇也以最省的时间编辑一下吧。“新华三（H3C） AX71”，以下都简称H3C AX71，它的外包装： 这款偶尔有人提出来要拆的，我几个月前问过咸鱼的一个卖家680元卖不卖，当时不卖。在我拼多多感觉变黑号后只能出一些没用的券，比如500-1...]]></content>
     </entry>
 </feed>
