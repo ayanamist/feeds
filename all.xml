@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-15T06:26:10.934Z</updated>
+    <updated>2022-09-15T17:48:18.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-09-15-understanding-pulsar-in-10-minutes-a-guide-for-kafka-users/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-09-15-understanding-pulsar-in-10-minutes-a-guide-for-kafka-users/"/>
+        <updated>2022-09-15T17:47:47.180Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Understanding Pulsar in 10 Minutes: A Guide for Kafka Users" src="/uploads/images/kp-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache Kafka, Kafka-on-Pulsar
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Understanding Pulsar in 10 Minutes: A Guide for Kafka Users
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            September 15, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/avatar.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Elliot West</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/release/2022-08-30-announcing-the-flink-pulsar-sink-connector/</id>
@@ -170,19 +185,11 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/picture2.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Hang Chen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/hang-chen-135525201/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/release/2022-07-12-pulsar-2101/</id>
-        <link href="https://streamnative.io/blog/release/2022-07-12-pulsar-2101/"/>
-        <updated>2022-07-21T17:41:36.202Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="What’s New in Apache Pulsar 2.10.1" src="/uploads/images/blogs/2101/cover.jpg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Pulsar, 2.10.1, Release
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            What’s New in Apache Pulsar 2.10.1
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            July 12, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+        <title type="html"><![CDATA[2.5G LAN口光猫中兴F7607P拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/22153.html</id>
+        <link href="https://www.acwifi.net/22153.html"/>
+        <updated>2022-09-15T17:48:07.759Z</updated>
+        <content type="html"><![CDATA[前些天闲鱼价599元，听说现在涨了些。 中兴F7607P的包装： 全光智能网关，即支持FTTR组网。是这意思吧! 取出机身和配件 ： 电源输出规格是12V/2A，好少光猫会有这个电源规格。实测只插2.5G 网口的情况下，待机功率是12.8W，如果拨掉GPON的光模块，待机功率会降...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK轻舟XDR4288拆机，双频不对称空间流 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -248,11 +255,14 @@
         <content type="html"><![CDATA[我觉得这款XDR6000才是纸片路由的完全体。因为这款温度和功耗都很低！ XDR3000和XDR5400这两款纸片路由已经拆过，本篇不再作细节上的描述。拆机文章如下： TL-XDR3000易展Turbo版纸片路由拆机 TP-LINK纸片路由XDR5400拆机 纸片路由的外包装都一...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[磊科S16G拆机，16口千兆交换机铁壳 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/21831.html</id>
-        <link href="https://www.acwifi.net/21831.html"/>
-        <updated>2022-08-09T17:40:54.851Z</updated>
-        <content type="html"><![CDATA[这款我想买来换掉老掉牙的网件GS108，一来网口数量不够用，二来网口灯光的光线太强烈了，每个网口上方有指示灯，真是一闪一闪亮晶晶，也不方便拿黑色电工胶带粘住。 为啥桌面型的交换机不做个指示灯的物理总开关呢？需要时才打开，不需要时就关闭，减少灯光污染呀。 磊科S16G我在PDD上不...]]></content>
+        <title type="html"><![CDATA[亚马逊云科技现身世界人工智能大会，揭示AI最新技术趋势 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/09/15.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/09/15.html"/>
+        <updated>2022-09-15T17:48:17.685Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16697482">
+摘要：            
+2022世界人工智能大会（WAIC）于日前落幕。经过过去四届的发展与沉淀，今天的世界人工智能大会已成为人工智能领域最有影响力的国际盛会之一，今年大咖云集、国际大厂扎堆，充分彰显了大会的国际影响力和磁力效应。亚马逊云科技受邀参加了2022世界人工智能大会，并主办了“人工智能前沿技术趋势与最佳实践”的线上分论坛。        <a href="https://www.cnblogs.com/cmt/p/16697482.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.5-9.11） (博客园官方博客)]]></title>
@@ -332,16 +342,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16560827">
 摘要：            
 热点随笔： ·&nbsp;基于 Next.js实现在线Excel&nbsp;(葡萄城技术团队)·&nbsp;不安装运行时运行.NET程序&nbsp;(Agile.Zhou)·&nbsp;.NET性能优化-使用SourceGenerator-Logger记录日志&nbsp;(InCerry)·&nbsp;千万级别的表分页查询非常慢，怎么办？&nbsp;(程序员志哥)·&nbsp;使用前端技        <a href="https://www.cnblogs.com/cmt/p/16560827.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.25-7.31） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/08/01.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/08/01.html"/>
-        <updated>2022-08-01T06:05:23.864Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16539235">
-摘要：            
-热点随笔： ·&nbsp;手把手带你实现基于 Vite+Vue3 的在线Excel表格系统&nbsp;(葡萄城技术团队)·&nbsp;使用Three.js实现炫酷的赛博朋克风格3D数字地球大屏 🌐&nbsp;(Dragonir)·&nbsp;微信安装包从0.5M暴涨到260M，为什么我们的程序越来越大？&nbsp;(启明星工作室)·&nbsp;说透缓存一致性与内存屏        <a href="https://www.cnblogs.com/cmt/p/16539235.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>

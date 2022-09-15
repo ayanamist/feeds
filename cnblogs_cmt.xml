@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-09-15T06:26:10.750Z</updated>
+    <updated>2022-09-15T17:48:18.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[亚马逊云科技现身世界人工智能大会，揭示AI最新技术趋势]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/09/15.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/09/15.html"/>
+        <updated>2022-09-15T17:48:17.685Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16697482">
+摘要：            
+2022世界人工智能大会（WAIC）于日前落幕。经过过去四届的发展与沉淀，今天的世界人工智能大会已成为人工智能领域最有影响力的国际盛会之一，今年大咖云集、国际大厂扎堆，充分彰显了大会的国际影响力和磁力效应。亚马逊云科技受邀参加了2022世界人工智能大会，并主办了“人工智能前沿技术趋势与最佳实践”的线上分论坛。        <a href="https://www.cnblogs.com/cmt/p/16697482.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.5-9.11）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/09/12.html</id>
@@ -83,16 +93,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16560827">
 摘要：            
 热点随笔： ·&nbsp;基于 Next.js实现在线Excel&nbsp;(葡萄城技术团队)·&nbsp;不安装运行时运行.NET程序&nbsp;(Agile.Zhou)·&nbsp;.NET性能优化-使用SourceGenerator-Logger记录日志&nbsp;(InCerry)·&nbsp;千万级别的表分页查询非常慢，怎么办？&nbsp;(程序员志哥)·&nbsp;使用前端技        <a href="https://www.cnblogs.com/cmt/p/16560827.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.25-7.31）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/08/01.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/08/01.html"/>
-        <updated>2022-08-01T06:05:23.864Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16539235">
-摘要：            
-热点随笔： ·&nbsp;手把手带你实现基于 Vite+Vue3 的在线Excel表格系统&nbsp;(葡萄城技术团队)·&nbsp;使用Three.js实现炫酷的赛博朋克风格3D数字地球大屏 🌐&nbsp;(Dragonir)·&nbsp;微信安装包从0.5M暴涨到260M，为什么我们的程序越来越大？&nbsp;(启明星工作室)·&nbsp;说透缓存一致性与内存屏        <a href="https://www.cnblogs.com/cmt/p/16539235.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>

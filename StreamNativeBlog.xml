@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://streamnative.io/blogs/</id>
     <title>StreamNative Blog</title>
-    <updated>2022-09-15T06:26:10.765Z</updated>
+    <updated>2022-09-15T17:48:18.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>data:,</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-09-15-understanding-pulsar-in-10-minutes-a-guide-for-kafka-users/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-09-15-understanding-pulsar-in-10-minutes-a-guide-for-kafka-users/"/>
+        <updated>2022-09-15T17:47:47.180Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Understanding Pulsar in 10 Minutes: A Guide for Kafka Users" src="/uploads/images/kp-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache Kafka, Kafka-on-Pulsar
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Understanding Pulsar in 10 Minutes: A Guide for Kafka Users
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            September 15, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/avatar.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Elliot West</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://streamnative.io/blog/release/2022-08-30-announcing-the-flink-pulsar-sink-connector/</id>
         <link href="https://streamnative.io/blog/release/2022-08-30-announcing-the-flink-pulsar-sink-connector/"/>
         <updated>2022-08-31T06:45:24.189Z</updated>
@@ -21,7 +36,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/screen-shot-2022-08-30-at-11.51.37-am.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Yufei Zhang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://streamnative.io/blog/community/2022-08-25-pulsar-summit-sf-2022-community-event-recap/</id>
         <link href="https://streamnative.io/blog/community/2022-08-25-pulsar-summit-sf-2022-community-event-recap/"/>
         <updated>2022-08-25T06:10:57.976Z</updated>
@@ -36,7 +51,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/screen-shot-2022-08-24-at-9.55.06-pm.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Kristin Crosier  </span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://streamnative.io/blog/community/2022-08-22-pulsar-summit-asia-2022-cfp-is-open-now/</id>
         <link href="https://streamnative.io/blog/community/2022-08-22-pulsar-summit-asia-2022-cfp-is-open-now/"/>
         <updated>2022-08-22T17:39:42.597Z</updated>
@@ -51,7 +66,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/sherlock.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Sherlock Xu</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/sherlock-xu/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/</id>
         <link href="https://streamnative.io/blog/case/2022-08-18-client-optimization-how-tencent-maintains-apache-pulsar-clusters-with-over-100-billion-messages-daily/"/>
         <updated>2022-08-18T05:49:29.784Z</updated>
@@ -66,7 +81,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/sherlock.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Sherlock Xu</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/sherlock-xu/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://streamnative.io/blog/release/2022-08-17-announcing-the-delta-lake-sink-connector-for-apache-pulsar/</id>
         <link href="https://streamnative.io/blog/release/2022-08-17-announcing-the-delta-lake-sink-connector-for-apache-pulsar/"/>
         <updated>2022-08-17T17:44:20.073Z</updated>
@@ -81,7 +96,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/picture2.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Hang Chen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/hang-chen-135525201/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://streamnative.io/blog/release/2022-08-15-introducing-pulsar-resources-operator-for-kubernetes/</id>
         <link href="https://streamnative.io/blog/release/2022-08-15-introducing-pulsar-resources-operator-for-kubernetes/"/>
         <updated>2022-08-15T05:50:07.162Z</updated>
@@ -96,7 +111,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/eric-shen.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Eric Shen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/fushu.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Fushu Wang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://streamnative.io/blog/release/2022-8-3-announcing-the-google-cloud-bigquery-sink-connector-for-apache-pulsar/</id>
         <link href="https://streamnative.io/blog/release/2022-8-3-announcing-the-google-cloud-bigquery-sink-connector-for-apache-pulsar/"/>
         <updated>2022-08-03T05:53:33.964Z</updated>
@@ -111,7 +126,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/baodi-shi.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Baodi Shi</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://streamnative.io/blog/release/2022-07-27-pulsar-293/</id>
         <link href="https://streamnative.io/blog/release/2022-07-27-pulsar-293/"/>
         <updated>2022-07-27T05:48:48.351Z</updated>
@@ -126,7 +141,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/qiangzhao.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Qiang Zhao</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://streamnative.io/blog/community/2022-07-22-apache-pulsar-sessions-in-apachecon-asia-2022-join-us-now-and-check-the-schedule/</id>
         <link href="https://streamnative.io/blog/community/2022-07-22-apache-pulsar-sessions-in-apachecon-asia-2022-join-us-now-and-check-the-schedule/"/>
         <updated>2022-07-22T05:47:48.698Z</updated>
@@ -141,7 +156,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/sherlock.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Sherlock Xu</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/sherlock-xu/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
+        <title type="html"><![CDATA[10]]></title>
         <id>https://streamnative.io/blog/engineering/2022-07-21-achieving-broker-load-balancing-with-apache-pulsar/</id>
         <link href="https://streamnative.io/blog/engineering/2022-07-21-achieving-broker-load-balancing-with-apache-pulsar/"/>
         <updated>2022-07-22T05:47:48.698Z</updated>
@@ -156,7 +171,7 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/heesung.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Heesung Sohn</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/photo_kaiwang.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Kai Wang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
+        <title type="html"><![CDATA[11]]></title>
         <id>https://streamnative.io/blog/engineering/2022-07-15-deep-dive-into-data-placement-policies/</id>
         <link href="https://streamnative.io/blog/engineering/2022-07-15-deep-dive-into-data-placement-policies/"/>
         <updated>2022-07-15T05:53:50.306Z</updated>
@@ -169,20 +184,5 @@
           </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             July 15, 2022
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/picture2.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Hang Chen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/hang-chen-135525201/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://streamnative.io/blog/release/2022-07-12-pulsar-2101/</id>
-        <link href="https://streamnative.io/blog/release/2022-07-12-pulsar-2101/"/>
-        <updated>2022-07-21T17:41:36.202Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="What’s New in Apache Pulsar 2.10.1" src="/uploads/images/blogs/2101/cover.jpg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Pulsar, 2.10.1, Release
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            What’s New in Apache Pulsar 2.10.1
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            July 12, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
 </feed>
