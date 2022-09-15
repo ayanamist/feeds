@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-14T17:50:01.454Z</updated>
+    <updated>2022-09-15T06:26:10.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -183,114 +183,6 @@
           </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
             July 12, 2022
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/penghui.jpg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Penghui Li</span><div data-v-2803187e="" class="author-share-box"><a data-v-2803187e="" href="https://twitter.com/lipenghui6" target="_blank" class="left"><img data-v-2803187e="" src="/uploads/images/twitter-icon.svg" alt="twitter" class="article-social opacity-50"></a><a data-v-2803187e="" href="https://www.linkedin.com/in/penghui-li-244173184/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2D矢量动画在B站的探索与实践-矢量图形的描述 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18568299</id>
-        <link href="https://www.bilibili.com/read/cv18568299"/>
-        <updated>2022-09-14T17:49:04.707Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18568299" target="_blank" title="本期作者01 背景随着互联网视频行业的发展，用户对App交互过程中的互动动画和视频中的特效动画，有着越来越高的要求。传统App中大量存在的交互动画，一般采用帧动画的实现形式（每一帧都是一张独立的图片）。帧动画在客户端有着实现简单的优点，但随着应用功能的不断增多，帧动画的缺陷也越来越明显，帧动画由一张张图片组成，资源体积上占用十分大。同时客户端的平台不断增多，设备的屏幕大小也各不相同，要想不同大小屏幕上实现同样效果的动画，需要设计提供不同分辨率大小的资源，这在工程实践上十分不便。与帧动画不同的矢量">
-                      本期作者01 背景随着互联网视频行业的发展，用户对App交互过程中的互动动画和视频中的特效动画，有着越来越高的要求。传统App中大量存在的交互动画，一般采用帧动画的实现形式（每一帧都是一张独立的图片）。帧动画在客户端有着实现简单的优点，但随着应用功能的不断增多，帧动画的缺陷也越来越明显，帧动画由一张张图片组成，资源体积上占用十分大。同时客户端的平台不断增多，设备的屏幕大小也各不相同，要想不同大小屏幕上实现同样效果的动画，需要设计提供不同分辨率大小的资源，这在工程实践上十分不便。与帧动画不同的矢量
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月16日-17日 | QECon 2022全球软件质量&效能大会 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18568297</id>
-        <link href="https://www.bilibili.com/read/cv18568297"/>
-        <updated>2022-09-14T17:49:04.707Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18568297" target="_blank" title="直播预告B站SRE体系负责人刘昊与漫画事业部资深测试开发工程师熊林涛将于9月16日-17日参加QECon2022全球软件质量&amp;效能大会，分享《B站SRE团队10倍效能提升秘籍》与《基于知识图谱的调用链分析精准化测试平台》。欢迎大家积极参会交流！QECon组委会是由业内多位资深领域专家讲师联合发起的联盟组织，联合测试窝社区，软件质量报道公众号牵头，力邀20多位企业一线技术委员会专家，共同策划推动国内软件质量，效能方向技术交流、发展。追寻质效合一的最佳工程实践之路。随着软件自身不断地在被重新定义，使">
-                      直播预告B站SRE体系负责人刘昊与漫画事业部资深测试开发工程师熊林涛将于9月16日-17日参加QECon2022全球软件质量&amp;效能大会，分享《B站SRE团队10倍效能提升秘籍》与《基于知识图谱的调用链分析精准化测试平台》。欢迎大家积极参会交流！QECon组委会是由业内多位资深领域专家讲师联合发起的联盟组织，联合测试窝社区，软件质量报道公众号牵头，力邀20多位企业一线技术委员会专家，共同策划推动国内软件质量，效能方向技术交流、发展。追寻质效合一的最佳工程实践之路。随着软件自身不断地在被重新定义，使
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内容速达 | bilibili在GOPS全球运维大会2022·深圳站上的演讲 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18515750</id>
-        <link href="https://www.bilibili.com/read/cv18515750"/>
-        <updated>2022-09-14T17:49:04.708Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18515750" target="_blank" title="B站SRE的稳定性实践与反思B站基础架构部在线SRE负责人武安闯，在2022年8月19日-20日的GOPS全球运维大会2022·深圳站分享了题为《B站SRE的稳定性实践与反思》的主题内容，首次完整公开了B站SRE的稳定性体系实践，如SRE转型、高可用、多活容灾、容量管理、活动保障等。以下是具体的大会介绍和分享内容。GOPS全球运维大会由高效运维社区（GreatOPS）、开放运维联盟（OOPSA）和 RPA 时代社区联合主办，是国内第一个运维行业大会，它面向互联网、金融、通信及传统行业广大运维技术">
-                      B站SRE的稳定性实践与反思B站基础架构部在线SRE负责人武安闯，在2022年8月19日-20日的GOPS全球运维大会2022·深圳站分享了题为《B站SRE的稳定性实践与反思》的主题内容，首次完整公开了B站SRE的稳定性体系实践，如SRE转型、高可用、多活容灾、容量管理、活动保障等。以下是具体的大会介绍和分享内容。GOPS全球运维大会由高效运维社区（GreatOPS）、开放运维联盟（OOPSA）和 RPA 时代社区联合主办，是国内第一个运维行业大会，它面向互联网、金融、通信及传统行业广大运维技术
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉无损的深度学习前处理算法 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18515754</id>
-        <link href="https://www.bilibili.com/read/cv18515754"/>
-        <updated>2022-09-14T17:49:04.708Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18515754" target="_blank" title="本期作者01 前言B站每天都会接收数十万的视频投稿，在这大量的视频中，有一些稿件会成为热门视频。这些热门视频吸引了大部分用户的关注和播放，同时也会消耗很大部分的带宽资源。因此当作品热度上升之后，B站会对视频进行重新转码，此时会使用更高复杂度的转码系统方案如（画质可控的场景自适应转码系统），在保持画质不变的前提下，更好的去除数据冗余，以提高压缩比，降低码率，避免带宽资源的浪费。为了进一步提升转码系统性能，我们研发了一套视觉无损的深度学习前处理系统。该系统可以在原有场景自适应转码系统的基础上，带来1">
-                      本期作者01 前言B站每天都会接收数十万的视频投稿，在这大量的视频中，有一些稿件会成为热门视频。这些热门视频吸引了大部分用户的关注和播放，同时也会消耗很大部分的带宽资源。因此当作品热度上升之后，B站会对视频进行重新转码，此时会使用更高复杂度的转码系统方案如（画质可控的场景自适应转码系统），在保持画质不变的前提下，更好的去除数据冗余，以提高压缩比，降低码率，避免带宽资源的浪费。为了进一步提升转码系统性能，我们研发了一套视觉无损的深度学习前处理系统。该系统可以在原有场景自适应转码系统的基础上，带来1
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站流式传输架构的前世今生 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18467315</id>
-        <link href="https://www.bilibili.com/read/cv18467315"/>
-        <updated>2022-09-14T17:49:04.709Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18467315" target="_blank" title="本期作者01 背景Lancer是B站的实时流式传输平台，承载全站服务端、客户端的数据上报/采集、传输、集成工作，秒级延迟，作为数仓入口是B站数据平台的生命线。目前每日峰值 5000w/s rps, 3PB/天, 4K+条流的数据同步能力。服务如此大的数据规模，对产品的可靠性、可扩展性和可维护性提出了很高的要求。流式传输的实现是一个很有挑战的事情，聚焦快、准、稳的需求,  Lancer整体演进经历了大管道模型、BU粒度管道模型、单流单作业模型三个阶段的演进，下面我们娓娓道来。02 关键词说明log">
-                      本期作者01 背景Lancer是B站的实时流式传输平台，承载全站服务端、客户端的数据上报/采集、传输、集成工作，秒级延迟，作为数仓入口是B站数据平台的生命线。目前每日峰值 5000w/s rps, 3PB/天, 4K+条流的数据同步能力。服务如此大的数据规模，对产品的可靠性、可扩展性和可维护性提出了很高的要求。流式传输的实现是一个很有挑战的事情，聚焦快、准、稳的需求,  Lancer整体演进经历了大管道模型、BU粒度管道模型、单流单作业模型三个阶段的演进，下面我们娓娓道来。02 关键词说明log
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一代智慧节能数据中心B站定制化项目实践（二） (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18467320</id>
-        <link href="https://www.bilibili.com/read/cv18467320"/>
-        <updated>2022-09-14T17:49:04.714Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18467320" target="_blank" title="本期作者SYS团队B站系统部（SYS）团队，为B站所有服务提供基础设施支持，包括数据中心、网络、算力、系统软件以及混合云管理等业务。01 背景伴随着数字经济的持续蓬勃发展，数据中心作为各行业信息系统运行的物理载体，其数量及规模仍将快速增长，数据中心行业的整体能耗势必持续攀升。国家各部委对于数据中心的可持续发展和能耗指标都提出科学的规划和严苛的要求。2021年7月，工信部印发《新型数据中心发展三年行动计划（2021—2023年）》提出，到2023年底，新建大型及以上数据中心PUE降到1.3以下。2">
-                      本期作者SYS团队B站系统部（SYS）团队，为B站所有服务提供基础设施支持，包括数据中心、网络、算力、系统软件以及混合云管理等业务。01 背景伴随着数字经济的持续蓬勃发展，数据中心作为各行业信息系统运行的物理载体，其数量及规模仍将快速增长，数据中心行业的整体能耗势必持续攀升。国家各部委对于数据中心的可持续发展和能耗指标都提出科学的规划和严苛的要求。2021年7月，工信部印发《新型数据中心发展三年行动计划（2021—2023年）》提出，到2023年底，新建大型及以上数据中心PUE降到1.3以下。2
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渠道发行的Android多渠道打包实践 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18411426</id>
-        <link href="https://www.bilibili.com/read/cv18411426"/>
-        <updated>2022-09-14T17:49:04.714Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18411426" target="_blank" title="本期作者01 前言多渠道打包对于每一个Android开发来说应该都不陌生，从最早的Eclipse上纯手动打包到Ant脚本打包，再到现在Android Studio的自带的渠道配置，以及gradle脚本实现批量打包。多渠道打包的方案在不断的优化，打包速度也从原来的几十个渠道包打一天到现在只需要几小时。但是上述方案只是替换了配置文件中的渠道信息，如果没有源码，只有一个apk文件，并且根据不同的渠道每个包里的模块和代码都要定制化，有没有解决方案呢？02 游戏渠道发行的打包目前国内安卓市场的渠道非常之多">
-                      本期作者01 前言多渠道打包对于每一个Android开发来说应该都不陌生，从最早的Eclipse上纯手动打包到Ant脚本打包，再到现在Android Studio的自带的渠道配置，以及gradle脚本实现批量打包。多渠道打包的方案在不断的优化，打包速度也从原来的几十个渠道包打一天到现在只需要几小时。但是上述方案只是替换了配置文件中的渠道信息，如果没有源码，只有一个apk文件，并且根据不同的渠道每个包里的模块和代码都要定制化，有没有解决方案呢？02 游戏渠道发行的打包目前国内安卓市场的渠道非常之多
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自研虚拟偶像文件的制作与使用 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18360660</id>
-        <link href="https://www.bilibili.com/read/cv18360660"/>
-        <updated>2022-09-14T17:49:04.714Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18360660" target="_blank" title="本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V">
-                      本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站摘冠！！！强化学习 LastOrder 团队在IJCAI2022-NeuralMMO的比赛中获得冠军 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18360663</id>
-        <link href="https://www.bilibili.com/read/cv18360663"/>
-        <updated>2022-09-14T17:49:04.715Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18360663" target="_blank" title="本期作者01 背景自从在棋类游戏中取得成功以来，强化学习继续在FPS（雷神之锤3）、RTS（星际2）、MOBA（DOTA2）等类型的游戏中表现出色。与这些游戏相比，MMO游戏模拟了更宏观的世界，拥有更丰富的游戏内容，成为强化学习新的应用研究领域。2019年，OpenAI发布了支持强化学习训练的大规模多智能体游戏环境——Neural MMO。NMMO以丰富的内容和优秀的开放性成为2022年国际人工智能联合会议（IJCAI）的比赛项目。在IJCAI2022-NeuralMMO的比赛中，哔哩哔哩的强化">
-                      本期作者01 背景自从在棋类游戏中取得成功以来，强化学习继续在FPS（雷神之锤3）、RTS（星际2）、MOBA（DOTA2）等类型的游戏中表现出色。与这些游戏相比，MMO游戏模拟了更宏观的世界，拥有更丰富的游戏内容，成为强化学习新的应用研究领域。2019年，OpenAI发布了支持强化学习训练的大规模多智能体游戏环境——Neural MMO。NMMO以丰富的内容和优秀的开放性成为2022年国际人工智能联合会议（IJCAI）的比赛项目。在IJCAI2022-NeuralMMO的比赛中，哔哩哔哩的强化
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B 站 Kratos 项目大揭秘！快来 get 一条龙项目贡献指导 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18343195</id>
-        <link href="https://www.bilibili.com/read/cv18343195"/>
-        <updated>2022-09-14T17:49:04.715Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18343195" target="_blank" title="本期直播亮点抢先看大厂技术负责人带你了解 Kratos 框架整体设计理念，理解框架工程化实践带你了解开源项目贡献的二三事，了解如何向 Kratos 项目进行贡献现场 show code 带你手把手尝试向 Kratos 贡献力量1 关于 Kratos 项目Kratos 是 bilibili 开源的一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。开发者可以按照自己的习惯选用或定制其中的组件，来打造自己的微服务。也正是由于这样的原因，Kratos 并不绑定于特定的基础设施，不限定于某种注册">
-                      本期直播亮点抢先看大厂技术负责人带你了解 Kratos 框架整体设计理念，理解框架工程化实践带你了解开源项目贡献的二三事，了解如何向 Kratos 项目进行贡献现场 show code 带你手把手尝试向 Kratos 贡献力量1 关于 Kratos 项目Kratos 是 bilibili 开源的一套轻量级 Go 微服务框架，包含大量微服务相关功能及工具。开发者可以按照自己的习惯选用或定制其中的组件，来打造自己的微服务。也正是由于这样的原因，Kratos 并不绑定于特定的基础设施，不限定于某种注册
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B站云原生混部技术实践 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18300335</id>
-        <link href="https://www.bilibili.com/read/cv18300335"/>
-        <updated>2022-09-14T17:49:04.716Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18300335" target="_blank" title="本期作者01 背景中大型互联网公司的服务器数量可达万级别，在降本增效的大背景下，机器资源利用率的重要性日益凸显。如何在确保服务SLO影响最小的情况下提高机器资源利用率，从而降低服务器的采购成本，是一项非常值得研究的课题。对于k8s云平台来说，造成机器平均资源利用率低的原因可以概括为以下几点：业务申请的资源配额超过实际使用量。即用户在申请资源时可能会对服务的真实资源使用情况估计不足，一般倾向于申请过量的资源。这就导致机器配额被占满，无法继续调度容器，而实际资源利用率却很低。服务的资源使用量存在波峰">
-                      本期作者01 背景中大型互联网公司的服务器数量可达万级别，在降本增效的大背景下，机器资源利用率的重要性日益凸显。如何在确保服务SLO影响最小的情况下提高机器资源利用率，从而降低服务器的采购成本，是一项非常值得研究的课题。对于k8s云平台来说，造成机器平均资源利用率低的原因可以概括为以下几点：业务申请的资源配额超过实际使用量。即用户在申请资源时可能会对服务的真实资源使用情况估计不足，一般倾向于申请过量的资源。这就导致机器配额被占满，无法继续调度容器，而实际资源利用率却很低。服务的资源使用量存在波峰
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[常数时间国密算法（三）：SM2的素域求逆技术 (幻电物业 - B站技术中心)]]></title>
-        <id>https://www.bilibili.com/read/cv18234103</id>
-        <link href="https://www.bilibili.com/read/cv18234103"/>
-        <updated>2022-09-14T17:49:04.719Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18234103" target="_blank" title="本期作者现在我们来看SM2常数时间实现的另一个技术点，即素域求逆。在这篇文章，我们先介绍SM2的签名验签算法，指出实现中的安全隐患，然后介绍相关的数学知识，最后讲解如何安全地实现签名验签算法。01 SM2签名算法简单介绍素域求逆是SM2签名算法所要求的。使用规范文本GMT 0003.2-2012的符号约定：e    为原始待签名信息、椭圆曲线公共参数、签名者信息的综合摘要，为一个256位整数；k    为使用安全的随机数生成器所生成的随机数，取值范围[1, n-1]，其中n为椭圆曲线的参数，并且">
-                      本期作者现在我们来看SM2常数时间实现的另一个技术点，即素域求逆。在这篇文章，我们先介绍SM2的签名验签算法，指出实现中的安全隐患，然后介绍相关的数学知识，最后讲解如何安全地实现签名验签算法。01 SM2签名算法简单介绍素域求逆是SM2签名算法所要求的。使用规范文本GMT 0003.2-2012的符号约定：e    为原始待签名信息、椭圆曲线公共参数、签名者信息的综合摘要，为一个256位整数；k    为使用安全的随机数生成器所生成的随机数，取值范围[1, n-1]，其中n为椭圆曲线的参数，并且
-                    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK轻舟XDR4288拆机，双频不对称空间流 (路由器交流-无线路由器使用分享与评测对比)]]></title>
