@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-16T06:29:52.842Z</updated>
+    <updated>2022-09-16T17:54:10.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi 6 无线路由器360T7 拆机，又一款MT7981]]></title>
+        <id>https://www.acwifi.net/22217.html</id>
+        <link href="https://www.acwifi.net/22217.html"/>
+        <updated>2022-09-16T17:53:52.277Z</updated>
+        <content type="html"><![CDATA[3607T是中国电信运营商的订制机，最近才上市，但还没大量铺货，所以用户放出来的就非常少。看标题便知它的CPU会是MT7981，这是我所知道的第一款用上这个CPU的运营商定制机。 MT7981有三个系列，常见的就有两个，拆机看一看具体是什么芯片型号吧。 360T7的外包装： 外包...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2.5G LAN口光猫中兴F7607P拆机]]></title>
         <id>https://www.acwifi.net/22153.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21893.html"/>
         <updated>2022-08-17T17:44:41.318Z</updated>
         <content type="html"><![CDATA[上次拆了磊科S16G后有人留言，腾达有款16口千兆交换机也是DC供电的，外观更靓仔！价可还便宜些，我在PDD上135.9元买到了，京东现在188元，日常价219元？？ 拆开看看会不会跟磊科S16G用的一样芯片，还是有所不同的。 长条的机身尺寸，16个网口一字排开，为毛DC电源口不...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK纸片路由XDR6000易展版拆机，完全体]]></title>
-        <id>https://www.acwifi.net/21862.html</id>
-        <link href="https://www.acwifi.net/21862.html"/>
-        <updated>2022-08-15T17:44:10.459Z</updated>
-        <content type="html"><![CDATA[我觉得这款XDR6000才是纸片路由的完全体。因为这款温度和功耗都很低！ XDR3000和XDR5400这两款纸片路由已经拆过，本篇不再作细节上的描述。拆机文章如下： TL-XDR3000易展Turbo版纸片路由拆机 TP-LINK纸片路由XDR5400拆机 纸片路由的外包装都一...]]></content>
     </entry>
 </feed>
