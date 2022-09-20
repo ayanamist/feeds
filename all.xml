@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-20T06:33:46.962Z</updated>
+    <updated>2022-09-20T17:48:51.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,6 +185,121 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/picture2.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Hang Chen</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="https://www.linkedin.com/in/hang-chen-135525201/" target="_blank"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[视频基础知识 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18688202</id>
+        <link href="https://www.bilibili.com/read/cv18688202"/>
+        <updated>2022-09-20T17:48:32.483Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18688202" target="_blank" title="本期作者01 常见的颜色表示方法人眼能看到东西是因为光线进入了眼睛，打在视网膜上，而视网膜上的神经和大脑相连。 1.1 黑白当我们提到一张图片是“黑白”的时候，或者说“黑白电视”的时候，实际上并不代表它只有黑色和白色两种颜色，一个很容易理解的事情是，从白变成黑，如果这个过程是连续的，那么过程中会出现我们管它叫“灰色”的颜色。我们很容易定义“黑”，没有光线进入眼睛的时候，那就是黑；但是相对的，“白”就会更复杂一些。举个简单的例子，比如我们手上有一个能发出白光的灯泡，当对灯泡通电的时候，它就会发出白">
+                      本期作者01 常见的颜色表示方法人眼能看到东西是因为光线进入了眼睛，打在视网膜上，而视网膜上的神经和大脑相连。 1.1 黑白当我们提到一张图片是“黑白”的时候，或者说“黑白电视”的时候，实际上并不代表它只有黑色和白色两种颜色，一个很容易理解的事情是，从白变成黑，如果这个过程是连续的，那么过程中会出现我们管它叫“灰色”的颜色。我们很容易定义“黑”，没有光线进入眼睛的时候，那就是黑；但是相对的，“白”就会更复杂一些。举个简单的例子，比如我们手上有一个能发出白光的灯泡，当对灯泡通电的时候，它就会发出白
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[99%的人都不知道，2021.7.13 后，B站请来了这些运维高手！ (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18619927</id>
+        <link href="https://www.bilibili.com/read/cv18619927"/>
+        <updated>2022-09-20T17:48:32.485Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18619927" target="_blank" title="当今互联网系统架构日趋复杂，稳定性风险也在升高不可见的隐患及宕机因素一直潜伏着如何应对那些不可见的“黑天鹅”，让事后的总结可以少一些字数和次数2022年10月28日-29日 GOPS 全球运维大会 2022 · 上海站，5位B站讲师一次性揭秘“713故障”后，如何直面“至暗时刻”从容灾、多活、高可用到演练、应急响应、风险治理的降本增效之路！演讲议题：“713故障后”的稳定性建设与 SLO运营武安闯bilibili 基础架构部SRE 负责人01个人简介武安闯，2016年加入B站，深度参与B站微服务">
+                      当今互联网系统架构日趋复杂，稳定性风险也在升高不可见的隐患及宕机因素一直潜伏着如何应对那些不可见的“黑天鹅”，让事后的总结可以少一些字数和次数2022年10月28日-29日 GOPS 全球运维大会 2022 · 上海站，5位B站讲师一次性揭秘“713故障”后，如何直面“至暗时刻”从容灾、多活、高可用到演练、应急响应、风险治理的降本增效之路！演讲议题：“713故障后”的稳定性建设与 SLO运营武安闯bilibili 基础架构部SRE 负责人01个人简介武安闯，2016年加入B站，深度参与B站微服务
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站基于Clickhouse的下一代日志体系建设实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18609680</id>
+        <link href="https://www.bilibili.com/read/cv18609680"/>
+        <updated>2022-09-20T17:48:32.488Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18609680" target="_blank" title="本期作者01 背景介绍日志作为线上定位问题排障的重要手段，在可观测领域有着不可替代的作用。稳定性、成本、易用性、可扩展性都是日志系统需要追求的关键点。B站基于Elastic Stack的日志系统（Billions） 从2017建设以来， 已经服务了超过5年，目前规模超过500台机器，每日写入日志量超过700TB。ELK体系是业界最常用的日志技术栈，在传输上以结合规范key的JSON作为传输格式，易于多种语言实现和解析，并支持动态结构化字段。存储上ElasticSearch支持全文检索，能够快速从">
+                      本期作者01 背景介绍日志作为线上定位问题排障的重要手段，在可观测领域有着不可替代的作用。稳定性、成本、易用性、可扩展性都是日志系统需要追求的关键点。B站基于Elastic Stack的日志系统（Billions） 从2017建设以来， 已经服务了超过5年，目前规模超过500台机器，每日写入日志量超过700TB。ELK体系是业界最常用的日志技术栈，在传输上以结合规范key的JSON作为传输格式，易于多种语言实现和解析，并支持动态结构化字段。存储上ElasticSearch支持全文检索，能够快速从
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始的富文本编辑器（上） (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18606877</id>
+        <link href="https://www.bilibili.com/read/cv18606877"/>
+        <updated>2022-09-20T17:48:32.488Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18606877" target="_blank" title="本期作者01 什么是contenteditable 1.1 属性介绍contenteditable 是一个枚举属性，表示元素是否可被用户编辑。如果可以，浏览器会修改元素的部件以允许编辑。该属性必须是下面的值之一：true 或空字符串，表示元素是可编辑的。false 表示元素不是可编辑的。如果没有设置该属性的值（例如：Example Label），则其值被视为空字符串。如果没给出该属性或设置了无效的属性值，则其默认值继承自父元素：即，如果父元素可编辑，该子元素也可编辑。注意，虽然该属性允许设定的值">
+                      本期作者01 什么是contenteditable 1.1 属性介绍contenteditable 是一个枚举属性，表示元素是否可被用户编辑。如果可以，浏览器会修改元素的部件以允许编辑。该属性必须是下面的值之一：true 或空字符串，表示元素是可编辑的。false 表示元素不是可编辑的。如果没有设置该属性的值（例如：Example Label），则其值被视为空字符串。如果没给出该属性或设置了无效的属性值，则其默认值继承自父元素：即，如果父元素可编辑，该子元素也可编辑。注意，虽然该属性允许设定的值
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2D矢量动画在B站的探索与实践-矢量图形的描述 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18568299</id>
+        <link href="https://www.bilibili.com/read/cv18568299"/>
+        <updated>2022-09-20T17:48:32.489Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18568299" target="_blank" title="本期作者01 背景随着互联网视频行业的发展，用户对App交互过程中的互动动画和视频中的特效动画，有着越来越高的要求。传统App中大量存在的交互动画，一般采用帧动画的实现形式（每一帧都是一张独立的图片）。帧动画在客户端有着实现简单的优点，但随着应用功能的不断增多，帧动画的缺陷也越来越明显，帧动画由一张张图片组成，资源体积上占用十分大。同时客户端的平台不断增多，设备的屏幕大小也各不相同，要想不同大小屏幕上实现同样效果的动画，需要设计提供不同分辨率大小的资源，这在工程实践上十分不便。与帧动画不同的矢量">
+                      本期作者01 背景随着互联网视频行业的发展，用户对App交互过程中的互动动画和视频中的特效动画，有着越来越高的要求。传统App中大量存在的交互动画，一般采用帧动画的实现形式（每一帧都是一张独立的图片）。帧动画在客户端有着实现简单的优点，但随着应用功能的不断增多，帧动画的缺陷也越来越明显，帧动画由一张张图片组成，资源体积上占用十分大。同时客户端的平台不断增多，设备的屏幕大小也各不相同，要想不同大小屏幕上实现同样效果的动画，需要设计提供不同分辨率大小的资源，这在工程实践上十分不便。与帧动画不同的矢量
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9月16日-17日 | QECon 2022全球软件质量&效能大会 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18568297</id>
+        <link href="https://www.bilibili.com/read/cv18568297"/>
+        <updated>2022-09-20T17:48:32.490Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18568297" target="_blank" title="直播预告B站SRE体系负责人刘昊与漫画事业部资深测试开发工程师熊林涛将于9月16日-17日参加QECon2022全球软件质量&amp;效能大会，分享《B站SRE团队10倍效能提升秘籍》与《基于知识图谱的调用链分析精准化测试平台》。欢迎大家积极参会交流！QECon组委会是由业内多位资深领域专家讲师联合发起的联盟组织，联合测试窝社区，软件质量报道公众号牵头，力邀20多位企业一线技术委员会专家，共同策划推动国内软件质量，效能方向技术交流、发展。追寻质效合一的最佳工程实践之路。随着软件自身不断地在被重新定义，使">
+                      直播预告B站SRE体系负责人刘昊与漫画事业部资深测试开发工程师熊林涛将于9月16日-17日参加QECon2022全球软件质量&amp;效能大会，分享《B站SRE团队10倍效能提升秘籍》与《基于知识图谱的调用链分析精准化测试平台》。欢迎大家积极参会交流！QECon组委会是由业内多位资深领域专家讲师联合发起的联盟组织，联合测试窝社区，软件质量报道公众号牵头，力邀20多位企业一线技术委员会专家，共同策划推动国内软件质量，效能方向技术交流、发展。追寻质效合一的最佳工程实践之路。随着软件自身不断地在被重新定义，使
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内容速达 | bilibili在GOPS全球运维大会2022·深圳站上的演讲 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18515750</id>
+        <link href="https://www.bilibili.com/read/cv18515750"/>
+        <updated>2022-09-20T17:48:32.491Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18515750" target="_blank" title="B站SRE的稳定性实践与反思B站基础架构部在线SRE负责人武安闯，在2022年8月19日-20日的GOPS全球运维大会2022·深圳站分享了题为《B站SRE的稳定性实践与反思》的主题内容，首次完整公开了B站SRE的稳定性体系实践，如SRE转型、高可用、多活容灾、容量管理、活动保障等。以下是具体的大会介绍和分享内容。GOPS全球运维大会由高效运维社区（GreatOPS）、开放运维联盟（OOPSA）和 RPA 时代社区联合主办，是国内第一个运维行业大会，它面向互联网、金融、通信及传统行业广大运维技术">
+                      B站SRE的稳定性实践与反思B站基础架构部在线SRE负责人武安闯，在2022年8月19日-20日的GOPS全球运维大会2022·深圳站分享了题为《B站SRE的稳定性实践与反思》的主题内容，首次完整公开了B站SRE的稳定性体系实践，如SRE转型、高可用、多活容灾、容量管理、活动保障等。以下是具体的大会介绍和分享内容。GOPS全球运维大会由高效运维社区（GreatOPS）、开放运维联盟（OOPSA）和 RPA 时代社区联合主办，是国内第一个运维行业大会，它面向互联网、金融、通信及传统行业广大运维技术
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视觉无损的深度学习前处理算法 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18515754</id>
+        <link href="https://www.bilibili.com/read/cv18515754"/>
+        <updated>2022-09-20T17:48:32.492Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18515754" target="_blank" title="本期作者01 前言B站每天都会接收数十万的视频投稿，在这大量的视频中，有一些稿件会成为热门视频。这些热门视频吸引了大部分用户的关注和播放，同时也会消耗很大部分的带宽资源。因此当作品热度上升之后，B站会对视频进行重新转码，此时会使用更高复杂度的转码系统方案如（画质可控的场景自适应转码系统），在保持画质不变的前提下，更好的去除数据冗余，以提高压缩比，降低码率，避免带宽资源的浪费。为了进一步提升转码系统性能，我们研发了一套视觉无损的深度学习前处理系统。该系统可以在原有场景自适应转码系统的基础上，带来1">
+                      本期作者01 前言B站每天都会接收数十万的视频投稿，在这大量的视频中，有一些稿件会成为热门视频。这些热门视频吸引了大部分用户的关注和播放，同时也会消耗很大部分的带宽资源。因此当作品热度上升之后，B站会对视频进行重新转码，此时会使用更高复杂度的转码系统方案如（画质可控的场景自适应转码系统），在保持画质不变的前提下，更好的去除数据冗余，以提高压缩比，降低码率，避免带宽资源的浪费。为了进一步提升转码系统性能，我们研发了一套视觉无损的深度学习前处理系统。该系统可以在原有场景自适应转码系统的基础上，带来1
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站流式传输架构的前世今生 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18467315</id>
+        <link href="https://www.bilibili.com/read/cv18467315"/>
+        <updated>2022-09-20T17:48:32.493Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18467315" target="_blank" title="本期作者01 背景Lancer是B站的实时流式传输平台，承载全站服务端、客户端的数据上报/采集、传输、集成工作，秒级延迟，作为数仓入口是B站数据平台的生命线。目前每日峰值 5000w/s rps, 3PB/天, 4K+条流的数据同步能力。服务如此大的数据规模，对产品的可靠性、可扩展性和可维护性提出了很高的要求。流式传输的实现是一个很有挑战的事情，聚焦快、准、稳的需求,  Lancer整体演进经历了大管道模型、BU粒度管道模型、单流单作业模型三个阶段的演进，下面我们娓娓道来。02 关键词说明log">
+                      本期作者01 背景Lancer是B站的实时流式传输平台，承载全站服务端、客户端的数据上报/采集、传输、集成工作，秒级延迟，作为数仓入口是B站数据平台的生命线。目前每日峰值 5000w/s rps, 3PB/天, 4K+条流的数据同步能力。服务如此大的数据规模，对产品的可靠性、可扩展性和可维护性提出了很高的要求。流式传输的实现是一个很有挑战的事情，聚焦快、准、稳的需求,  Lancer整体演进经历了大管道模型、BU粒度管道模型、单流单作业模型三个阶段的演进，下面我们娓娓道来。02 关键词说明log
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新一代智慧节能数据中心B站定制化项目实践（二） (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18467320</id>
+        <link href="https://www.bilibili.com/read/cv18467320"/>
+        <updated>2022-09-20T17:48:32.495Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18467320" target="_blank" title="本期作者SYS团队B站系统部（SYS）团队，为B站所有服务提供基础设施支持，包括数据中心、网络、算力、系统软件以及混合云管理等业务。01 背景伴随着数字经济的持续蓬勃发展，数据中心作为各行业信息系统运行的物理载体，其数量及规模仍将快速增长，数据中心行业的整体能耗势必持续攀升。国家各部委对于数据中心的可持续发展和能耗指标都提出科学的规划和严苛的要求。2021年7月，工信部印发《新型数据中心发展三年行动计划（2021—2023年）》提出，到2023年底，新建大型及以上数据中心PUE降到1.3以下。2">
+                      本期作者SYS团队B站系统部（SYS）团队，为B站所有服务提供基础设施支持，包括数据中心、网络、算力、系统软件以及混合云管理等业务。01 背景伴随着数字经济的持续蓬勃发展，数据中心作为各行业信息系统运行的物理载体，其数量及规模仍将快速增长，数据中心行业的整体能耗势必持续攀升。国家各部委对于数据中心的可持续发展和能耗指标都提出科学的规划和严苛的要求。2021年7月，工信部印发《新型数据中心发展三年行动计划（2021—2023年）》提出，到2023年底，新建大型及以上数据中心PUE降到1.3以下。2
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渠道发行的Android多渠道打包实践 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18411426</id>
+        <link href="https://www.bilibili.com/read/cv18411426"/>
+        <updated>2022-09-20T17:48:32.497Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18411426" target="_blank" title="本期作者01 前言多渠道打包对于每一个Android开发来说应该都不陌生，从最早的Eclipse上纯手动打包到Ant脚本打包，再到现在Android Studio的自带的渠道配置，以及gradle脚本实现批量打包。多渠道打包的方案在不断的优化，打包速度也从原来的几十个渠道包打一天到现在只需要几小时。但是上述方案只是替换了配置文件中的渠道信息，如果没有源码，只有一个apk文件，并且根据不同的渠道每个包里的模块和代码都要定制化，有没有解决方案呢？02 游戏渠道发行的打包目前国内安卓市场的渠道非常之多">
+                      本期作者01 前言多渠道打包对于每一个Android开发来说应该都不陌生，从最早的Eclipse上纯手动打包到Ant脚本打包，再到现在Android Studio的自带的渠道配置，以及gradle脚本实现批量打包。多渠道打包的方案在不断的优化，打包速度也从原来的几十个渠道包打一天到现在只需要几小时。但是上述方案只是替换了配置文件中的渠道信息，如果没有源码，只有一个apk文件，并且根据不同的渠道每个包里的模块和代码都要定制化，有没有解决方案呢？02 游戏渠道发行的打包目前国内安卓市场的渠道非常之多
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自研虚拟偶像文件的制作与使用 (幻电物业 - B站技术中心)]]></title>
+        <id>https://www.bilibili.com/read/cv18360660</id>
+        <link href="https://www.bilibili.com/read/cv18360660"/>
+        <updated>2022-09-20T17:48:32.498Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv18360660" target="_blank" title="本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V">
+                      本期作者01 自研格式背景目前最适合作为通用跨平台角色模型中， VRM是最适合作为虚拟开播或者社交游戏的3D载体，而互联网上资源存量最大的MMD，由于历史久远，作为早期生产卡通渲染视频工具的副产物，并没有提供对面捕和动作捕捉做适配，且渲染技术落后，于是有了日本多家企业联合推出的一种“VRM”是用于处理VR应用程序的Avatar模型数据的文件格式。实际上，VRM也确实能够满足当前普通虚拟主播的开播或者社交类的使用场景，所以在决定开启该项目以来，也一直备受质疑，遇到很多的阻力，其中最大的质疑声便是V
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华硕AX86U Pro上市预售，换个U：BCM4912 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/22307.html</id>
+        <link href="https://www.acwifi.net/22307.html"/>
+        <updated>2022-09-20T17:48:41.708Z</updated>
+        <content type="html"><![CDATA[博通新的处理器在华硕GT-AX6000上第一次出现，现在把它这颗处理器放在了华硕AX86U上，就变成了华硕AX86U Pro。 这颗处理器的型号是BCM4912，四核2.0GHz，且用了16nm制程，相对发热量是低了，缺点，仍是一个2.5G网口。 上市预售价格1799元，付100...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[腾达AX12 Pro拆机，AX3000 Wi-Fi 6无线路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/22260.html</id>
         <link href="https://www.acwifi.net/22260.html"/>
@@ -246,13 +361,6 @@
         <link href="https://www.acwifi.net/21975.html"/>
         <updated>2022-08-25T17:42:34.220Z</updated>
         <content type="html"><![CDATA[发哥呀高哥呀这些东西好像都不能用，所以腾达在Wi-Fi 6的时代，新产品很少很少。想当年的腾达AC9和AC15，增加对网件华硕造成了一些冲击（当年的AC9与后来的AC9不是同一个AC9）。腾达有不少老用户，所以这款新上市的AX12 Pro也有几个人来问。我希望市场上能多几个有实力...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK AX6000双频WiFi6 XDR6086易展Turbo版拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/21922.html</id>
-        <link href="https://www.acwifi.net/21922.html"/>
-        <updated>2022-08-23T17:41:19.979Z</updated>
-        <content type="html"><![CDATA[XDR6086是内置天线的轻舟，有好多人在等这款。话不多说了！ 机身和配件 ： 机身背面就三个网口，双2.5G口再加一个千兆口，还有一个USB3.0接口。现时千元以内，最快的USB3.0正是轻舟身上的。 有个TURBO键，有它就是有强的FEM芯片的意思。（XDR5450有点例外，...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.12-9.18） (博客园官方博客)]]></title>
