@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-20T17:48:51.359Z</updated>
+    <updated>2022-09-21T06:38:22.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[acwifi拆过的所有TP-LINK的无线AP配置规格信息汇总表]]></title>
+        <id>https://www.acwifi.net/22311.html</id>
+        <link href="https://www.acwifi.net/22311.html"/>
+        <updated>2022-09-21T06:38:06.429Z</updated>
+        <content type="html"><![CDATA[无线AP的汇总表我还没有弄过，其它无线路由器的汇总过了，包括运营商的定制机，所以尼昨晚在睡觉前整理了这一张表格，是我拆过机的，没拆过的就不会放上。摸过试过才有发言权，不喜欢纸上谈兵！ 我是在咸鱼里面找的参考价格，待机功率我放也上去了，不过有2个AP在拆机时没有测功率，参考相同规格...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕AX86U Pro上市预售，换个U：BCM4912]]></title>
         <id>https://www.acwifi.net/22307.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/21984.html"/>
         <updated>2022-08-26T06:13:02.571Z</updated>
         <content type="html"><![CDATA[H3C上市 了一款不到200元的半Wi-Fi 6无线路由器，半，是因为2.4G不支持Wi-Fi 6，双频合共1500Mbps。双频AX1500最早是在博通方案上面，比如天邑TY300，后来在螃蟹身上，比如华为AX2 Pro。 4个千兆网口： &nbsp; 从下图的CPU性能描述的...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾达AX12 Pro新品上市预售]]></title>
-        <id>https://www.acwifi.net/21975.html</id>
-        <link href="https://www.acwifi.net/21975.html"/>
-        <updated>2022-08-25T17:42:34.220Z</updated>
-        <content type="html"><![CDATA[发哥呀高哥呀这些东西好像都不能用，所以腾达在Wi-Fi 6的时代，新产品很少很少。想当年的腾达AC9和AC15，增加对网件华硕造成了一些冲击（当年的AC9与后来的AC9不是同一个AC9）。腾达有不少老用户，所以这款新上市的AX12 Pro也有几个人来问。我希望市场上能多几个有实力...]]></content>
     </entry>
 </feed>
