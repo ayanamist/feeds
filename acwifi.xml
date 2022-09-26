@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-25T17:44:42.242Z</updated>
+    <updated>2022-09-26T06:35:35.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新品上市：锐捷天蝎电竞路由、锐捷小白儿童管理路由]]></title>
+        <id>https://www.acwifi.net/22398.html</id>
+        <link href="https://www.acwifi.net/22398.html"/>
+        <updated>2022-09-26T06:35:12.465Z</updated>
+        <content type="html"><![CDATA[9月25日，锐捷网络旗下家用品牌锐捷星耀上架了电竞路由器——锐捷天蝎，从当下大热的电竞场景切入，面对电竞对于网络环境的极致要求，锐捷产品研发团队潜心准备，专攻打游戏Ping值不稳定，玩游戏被抢网，多人开黑延迟高等难题。 锐捷天蝎Wi-Fi6路由器采用MTK旗舰Filgic830 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINk TL-R4111GP-AC拆机，有个2.5G SFP]]></title>
         <id>https://www.acwifi.net/22359.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22015.html"/>
         <updated>2022-09-13T17:49:44.351Z</updated>
         <content type="html"><![CDATA[一、拆机 H3C Magic NX15（以下简称H3C NX15），看型号就知道是AX1500，先拆机看看是什么配置。外包装： 取出机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是2.9W。功耗真低呀！ 天线是不可以折叠，固定形态： 背面好多散热孔： 四个千兆网口...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK  XDR5410易展版·玄鸟新品上市预售]]></title>
-        <id>https://www.acwifi.net/22019.html</id>
-        <link href="https://www.acwifi.net/22019.html"/>
-        <updated>2022-09-08T17:50:36.217Z</updated>
-        <content type="html"><![CDATA[TP-LINK XDR5410易展版，这个外壳有一个系列名称：玄鸟。我猜的！ 立式设计，天线更高，散热好些。 背面： 立式的摆放，非常的节省空间，如果你的房子是10万一平方，本来放的是XDR5430，那么放这台就可以省出0.027个平方米，能省出2700块钱出为了。 从各种描述可...]]></content>
     </entry>
 </feed>
