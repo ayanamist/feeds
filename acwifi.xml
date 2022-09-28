@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-09-27T17:57:46.485Z</updated>
+    <updated>2022-09-28T06:35:52.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK玄鸟XDR5410 AX5400无线路由器拆机]]></title>
+        <id>https://www.acwifi.net/22454.html</id>
+        <link href="https://www.acwifi.net/22454.html"/>
+        <updated>2022-09-28T06:35:42.816Z</updated>
+        <content type="html"><![CDATA[捕获了一只玄鸟，放在下图中的红色盒子里： 掏出玄鸟和它的配件： 电源输出规格是12V/2A，实测联网后的待机功率刚好8W，功耗不算低。 立式的设计让摆放省一些地方，天线也高一些。 散热也会好一些： 背面没散热孔，散热孔在底面和顶面，形成对流散热。 一共四个千兆网口： 标签： 型号...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拆个弱电箱EN4030，还有模块电源P125-EN和一体机R4010GPE-EN]]></title>
         <id>https://www.acwifi.net/22403.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22153.html"/>
         <updated>2022-09-15T17:48:07.759Z</updated>
         <content type="html"><![CDATA[前些天闲鱼价599元，听说现在涨了些。 中兴F7607P的包装： 全光智能网关，即支持FTTR组网。是这意思吧! 取出机身和配件 ： 电源输出规格是12V/2A，好少光猫会有这个电源规格。实测只插2.5G 网口的情况下，待机功率是12.8W，如果拨掉GPON的光模块，待机功率会降...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK轻舟XDR4288拆机，双频不对称空间流]]></title>
-        <id>https://www.acwifi.net/22095.html</id>
-        <link href="https://www.acwifi.net/22095.html"/>
-        <updated>2022-09-14T06:34:47.877Z</updated>
-        <content type="html"><![CDATA[轻舟系列里无线规格最低的版本XDR4288。包外装有封膜，拆机前做了简单的测试，所以下图没看见封膜： 轻舟系列都支持支持双2.5G网口，配合将来的2.5G LAN口光猫，又如果你的宽带没有限速，轻松白赚个200兆左右的下行速度回来。说到2.5G LAN光锚，我会很快拆一台，我意思...]]></content>
     </entry>
 </feed>

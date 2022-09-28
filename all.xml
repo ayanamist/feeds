@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-27T17:57:46.474Z</updated>
+    <updated>2022-09-28T06:35:52.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -185,6 +185,13 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/qiangzhao.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Qiang Zhao</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/team/majun.jpeg" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Jun Ma</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TP-LINK玄鸟XDR5410 AX5400无线路由器拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/22454.html</id>
+        <link href="https://www.acwifi.net/22454.html"/>
+        <updated>2022-09-28T06:35:42.816Z</updated>
+        <content type="html"><![CDATA[捕获了一只玄鸟，放在下图中的红色盒子里： 掏出玄鸟和它的配件： 电源输出规格是12V/2A，实测联网后的待机功率刚好8W，功耗不算低。 立式的设计让摆放省一些地方，天线也高一些。 散热也会好一些： 背面没散热孔，散热孔在底面和顶面，形成对流散热。 一共四个千兆网口： 标签： 型号...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[拆个弱电箱EN4030，还有模块电源P125-EN和一体机R4010GPE-EN (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/22403.html</id>
         <link href="https://www.acwifi.net/22403.html"/>
@@ -246,13 +253,6 @@
         <link href="https://www.acwifi.net/22153.html"/>
         <updated>2022-09-15T17:48:07.759Z</updated>
         <content type="html"><![CDATA[前些天闲鱼价599元，听说现在涨了些。 中兴F7607P的包装： 全光智能网关，即支持FTTR组网。是这意思吧! 取出机身和配件 ： 电源输出规格是12V/2A，好少光猫会有这个电源规格。实测只插2.5G 网口的情况下，待机功率是12.8W，如果拨掉GPON的光模块，待机功率会降...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK轻舟XDR4288拆机，双频不对称空间流 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/22095.html</id>
-        <link href="https://www.acwifi.net/22095.html"/>
-        <updated>2022-09-14T06:34:47.877Z</updated>
-        <content type="html"><![CDATA[轻舟系列里无线规格最低的版本XDR4288。包外装有封膜，拆机前做了简单的测试，所以下图没看见封膜： 轻舟系列都支持支持双2.5G网口，配合将来的2.5G LAN口光猫，又如果你的宽带没有限速，轻松白赚个200兆左右的下行速度回来。说到2.5G LAN光锚，我会很快拆一台，我意思...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.19-9.25） (博客园官方博客)]]></title>
