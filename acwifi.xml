@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-10-05T06:06:32.585Z</updated>
+    <updated>2022-10-05T18:02:03.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕GT-AX6000与TP-LINK XDR6086的无线对比测试]]></title>
+        <id>https://www.acwifi.net/22494.html</id>
+        <link href="https://www.acwifi.net/22494.html"/>
+        <updated>2022-10-05T18:01:50.405Z</updated>
+        <content type="html"><![CDATA[一、吹水 这两款无线路由器的价格相差比较大，华硕GT-AX6000京东卖2049元，XDR6086京东卖789元，差价1260元。在我眼里它俩有许多共同点，都是双2.5G网口，都是有USB3.0接口，都是无线路由器，都是AX6000的无线规格，即2.4G是4x4MIMO，5G也是...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK玄鸟XDR5410 AX5400无线路由器拆机]]></title>
         <id>https://www.acwifi.net/22454.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22217.html"/>
         <updated>2022-10-04T18:00:50.716Z</updated>
         <content type="html"><![CDATA[360T7是中国电信运营商的订制机，最近才上市，但还没大量铺货，所以用户放出来的就非常少。看标题便知它的CPU会是MT7981，这是我所知道的第一款用上这个CPU的运营商定制机。 MT7981有三个系列，常见的就有两个，拆机看一看具体是什么芯片型号吧。 360T7的外包装： 外包...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.5G LAN口光猫中兴F7607P拆机]]></title>
-        <id>https://www.acwifi.net/22153.html</id>
-        <link href="https://www.acwifi.net/22153.html"/>
-        <updated>2022-10-04T18:00:50.717Z</updated>
-        <content type="html"><![CDATA[前些天闲鱼价599元，听说现在涨了些。 中兴F7607P的包装： 全光智能网关，即支持FTTR组网。是这意思吧! 取出机身和配件 ： 电源输出规格是12V/2A，好少光猫会有这个电源规格。实测只插2.5G 网口的情况下，待机功率是12.8W，如果拨掉GPON的光模块，待机功率会降...]]></content>
     </entry>
 </feed>
