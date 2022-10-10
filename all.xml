@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-09T17:50:10.352Z</updated>
+    <updated>2022-10-10T06:30:11.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -253,6 +253,16 @@
         <link href="https://www.acwifi.net/22217.html"/>
         <updated>2022-10-04T18:00:50.716Z</updated>
         <content type="html"><![CDATA[360T7是中国电信运营商的订制机，最近才上市，但还没大量铺货，所以用户放出来的就非常少。看标题便知它的CPU会是MT7981，这是我所知道的第一款用上这个CPU的运营商定制机。 MT7981有三个系列，常见的就有两个，拆机看一看具体是什么芯片型号吧。 360T7的外包装： 外包...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（10.3-10.9） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/10/10.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/10/10.html"/>
+        <updated>2022-10-10T06:30:11.307Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16774669">
+摘要：            
+热点随笔： ·&nbsp;我操作MySQL的惊险一幕&nbsp;(god23bin)·&nbsp;不安装运行时运行 .NET 程序 - NativeAOT&nbsp;(Agile.Zhou)·&nbsp;.NET 6 跨服务器联表查询, MySql、Oracle、SqlServer等相互联表&nbsp;(果糖大数据科技)·&nbsp;SqlKata - 方便好用的 S        <a href="https://www.cnblogs.com/cmt/p/16774669.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.26-10.2） (博客园官方博客)]]></title>
