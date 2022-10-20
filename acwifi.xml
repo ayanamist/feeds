@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-10-19T18:08:25.499Z</updated>
+    <updated>2022-10-20T05:59:18.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[双11京东家电预售活动开启]]></title>
+        <id>https://www.acwifi.net/22724.html</id>
+        <link href="https://www.acwifi.net/22724.html"/>
+        <updated>2022-10-20T05:59:09.303Z</updated>
+        <content type="html"><![CDATA[&nbsp; 新百货享6期免息 配件2件9折3件8折 家电付定金享好礼 健康尾款减1111 超市预售低至5折 京东京造199减100 定金100抵1000 定金膨胀至最高10倍 双11京东预售电脑端链接 双11京东预售手机端链接 &nbsp;]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联通VS010拆机，AX3000无线路由器]]></title>
         <id>https://www.acwifi.net/22677.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22359.html"/>
         <updated>2022-10-04T18:00:50.703Z</updated>
         <content type="html"><![CDATA[TL-R4111GP-AC虽然有个2.5G SFP光口，也能当WAN口，只是不能用它做单WAN，三WAN时才会用到它，WAN口不能自主选择。挺适合双WAN输入后用2.5G口输出的用户，而且这是一台AC控制 、路由器、PoE供电的一体机。闲鱼一有得&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XDR6080和XDR6088无线性能对比测试]]></title>
-        <id>https://www.acwifi.net/22326.html</id>
-        <link href="https://www.acwifi.net/22326.html"/>
-        <updated>2022-10-04T18:00:50.704Z</updated>
-        <content type="html"><![CDATA[本篇做个简单的无线信号强度对比测试，XDR6080和XDR6088一直拖好久了。两款有好多相同之处，比如都是有天线的路由器，都是不插电就用不了的东西。 两台无线路由器的固件版本已经是当前最新了： XDR6080的固件版本是：1.0.16 XDR6088的固件版本是：1.0.22 ...]]></content>
     </entry>
 </feed>
