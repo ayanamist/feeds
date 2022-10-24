@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-10-23T17:57:24.819Z</updated>
+    <updated>2022-10-24T06:43:35.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（10.17-10.23）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/10/24.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/10/24.html"/>
+        <updated>2022-10-24T06:43:34.701Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16820533">
+摘要：            
+热点随笔： ·&nbsp;一篇带你了解如何使用纯前端类Excel表格构建现金流量表&nbsp;(葡萄城技术团队)·&nbsp;提高工作效率的神器：基于前端表格实现Chrome Excel扩展插件&nbsp;(葡萄城技术团队)·&nbsp;React + Springboot + Quartz，从0实现Excel报表自动化&nbsp;(葡萄城技术团队)·&nbsp;聊一        <a href="https://www.cnblogs.com/cmt/p/16820533.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（10.10-10.16）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/10/17.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16685636">
 摘要：            
 热点随笔： ·&nbsp;没有二十年功力，写不出Thread.sleep(0)这一行“看似无用”的代码！&nbsp;(why技术)·&nbsp;内卷时代下的前端技术-使用JavaScript在浏览器中生成PDF文档&nbsp;(葡萄城技术团队)·&nbsp;终于实现了一门属于自己的编程语言&nbsp;(crossoverJie)·&nbsp;C#/.NET/.NET         <a href="https://www.cnblogs.com/cmt/p/16685636.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（8.29-9.4）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/09/05.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/09/05.html"/>
-        <updated>2022-09-05T06:29:48.008Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16657056">
-摘要：            
-热点随笔： ·&nbsp;.NET 7 性能改进 -- 至今为止最快的.NET平台&nbsp;(张善友)·&nbsp;一次服务器被入侵的处理过程分享&nbsp;(自由早晚乱余生)·&nbsp;踩坑了！0作为除数，不一定会抛出异常！&nbsp;(why技术)·&nbsp;BI如何实现用户身份集成自定义安全程序开发&nbsp;(葡萄城技术团队)·&nbsp;[开源精品] C#.NET im         <a href="https://www.cnblogs.com/cmt/p/16657056.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
