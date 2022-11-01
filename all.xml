@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T17:57:48.417Z</updated>
+    <updated>2022-11-01T06:02:06.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
+        <id>https://streamnative.io/blog/engineering/2022-10-31-using-cloud-native-buildpacks-to-improve-the-function-image-building-capability-of-function-mesh/</id>
+        <link href="https://streamnative.io/blog/engineering/2022-10-31-using-cloud-native-buildpacks-to-improve-the-function-image-building-capability-of-function-mesh/"/>
+        <updated>2022-11-01T06:01:41.536Z</updated>
+        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Using Cloud Native Buildpacks to Improve the Function Image Building Capability of Function Mesh" src="/uploads/images/buildpacks-function-mesh-cover.jpg" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
+            Apache Pulsar, Buildpack, Function, Function Mesh
+          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
+            Using Cloud Native Buildpacks to Improve the Function Image Building Capability of Function Mesh
+          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
+            
+          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
+            November 01, 2022
+          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/tian-fang.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Tian Fang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
         <id>https://streamnative.io/blog/engineering/2022-10-24-a-deep-dive-into-transaction-buffer-in-apache-pulsar/</id>
@@ -170,28 +185,6 @@
           </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/avatar.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Elliot West</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
-        <id>https://streamnative.io/blog/release/2022-08-30-announcing-the-flink-pulsar-sink-connector/</id>
-        <link href="https://streamnative.io/blog/release/2022-08-30-announcing-the-flink-pulsar-sink-connector/"/>
-        <updated>2022-08-31T06:45:24.189Z</updated>
-        <content type="html"><![CDATA[<div data-v-3be64661="" data-v-2803187e="" class="md-card sn-card-root h-full overflow-hidden md-theme-default md-with-hover" md-with-hover=""><div data-v-2803187e="" class="h-full hover:text-white"><div data-v-2803187e="" class="h-full md-ripple flex"><div data-v-2803187e="" class="hidden md:block w-80 flex-shrink-0"><img data-v-2803187e="" alt="Announcing the Flink-Pulsar Sink Connector" src="/uploads/images/fsc-cover.png" class="h-full w-full w-full object-cover g-image"></div><!----><div data-v-2803187e="" class="flex-1 flex flex-col p-6  pl-10  "><div data-v-2803187e="" class="font-text mb-2 sn-text-16 sn-text-bold text-gray-dark">
-            Apache Flink, Pulsar Ecosystem, Connector
-          </div><div data-v-2803187e="" class="text-xl sn-text-25 sn-text-bold text-gray-darkest">
-            Announcing the Flink-Pulsar Sink Connector
-          </div><p data-v-2803187e="" class="max-h-18 overflow-ellipsis font-text line-clamp-3 sn-text-16 text-gray-dark" style="margin-top: 20px;">
-            
-          </p><div data-v-2803187e="" class="font-text mt-2 mb-4 sn-text-16 text-gray" style="margin-top: 20px;">
-            August 30, 2022
-          </div><div data-v-2803187e="" class="author-list"><div data-v-2803187e="" class="article-author mr-6"><div data-v-2803187e="" class="author-img"><img data-v-2803187e="" src="/uploads/images/screen-shot-2022-08-30-at-11.51.37-am.png" alt="head img" class="img-thumbnail article-head-img"></div><div data-v-2803187e="" class="author-info"><span data-v-2803187e="">Yufei Zhang</span><div data-v-2803187e="" class="author-share-box"><!----><a data-v-2803187e="" href="" target="_blank" style="display: none;"><img data-v-2803187e="" src="/uploads/images/linkedin-icon.svg" alt="linkedIn" class="article-social opacity-50"></a></div></div></div></div><div data-v-2803187e="" class="font-bold ml-auto mt-auto sn-text-16 sn-text-bold"><div data-v-2803187e="" class="flex flex-row"><span data-v-2803187e="" class="hidden">Learn More</span><i data-v-c35c051a="" data-v-2803187e="" class="md-icon md-icon-font text-current font-icon overflow-hidden md-theme-default text-black">arrow_forward_ios</i></div></div></div> </div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第二波抽奖活动，送10台AX3200无线路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/22885.html</id>
-        <link href="https://www.acwifi.net/22885.html"/>
-        <updated>2022-10-31T17:57:39.222Z</updated>
-        <content type="html"><![CDATA[这次抽奖的奖品是10台全新的锐捷X32，AX3200的无线规格。由于10台还在路上，就是以下这款。 抽奖方法详见公众号里的文章。 公众号：&nbsp; acwifi-net 公众号二维码： 抽奖活动完后就删除此文。 &nbsp;]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中兴ZTE AX5400Pro+无线路由器拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/22759.html</id>
         <link href="https://www.acwifi.net/22759.html"/>
@@ -253,6 +246,13 @@
         <link href="https://www.acwifi.net/22454.html"/>
         <updated>2022-10-04T18:00:50.701Z</updated>
         <content type="html"><![CDATA[捕获了一只玄鸟，放在下图中的红色盒子里： 掏出玄鸟和它的配件： 电源输出规格是12V/2A，实测联网后的待机功率刚好8W，功耗不算低。 立式的设计让摆放省一些地方，天线也高一些。 散热也会好一些： 背面没散热孔，散热孔在底面和顶面，形成对流散热。 一共四个千兆网口： 标签： 型号...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆个弱电箱EN4030，还有模块电源P125-EN和一体机R4010GPE-EN (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/22403.html</id>
+        <link href="https://www.acwifi.net/22403.html"/>
+        <updated>2022-11-01T06:01:56.083Z</updated>
+        <content type="html"><![CDATA[TP-LINK出了一款弱电箱，专业名称叫做模块化信息箱，型号是TL-EN4030，看型号便知尺寸是40x30cm，深度12cm。这是空箱，做成模块化的设计，可以根据自己需求买不的横块放进去，也可以把私房钱藏进去。空箱咸鱼价160元。这款弱电箱的铁皮比较厚，很重，质感不错。 以下是...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（10.24-10.30） (博客园官方博客)]]></title>
