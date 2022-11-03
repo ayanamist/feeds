@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-11-03T05:41:58.550Z</updated>
+    <updated>2022-11-03T17:42:35.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022年下半年无线路由器选购攻略]]></title>
+        <id>https://www.acwifi.net/22949.html</id>
+        <link href="https://www.acwifi.net/22949.html"/>
+        <updated>2022-11-03T17:42:24.761Z</updated>
+        <content type="html"><![CDATA[我以为不写，你们就会省钱不买的。是我比纯情小腊鸭还要单纯了吧！跟上半年一样，本篇不推荐单只超过千元以上的型号。主图我就随便拿了第一波抽奖免费送路由器的图，这图够霸气不？ 我一般以京东价格为准，如果你在其它平台有更好的价格就可以直接买。我不用神券神价来做比较！不是人人都可以拿到这样...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴ZTE AX5400Pro+无线路由器拆机和评测]]></title>
         <id>https://www.acwifi.net/22759.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22454.html"/>
         <updated>2022-11-02T17:54:28.830Z</updated>
         <content type="html"><![CDATA[捕获了一只玄鸟，放在下图中的红色盒子里： 掏出玄鸟和它的配件： 电源输出规格是12V/2A，实测联网后的待机功率刚好8W，功耗不算低。 立式的设计让摆放省一些地方，天线也高一些。 散热也会好一些： 背面没散热孔，散热孔在底面和顶面，形成对流散热。 一共四个千兆网口： 标签： 型号...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆个弱电箱EN4030，还有模块电源P125-EN和一体机R4010GPE-EN]]></title>
-        <id>https://www.acwifi.net/22403.html</id>
-        <link href="https://www.acwifi.net/22403.html"/>
-        <updated>2022-11-02T17:54:28.830Z</updated>
-        <content type="html"><![CDATA[TP-LINK出了一款弱电箱，专业名称叫做模块化信息箱，型号是TL-EN4030，看型号便知尺寸是40x30cm，深度12cm。这是空箱，做成模块化的设计，可以根据自己需求买不的横块放进去，也可以把私房钱藏进去。空箱咸鱼价160元。这款弱电箱的铁皮比较厚，很重，质感不错。 以下是...]]></content>
     </entry>
 </feed>
