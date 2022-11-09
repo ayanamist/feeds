@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-11-09T05:46:47.042Z</updated>
+    <updated>2022-11-09T17:42:22.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[R5010PE V1.1新版拆机，是否修复了三个旧问题]]></title>
+        <id>https://www.acwifi.net/23030.html</id>
+        <link href="https://www.acwifi.net/23030.html"/>
+        <updated>2022-11-09T17:42:14.486Z</updated>
+        <content type="html"><![CDATA[新的TL-R5010PE，硬件版本是V1.1，在外包装标签和机身底部的铭牌也有注明。 包装不拍了，直接机身和电源： 底部标签： 旧的拆机文章在这里，在往下看之前，如果之前没看过的可以先浏览一下，本篇不做太多细节上的描述，因为一样的硬件芯片。只改了散热和固件。 TP-LINK TL...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不用AC，多个AP组网方法教程]]></title>
         <id>https://www.acwifi.net/23011.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22581.html"/>
         <updated>2022-11-02T17:54:28.825Z</updated>
         <content type="html"><![CDATA[锐捷天蝎电竞X60 Pro的外包装，，，孩子以为里面装的是玩具，老是打开来看看里面有啥玩具。外包装盒子比较大，拿在手里不算重。 取出路由器和配件： 电源输出规格是12V/3A，实测待机功率是6.9W，对于AX6000的无线规格来说，这待机功率是低的。这12V/3A的电源适配器输出...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕GT-AX6000与XDR6080无线对比测试]]></title>
-        <id>https://www.acwifi.net/22552.html</id>
-        <link href="https://www.acwifi.net/22552.html"/>
-        <updated>2022-11-02T17:54:28.829Z</updated>
-        <content type="html"><![CDATA[这是一项BCM6715与QCN9074之间的简单无线较量，也是一篇很懒的文章。因为这两台不久前就分别测试了，只是把两者的数据放一起而已。哈哈哈，简称水文。但不是纯水，是对人身有益的矿泉水，来自江门叱石山上“一洗红尘”的矿泉水，简称忘情水。 不想P图又不想拿天线出来装上，所以华硕G...]]></content>
     </entry>
 </feed>
