@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-11-10T05:44:00.855Z</updated>
+    <updated>2022-11-10T17:42:09.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[锐捷路由器双十一大促 全系直降冰点价等你来！]]></title>
+        <id>https://www.acwifi.net/23052.html</id>
+        <link href="https://www.acwifi.net/23052.html"/>
+        <updated>2022-11-10T17:41:59.454Z</updated>
+        <content type="html"><![CDATA[广告。 今年是锐捷推出家用路由器的第二年，20年商用技术经验，做家用，更放心！双十一锐捷家用路由器全系直降，AX6000、AX3200、放大器系列产品冰点价狂欢中，更有爆款明星产品前N件半价活动，11月10日晚8：00准时开抢！敬请前往京东、天猫搜索【锐捷】进入旗舰店选购！错过再...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R5010PE V1.1新版拆机，是否修复了三个旧问题]]></title>
         <id>https://www.acwifi.net/23030.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22644.html"/>
         <updated>2022-11-02T17:54:28.825Z</updated>
         <content type="html"><![CDATA[天邑的TY6201A就拆过，这款多了个Pro，且是AX3000的无线规格，简单拆机看看吧。价格不记得了，买来有两个月了吧！ TY6201A Pro的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是5W。 雪白的机身： 四个千兆网口： 看不见哪个是WAN口...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锐捷天蝎电竞路由器X60 Por拆机]]></title>
-        <id>https://www.acwifi.net/22581.html</id>
-        <link href="https://www.acwifi.net/22581.html"/>
-        <updated>2022-11-02T17:54:28.825Z</updated>
-        <content type="html"><![CDATA[锐捷天蝎电竞X60 Pro的外包装，，，孩子以为里面装的是玩具，老是打开来看看里面有啥玩具。外包装盒子比较大，拿在手里不算重。 取出路由器和配件： 电源输出规格是12V/3A，实测待机功率是6.9W，对于AX6000的无线规格来说，这待机功率是低的。这12V/3A的电源适配器输出...]]></content>
     </entry>
 </feed>
