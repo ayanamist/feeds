@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-13T17:39:54.337Z</updated>
+    <updated>2022-11-14T05:44:37.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -255,6 +255,16 @@
         <content type="html"><![CDATA[天邑的TY6201A就拆过，这款多了个Pro，且是AX3000的无线规格，简单拆机看看吧。价格不记得了，买来有两个月了吧！ TY6201A Pro的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是5W。 雪白的机身： 四个千兆网口： 看不见哪个是WAN口...]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.7-11.13） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/11/14.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/11/14.html"/>
+        <updated>2022-11-14T05:44:36.862Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16888257">
+摘要：            
+热点随笔： ·&nbsp;数据可视化分析之新技能——魔数图&nbsp;(葡萄城技术团队)·&nbsp;工作十年，入职新公司不到四个月就遇到裁员&nbsp;(Angelasp)·&nbsp;写点程序员离职的心得&nbsp;(张飞洪[厦门])·&nbsp;统一的开发平台.NET 7正式发布&nbsp;(张善友)·&nbsp;关于.Net和Java的看法-一个小实习生经历&nbsp;(小方同学在学习)·        <a href="https://www.cnblogs.com/cmt/p/16888257.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【故障公告】15:05-15:20 期间更换 k8s 节点引发博客站点故障 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/11/13.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2022/11/13.html"/>
@@ -342,16 +352,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16729749">
 摘要：            
 热点随笔： ·&nbsp;前端必读2.0：如何在React 中使用SpreadJS导入和导出 Excel 文件&nbsp;(葡萄城技术团队)·&nbsp;前端必读：如何在 JavaScript 中使用SpreadJS导入和导出 Excel 文件&nbsp;(葡萄城技术团队)·&nbsp;前端必读3.0：如何在 Angular 中使用SpreadJS        <a href="https://www.cnblogs.com/cmt/p/16729749.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当 EDA 遇到 Serverless，亚马逊云科技出招了 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/09/23.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/09/23.html"/>
-        <updated>2022-11-02T17:54:36.933Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16723967">
-摘要：            
-近二三十年来，软件开发领域毫无疑问是发展最为迅速的行业之一。在上个世纪九十年代，世界上市值最高的公司大多是资源类或者重工业类的公司，例如埃克森美孚或者通用汽车，而现在市值最高的公司中，纯粹的软件公司谷歌微软位列前五，而排名第一的苹果公司也有相当部分是软件业务。        <a href="https://www.cnblogs.com/cmt/p/16723967.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
