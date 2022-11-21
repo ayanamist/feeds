@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-11-21T05:37:50.878Z</updated>
+    <updated>2022-11-21T17:40:05.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[一台吸顶AP能5G全覆盖吗之实测篇]]></title>
+        <id>https://www.acwifi.net/23142.html</id>
+        <link href="https://www.acwifi.net/23142.html"/>
+        <updated>2022-11-21T17:39:55.707Z</updated>
+        <content type="html"><![CDATA[之前在公众号发了一张平面图，说把XAP6000GC这吸顶AP放中间能让每个房间有200兆的无线速度不。 XAP6000GC价格超过一千，不太符合我今年发布的选购指南方针： 只那就买一千内的！因此，这次用了XAP5400GC做实测。现在是毛胚房状态，所有房间没有房门。发文以来一直有...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联通VS020 AX3000无线路由器拆机]]></title>
         <id>https://www.acwifi.net/23096.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22677.html"/>
         <updated>2022-11-02T17:54:28.824Z</updated>
         <content type="html"><![CDATA[这台联通VS010我买的价格是130元包邮，看购买记录是在今年三朋份收来，一直压箱底没留意，直到一个星期前有人在闲鱼问我要不要收VS020，我才知道我有VS010。VS020已经在路上，也很快收到，收到就拆。 联通 VS010的黑色包装里藏了白色的机身： 电源输出规格是12V/1...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天邑TY6201A Pro拆机]]></title>
-        <id>https://www.acwifi.net/22644.html</id>
-        <link href="https://www.acwifi.net/22644.html"/>
-        <updated>2022-11-02T17:54:28.825Z</updated>
-        <content type="html"><![CDATA[天邑的TY6201A就拆过，这款多了个Pro，且是AX3000的无线规格，简单拆机看看吧。价格不记得了，买来有两个月了吧！ TY6201A Pro的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是5W。 雪白的机身： 四个千兆网口： 看不见哪个是WAN口...]]></content>
     </entry>
 </feed>
