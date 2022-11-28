@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-11-27T17:35:03.660Z</updated>
+    <updated>2022-11-28T05:36:02.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.21-11.27）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/11/28.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/11/28.html"/>
+        <updated>2022-11-28T05:36:01.305Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16931423">
+摘要：            
+热点随笔： ·&nbsp;Chrome 103支持使用本地字体，纯前端导出PDF优化&nbsp;(葡萄城技术团队)·&nbsp;电视剧里的代码真能运行吗？&nbsp;(Crossin先生)·&nbsp;新零售SaaS架构：多租户系统架构设计&nbsp;(汤师爷说)·&nbsp;用最少的代码模拟gRPC四种消息交换模式&nbsp;(Artech)·&nbsp;.NET 7 的 AOT 到底        <a href="https://www.cnblogs.com/cmt/p/16931423.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（11.14-11.20）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/11/21.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16750075">
 摘要：            
 热点随笔： ·&nbsp;.Net 7内容汇总（3）--反射优化&nbsp;(jvx)·&nbsp;在 WPF 中实现融合效果&nbsp;(dino.c)·&nbsp;【程序人生】27岁，又是一个新的起点&nbsp;(猫咪大王_lkb)·&nbsp;可恶，又是个线上问题&nbsp;(艾小仙)·&nbsp;基于SqlSugar的开发框架循序渐进介绍（14）-- 基于Vue3+TypeScr        <a href="https://www.cnblogs.com/cmt/p/16750075.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企业出海走向精细化运营，智能联络中心是把关键钥匙]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/09/28.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/09/28.html"/>
-        <updated>2022-11-02T17:54:36.931Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16737633">
-摘要：            
-随着越来越多中国企业出海的加速，其关注的重点也正从过去构建海外云基础设施，遵从海外的法律法规，逐渐走向了针对本地化的精细化运营新阶段，而智能联络中心正是其中的一把“关键钥匙”。背后的原因在于，构建一套全球化的智能联络中心，既可以帮助出海企业为海外市场的用户提供更为智能、高度可靠、可定制的无缝沟通体验，同时也能高效沟通各类用户，帮助企业在海外市场中抢占业务发展先机。        <a href="https://www.cnblogs.com/cmt/p/16737633.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
