@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-11-29T05:35:56.539Z</updated>
+    <updated>2022-11-29T17:36:01.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[兆能ZN-AX1800Pro拆机 黑色版]]></title>
+        <id>https://www.acwifi.net/23172.html</id>
+        <link href="https://www.acwifi.net/23172.html"/>
+        <updated>2022-11-29T17:35:51.499Z</updated>
+        <content type="html"><![CDATA[我记得这个型号是拆过了，然后就放一边，又感觉没拆过，同一个型号有不同的外壳，真是服了。兆能ZN-AX1800 Pro！ 外包装： 包装背面的标签： 机身和配件 ： 电源输出规格是12V/1A，实测待机功率是4.9W。 今天广东的天气不错呀，阳光灿烂，ISO值终于可以用上400。 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一台吸顶AP能5G全覆盖吗之实测篇]]></title>
         <id>https://www.acwifi.net/23142.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22711.html"/>
         <updated>2022-11-02T17:54:28.824Z</updated>
         <content type="html"><![CDATA[今天继续找箱底货来拆。这台120多元收来，无线AX1800的规格，其实用抓包或用winfi软件就可以看出是哪家的芯片。 包装盒我不拍了，好多灰！ 电源规格是12V/1A，实测联网后的待机功率是4W，不高。 现在网线也流行双拼色了吗。 四根外置单频天线，黑色的机身，顶部有散热孔： ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联通VS010拆机，AX3000无线路由器]]></title>
-        <id>https://www.acwifi.net/22677.html</id>
-        <link href="https://www.acwifi.net/22677.html"/>
-        <updated>2022-11-02T17:54:28.824Z</updated>
-        <content type="html"><![CDATA[这台联通VS010我买的价格是130元包邮，看购买记录是在今年三朋份收来，一直压箱底没留意，直到一个星期前有人在闲鱼问我要不要收VS020，我才知道我有VS010。VS020已经在路上，也很快收到，收到就拆。 联通 VS010的黑色包装里藏了白色的机身： 电源输出规格是12V/1...]]></content>
     </entry>
 </feed>
