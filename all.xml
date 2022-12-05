@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-04T17:34:23.624Z</updated>
+    <updated>2022-12-05T05:34:37.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (StreamNative Blog)]]></title>
@@ -255,6 +255,16 @@
         <content type="html"><![CDATA[今天继续找箱底货来拆。这台120多元收来，无线AX1800的规格，其实用抓包或用winfi软件就可以看出是哪家的芯片。 包装盒我不拍了，好多灰！ 电源规格是12V/1A，实测联网后的待机功率是4W，不高。 现在网线也流行双拼色了吗。 四根外置单频天线，黑色的机身，顶部有散热孔： ...]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[上周热点回顾（11.28-12.4） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/12/05.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/12/05.html"/>
+        <updated>2022-12-05T05:34:36.443Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16951546">
+摘要：            
+热点随笔： ·&nbsp;谁说.NET没有GC调优？只改一行代码就让程序不再占用内存&nbsp;(杨中科)·&nbsp;.net如何优雅的使用EFCore&nbsp;(BruceNeter)·&nbsp;CAP 7.0 版本发布通告 - 支持延迟消息，性能炸了？&nbsp;(Savorboard)·&nbsp;Entity Framework Core 7中高效地进行        <a href="https://www.cnblogs.com/cmt/p/16951546.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[上周热点回顾（11.21-11.27） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/11/28.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2022/11/28.html"/>
@@ -342,16 +352,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16774669">
 摘要：            
 热点随笔： ·&nbsp;我操作MySQL的惊险一幕&nbsp;(god23bin)·&nbsp;不安装运行时运行 .NET 程序 - NativeAOT&nbsp;(Agile.Zhou)·&nbsp;.NET 6 跨服务器联表查询, MySql、Oracle、SqlServer等相互联表&nbsp;(果糖大数据科技)·&nbsp;SqlKata - 方便好用的 S        <a href="https://www.cnblogs.com/cmt/p/16774669.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（9.26-10.2） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/10/03.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/10/03.html"/>
-        <updated>2022-11-02T17:54:36.931Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16750075">
-摘要：            
-热点随笔： ·&nbsp;.Net 7内容汇总（3）--反射优化&nbsp;(jvx)·&nbsp;在 WPF 中实现融合效果&nbsp;(dino.c)·&nbsp;【程序人生】27岁，又是一个新的起点&nbsp;(猫咪大王_lkb)·&nbsp;可恶，又是个线上问题&nbsp;(艾小仙)·&nbsp;基于SqlSugar的开发框架循序渐进介绍（14）-- 基于Vue3+TypeScr        <a href="https://www.cnblogs.com/cmt/p/16750075.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
