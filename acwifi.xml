@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-12-11T05:34:37.234Z</updated>
+    <updated>2022-12-11T17:37:24.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米发布了首款支持MLO的手机和无线路由器]]></title>
+        <id>https://www.acwifi.net/23299.html</id>
+        <link href="https://www.acwifi.net/23299.html"/>
+        <updated>2022-12-11T17:37:16.264Z</updated>
+        <content type="html"><![CDATA[Wi-Fi 7还没定稿，在此之前上市的产品严格上来说话都不叫Wi-Fi 7。况且厂商也不适宜宣传6GHz频段。从成本和风险上来考虑，小米这款在硬件上多数不会支持6GHz。虽然无线没什么可看，那么它的有线端口成了最大的亮点。 小米万兆路由这款的硬件配置，很厉害了。用上了高通的最新S...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴G1620拆机 （FTTR子光猫），测试PON速率]]></title>
         <id>https://www.acwifi.net/23216.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22759.html"/>
         <updated>2022-11-02T17:54:28.822Z</updated>
         <content type="html"><![CDATA[一、拆机 中兴AX5400Pro+的外包装： 机身和配件： （中兴AX5400Pro+有两个颜色：一黑一银） 电源输出规格是12V/2.5A，实测接联网后的待机功率是9W： 机身背面的接口： 左边两个是2.5G网口，右边三个是千兆网口。默认WAN口是最左边的2.5G口，也可以在W...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XDR6010玄鸟AX6000无线路由器新品上市]]></title>
-        <id>https://www.acwifi.net/22751.html</id>
-        <link href="https://www.acwifi.net/22751.html"/>
-        <updated>2022-11-02T17:54:28.822Z</updated>
-        <content type="html"><![CDATA[TP-LINK的XDR6010是第二款玄鸟系列，无线规格是AX6000，双频均是4x4MIMO，能做到500以内的AX6000也只有联发科的方案了。 12纳米制程的Filogic 830方案，四核1.6GHz，跟XDR6020一模一样了。 双频一共最多可以带512台无线终端，各2...]]></content>
     </entry>
 </feed>
