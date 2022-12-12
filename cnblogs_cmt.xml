@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2022-12-11T17:37:24.527Z</updated>
+    <updated>2022-12-12T05:34:57.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（12.5-12.11）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2022/12/12.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2022/12/12.html"/>
+        <updated>2022-12-12T05:34:56.770Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16975365">
+摘要：            
+热点随笔： ·&nbsp;这玩意也太猛了！朋友们，我在此严正呼吁大家：端好饭碗，谨防 AI！&nbsp;(why技术)·&nbsp;ChatGPT 会开源吗？&nbsp;(削微寒)·&nbsp;用最少的代码打造一个Mini版的gRPC框架&nbsp;(Artech)·&nbsp;如何搭建一个自己的音乐服务器&nbsp;(程序猿阿朗)·&nbsp;MySQL空间暴涨150G导致锁定，发生了        <a href="https://www.cnblogs.com/cmt/p/16975365.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（11.28-12.4）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2022/12/05.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16798171">
 摘要：            
 热点随笔： ·&nbsp;斗鱼 H5 直播原理解析，它是如何省了 80% 的 CDN 流量？&nbsp;(羽月技术)·&nbsp;超强的纯 CSS 鼠标点击拖拽效果&nbsp;(ChokCoco)·&nbsp;10分钟教你写一个数据库&nbsp;(艾小仙)·&nbsp;Asp.net core 少走弯路系列教程（cnblogs 博客园首发）&nbsp;(FreeSql)·&nbsp;记一        <a href="https://www.cnblogs.com/cmt/p/16798171.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（10.3-10.9）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/10/10.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/10/10.html"/>
-        <updated>2022-11-02T17:54:36.930Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16774669">
-摘要：            
-热点随笔： ·&nbsp;我操作MySQL的惊险一幕&nbsp;(god23bin)·&nbsp;不安装运行时运行 .NET 程序 - NativeAOT&nbsp;(Agile.Zhou)·&nbsp;.NET 6 跨服务器联表查询, MySql、Oracle、SqlServer等相互联表&nbsp;(果糖大数据科技)·&nbsp;SqlKata - 方便好用的 S        <a href="https://www.cnblogs.com/cmt/p/16774669.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
