@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-12-12T17:35:25.186Z</updated>
+    <updated>2022-12-13T05:35:14.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[家装光纤布网攻略和材料选购指南]]></title>
+        <id>https://www.acwifi.net/23276.html</id>
+        <link href="https://www.acwifi.net/23276.html"/>
+        <updated>2022-12-13T05:34:38.597Z</updated>
+        <content type="html"><![CDATA[这篇文章准备了许久，前前后后买了各种东西，买来是为了能摸得着，摸得着才能深刻体会，体会过后才会有真正的认识。本文的主观认识，不一定全对，如有错的，希望能留言告之！ 光纤可为两大类，一种是单模（sm），另一种是多模（mm）。单模玻璃芯管细小，波长长，1310nm以上，特别是传输距离...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米发布了首款支持MLO的手机和无线路由器]]></title>
         <id>https://www.acwifi.net/23299.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/22949.html"/>
         <updated>2022-11-03T17:42:24.761Z</updated>
         <content type="html"><![CDATA[我以为不写，你们就会省钱不买的。是我比纯情小腊鸭还要单纯了吧！跟上半年一样，本篇不推荐单只超过千元以上的型号。主图我就随便拿了第一波抽奖免费送路由器的图，这图够霸气不？ 我一般以京东价格为准，如果你在其它平台有更好的价格就可以直接买。我不用神券神价来做比较！不是人人都可以拿到这样...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴ZTE AX5400Pro+无线路由器拆机和评测]]></title>
-        <id>https://www.acwifi.net/22759.html</id>
-        <link href="https://www.acwifi.net/22759.html"/>
-        <updated>2022-11-02T17:54:28.822Z</updated>
-        <content type="html"><![CDATA[一、拆机 中兴AX5400Pro+的外包装： 机身和配件： （中兴AX5400Pro+有两个颜色：一黑一银） 电源输出规格是12V/2.5A，实测接联网后的待机功率是9W： 机身背面的接口： 左边两个是2.5G网口，右边三个是千兆网口。默认WAN口是最左边的2.5G口，也可以在W...]]></content>
     </entry>
 </feed>
