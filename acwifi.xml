@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-12-15T05:35:07.864Z</updated>
+    <updated>2022-12-15T17:35:39.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米万兆路由AX10000在拆机前的小评测，还有D点测速]]></title>
+        <id>https://www.acwifi.net/23337.html</id>
+        <link href="https://www.acwifi.net/23337.html"/>
+        <updated>2022-12-15T17:35:29.591Z</updated>
+        <content type="html"><![CDATA[拆机要耗时间编辑，最重要是好多芯片我没见过面，没见过世面的我当然要做一些功课。所以先来一些自己感兴趣的测试。所有测试围绕我有兴趣的，不一定适合你看。这是京东有幸好抢到的零售版本，果然很快被抢光，估计现货量就少，年底了嘛。产量不足！好记得小米AX9000也是这样迅速！这也足已证明它...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米万兆路由AX10000的SFP+模块选择]]></title>
         <id>https://www.acwifi.net/23326.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/23011.html"/>
         <updated>2022-11-08T17:44:38.791Z</updated>
         <content type="html"><![CDATA[用无线AP，不一定非要用AC控制器的，包括含有AC控制器功能的一体路由器，本篇简单说一下。 选择面板AP或吸顶AP的，绝大多数有主路由了吧，如下图里的各设备连接示意图： 我经常说，如果对功能没有什么要求，直接用光猫拨号也可以的。现在的光猫性能也不差，差的话再想办法！光猫与交换机和...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK XDR6010无线路由器拆机]]></title>
-        <id>https://www.acwifi.net/22780.html</id>
-        <link href="https://www.acwifi.net/22780.html"/>
-        <updated>2022-11-06T17:38:28.577Z</updated>
-        <content type="html"><![CDATA[XDR6010的外包装： 机身和配件： 电源输出规格是12V/1.5A，实测联网后的待机功率是5.1W。对于AX6000的无线规格来说，低功耗啦！ 四根双频天线： 机身不是黑色的，是藏青色吧。顶部散热孔： 底部也有散热孔： 四个全千兆网口。 型号：TL-XDR6010易展版 背面...]]></content>
     </entry>
 </feed>
