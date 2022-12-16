@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2022-12-16T05:34:49.685Z</updated>
+    <updated>2022-12-16T17:34:34.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米万兆路由拆机AX10000]]></title>
+        <id>https://www.acwifi.net/23365.html</id>
+        <link href="https://www.acwifi.net/23365.html"/>
+        <updated>2022-12-16T17:34:23.823Z</updated>
+        <content type="html"><![CDATA[小米万兆路由外包装： 在拆之前已经进了简单的测试，详细文章 ： 小米万兆路由AX10000在拆机前的小评测，还有D点测速 外包装内包装外壳，这些跟小米AX9000一样，细节图就不多发了。时间也比较紧，因为阴雨天！ 机身和配件： 网线是CAT6，即六类网线，短线的话，超五类六类，没...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米万兆路由AX10000在拆机前的小评测，还有D点测速]]></title>
         <id>https://www.acwifi.net/23337.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/23030.html"/>
         <updated>2022-11-09T17:42:14.486Z</updated>
         <content type="html"><![CDATA[新的TL-R5010PE，硬件版本是V1.1，在外包装标签和机身底部的铭牌也有注明。 包装不拍了，直接机身和电源： 底部标签： 旧的拆机文章在这里，在往下看之前，如果之前没看过的可以先浏览一下，本篇不做太多细节上的描述，因为一样的硬件芯片。只改了散热和固件。 TP-LINK TL...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用AC，多个AP组网方法教程]]></title>
-        <id>https://www.acwifi.net/23011.html</id>
-        <link href="https://www.acwifi.net/23011.html"/>
-        <updated>2022-11-08T17:44:38.791Z</updated>
-        <content type="html"><![CDATA[用无线AP，不一定非要用AC控制器的，包括含有AC控制器功能的一体路由器，本篇简单说一下。 选择面板AP或吸顶AP的，绝大多数有主路由了吧，如下图里的各设备连接示意图： 我经常说，如果对功能没有什么要求，直接用光猫拨号也可以的。现在的光猫性能也不差，差的话再想办法！光猫与交换机和...]]></content>
     </entry>
 </feed>
