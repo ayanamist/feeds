@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-01-08T17:34:45.102Z</updated>
+    <updated>2023-01-09T05:34:59.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（1.2-1.8）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/01/09.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/01/09.html"/>
+        <updated>2023-01-09T05:34:59.208Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17036116">
+摘要：            
+热点随笔： ·&nbsp;今年回顾，流水账&nbsp;(C#菜子)·&nbsp;HelloGitHub 最受欢迎的开源项目 Top10（2022年）&nbsp;(削微寒)·&nbsp;我的2022年终总结：再次抉择，以终为始&nbsp;(EdisonZhou)·&nbsp;2022年是最烂的一年吗？我的2022年终总结&nbsp;(蛮三刀酱)·&nbsp;巧用视觉障眼法，还原 3D 文字        <a href="https://www.cnblogs.com/cmt/p/17036116.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（12.26-1.1）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/01/02.html</id>
@@ -93,16 +103,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16886074">
 摘要：            
 今天 15:00 左右在更换 k8s 集群的一台节点服务器的过程中，部署在 k8s 集群上的 redis 集群宕机，造成 15:05-15:20 期间无法正常访问博客站点，由此给您带来麻烦，请您谅解。我们会吸引教训，采用更合理的方式更换节点服务器。        <a href="https://www.cnblogs.com/cmt/p/16886074.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（10.31-11.6）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2022/11/07.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2022/11/07.html"/>
-        <updated>2022-11-07T05:45:24.453Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_16865060">
-摘要：            
-热点随笔： ·&nbsp;万字泣血解析割韭菜内情，程序员别老想着做副业&nbsp;(程序员济颠)·&nbsp;还在用双层for循环吗？太慢了&nbsp;(女友在高考)·&nbsp;.NET 零开销抽象指南&nbsp;(hez2010)·&nbsp;BI系统打包Docker镜像及部署的技术难度和实现&nbsp;(葡萄城技术团队)·&nbsp;如果再来一次，你还会选择互联网么？&nbsp;(敖丙)·&nbsp;        <a href="https://www.cnblogs.com/cmt/p/16865060.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
