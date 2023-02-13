@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://space.bilibili.com/393183630/article</id>
     <title>幻电物业 - B站技术中心</title>
-    <updated>2023-02-13T05:34:47.513Z</updated>
+    <updated>2023-02-13T17:35:53.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://space.bilibili.com/393183630/favicon.ico</icon>
     <entry>
@@ -60,21 +60,21 @@
                     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B站安全防御系列—僵尸网络]]></title>
-        <id>https://www.bilibili.com/read/cv21247763</id>
-        <link href="https://www.bilibili.com/read/cv21247763"/>
-        <updated>2023-02-13T05:34:30.075Z</updated>
-        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv21247763" target="_blank" title="本期作者01.僵尸网络僵尸网络 Botnet 是指采用一种或多种传播手段，利用 bot（僵尸程序）病毒感染和控制数万个主机即黑客常说的傀儡机或“肉鸡”（肉机），组织成一个个命令与控制（command and control，C&amp;C）节点。控制僵尸网络的攻击机称为“僵尸主控机（Botmaster）”，主控机通过 C&amp;C服务器向 bot发布命令来发送伪造的虚假数据包或是垃圾数据包，达到使攻击目标瘫痪并“拒绝服务”（DDoS）的目的。据公开报道显示，唐山一骇客曾控制了 6万台计算机对某音乐网站进行分布式拒绝服务">
-                      本期作者01.僵尸网络僵尸网络 Botnet 是指采用一种或多种传播手段，利用 bot（僵尸程序）病毒感染和控制数万个主机即黑客常说的傀儡机或“肉鸡”（肉机），组织成一个个命令与控制（command and control，C&amp;C）节点。控制僵尸网络的攻击机称为“僵尸主控机（Botmaster）”，主控机通过 C&amp;C服务器向 bot发布命令来发送伪造的虚假数据包或是垃圾数据包，达到使攻击目标瘫痪并“拒绝服务”（DDoS）的目的。据公开报道显示，唐山一骇客曾控制了 6万台计算机对某音乐网站进行分布式拒绝服务
-                    </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支付收银台初探]]></title>
         <id>https://www.bilibili.com/read/cv21247725</id>
         <link href="https://www.bilibili.com/read/cv21247725"/>
         <updated>2023-02-13T05:34:30.075Z</updated>
         <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv21247725" target="_blank" title="本期作者收银台这个词想必大家都不陌生，我们去商场购物的时候，选定一个商品，营业员就会给你一张购物票据，让我们去找收银台付款并拿着付款凭证回来领取货品。也许你曾因商场的各种满减活动或者信用卡、银联等的消费促销而在收银台兴奋地计算着又省了多少钱，也许你还记得过年时候大卖场中，因收银员开足马力也阻止不了的等待结账的队伍越积越长而难忘的疲累，也肯定还记得收银员问你的第一句话：用什么支付？随着在线购物的发展，收银台也从传统的商场收银台转移到现在线上我们早已习惯的无人收银台。它就像专为我们一对一服务一样，每当我们在网">
                       本期作者收银台这个词想必大家都不陌生，我们去商场购物的时候，选定一个商品，营业员就会给你一张购物票据，让我们去找收银台付款并拿着付款凭证回来领取货品。也许你曾因商场的各种满减活动或者信用卡、银联等的消费促销而在收银台兴奋地计算着又省了多少钱，也许你还记得过年时候大卖场中，因收银员开足马力也阻止不了的等待结账的队伍越积越长而难忘的疲累，也肯定还记得收银员问你的第一句话：用什么支付？随着在线购物的发展，收银台也从传统的商场收银台转移到现在线上我们早已习惯的无人收银台。它就像专为我们一对一服务一样，每当我们在网
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B站安全防御系列—僵尸网络]]></title>
+        <id>https://www.bilibili.com/read/cv21247763</id>
+        <link href="https://www.bilibili.com/read/cv21247763"/>
+        <updated>2023-02-13T05:34:30.075Z</updated>
+        <content type="html"><![CDATA[<a href="//www.bilibili.com/read/cv21247763" target="_blank" title="本期作者01.僵尸网络僵尸网络 Botnet 是指采用一种或多种传播手段，利用 bot（僵尸程序）病毒感染和控制数万个主机即黑客常说的傀儡机或“肉鸡”（肉机），组织成一个个命令与控制（command and control，C&amp;C）节点。控制僵尸网络的攻击机称为“僵尸主控机（Botmaster）”，主控机通过 C&amp;C服务器向 bot发布命令来发送伪造的虚假数据包或是垃圾数据包，达到使攻击目标瘫痪并“拒绝服务”（DDoS）的目的。据公开报道显示，唐山一骇客曾控制了 6万台计算机对某音乐网站进行分布式拒绝服务">
+                      本期作者01.僵尸网络僵尸网络 Botnet 是指采用一种或多种传播手段，利用 bot（僵尸程序）病毒感染和控制数万个主机即黑客常说的傀儡机或“肉鸡”（肉机），组织成一个个命令与控制（command and control，C&amp;C）节点。控制僵尸网络的攻击机称为“僵尸主控机（Botmaster）”，主控机通过 C&amp;C服务器向 bot发布命令来发送伪造的虚假数据包或是垃圾数据包，达到使攻击目标瘫痪并“拒绝服务”（DDoS）的目的。据公开报道显示，唐山一骇客曾控制了 6万台计算机对某音乐网站进行分布式拒绝服务
                     </a>]]></content>
     </entry>
     <entry>
