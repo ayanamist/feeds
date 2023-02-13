@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-02-12T17:34:36.211Z</updated>
+    <updated>2023-02-13T05:34:47.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.30-2.5）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（2.6-2.12）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/02.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/02.html"/>
         <updated>2023-02-06T05:34:39.818Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17094542">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17115505">
 摘要：            
-热点随笔： ·&nbsp;Git入门图文教程(1.5W字40图)🔥🔥--深入浅出、图文并茂&nbsp;(安木夕)·&nbsp;.NET 入门到高级路线&nbsp;(tokengo)·&nbsp;通过一个示例形象地理解C# async await异步&nbsp;(0611163)·&nbsp;2023 年该学点什么技术？「GitHub 热点速览 v.23.03」&nbsp;(        <a href="https://www.cnblogs.com/cmt/p/17094542.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;chatGPT 桌面版安装教程&nbsp;(小二十七)·&nbsp;带团队后的日常思考（十一）&nbsp;(咖啡机（K.F.J）)·&nbsp;chatGPT vscode 体验 (可能被封了，请求都是429）&nbsp;(linzm14)·&nbsp;程序员大杀器？带你玩转ChatGPT&nbsp;(京东云开发者)·&nbsp;花了半个小时基于 ChatGPT        <a href="https://www.cnblogs.com/cmt/p/17115505.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
