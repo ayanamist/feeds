@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-02-16T05:34:57.940Z</updated>
+    <updated>2023-02-17T17:34:46.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hinlink路由器H68K拆机和小测试，出差神器]]></title>
+        <id>https://www.acwifi.net/23738.html</id>
+        <link href="https://www.acwifi.net/23738.html"/>
+        <updated>2023-02-17T17:34:36.402Z</updated>
+        <content type="html"><![CDATA[Hinlink H68K外观： 先看尺寸，大概85x65mm，轻松放进口袋，出差神器呀。 这是机身底部，有四个脚垫。这台是4G RAM，32G EMMC的H68K-D旧版本。价格500多元，跟相同硬件配置的电视盒子价格差不多，还多了2个2.5G网口。况且它真的能做电视盒子！ 正面...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米WR30U无线路由器拆机 AX3000联通定制版]]></title>
         <id>https://www.acwifi.net/23700.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/23337.html"/>
         <updated>2022-12-15T17:35:29.591Z</updated>
         <content type="html"><![CDATA[拆机要耗时间编辑，最重要是好多芯片我没见过面，没见过世面的我当然要做一些功课。所以先来一些自己感兴趣的测试。所有测试围绕我有兴趣的，不一定适合你看。这是京东有幸好抢到的零售版本，果然很快被抢光，估计现货量就少，年底了嘛。产量不足！好记得小米AX9000也是这样迅速！这也足已证明它...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米万兆路由AX10000的SFP+模块选择]]></title>
-        <id>https://www.acwifi.net/23326.html</id>
-        <link href="https://www.acwifi.net/23326.html"/>
-        <updated>2022-12-13T17:34:25.956Z</updated>
-        <content type="html"><![CDATA[有几个人问小米万兆路由的模块选择问题，如果不差钱可以闭眼照着小米官方推荐的型号去买。 小米万兆路由器的商品描述页，有一行关于SFP+模块的选购的： “SFP+ 模块需自行购买，为了更好的使用体验，推荐使用经小米实验室测试通过的型号，型号列表请在小米路由器社区查询。” 然后从小米社...]]></content>
     </entry>
 </feed>
