@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-02-19T17:35:18.164Z</updated>
+    <updated>2023-02-20T05:35:17.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.6-2.12）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（2.13-2.19）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/02.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/02.html"/>
         <updated>2023-02-06T05:34:39.818Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17115505">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17136381">
 摘要：            
-热点随笔： ·&nbsp;chatGPT 桌面版安装教程&nbsp;(小二十七)·&nbsp;带团队后的日常思考（十一）&nbsp;(咖啡机（K.F.J）)·&nbsp;chatGPT vscode 体验 (可能被封了，请求都是429）&nbsp;(linzm14)·&nbsp;程序员大杀器？带你玩转ChatGPT&nbsp;(京东云开发者)·&nbsp;花了半个小时基于 ChatGPT        <a href="https://www.cnblogs.com/cmt/p/17115505.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;你好 ChatGPT, 帮我看下这段代码有什么问题？&nbsp;(程序猿阿朗)·&nbsp;小公司需要使用微服务架构吗？&nbsp;(九卷)·&nbsp;炸了！3年图片都没了&nbsp;(艾小仙)·&nbsp;我已经受够了“系统异常”！&nbsp;(林子er)·&nbsp;我让 ChatGPT 写了个 ChatGPT&nbsp;(sherrywasp)·&nbsp;周末折腾了两天，        <a href="https://www.cnblogs.com/cmt/p/17136381.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
