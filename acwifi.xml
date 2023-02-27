@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-02-27T05:35:19.157Z</updated>
+    <updated>2023-02-27T17:37:39.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TL-ST1008FV2.0拆机八口万兆SFP+交换机]]></title>
+        <id>https://www.acwifi.net/23964.html</id>
+        <link href="https://www.acwifi.net/23964.html"/>
+        <updated>2023-02-27T17:36:49.744Z</updated>
+        <content type="html"><![CDATA[外观和包装： 配件： 电源输出规格是12V/2A，实测空口待机功率是3.9W。 我拿了一些模块实插进去，实测了在不同速率不同数量下的实时功率。我买的二手模块数量不多，一斤左右吧。有10G有2.5G，有单模也有多模。这个实测也告诉你们单模与多模的功耗差别。 单模比多模功耗高些，发热...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[威联通（QNAP）TS-464C四盘位NAS的一些测试]]></title>
         <id>https://www.acwifi.net/23865.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/23566.html"/>
         <updated>2023-01-15T17:34:19.834Z</updated>
         <content type="html"><![CDATA[测过之后，感觉很后悔买了这手机，没什么用。MLO是不支持的， 这台小米万兆路由AX10000也不支持240MHz频宽。是我太天真了！ 小米13 Pro里的双WLAN聚合加速，可以是双5G，也可以是2.4G+5G，与路由器型号无关，小米AX9000也可以实现同时连接两个5G： 下图...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东云无线宝AX6000百里上市预售，单2.5G网口]]></title>
-        <id>https://www.acwifi.net/23498.html</id>
-        <link href="https://www.acwifi.net/23498.html"/>
-        <updated>2023-01-02T05:35:18.145Z</updated>
-        <content type="html"><![CDATA[京东云无线宝百里，AX6000，联发科方案，四核2.0GHz，CPU是MT7986A，内存比较大有1GB，有外置的独立功放，还有一个2.5G网口！ 预售价格569元，付10定金抵30元，即549元！ 从配置上来看，不贵。 京东预售链接 一个2.5G网口可做WAN或LAN，还有四个...]]></content>
     </entry>
 </feed>
