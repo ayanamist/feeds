@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-03-04T17:34:55.331Z</updated>
+    <updated>2023-03-05T05:34:41.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[【故障公告】Kubernetes 集群节点宕机造成博客站点故障（被3.5万QPS压垮）]]></title>
+        <title type="html"><![CDATA[【故障公告】攻击式巨量并发请求再次来袭，引发博客站点故障]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/03.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/03.html"/>
         <updated>2023-03-03T17:35:03.676Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17176697">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17180248">
 摘要：            
-非常抱歉！今天 18:40-18:55 左右 Kubernetes 集群一台高配节点突然宕机，造成博客站点故障，访问时出现 502 Bad Gateway，由此给您带来麻烦，请您谅解。 发现故障并定位问题后，我们增加了新节点服务器并重启宕机节点服务器，之后恢复正常。 19:17 左右又出现故障，疑似        <a href="https://www.cnblogs.com/cmt/p/17176697.html" class="c_b_p_desc_readmore">阅读全文</a>
+继周五 18:40-18:55 左右首次来袭，今天 11:10-12:10 左右，来路不明的攻击式巨量并发请求再次袭击园子，而且攻势更猛，单台负载均衡最高 QPS 超过4万。这种前所未遇的超日常百倍的并发请求，博客站点毫无还手之力，所有 pod 全部宕机        <a href="https://www.cnblogs.com/cmt/p/17180248.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
