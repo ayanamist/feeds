@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-03-05T17:35:00.089Z</updated>
+    <updated>2023-03-06T05:35:30.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[【故障公告】攻击式巨量并发请求再次来袭，引发博客站点故障]]></title>
+        <title type="html"><![CDATA[上周热点回顾（2.27-3.5）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/03.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/03.html"/>
         <updated>2023-03-03T17:35:03.676Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17180248">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17182884">
 摘要：            
-继周五 18:40-18:55 左右首次来袭，今天 11:10-12:10 左右，来路不明的攻击式巨量并发请求再次袭击园子，而且攻势更猛，单台负载均衡最高 QPS 超过4万。这种前所未遇的超日常百倍的并发请求，博客站点毫无还手之力，所有 pod 全部宕机        <a href="https://www.cnblogs.com/cmt/p/17180248.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;一键接入 ChatGPT，让你的QQ群变得热闹起来&nbsp;(极客飞兔)·&nbsp;我的十年编程路 2013年篇&nbsp;(萧文翰)·&nbsp;2023年，消失的金三银四&nbsp;(peida)·&nbsp;我做的FFmpeg开源C#封装库Sdcb.FFmpeg&nbsp;(.NET骚操作)·&nbsp;记一次 .NET某家装ERP系统 内存暴涨分析&nbsp;        <a href="https://www.cnblogs.com/cmt/p/17182884.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
