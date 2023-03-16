@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T05:34:51.847Z</updated>
+    <updated>2023-03-16T17:35:35.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[烽火SR1041FU拆机，AX3000无线路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/24040.html</id>
+        <link href="https://www.acwifi.net/24040.html"/>
+        <updated>2023-03-16T17:35:25.918Z</updated>
+        <content type="html"><![CDATA[烽火SR1041U的外包装： 机身和配件： 电源输出规格是12V/1A，实际联网后的待机功率是4.8W。从待机功率和AX3000就可以猜到是什么方案了。 很少见的“圆碌碌”天线： 背面四个千兆网口，一WAN三LAN。 机身底部： 设备型号：SR1041UF 折开外壳： 散热片就如...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴E2623拆机，AX3000无线路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/23999.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/23614.html"/>
         <updated>2023-01-20T05:34:48.199Z</updated>
         <content type="html"><![CDATA[XDR6078的外包装： 机身和配件 ： 电源输出规格是12V/2A，实测只插两个2.5G口的行机功率是6.2W，只插两2个千兆口是5.5W， 插满是6.9W。 外观跟XDR6010一样的。 四个网口，左边两个2.5G口，右边两个千兆口： 型号：TL-XDR6078易展版： 拆开...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-R5408M易展路由器拆机和小包转发测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/23577.html</id>
-        <link href="https://www.acwifi.net/23577.html"/>
-        <updated>2023-01-18T17:34:24.599Z</updated>
-        <content type="html"><![CDATA[符合弱电箱神器的条件，必须是身材好，功能也丰满，性能要持久输出，功能要多，功耗要低，要有多个2.5G网口，设置简单直接。所以我主观地认为R5408M符合这些条件。 R5408M的外观跟R4010GP一样，少了PoE供电，因此发热量少了许多。R4010GP的拆机文章如下： TL-R...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（3.6-3.12） (博客园官方博客)]]></title>
