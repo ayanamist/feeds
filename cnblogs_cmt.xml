@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-03-21T05:37:24.842Z</updated>
+    <updated>2023-03-21T17:36:34.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.13-3.19）]]></title>
+        <title type="html"><![CDATA[发布新版博客备份功能：生成 sqlite 数据库文件，vscode 插件可查看]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/03.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/03.html"/>
         <updated>2023-03-03T17:35:03.676Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17235328">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17240655">
 摘要：            
-热点随笔： ·&nbsp;为什么 C# 可能是最好的第一编程语言&nbsp;(张善友)·&nbsp;【个人首测】百度文心一言 VS ChatGPT GPT-4&nbsp;(机器学习算法与Python)·&nbsp;Linux系统下祼机安装mysql8.0和docker mysql 8.0 性能差异对比~&nbsp;(Net码畜)·&nbsp;我的十年编程路 2020年        <a href="https://www.cnblogs.com/cmt/p/17235328.html" class="c_b_p_desc_readmore">阅读全文</a>
+大家好，最近我们重新开发了园子的博客备份功能，今天发布第一个预览版，欢迎大家试用。园子的 vscode 插件也集成了博客备份功能，不仅可以查看通过博客后台下载的备份文件，而且可以直接在 vscode 插件中直接操作博客备份的创建、下载、查看。        <a href="https://www.cnblogs.com/cmt/p/17240655.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
