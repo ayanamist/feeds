@@ -2,27 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-03-26T17:34:45.723Z</updated>
+    <updated>2023-03-27T17:35:16.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[【故障公告】数据库服务器 CPU 近 100% 造成全站故障，雪上加霜难上加难的三月]]></title>
+        <title type="html"><![CDATA[上周热点回顾（3.20-3.26）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/03.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/03.html"/>
         <updated>2023-03-03T17:35:03.676Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17257546">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17260541">
 摘要：            
-数据库服务器 CPU 近 100% 问题几乎每年都要发生一次，上次发生在去年1月31日，每次都是通过主备切换或者重启实例解决。今年这个问题真会找时间，在园子非常困难的时期，在昨天刚刚因疯狂蜘蛛袭击被整得精疲力尽之后，在星期天早上难得睡个懒觉的时候，在今天早上 8:30 左右来袭。        <a href="https://www.cnblogs.com/cmt/p/17257546.html" class="c_b_p_desc_readmore">阅读全文</a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.20-2.26）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/02.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/02.html"/>
-        <updated>2023-02-06T05:34:39.818Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17158667">
-摘要：            
-热点随笔： ·&nbsp;我花16块得到了一个永久的微型服务器&nbsp;(KoiC)·&nbsp;关于这个“微信提现”的问题，太炸裂了，以至于我写了段代码来验证！&nbsp;(why技术)·&nbsp;.NET微服务系统迁移至.NET6.0的故事&nbsp;(InCerry)·&nbsp;2023年：我成了半个外包&nbsp;(知了一笑)·&nbsp;我做的百度飞桨PaddleOCR         <a href="https://www.cnblogs.com/cmt/p/17158667.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;穷人版生产力工具，好用得飞起 「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;企业低成本万能架构&nbsp;(陈国利)·&nbsp;10 款开源的在线游戏，点开就能玩的那种&nbsp;(削微寒)·&nbsp;做个清醒的程序员 序&nbsp;(萧文翰)·&nbsp;Three.js 进阶之旅：物理效果-3D乒乓球小游戏 🏓&nbsp;(Dragonir)·&nbsp;        <a href="https://www.cnblogs.com/cmt/p/17260541.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
