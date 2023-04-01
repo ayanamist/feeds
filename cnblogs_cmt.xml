@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-03-31T05:34:41.698Z</updated>
+    <updated>2023-04-01T05:34:45.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[园子的商业化努力：IT人才出海服务]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/04.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/04.html"/>
+        <updated>2023-04-01T05:34:44.967Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17277640">
+摘要：            
+今年是园子商业化的关键一年，出海人才服务是其中一项商业化努力。日本今年很缺IT人才，合作伙伴正好有这方面的资源，就从日本IT人才移民开始做起。园子也想出海，等条件具备时，出海做一个面向全球开发者的英文技术社区。        <a href="https://www.cnblogs.com/cmt/p/17277640.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】下班前的一场暴风雨，爬虫爬至园宕机]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/03.html</id>
