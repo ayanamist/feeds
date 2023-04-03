@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-04-02T17:34:35.509Z</updated>
+    <updated>2023-04-03T17:34:30.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[园子的商业化努力-开篇：绝境求商]]></title>
+        <title type="html"><![CDATA[上周热点回顾（3.27-4.2）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/04.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/04.html"/>
         <updated>2023-04-01T05:34:44.967Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17280054">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17282241">
 摘要：            
-021年的一场危机，给园子来了个做梦也没想到的突然袭击，让园子一片狼藉。2022年的双重困境，让园子在暴风雨之后再添恶劣天气，不给园子一点喘息之机。2023年困难重重的开局，将园子陷于看不到雨后彩虹的绝地，逼着园子唯有奋起出击。        <a href="https://www.cnblogs.com/cmt/p/17280054.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;微软 New Bing AI 申请与使用保姆级教程（免魔法）&nbsp;(彭旭锐)·&nbsp;【故障公告】下班前的一场暴风雨，爬虫爬至园宕机&nbsp;(博客园团队)·&nbsp;我试图通过这篇文章，教会你一种阅读源码的方式。&nbsp;(why技术)·&nbsp;亿万级分库分表后如何进行跨表分页查询&nbsp;(Ron.Liang)·&nbsp;ChatGP        <a href="https://www.cnblogs.com/cmt/p/17282241.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
