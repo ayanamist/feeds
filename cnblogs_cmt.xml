@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-04-09T05:34:20.389Z</updated>
+    <updated>2023-04-10T05:35:36.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[欢迎使用园子的 vscode 插件]]></title>
+        <title type="html"><![CDATA[上周热点回顾（4.3-4.9）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/04.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/04.html"/>
         <updated>2023-04-01T05:34:44.967Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17299782">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17301737">
 摘要：            
-为了方便大家通过 vscode 编辑博文，我们做了一个小插件，插件名称是“博客园Cnblogs客户端”，插件列表中搜索“博客园”或者 "cnblogs" 可以找到。插件安装好之后会在 activity bar 中出现写代码小人的图标，点开后点击 Login 按钮登录。        <a href="https://www.cnblogs.com/cmt/p/17299782.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;阴差阳错的帮了博客园一把？&nbsp;(敖丙)·&nbsp;开源不到 48 小时获 35k star 的推荐算法「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;你到底值多少钱？2023打工人薪酬指南&nbsp;(王有志)·&nbsp;如何申请 Azure OpenAI&nbsp;(晓晨Master)·&nbsp;关于博客园绝境求商的一点点感想!&nbsp;(        <a href="https://www.cnblogs.com/cmt/p/17301737.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
