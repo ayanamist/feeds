@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-04-11T05:35:23.825Z</updated>
+    <updated>2023-04-11T17:34:50.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.3-4.9）]]></title>
+        <title type="html"><![CDATA[园子的现代化建设-博客版本控制：发布博客设置历史版本功能]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/04.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/04.html"/>
         <updated>2023-04-01T05:34:44.967Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17301737">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17307564">
 摘要：            
-热点随笔： ·&nbsp;阴差阳错的帮了博客园一把？&nbsp;(敖丙)·&nbsp;开源不到 48 小时获 35k star 的推荐算法「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;你到底值多少钱？2023打工人薪酬指南&nbsp;(王有志)·&nbsp;如何申请 Azure OpenAI&nbsp;(晓晨Master)·&nbsp;关于博客园绝境求商的一点点感想!&nbsp;(        <a href="https://www.cnblogs.com/cmt/p/17301737.html" class="c_b_p_desc_readmore">阅读全文</a>
+虽然园子当前面临着商业化的巨大困难与挑战，但园子的现代化建设也在尽自己所能地向前推进。今天晚上我们发布了博客后台的一个小功能——博客设置历史版本，当您在博客后台设置页面修改了某个设置（比如公告）并保存时，会生成一个历史版本，您可以查看并还原这个历史版本。        <a href="https://www.cnblogs.com/cmt/p/17307564.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
