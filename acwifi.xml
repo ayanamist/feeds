@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-05-05T05:34:27.065Z</updated>
+    <updated>2023-05-05T17:35:17.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米7000Mbps无线路由器上市预售，可双频也变三频]]></title>
+        <id>https://www.acwifi.net/24523.html</id>
+        <link href="https://www.acwifi.net/24523.html"/>
+        <updated>2023-05-05T17:35:06.867Z</updated>
+        <content type="html"><![CDATA[这是第二款吧，我没记错的话，半年快过去了，也没啥新机出现。跟小米万兆路由器一样，这款也不敢叫BE7000或Wi-Fi 7，如果叫AX7000又显得落后，所以前面啥都不标。我个人认为叫小米AX7000比较合情合理，总该给人家一个名分才行呀。 这款小米7000有四个网口，且均支持最高...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腾达TEM2010F拆机，10口2.5G交换机]]></title>
         <id>https://www.acwifi.net/24444.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/23999.html"/>
         <updated>2023-03-31T05:34:31.250Z</updated>
         <content type="html"><![CDATA[中兴E2623在上年底下单了，一直不发货，后来有人告诉我PDD上面迟迟不发货，可以投诉然后赔无门槛券，我傻傻的主动申请了退款。后来隔一个多月再下单买回来，144元，还不是全新的货。 中兴E2623的外包装，比较破，上面印有中国移动，即中国移动运营商定制机。 (听几个网友反馈说，W...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-ST1008FV2.0拆机八口万兆SFP+交换机]]></title>
-        <id>https://www.acwifi.net/23964.html</id>
-        <link href="https://www.acwifi.net/23964.html"/>
-        <updated>2023-03-31T05:34:31.252Z</updated>
-        <content type="html"><![CDATA[外观和包装： 配件： 电源输出规格是12V/2A，实测空口待机功率是3.9W。 我拿了一些模块实插进去，实测了在不同速率不同数量下的实时功率。我买的二手模块数量不多，一斤左右吧。有10G有2.5G，有单模也有多模。这个实测也告诉你们单模与多模的功耗差别。 单模比多模功耗高些，发热...]]></content>
     </entry>
 </feed>
