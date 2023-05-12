@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-05-11T17:34:31.887Z</updated>
+    <updated>2023-05-12T05:34:28.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米7000拆机芯片汇总图]]></title>
+        <id>https://www.acwifi.net/24559.html</id>
+        <link href="https://www.acwifi.net/24559.html"/>
+        <updated>2023-05-12T05:34:17.103Z</updated>
+        <content type="html"><![CDATA[因为你们急着看，我就直接上小米7000的拆机汇总图。 先说一下功耗，只插千兆WAN口，LAN口都不插，待机功率是8.5W，接一个2.5G LAN后功率9.4W，满上3个2.5G LAN后是11.2W ，不算很高也不算低。要功耗低还是要联发科的看看。 小米7000的芯片型号汇总图如...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米7000简单评测之小包转发性能和D点测速]]></title>
         <id>https://www.acwifi.net/24543.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24076.html"/>
         <updated>2023-03-31T05:34:31.240Z</updated>
         <content type="html"><![CDATA[TP-LINK把新品定义为Wi-Fi 7，我个人仍然对7这个定义持有所保留，符合怎样的标准才叫Wi-Fi 7，现在还没有答案。今天的重点不是这个，是将要上市的产品。今年准备上市的无线路由器新品资料截图如下： .最早上市的是三频的BE13000和双频的BE7200。BE13000三...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烽火SR1041FU拆机，AX3000无线路由器]]></title>
-        <id>https://www.acwifi.net/24040.html</id>
-        <link href="https://www.acwifi.net/24040.html"/>
-        <updated>2023-03-31T05:34:31.244Z</updated>
-        <content type="html"><![CDATA[烽火SR1041U的外包装： 机身和配件： 电源输出规格是12V/1A，实际联网后的待机功率是4.8W。从待机功率和AX3000就可以猜到是什么方案了。 很少见的“圆碌碌”天线： 背面四个千兆网口，一WAN三LAN。 机身底部： 设备型号：SR1041UF 折开外壳： 散热片就如...]]></content>
     </entry>
 </feed>
