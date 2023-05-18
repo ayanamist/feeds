@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-17T17:36:25.915Z</updated>
+    <updated>2023-05-18T05:34:58.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[园子的商业化努力-AI人才服务：招募AI导师]]></title>
+        <title type="html"><![CDATA[【故障公告】博客站点一台阿里云负载均衡被DDoS攻击]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
         <updated>2023-05-01T05:35:06.388Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17402955">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17411636">
 摘要：            
-各位园子的小伙伴，感谢大家对园子的支持，园子差不多接近20年的历程，一直是最低配模式生存和发展，感谢大家对于前段时间的困局给予了商业化的各种建议！在大家的鼓励与支持之下，园子的商业化努力正在以更快的步伐向前推进！        <a href="https://www.cnblogs.com/cmt/p/17402955.html" class="c_b_p_desc_readmore">阅读全文</a>
+13:06 收到阿里云的电话与邮件通知，博客站点的一台阿里云负载均衡因被 DDoS 攻击被关进黑洞（所有访问被屏蔽），部分用户的访问受影响，由此给您带来麻烦，请您谅解。接下来不知道是否还会遭遇更大规模的攻击，如果您遇到不能访问的问题，麻烦你发邮件至 contact@cnblogs.com  或者加下面的企业微信与我们联系。        <a href="https://www.cnblogs.com/cmt/p/17411636.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
