@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-05-23T05:34:53.979Z</updated>
+    <updated>2023-05-24T05:34:37.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
     <entry>
@@ -67,12 +67,5 @@
         <link href="https://www.acwifi.net/24188.html"/>
         <updated>2023-04-03T17:34:21.666Z</updated>
         <content type="html"><![CDATA[孤陋寡闻的我很少见有AX3000无线规格的5G CPE，且还可以同时插两卡SIM卡。拆机看看用的是啥5G 模块。。。不过，，不用拆也能知道，因为进系统升级界面就能看见型号。 TR970G的外包装： 外包装上的产品描述 ： &nbsp; 取出机身和配件： 电源输出规格是12V/2....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK 2023年春季新品发布会，谈一下硬件配置]]></title>
-        <id>https://www.acwifi.net/24076.html</id>
-        <link href="https://www.acwifi.net/24076.html"/>
-        <updated>2023-03-31T05:34:31.240Z</updated>
-        <content type="html"><![CDATA[TP-LINK把新品定义为Wi-Fi 7，我个人仍然对7这个定义持有所保留，符合怎样的标准才叫Wi-Fi 7，现在还没有答案。今天的重点不是这个，是将要上市的产品。今年准备上市的无线路由器新品资料截图如下： .最早上市的是三频的BE13000和双频的BE7200。BE13000三...]]></content>
     </entry>
 </feed>
