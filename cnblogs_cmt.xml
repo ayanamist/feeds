@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-24T17:35:02.894Z</updated>
+    <updated>2023-05-25T05:34:20.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[园子的现代化建设-社群运营：欢迎加入园子的细分社群微信群]]></title>
+        <title type="html"><![CDATA[发布 markdown 小功能：指定图片尺寸]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
         <updated>2023-05-01T05:35:06.388Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17428907">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17430813">
 摘要：            
-之前园子在运营上无所作为，现在我们要努力做出改变。为了方便大家与同道中（同一个技术领域）的园友进行交流，我们开始尝试运营一些细分社群，目前初步选择了以下几个技术领域创建了微信群。        <a href="https://www.cnblogs.com/cmt/p/17428907.html" class="c_b_p_desc_readmore">阅读全文</a>
+之前园子的 markdown 功能多年落后，这两年我们正在努力赶上。今天发布一个 markdown 小功能，可以通过 markdown 语法指定图片尺寸。另外，分享一下之前早已发布2个的 markdown 小功能。        <a href="https://www.cnblogs.com/cmt/p/17430813.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
