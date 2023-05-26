@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-26T05:34:21.840Z</updated>
+    <updated>2023-05-26T17:34:48.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[我的家电选购清单 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/24653.html</id>
+        <link href="https://www.acwifi.net/24653.html"/>
+        <updated>2023-05-26T17:34:39.161Z</updated>
+        <content type="html"><![CDATA[刚好遇着618，可以适当购入一些家电，特别是厨房电器。有已付定金的，还有要等到31号看看还有没有更优惠的促销。分享一下清单! 如有不合理或有更优惠更好的型号，也可以留言告诉我。（下图是渲染效果图） 冰箱，上年已经看好了，因为要放嵌入式蒸烤箱，所以在125CM的宽度，做了60cm宽...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教你用手机查看无线路由器Wi-Fi 7特性，还可查看KVR 和MU-MIMO的支持 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/24613.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/24275.html"/>
         <updated>2023-04-06T17:34:25.724Z</updated>
         <content type="html"><![CDATA[一、外观拆机 中兴小方糖的外包装： 取出机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是3.4W，不高。 机身外观： 整体方形，但有两个角做了圆弧处理： 体积比较小巧，边长大约9.5cm： 背而有散热孔，网口方面， 一个千兆WAN，两个千兆LAN： 下面是指示灯，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱快IK-S3009MT拆机和测试，非网管8口2.5G交换机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/24307.html</id>
-        <link href="https://www.acwifi.net/24307.html"/>
-        <updated>2023-04-05T17:34:54.610Z</updated>
-        <content type="html"><![CDATA[爱快IK-S3009MT买来有个月了吧，一直比较忙就没摸它。这款8口2.5G交换机，第一印象就是温度相对低，好可能用的新款芯片方案，而且价格相对也便宜。 包装盒子上的商品标签： 在拆机之前进行了一翻测试，所以机身上面都有我的指纹。（SFP防尘帽子我可能测试时拿了其它机身上的） 电...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[发布 markdown 小功能：指定图片尺寸 (博客园官方博客)]]></title>
