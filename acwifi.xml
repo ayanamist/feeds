@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-05-29T17:34:49.840Z</updated>
+    <updated>2023-05-30T17:34:32.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[京东618大红包领取攻略]]></title>
+        <id>https://www.acwifi.net/24688.html</id>
+        <link href="https://www.acwifi.net/24688.html"/>
+        <updated>2023-05-30T17:34:23.510Z</updated>
+        <content type="html"><![CDATA[1. 活动时间： （1）活动参与时间：2023年5月29日19:00:00-2023年6月18日23:59:59（21天）；千万奖池，先到先得，发完即止。 （2）京东红包使用时间： 2023年5月29日-2023年6月4日期间领取的红包使用时间为2023年5月29日19:00:0...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的618家电选购清单]]></title>
         <id>https://www.acwifi.net/24653.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24353.html"/>
         <updated>2023-04-08T17:34:08.735Z</updated>
         <content type="html"><![CDATA[磊科GS6外包装： 包装盒上的标签：2.5G非网管桌面式交换机 配件里面有挂耳支架，不安装在机柜里，也可以贴上4个脚垫，放在桌面上。 DC电源内置了。实测所有端口空着不插的待机功率是1.3W，插满4个2.5G网口后功率是4.4W ，再加插上2个10G单模模块之后，总功率5.6W。...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴小方糖AC1200拆机、评测]]></title>
-        <id>https://www.acwifi.net/24275.html</id>
-        <link href="https://www.acwifi.net/24275.html"/>
-        <updated>2023-04-06T17:34:25.724Z</updated>
-        <content type="html"><![CDATA[一、外观拆机 中兴小方糖的外包装： 取出机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是3.4W，不高。 机身外观： 整体方形，但有两个角做了圆弧处理： 体积比较小巧，边长大约9.5cm： 背而有散热孔，网口方面， 一个千兆WAN，两个千兆LAN： 下面是指示灯，...]]></content>
     </entry>
 </feed>
