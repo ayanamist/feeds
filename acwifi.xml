@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-06-14T05:34:24.818Z</updated>
+    <updated>2023-06-14T17:35:44.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IKOOLCORE 硬酷 R1 拆机与小包测试 N5105]]></title>
+        <id>https://www.acwifi.net/24820.html</id>
+        <link href="https://www.acwifi.net/24820.html"/>
+        <updated>2023-06-14T17:35:35.943Z</updated>
+        <content type="html"><![CDATA[iKOOLCORE硬酷R1的外包装： 机身和配件 ： 电源适配器输出口是C口，还配了一根C口转接线，可以用于其它电源使用，比如斐讯K3的电源也可以用这转接线来供电。 电源输出规格是12V/2.5A： 这是显示器背挂转接板，可以挂在显示器后面，有些显示器没有挂孔，挂不了。 说明书：...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年上半年无线路由器选购攻略 & 论MESH的不重要性]]></title>
         <id>https://www.acwifi.net/24687.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24543.html"/>
         <updated>2023-05-11T05:35:51.332Z</updated>
         <content type="html"><![CDATA[由于时间关系，先发这些内容了，我还没有拆机。 先简单用花瓣测速APP来测一下在D点位置的速度。因为它可以支持双频和双频的切换，即一个5G 4x4MIMIO，或两个5G各是2x2MIMO，它在系统里的设置项之前已经说明了切换到三频后信号覆盖是不如双频，这是合情合理也客观，跟我的主观...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米7000Mbps无线路由器上市预售，可双频也变三频]]></title>
-        <id>https://www.acwifi.net/24523.html</id>
-        <link href="https://www.acwifi.net/24523.html"/>
-        <updated>2023-05-05T17:35:06.867Z</updated>
-        <content type="html"><![CDATA[这是第二款吧，我没记错的话，半年快过去了，也没啥新机出现。跟小米万兆路由器一样，这款也不敢叫BE7000或Wi-Fi 7，如果叫AX7000又显得落后，所以前面啥都不标。我个人认为叫小米AX7000比较合情合理，总该给人家一个名分才行呀。 这款小米7000有四个网口，且均支持最高...]]></content>
     </entry>
 </feed>
