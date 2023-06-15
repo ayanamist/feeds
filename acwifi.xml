@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-06-15T05:34:34.070Z</updated>
+    <updated>2023-06-15T17:34:26.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK XDR3030拆机，细说MT7976]]></title>
+        <id>https://www.acwifi.net/24868.html</id>
+        <link href="https://www.acwifi.net/24868.html"/>
+        <updated>2023-06-15T17:34:16.631Z</updated>
+        <content type="html"><![CDATA[看这个外壳就是玄鸟系列，一个系列对应一款模具。有人说套娃，多个外壳选择不好吗？不过，TP-LINK没出过一款让人惊艳的外壳倒是真的。 XDR3030的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是3.9W，不高。 机身正面： 背面： 四个千兆网口： 标...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IKOOLCORE 硬酷 R1 拆机与小包测试 N5105]]></title>
         <id>https://www.acwifi.net/24820.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24559.html"/>
         <updated>2023-05-12T05:34:17.103Z</updated>
         <content type="html"><![CDATA[因为你们急着看，我就直接上小米7000的拆机汇总图。 先说一下功耗，只插千兆WAN口，LAN口都不插，待机功率是8.5W，接一个2.5G LAN后功率9.4W，满上3个2.5G LAN后是11.2W ，不算很高也不算低。要功耗低还是要联发科的看看。 小米7000的芯片型号汇总图如...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米7000简单评测之小包转发性能和D点测速]]></title>
-        <id>https://www.acwifi.net/24543.html</id>
-        <link href="https://www.acwifi.net/24543.html"/>
-        <updated>2023-05-11T05:35:51.332Z</updated>
-        <content type="html"><![CDATA[由于时间关系，先发这些内容了，我还没有拆机。 先简单用花瓣测速APP来测一下在D点位置的速度。因为它可以支持双频和双频的切换，即一个5G 4x4MIMIO，或两个5G各是2x2MIMO，它在系统里的设置项之前已经说明了切换到三频后信号覆盖是不如双频，这是合情合理也客观，跟我的主观...]]></content>
     </entry>
 </feed>
