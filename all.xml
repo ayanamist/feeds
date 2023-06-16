@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T05:34:53.815Z</updated>
+    <updated>2023-06-16T17:34:54.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米路由器7000拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/24893.html</id>
+        <link href="https://www.acwifi.net/24893.html"/>
+        <updated>2023-06-16T17:34:45.466Z</updated>
+        <content type="html"><![CDATA[我之前发布了芯片型号汇总图，一直以为已经写过了拆机文章。今天把缺失的acwifi灵魂补上吧。 小米路由器7000的外包装： 取出机身和配件： 电源输出规格是12V/3A： 实测接上千兆光猫联网后的待机功率是8.5W。插三个2.5G LAN口时待机功率是11.2W。 小米路由700...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK XDR3030拆机，细说MT7976 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/24868.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/24598.html"/>
         <updated>2023-05-26T05:34:11.553Z</updated>
         <content type="html"><![CDATA[XDR5480，京东469元，5G信号很强 中兴巡天版AX3000，京东预售价199元 中兴AX5400 Pro+，京东628元 锐捷X60 Pro ，京东499元，单2.5G口，信号比较强 小米AX7000，京东到手价799元，我血亏 H3C NX30 Pro，京东到手价199...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米7000拆机芯片汇总图 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/24559.html</id>
-        <link href="https://www.acwifi.net/24559.html"/>
-        <updated>2023-05-12T05:34:17.103Z</updated>
-        <content type="html"><![CDATA[因为你们急着看，我就直接上小米7000的拆机汇总图。 先说一下功耗，只插千兆WAN口，LAN口都不插，待机功率是8.5W，接一个2.5G LAN后功率9.4W，满上3个2.5G LAN后是11.2W ，不算很高也不算低。要功耗低还是要联发科的看看。 小米7000的芯片型号汇总图如...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【园子资深博主直播】 冰蓝老师《ChatGPT 初探》 (博客园官方博客)]]></title>
