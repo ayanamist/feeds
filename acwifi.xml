@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-06-18T17:34:26.549Z</updated>
+    <updated>2023-06-19T05:35:36.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[一、拆机 H3C NX30 Pro的外包装： 取出机身 所有配件： 电源输出规格是12V/1A， 实测联网后的待机功率是4.7W，不高。 机身上有五根单频天线，其中两根2.4G，三根5G： 机身背面好多散热孔： 一共四个千兆网口，靠近电源接口的是WAN口： 型号：H3C Magi...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[京东618大红包领取攻略]]></title>
-        <id>https://www.acwifi.net/24688.html</id>
-        <link href="https://www.acwifi.net/24688.html"/>
-        <updated>2023-05-30T17:34:23.510Z</updated>
-        <content type="html"><![CDATA[1. 活动时间： （1）活动参与时间：2023年5月29日19:00:00-2023年6月18日23:59:59（21天）；千万奖池，先到先得，发完即止。 （2）京东红包使用时间： 2023年5月29日-2023年6月4日期间领取的红包使用时间为2023年5月29日19:00:0...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[我的618家电选购清单]]></title>
         <id>https://www.acwifi.net/24653.html</id>
         <link href="https://www.acwifi.net/24653.html"/>
@@ -74,5 +67,12 @@
         <link href="https://www.acwifi.net/24598.html"/>
         <updated>2023-05-26T05:34:11.553Z</updated>
         <content type="html"><![CDATA[XDR5480，京东469元，5G信号很强 中兴巡天版AX3000，京东预售价199元 中兴AX5400 Pro+，京东628元 锐捷X60 Pro ，京东499元，单2.5G口，信号比较强 小米AX7000，京东到手价799元，我血亏 H3C NX30 Pro，京东到手价199...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米7000拆机芯片汇总图]]></title>
+        <id>https://www.acwifi.net/24559.html</id>
+        <link href="https://www.acwifi.net/24559.html"/>
+        <updated>2023-06-19T05:35:26.111Z</updated>
+        <content type="html"><![CDATA[因为你们急着看，我就直接上小米7000的拆机汇总图。 先说一下功耗，只插千兆WAN口，LAN口都不插，待机功率是8.5W，接一个2.5G LAN后功率9.4W，满上3个2.5G LAN后是11.2W ，不算很高也不算低。要功耗低还是要联发科的看看。 小米7000的芯片型号汇总图如...]]></content>
     </entry>
 </feed>
