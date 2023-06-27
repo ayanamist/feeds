@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-06-27T05:37:08.679Z</updated>
+    <updated>2023-06-27T17:35:14.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.19-6.25）]]></title>
+        <title type="html"><![CDATA[行行AI人才直播第4期： 跟随占冰强老师走近《如何定制企业专属AI大模型？》]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/06.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/06.html"/>
         <updated>2023-06-05T05:34:08.306Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17504651">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17510065">
 摘要：            
-热点随笔： ·&nbsp;【网站公告】园子被处罚，请大家不要发布/转载任何网络小说&nbsp;(博客园团队)·&nbsp;程序员有没有必要成为业务领域专家？&nbsp;(勇哥编程游记)·&nbsp;在这个大环境下我是如何找工作的&nbsp;(crossoverJie)·&nbsp;适合Windows桌面、Material Design设计风格、WPF美观控件库【强烈推        <a href="https://www.cnblogs.com/cmt/p/17504651.html" class="c_b_p_desc_readmore">阅读全文</a>
+每个企业定制专属AI大模型的目的都不同，比如某企业希望通过AI技术提升其客户服务和销售效果。该企业面临着庞大的商品数据、用户评价和客户咨询等信息，传统的处理方法已经无法满足快速发展的需求。        <a href="https://www.cnblogs.com/cmt/p/17510065.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
