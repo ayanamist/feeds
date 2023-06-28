@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-06-28T05:37:51.978Z</updated>
+    <updated>2023-06-28T17:35:40.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[接网络面板和光纤面板之前篇]]></title>
+        <id>https://www.acwifi.net/24985.html</id>
+        <link href="https://www.acwifi.net/24985.html"/>
+        <updated>2023-06-28T17:35:29.634Z</updated>
+        <content type="html"><![CDATA[本文分前篇和后篇，因为弱电箱还没时间去接。只用手机简单记录，图片未必清晰。下图电视柜留的三个底盒，本来是左边三个蓝色底盒放网线和光纤，电工不知为何在最右侧放了强电走线。 我先去接吸顶位置预留的光纤。怕在熔接的时候，安装电视的师傅来到，打断了我的工具布阵。 电视已经送来：（85T8...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为K662d单独设置做无线AP，居然还能查看手机网卡是否支持k和v。]]></title>
         <id>https://www.acwifi.net/24966.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24613.html"/>
         <updated>2023-05-24T17:34:53.682Z</updated>
         <content type="html"><![CDATA[安卓手机可以下载一款免费的APP，名字是analiti。 如果找不到下载的，只要在本公众号（acwifi-net，下图公众号二维码）发送消息 ana &nbsp;三个字符，就可以自动回复下载地址。或点下方的阅读原文链接，都可以。 实测，小米10 11 13 Pro都可以查看，还有红米的那台...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无线路由器付定金、预售优惠汇总]]></title>
-        <id>https://www.acwifi.net/24598.html</id>
-        <link href="https://www.acwifi.net/24598.html"/>
-        <updated>2023-05-26T05:34:11.553Z</updated>
-        <content type="html"><![CDATA[XDR5480，京东469元，5G信号很强 中兴巡天版AX3000，京东预售价199元 中兴AX5400 Pro+，京东628元 锐捷X60 Pro ，京东499元，单2.5G口，信号比较强 小米AX7000，京东到手价799元，我血亏 H3C NX30 Pro，京东到手价199...]]></content>
     </entry>
 </feed>
