@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-07-09T17:35:18.209Z</updated>
+    <updated>2023-07-10T05:36:19.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中兴（ZTE）晴天墙面路由器AX3000拆机评测]]></title>
+        <id>https://www.acwifi.net/24976.html</id>
+        <link href="https://www.acwifi.net/24976.html"/>
+        <updated>2023-07-10T05:36:10.372Z</updated>
+        <content type="html"><![CDATA[中兴晴天墙面路由器，在名字上已经给出了特色：可以安装在墙上。 一、拆机 中兴晴天墙面路由器的外包装： 包装盒背面的描述： 打开包装： 取出机身和配件 ： 配件里有一片长条的安装支架，除上面已经贴了一片双面胶外，还附送多一片备用。万一撕烂了也可以有得替换。 这种撕掉不留痕的双面胶非...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接网络面板和光纤面板之前篇]]></title>
         <id>https://www.acwifi.net/24985.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24653.html"/>
         <updated>2023-05-26T17:34:39.161Z</updated>
         <content type="html"><![CDATA[刚好遇着618，可以适当购入一些家电，特别是厨房电器。有已付定金的，还有要等到31号看看还有没有更优惠的促销。分享一下清单! 如有不合理或有更优惠更好的型号，也可以留言告诉我。（下图是渲染效果图） 冰箱，上年已经看好了，因为要放嵌入式蒸烤箱，所以在125CM的宽度，做了60cm宽...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教你用手机查看无线路由器Wi-Fi 7特性，还可查看KVR 和MU-MIMO的支持]]></title>
-        <id>https://www.acwifi.net/24613.html</id>
-        <link href="https://www.acwifi.net/24613.html"/>
-        <updated>2023-05-24T17:34:53.682Z</updated>
-        <content type="html"><![CDATA[安卓手机可以下载一款免费的APP，名字是analiti。 如果找不到下载的，只要在本公众号（acwifi-net，下图公众号二维码）发送消息 ana &nbsp;三个字符，就可以自动回复下载地址。或点下方的阅读原文链接，都可以。 实测，小米10 11 13 Pro都可以查看，还有红米的那台...]]></content>
     </entry>
 </feed>

@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-07-09T17:35:18.202Z</updated>
+    <updated>2023-07-10T05:36:19.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[行行AI人才直播第8期：新加坡国立大学在读博士生张傲《多模态大语言模型(MLLM)的简介及高效训练》]]></title>
+        <title type="html"><![CDATA[上周热点回顾（7.3-7.9）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/07.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/07.html"/>
         <updated>2023-07-03T05:35:43.266Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17536328">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17540052">
 摘要：            
-随着 ChatGPT 在各领域展现出非凡能力，多模态大型语言模型（MLLM）近来也成为了研究的热点，它利用强大的大型语言模型（LLM）作为“大脑”，可以执行各种多模态任务。更让人感慨的是，MLLM 展现出了传统方法所不具备的能力，比如能够根据图像创作故事，无需 OCR 的数学推理等，这为实现人工智能        <a href="https://www.cnblogs.com/cmt/p/17536328.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;关于Java已死，看看国外开发者怎么说的&nbsp;(waynaqua)·&nbsp;我整理了近五年的开发者报告，看看国内外有什么差异？&nbsp;(后厂村思维导图馆)·&nbsp;我坚定的认为，这个源码肯定是有 BUG 的！&nbsp;(why技术)·&nbsp;好用到飞起的新项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;除了参数，ref关        <a href="https://www.cnblogs.com/cmt/p/17540052.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
