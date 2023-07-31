@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-07-31T05:34:56.256Z</updated>
+    <updated>2023-07-31T17:34:53.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.24-7.30）]]></title>
+        <title type="html"><![CDATA[园子的商业化努力-阿里云开发者社区合作：AI入门必修，9分钟搭建文生图应用]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/07.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/07.html"/>
         <updated>2023-07-03T05:35:43.266Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17592663">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17593274">
 摘要：            
-热点随笔： ·&nbsp;CPU摸鱼被抓，上了一个新技术！&nbsp;(轩辕之风)·&nbsp;五分钟教你使用GitHub寻找优质项目&nbsp;(追逐时光者)·&nbsp;超越.NET极限：我打造的高精度数值计算库&nbsp;(.NET骚操作)·&nbsp;《HelloGitHub》第 88 期&nbsp;(削微寒)·&nbsp;我真的不想再用mybatis和其衍生框架了选择自研亦是一        <a href="https://www.cnblogs.com/cmt/p/17592663.html" class="c_b_p_desc_readmore">阅读全文</a>
+这是阿里云开发社区在园子里推广的一个活动，欢迎感兴趣的园友参与。Step1：免费领取文件存储NAS、模型在线服务PAI-EAS 两款云产品免费资源；Step2：观看技术专家教学视频，跟随视频教程完成Stable Diffusion 部署；* Step3：点击“提交心得”，分享你在AIGC创作过程中的心得体会        <a href="https://www.cnblogs.com/cmt/p/17593274.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
 </feed>
