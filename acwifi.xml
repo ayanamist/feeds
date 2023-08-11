@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-08-11T05:34:34.438Z</updated>
+    <updated>2023-08-11T17:35:32.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[接网络面板和光纤面板之后篇，装宽带换光猫破千兆]]></title>
+        <id>https://www.acwifi.net/25268.html</id>
+        <link href="https://www.acwifi.net/25268.html"/>
+        <updated>2023-08-11T17:35:17.248Z</updated>
+        <content type="html"><![CDATA[前篇到现在已经过了一个多月，不好意思呀各位！原文再续书接上一回。话说好久好久以前有一座山。。。。。 前文链接：接网络面板和光纤面板之前篇 所有网线面板和光纤面板都接好了，现在开始整理弱电箱。 有一根双芯入户光纤，我以为小区这么好呀，入户给了双芯的，心里想拉2条便宜的宽带挺好呀。就...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为K662d拆机]]></title>
         <id>https://www.acwifi.net/25243.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24868.html"/>
         <updated>2023-06-15T17:34:16.631Z</updated>
         <content type="html"><![CDATA[看这个外壳就是玄鸟系列，一个系列对应一款模具。有人说套娃，多个外壳选择不好吗？不过，TP-LINK没出过一款让人惊艳的外壳倒是真的。 XDR3030的外包装： 机身和配件： 电源输出规格是12V/1A，实测联网后的待机功率是3.9W，不高。 机身正面： 背面： 四个千兆网口： 标...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IKOOLCORE 硬酷 R1 拆机与小包测试 N5105]]></title>
-        <id>https://www.acwifi.net/24820.html</id>
-        <link href="https://www.acwifi.net/24820.html"/>
-        <updated>2023-06-14T17:35:35.943Z</updated>
-        <content type="html"><![CDATA[iKOOLCORE硬酷R1的外包装： 机身和配件 ： 电源适配器输出口是C口，还配了一根C口转接线，可以用于其它电源使用，比如斐讯K3的电源也可以用这转接线来供电。 电源输出规格是12V/2.5A： 这是显示器背挂转接板，可以挂在显示器后面，有些显示器没有挂孔，挂不了。 说明书：...]]></content>
     </entry>
 </feed>
