@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-08-20T17:34:42.025Z</updated>
+    <updated>2023-08-21T05:34:46.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[【故障公告】会员救园，阿里云故障]]></title>
+        <title type="html"><![CDATA[上周热点回顾（8.14-8.20）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/08.html"/>
         <updated>2023-08-04T05:34:47.144Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17643188">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17645390">
 摘要：        
-今天 19:09 通过微信服务号发布了会员救园的文章，满怀期待地等着会员降临时，却收到好几位用户的私信，反馈说 https://cnblogs.vip/ 网站打不开。当时很是纳闷，会员站点自上线以来从来没有出过问题，怎么这么巧，一发公众号就出现问题，真会找时间添乱。排查后万万没有想到竟然是会员站点所使用的阿里云负载均衡掉包了。。。    <a href="https://www.cnblogs.com/cmt/p/17643188.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;弹尽粮绝，会员救园：会员上线，命悬一线&nbsp;(博客园团队)·&nbsp;开源项目自荐：截图工具（小、快、功能丰富）&nbsp;(liulun)·&nbsp;一种基于ChatGPT的高效吃瓜方式的探索和研究。&nbsp;(why技术)·&nbsp;【故障公告】多年的故障老朋友又来了：数据库服务器 CPU 100%&nbsp;(博客园团队)·&nbsp;.NE    <a href="https://www.cnblogs.com/cmt/p/17645390.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
