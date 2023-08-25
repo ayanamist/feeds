@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-08-25T05:34:16.308Z</updated>
+    <updated>2023-08-25T17:34:25.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上赞SZ50 air 5G随身wifi免插卡拆机和评测]]></title>
+        <id>https://www.acwifi.net/25325.html</id>
+        <link href="https://www.acwifi.net/25325.html"/>
+        <updated>2023-08-25T17:34:16.933Z</updated>
+        <content type="html"><![CDATA[上赞SZ50 air的外包装： 取出机身和所有配件 ： 说明书： 机身正面： 机身背面： 背面的标签比较重要，要保护好： 产品名称：5G无线数据终端 型号： SZ50 电容容量4000毫安时，充电规格是5V/2A。实测上赞SZ50 air在充电时也达到这个规格： typc-c充电...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接网络面板和光纤面板之67篇]]></title>
         <id>https://www.acwifi.net/25308.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24966.html"/>
         <updated>2023-06-21T17:34:23.127Z</updated>
         <content type="html"><![CDATA[我买的这款是移动版的华为K662d，因为最便宜是移动版本，所以买来拆机，跟主光猫HN8145XR一套买的。单独写一篇文章，是因为，怎么说呢，我觉得华为K662d可以做无线AP也不错，一百多块钱，拥有很不错的无线信号。拆过机才知道为啥会这样，因为拆机文章还没写完，想了解拆机的还要再...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米路由器7000拆机]]></title>
-        <id>https://www.acwifi.net/24893.html</id>
-        <link href="https://www.acwifi.net/24893.html"/>
-        <updated>2023-06-16T17:34:45.466Z</updated>
-        <content type="html"><![CDATA[我之前发布了芯片型号汇总图，一直以为已经写过了拆机文章。今天把缺失的acwifi灵魂补上吧。 小米路由器7000的外包装： 取出机身和配件： 电源输出规格是12V/3A： 实测接上千兆光猫联网后的待机功率是8.5W。插三个2.5G LAN口时待机功率是11.2W。 小米路由700...]]></content>
     </entry>
 </feed>

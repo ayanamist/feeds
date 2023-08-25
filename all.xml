@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-25T05:34:16.310Z</updated>
+    <updated>2023-08-25T17:34:25.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[上赞SZ50 air 5G随身wifi免插卡拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25325.html</id>
+        <link href="https://www.acwifi.net/25325.html"/>
+        <updated>2023-08-25T17:34:16.933Z</updated>
+        <content type="html"><![CDATA[上赞SZ50 air的外包装： 取出机身和所有配件 ： 说明书： 机身正面： 机身背面： 背面的标签比较重要，要保护好： 产品名称：5G无线数据终端 型号： SZ50 电容容量4000毫安时，充电规格是5V/2A。实测上赞SZ50 air在充电时也达到这个规格： typc-c充电...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接网络面板和光纤面板之67篇 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/25308.html</id>
@@ -68,30 +75,13 @@
         <content type="html"><![CDATA[我买的这款是移动版的华为K662d，因为最便宜是移动版本，所以买来拆机，跟主光猫HN8145XR一套买的。单独写一篇文章，是因为，怎么说呢，我觉得华为K662d可以做无线AP也不错，一百多块钱，拥有很不错的无线信号。拆过机才知道为啥会这样，因为拆机文章还没写完，想了解拆机的还要再...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米路由器7000拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/24893.html</id>
-        <link href="https://www.acwifi.net/24893.html"/>
-        <updated>2023-06-16T17:34:45.466Z</updated>
-        <content type="html"><![CDATA[我之前发布了芯片型号汇总图，一直以为已经写过了拆机文章。今天把缺失的acwifi灵魂补上吧。 小米路由器7000的外包装： 取出机身和配件： 电源输出规格是12V/3A： 实测接上千兆光猫联网后的待机功率是8.5W。插三个2.5G LAN口时待机功率是11.2W。 小米路由700...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[园子的脱困努力-云厂商合作：领取阿里云免费ECS试用资源，部署Java Web环境，送小礼品 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[行行AI人才直播第16期：【无界AI首席研究员】刘秋衫《AI创新设计：AIGC赋能设计行业的新思维》 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/08.html"/>
         <updated>2023-08-04T05:34:47.144Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17651721">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17656814">
 摘要：        
-在园子脱困的关键时期，每一笔收入都很重要，一边在会员救园，一边我们要努力把握每一个商务合作机会，争取早日走出困境。之前园子维持生存的收入主要来自于与云厂商的合作，但去年由于云厂商推广策略的调整，这块收入几乎没有了。当我们对这块收入不报任何希望时，这个月开始，有些云厂商又回来找园子合作了，很感谢在这个阶段和园子合作的云厂商，这也是对园子的一种帮助。    <a href="https://www.cnblogs.com/cmt/p/17651721.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[园子的商业化努力-阿里云开发者社区合作：AI入门必修，9分钟搭建文生图应用 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/07.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/07.html"/>
-        <updated>2023-07-03T05:35:43.266Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17593274">
-摘要：        
-这是阿里云开发社区在园子里推广的一个活动，欢迎感兴趣的园友参与。Step1：免费领取文件存储NAS、模型在线服务PAI-EAS 两款云产品免费资源；Step2：观看技术专家教学视频，跟随视频教程完成Stable Diffusion 部署；* Step3：点击“提交心得”，分享你在AIGC创作过程中的心得体会    <a href="https://www.cnblogs.com/cmt/p/17593274.html" class="c_b_p_desc_readmore">阅读全文</a>
+在这一轮生成式AI浪潮中，设计行业是受波及最为广泛的一个行业。这是设计师们始料未及的事情，至少在此之前，人们认为以设计、艺术为首的创意产业是最难被AI改变的产业之一。而生成式AI的出现，与其说是一次冲击，不如说是一次机遇，让设计师们重新思考设计、艺术、创意、行业······ 在最新的设计趋势中，一线    <a href="https://www.cnblogs.com/cmt/p/17656814.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
