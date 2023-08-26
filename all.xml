@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-26T05:34:36.474Z</updated>
+    <updated>2023-08-26T17:34:04.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米（MI）路由器AX3000T 上市预售，到手189元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25394.html</id>
+        <link href="https://www.acwifi.net/25394.html"/>
+        <updated>2023-08-26T17:33:56.383Z</updated>
+        <content type="html"><![CDATA[今天一堆人来问这款小米AX3000T值不值得买，我也不知道呀，没摸过。不过商品页里已经说明清楚是双核1.3GHz，Filogic 820平台。所以大家应该很清楚是什么配置了吧？这也不是小米第一款，还记得小米WR30U不，运营商产品。 上市价格249元，预售价格189元，价格不算贵...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上赞SZ50 air 5G随身wifi免插卡拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/25325.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/24985.html"/>
         <updated>2023-06-28T17:35:29.634Z</updated>
         <content type="html"><![CDATA[本文分前篇和后篇，因为弱电箱还没时间去接。只用手机简单记录，图片未必清晰。下图电视柜留的三个底盒，本来是左边三个蓝色底盒放网线和光纤，电工不知为何在最右侧放了强电走线。 我先去接吸顶位置预留的光纤。怕在熔接的时候，安装电视的师傅来到，打断了我的工具布阵。 电视已经送来：（85T8...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为K662d单独设置做无线AP，居然还能查看手机网卡是否支持k和v。 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/24966.html</id>
-        <link href="https://www.acwifi.net/24966.html"/>
-        <updated>2023-06-21T17:34:23.127Z</updated>
-        <content type="html"><![CDATA[我买的这款是移动版的华为K662d，因为最便宜是移动版本，所以买来拆机，跟主光猫HN8145XR一套买的。单独写一篇文章，是因为，怎么说呢，我觉得华为K662d可以做无线AP也不错，一百多块钱，拥有很不错的无线信号。拆过机才知道为啥会这样，因为拆机文章还没写完，想了解拆机的还要再...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[行行AI人才直播第16期：【无界AI首席研究员】刘秋衫《AI创新设计：AIGC赋能设计行业的新思维》 (博客园官方博客)]]></title>
