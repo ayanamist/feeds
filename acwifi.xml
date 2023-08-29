@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-08-28T17:34:35.699Z</updated>
+    <updated>2023-08-29T05:34:59.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[大唐小主机MTN-305N拆机和测试N305小包转发率]]></title>
+        <id>https://www.acwifi.net/25392.html</id>
+        <link href="https://www.acwifi.net/25392.html"/>
+        <updated>2023-08-29T05:34:51.745Z</updated>
+        <content type="html"><![CDATA[这台大唐NUC小主机是双2.5G网口，我重点想看看它的CPU：N305的小包转发性能。 外包装： 打开包装盒： 取出机身和配件： 正方形铁板，是显示支架，装在显示器背面，然后机身装上两颗螺丝直接挂上去。还附送了HDMI线。 有一排线和长条的satat硬盘接口小板，排线有两头，一头...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米（MI）路由器AX3000T 上市预售，到手189元]]></title>
         <id>https://www.acwifi.net/25394.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/24976.html"/>
         <updated>2023-07-10T05:36:10.372Z</updated>
         <content type="html"><![CDATA[中兴晴天墙面路由器，在名字上已经给出了特色：可以安装在墙上。 一、拆机 中兴晴天墙面路由器的外包装： 包装盒背面的描述： 打开包装： 取出机身和配件 ： 配件里有一片长条的安装支架，除上面已经贴了一片双面胶外，还附送多一片备用。万一撕烂了也可以有得替换。 这种撕掉不留痕的双面胶非...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接网络面板和光纤面板之前篇]]></title>
-        <id>https://www.acwifi.net/24985.html</id>
-        <link href="https://www.acwifi.net/24985.html"/>
-        <updated>2023-06-28T17:35:29.634Z</updated>
-        <content type="html"><![CDATA[本文分前篇和后篇，因为弱电箱还没时间去接。只用手机简单记录，图片未必清晰。下图电视柜留的三个底盒，本来是左边三个蓝色底盒放网线和光纤，电工不知为何在最右侧放了强电走线。 我先去接吸顶位置预留的光纤。怕在熔接的时候，安装电视的师傅来到，打断了我的工具布阵。 电视已经送来：（85T8...]]></content>
     </entry>
 </feed>
