@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-09-01T05:34:36.762Z</updated>
+    <updated>2023-09-01T17:34:51.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb]]></title>
+        <id>https://www.acwifi.net/25451.html</id>
+        <link href="https://www.acwifi.net/25451.html"/>
+        <updated>2023-09-01T17:34:42.449Z</updated>
+        <content type="html"><![CDATA[有人告诉我新出了一款PCIe 3.0 x1的双口2.5G网卡，RTL8125的。于是，买来看看是否真的是PCIe 3.0的。（以前拆过的都是2.0，双口同时传输有瓶颈） 包装里有安装螺丝和一片半高挡板： 散热片面积相对整个网卡本身的面积来看，算大的。要覆盖3颗芯片，不大不行呀，我...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大唐小主机MTN-305N拆机和测试N305小包转发率]]></title>
         <id>https://www.acwifi.net/25392.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25116.html"/>
         <updated>2023-07-19T17:35:33.335Z</updated>
         <content type="html"><![CDATA[这台中兴F7607P是拆机的那台，不重新拍照片了。 这台出厂就是移动版，可以刷成电信版固件或联通版固件。刷机的过程可以参考这篇：《记一次替换移动版F7607P闪存分区为联通和电信版的尝试》 链接：https://akbwe.com/posts/an-attempt-to-repl...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴（ZTE）晴天墙面路由器AX3000拆机评测]]></title>
-        <id>https://www.acwifi.net/24976.html</id>
-        <link href="https://www.acwifi.net/24976.html"/>
-        <updated>2023-07-10T05:36:10.372Z</updated>
-        <content type="html"><![CDATA[中兴晴天墙面路由器，在名字上已经给出了特色：可以安装在墙上。 一、拆机 中兴晴天墙面路由器的外包装： 包装盒背面的描述： 打开包装： 取出机身和配件 ： 配件里有一片长条的安装支架，除上面已经贴了一片双面胶外，还附送多一片备用。万一撕烂了也可以有得替换。 这种撕掉不留痕的双面胶非...]]></content>
     </entry>
 </feed>
