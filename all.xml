@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-02T17:34:07.079Z</updated>
+    <updated>2023-09-03T05:34:20.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -73,6 +73,17 @@
         <link href="https://www.acwifi.net/25116.html"/>
         <updated>2023-07-19T17:35:33.335Z</updated>
         <content type="html"><![CDATA[这台中兴F7607P是拆机的那台，不重新拍照片了。 这台出厂就是移动版，可以刷成电信版固件或联通版固件。刷机的过程可以参考这篇：《记一次替换移动版F7607P闪存分区为联通和电信版的尝试》 链接：https://akbwe.com/posts/an-attempt-to-repl...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[置顶]
+        弹尽粮绝，会员救园：会员上线，命悬一线 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/08.html"/>
+        <updated>2023-08-04T05:34:47.144Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17520031">
+摘要：        
+自从今年4月绝境求商之后，园子苦苦支撑了4个月，能够支撑到现在，主要源于大家的捐助，一位园友的小额投资，以及天使投资方顺顺智慧的出手相救。感谢这段时间所有帮助过园子的朋友！在当前极其困难的情况下，我们没有足够的力量在其他商业模式上搏一把，接下来园子走出困境的唯一希望，园子的命运就取决于——到年底有多少园友选择成为VIP会员    <a href="https://www.cnblogs.com/cmt/p/17520031.html" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】一而再，再而三，三翻四复：数据库服务器 CPU 100% (博客园官方博客)]]></title>
