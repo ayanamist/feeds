@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-08T05:34:18.225Z</updated>
+    <updated>2023-09-08T17:34:34.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -86,13 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[行行AI公开课：ChatGPT和大语言模型的微调 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[行行AI公开课：小象智合副总裁郝晓伟《AIGC在设计行业的落地应用场景》 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/09.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/09.html"/>
         <updated>2023-09-03T17:34:25.435Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17684496">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17688472">
 摘要：        
-ChatGPT和大模型正在以前所未有的速度改变世界和你的工作。 最新研究发现会使用ChatGPT4的人的工作效率是一般人的40倍，80%的世界500强企业已经在使用ChatGPT。不会使用ChatGPT和不懂大模型的人很快就会被淘汰，不是被ChatGPT淘汰，而是被会使用ChatGPT的人淘汰。史丹    <a href="https://www.cnblogs.com/cmt/p/17684496.html" class="c_b_p_desc_readmore">阅读全文</a>
+AIGC代表着AI技术从感知、理解世界到生成、创造世界的跃迁，生成式人工智能以其惊艳的效果，彻底改变了人类对机器智能的想象，也为各行各业的数字化转型提供了更多可能性，越来越多的企业先行者也开始积极拥抱AIGC。席卷而来的AIGC对设计工作者带来不小的冲击，设计本是一个“GC”生产内容的岗位，AI生产    <a href="https://www.cnblogs.com/cmt/p/17688472.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
