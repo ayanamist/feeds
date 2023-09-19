@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-19T05:34:22.486Z</updated>
+    <updated>2023-09-19T17:34:20.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -86,23 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（9.11-9.17） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[“强应用多模型，荡漾人工智能落地大潮”AI应用大会将于9月20日在北京举办 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/09.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/09.html"/>
         <updated>2023-09-03T17:34:25.435Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17710988">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17714764">
 摘要：        
-热点随笔： ·&nbsp;B站UP主发布视频，助力会员救园&nbsp;(博客园团队)·&nbsp;返璞归真：命令行下逛园子，发布博客园 CLI 预览版&nbsp;(博客园团队)·&nbsp;最接地气的.NET微服务框架&nbsp;(linguicheng)·&nbsp;一个烂分页，踩了三个坑！&nbsp;(why技术)·&nbsp;18款Visual Studio实用插件（更新）&nbsp;(追逐    <a href="https://www.cnblogs.com/cmt/p/17710988.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【故障公告】一而再，再而三，三翻四复：数据库服务器 CPU 100% (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/08.html"/>
-        <updated>2023-08-04T05:34:47.144Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17670193">
-摘要：        
-会员救园，故障捣乱，每当困难时，故障们总是喜欢雪上加霜过来考验你。今天下班前 17:43~17:47 期间，园子的 SQL Server 数据库服务器突然出现 CPU 100% 问题。发现问题后，我们立即火速赶往阿里云RDS控制台，重启了实例，重启后很快恢复正常。    <a href="https://www.cnblogs.com/cmt/p/17670193.html" class="c_b_p_desc_readmore">阅读全文</a>
+随着人工智能这一轮AI大模型的快速发展和技术成熟，AI应用已经从概念阶段进入到了实践阶段，成为推动各行各业创新和发展的重要引擎。为进一步推动人工智能应用的落地和创新，行行AI与见实科技、梅花创投将于9月20日在北京举办一场主题为“强应用多模型，荡漾人工智能落地大潮”的盛大AI应用大会。 众所周知，人    <a href="https://www.cnblogs.com/cmt/p/17714764.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
