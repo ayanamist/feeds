@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T05:34:24.564Z</updated>
+    <updated>2023-09-21T17:34:23.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[贝锐蒲公英A20 吸顶AP拆机评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25470.html</id>
+        <link href="https://www.acwifi.net/25470.html"/>
+        <updated>2023-09-21T17:34:15.525Z</updated>
+        <content type="html"><![CDATA[一、拆机 贝锐蒲公英A20的外包装： 取出机身和配件： 安装支架：（支架本来装在机身上的） 说明书： 这台AP的尺寸大约：19x19cm。 外观比较圆滑： 背面： 有两个千兆网口，一WAN一LAN。WAN口支持48V POE供电。 实测用54V POE供电也没问题，POE供电待机...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/25451.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[Hinink H69K MAX+的包装： 这个工具包，真是能装，主机和配件取出来： 一共有7根天线，其中四根是5G模块用的天线，三根是无线网卡用的天线。 这一面有一个TF卡槽： 有一根DC（5.5/2.1mm）转C口的线。 机身顶部： 底部： 侧面有个显示屏： 刷istoreos...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中兴F7607P移动版刷电信界面等于支持双模也支持联通 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/25116.html</id>
-        <link href="https://www.acwifi.net/25116.html"/>
-        <updated>2023-07-19T17:35:33.335Z</updated>
-        <content type="html"><![CDATA[这台中兴F7607P是拆机的那台，不重新拍照片了。 这台出厂就是移动版，可以刷成电信版固件或联通版固件。刷机的过程可以参考这篇：《记一次替换移动版F7607P闪存分区为联通和电信版的尝试》 链接：https://akbwe.com/posts/an-attempt-to-repl...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         弹尽粮绝，会员救园：会员上线，命悬一线 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
@@ -86,13 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[再次尝试放出被屏蔽的百度蜘蛛网段 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/09.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/09.html"/>
         <updated>2023-09-03T17:34:25.435Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17716478">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17720875">
 摘要：        
-因为看到博文，百度搜索部门的人昨天对园子进行了线上回访，让我们看到了一丝希望。今天早上，带着这丝希望，我们试着放出今年3月因为过于疯狂、喜欢在别人地盘上飙车而被我们屏蔽的百度蜘蛛网段，看看半年之后它是否“疯”子回头，结果依旧是意料之中的疯狂依旧，“疯”性难移    <a href="https://www.cnblogs.com/cmt/p/17716478.html" class="c_b_p_desc_readmore">阅读全文</a>
+昨天发布的博文蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段引起了百度的关注，晚上联系了我们，经过商量达成一个解决方法——百度会限制一下蜘蛛抓取时的最高QPS。 今天晚上 18:16:13，我们再次尝试放出被屏蔽的百度蜘蛛网段 116.179.37.0/24，一看 CPU 波动情况，就知    <a href="https://www.cnblogs.com/cmt/p/17720875.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
