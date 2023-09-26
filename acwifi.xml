@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-09-25T17:34:18.736Z</updated>
+    <updated>2023-09-26T05:34:35.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华为路由 BE3 Pro新品发布，浅淡它支持的特性]]></title>
+        <id>https://www.acwifi.net/25637.html</id>
+        <link href="https://www.acwifi.net/25637.html"/>
+        <updated>2023-09-26T05:34:26.329Z</updated>
+        <content type="html"><![CDATA[在漫长的等待与期待之后，终于迎来了成品，心情是激动的，不管做得完美与否，它的出现，已经争了一口气。华为路由 BE3 Pro刚发布但还没有上架产品，华为商城有了商品描述页，我把里面的无线特性，做一些浅浅的说明。 我还不知道Wi-Fi 7 要包含哪些必选项，所以我不敢称它为Wi-Fi...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米全屋路由子母装小（1母1子）上市预售]]></title>
         <id>https://www.acwifi.net/25629.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25268.html"/>
         <updated>2023-08-11T17:35:17.248Z</updated>
         <content type="html"><![CDATA[前篇到现在已经过了一个多月，不好意思呀各位！原文再续书接上一回。话说好久好久以前有一座山。。。。。 前文链接：接网络面板和光纤面板之前篇 所有网线面板和光纤面板都接好了，现在开始整理弱电箱。 有一根双芯入户光纤，我以为小区这么好呀，入户给了双芯的，心里想拉2条便宜的宽带挺好呀。就...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为K662d拆机]]></title>
-        <id>https://www.acwifi.net/25243.html</id>
-        <link href="https://www.acwifi.net/25243.html"/>
-        <updated>2023-08-09T17:34:17.057Z</updated>
-        <content type="html"><![CDATA[华为K662d，机身外观： 非常好看的机身，比华为AX3那种4根天线的好看多了。 背面的接口：两个千兆网口，还有一个SC口，连接分光器。 它的机身底部有个小卡片可以抽出来，有一面贴了进网许可证，可能底部的地方有限，所以这些信息只能以“收纳”方式灵活展示。 底部有三圈透气孔： RE...]]></content>
     </entry>
 </feed>
