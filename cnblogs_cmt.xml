@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-10-02T05:34:40.694Z</updated>
+    <updated>2023-10-02T17:34:21.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,14 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（9.25-10.1）]]></title>
+        <title type="html"><![CDATA[【故障公告】遭遇用心良苦的疯狂攻击：DDoS + CC攻击]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/10.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/10.html"/>
         <updated>2023-10-02T05:34:39.633Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17739700">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17740490">
 摘要：        
-热点随笔： ·&nbsp;在小公司编程是一种什么样的体验？&nbsp;(公众号_陶朱公Boy)·&nbsp;一个混乱千万级软件项目&nbsp;(烂人)·&nbsp;《优化接口设计的思路》系列：第四篇—接口的权限控制&nbsp;(sum墨)·&nbsp;C#开源且免费的Windows桌面快速预览神器 - QuickLook&nbsp;(追逐时光者)·&nbsp;.NET开发工作效率提升利器    <a href="https://www.cnblogs.com/cmt/p/17739700.html" class="c_b_p_desc_readmore">阅读全文</a>
+2023年10月2日19:32，收到阿里云的通知短信，最近几年几乎每年都会遇到短暂的 DDoS 攻击，为了减少攻击带来的影响，我们部署了好多台负载均衡，本以为和以前一样只是其中1-2台负载均衡受到攻击而被屏蔽。
+但接下来接连不断的通知短信把我们惊呆了，我们针对不同线路部署的所有负载均衡全部被攻击，全部被黑洞（被屏蔽）    <a href="https://www.cnblogs.com/cmt/p/17740490.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
