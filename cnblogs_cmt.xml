@@ -2,38 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-10-13T05:34:46.856Z</updated>
+    <updated>2023-10-13T17:34:38.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[置顶]
-        弹尽粮绝，会员救园：会员上线，命悬一线]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/08.html"/>
-        <updated>2023-08-04T05:34:47.144Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17520031">
-摘要：        
-自从今年4月绝境求商之后，园子苦苦支撑了4个月，能够支撑到现在，主要源于大家的捐助，一位园友的小额投资，以及天使投资方顺顺智慧的出手相救。感谢这段时间所有帮助过园子的朋友！在当前极其困难的情况下，我们没有足够的力量在其他商业模式上搏一把，接下来园子走出困境的唯一希望，园子的命运就取决于——到年底有多少园友选择成为VIP会员    <a href="https://www.cnblogs.com/cmt/p/17520031.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
+        <title type="html"><![CDATA[[置顶]弹尽粮绝，会员救园：会员上线，命悬一线]]></title>
+        <id>https://www.cnblogs.com/cmt/</id>
+        <link href="https://www.cnblogs.com/cmt/"/>
+        <updated>2023-10-13T17:34:37.220Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 自从今年4月绝境求商之后，园子苦苦支撑了4个月，能够支撑到现在，主要源于大家的捐助，一位园友的小额投资，以及天使投资方顺顺智慧的出手相救。感谢这段时间所有帮助过园子的朋友！在当前极其困难的情况下，我们没有足够的力量在其他商业模式上搏一把，接下来园子走出困境的唯一希望，园子的命运就取决于——到年底有多少园友选择成为VIP会员<a href="https://www.cnblogs.com/cmt/p/17520031.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[行行AI公开课：大模型时代如何利用数字智能体赋能更多中小企业]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/10.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/10.html"/>
-        <updated>2023-10-02T05:34:39.633Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17759171">
-摘要：        
-“不敢转、不能转、不会转”一直是压在中小企业数字化转型头上的三座大山。大模型的出现无异于提供了一把推翻大山的锐利武器，为中小企业提供了更易于使用和集成的工具。从本质上看，大模型将从根本上降低中小企业进行数字化转型的成本和复杂度。那么，中小企业如何在大模型激烈的竞争格局下找到突破口，并应对随之而来的挑    <a href="https://www.cnblogs.com/cmt/p/17759171.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
+        <title type="html"><![CDATA[行行AI公开课：AIGC重塑内容运营]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/10/13.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/10/13.html"/>
+        <updated>2023-10-13T17:34:37.239Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 2023年开年，ChatGPT兴起，AI的风吹进各个角落。一场有关AI的变革风起云涌。AIGC为内容运营带来了新动能、新变革和新未来，正在通过内容重塑用户、平台和品牌的交互关系。把内容运营提升到一个战略新高度。如果AI的时代必将到来，内容运营该在意的或许不是“我们是否会被取代”，而是“我们还可以做些<a href="https://www.cnblogs.com/cmt/p/17763409.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[门票赠送：诚邀您参加2023百度世界大会-大模型驱动产业发展论坛]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/10/11.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/10/11.html"/>
+        <updated>2023-10-13T17:34:37.262Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 大模型作为核心的高级生产力正引领着崭新的经济和社会格局，推动着人工智能成为产业发展的新引擎。百度智能云致力于与客户、合作伙伴紧密协作，将大模型深度融入各领域，把握重构机遇，激发开发者和创企的创新能力，推动应用创新，实现智能化跃迁！在此行行AI诚邀您参加：[Baidu World 2023·大模型驱动产业发展论坛]，见证各行各业与大模型的深度融合，把握重构机遇，实现智能化跃迁!<a href="https://www.cnblogs.com/cmt/p/17757789.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（10.2-10.8）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/10/09.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/10/09.html"/>
+        <updated>2023-10-13T17:34:37.262Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 热点随笔： ·&nbsp;【故障公告】遭遇用心良苦的疯狂攻击：DDoS + CC攻击&nbsp;(博客园团队)·&nbsp;一种对数据库友好的GUID的变种使用方法&nbsp;(ensleep)·&nbsp;BS系统的登录鉴权流程演变&nbsp;(风吹草)·&nbsp;会员权益-新功能发布：定时发布博文&nbsp;(博客园团队)·&nbsp;面试官随便问几个问题就知道你究竟做没做过微信支<a href="https://www.cnblogs.com/cmt/p/17750859.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会员权益-新功能发布：定时发布博文]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/10/06.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/10/06.html"/>
+        <updated>2023-10-13T17:34:37.262Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 园子的会员权益以产品增值功能为主，由于开发人手太少，目前会员权益很少，我们正在努力开发。 今天发布的新功能是定时发布博文，可以在预先指定的时间自动发布博文。 以下是这个功能的简单介绍： 1）当在博客后台新建随笔或者编辑草稿时，会在保存/发布按钮栏显示“定时发布”按钮： 2）点击按钮会显示设置定时发布<a href="https://www.cnblogs.com/cmt/p/17744563.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】遭遇用心良苦的疯狂攻击：DDoS + CC攻击]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/10/02.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/10/02.html"/>
+        <updated>2023-10-13T17:34:37.262Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 2023年10月2日19:32，收到阿里云的通知短信，最近几年几乎每年都会遇到短暂的 DDoS 攻击，为了减少攻击带来的影响，我们部署了好多台负载均衡，本以为和以前一样只是其中1-2台负载均衡受到攻击而被屏蔽。
+但接下来接连不断的通知短信把我们惊呆了，我们针对不同线路部署的所有负载均衡全部被攻击，全部被黑洞（被屏蔽）<a href="https://www.cnblogs.com/cmt/p/17740490.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[上周热点回顾（9.18-9.24）]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/09.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/09.html"/>
-        <updated>2023-09-03T17:34:25.435Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17727311">
-摘要：        
-热点随笔： ·&nbsp;蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段&nbsp;(博客园团队)·&nbsp;逃不过转行的命运，与互联网无缘了&nbsp;(哈er)·&nbsp;JDK21来了！附重要更新说明&nbsp;(DaFanJoy)·&nbsp;【逆向专题】【危！！！刑】（一）使用c#+Win32Api实现进程注入到wechat&nbsp;(四处观察)·&nbsp;    <a href="https://www.cnblogs.com/cmt/p/17727311.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
+        <id>https://www.cnblogs.com/cmt/archive/2023/09/25.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/09/25.html"/>
+        <updated>2023-10-13T17:34:37.263Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 热点随笔： ·&nbsp;蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段&nbsp;(博客园团队)·&nbsp;逃不过转行的命运，与互联网无缘了&nbsp;(哈er)·&nbsp;JDK21来了！附重要更新说明&nbsp;(DaFanJoy)·&nbsp;【逆向专题】【危！！！刑】（一）使用c#+Win32Api实现进程注入到wechat&nbsp;(四处观察)·&nbsp;<a href="https://www.cnblogs.com/cmt/p/17727311.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广告满园飞：中国亚运历史首金影像感动上映]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/09/24.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/09/24.html"/>
+        <updated>2023-10-13T17:34:37.268Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 【10月7日 10:55 更新】调整至 10.7-10.8 继续投放以完成未完成的指标。 【9月29日 9:45 更新】调整至 10.7-10.10 继续投放以完成未完成的指标。 【9月27日 16:05 更新】尽管 9.24~9.25 进行了全站投放，但只完成了一半左右的指标。 阿里云把未完成的指<a href="https://www.cnblogs.com/cmt/p/17725731.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再次尝试放出被屏蔽的百度蜘蛛网段]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/09/21.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/09/21.html"/>
+        <updated>2023-10-13T17:34:37.271Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc">摘要: 昨天发布的博文蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段引起了百度的关注，晚上联系了我们，经过商量达成一个解决方法——百度会限制一下蜘蛛抓取时的最高QPS。 今天晚上 18:16:13，我们再次尝试放出被屏蔽的百度蜘蛛网段 116.179.37.0/24，一看 CPU 波动情况，就知<a href="https://www.cnblogs.com/cmt/p/17720875.html" class="c_b_p_desc_readmore">阅读全文</a></div>]]></content>
     </entry>
 </feed>
