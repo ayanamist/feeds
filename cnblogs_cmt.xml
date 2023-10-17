@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-10-16T17:34:24.999Z</updated>
+    <updated>2023-10-17T05:34:44.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -24,6 +24,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17768115">
 摘要：        
 想要出海卖货！没经验的小白卖家如何快速突围？ 最近，以 ChatGPT 为代表的大模型产品的突破性进展，燃起了全行业对于 AI 技术的应用热情，出海行业也不例外。我们已经看到在跨境电商领域，从公司到个人都积极拥抱和探索 AI 工具的落地使用，更进阶的技术与应用也在不断涌现。那我们在跨境电子商务客户中    <a href="https://www.cnblogs.com/cmt/p/17768115.html" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（9.18-9.24）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/09.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/09.html"/>
+        <updated>2023-10-17T05:34:43.627Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17727311">
+摘要：        
+热点随笔： ·&nbsp;蜘蛛的依旧疯狂与园子的新畅想：尝试放出被屏蔽的百度蜘蛛网段&nbsp;(博客园团队)·&nbsp;逃不过转行的命运，与互联网无缘了&nbsp;(哈er)·&nbsp;JDK21来了！附重要更新说明&nbsp;(DaFanJoy)·&nbsp;【逆向专题】【危！！！刑】（一）使用c#+Win32Api实现进程注入到wechat&nbsp;(四处观察)·&nbsp;    <a href="https://www.cnblogs.com/cmt/p/17727311.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
