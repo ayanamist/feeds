@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-18T17:36:28.416Z</updated>
+    <updated>2023-10-19T05:34:32.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[中兴AX3000巡天版与小米AX3000T无线对比测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25657.html</id>
+        <link href="https://www.acwifi.net/25657.html"/>
+        <updated>2023-10-19T05:34:22.359Z</updated>
+        <content type="html"><![CDATA[最近小米AX3000T比较火，为了引流，拿小米这台跟之前的中兴巡天版对比一下吧，中兴最近有大的更新，之前只用手机测了，现在用各款无线网卡测试看看。而且中兴AX3000巡天版和小米AX3000T都是联发科的无线方案，本篇简单测试两者的无线。以下的无线测试里，2.4G信道设置为12，...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有Wi-Fi检测仪功能的扫地拖地机器人TL-RT600上市 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/25648.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/25325.html"/>
         <updated>2023-08-25T17:34:16.933Z</updated>
         <content type="html"><![CDATA[上赞SZ50 air的外包装： 取出机身和所有配件 ： 说明书： 机身正面： 机身背面： 背面的标签比较重要，要保护好： 产品名称：5G无线数据终端 型号： SZ50 电容容量4000毫安时，充电规格是5V/2A。实测上赞SZ50 air在充电时也达到这个规格： typc-c充电...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接网络面板和光纤面板之67篇 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/25308.html</id>
-        <link href="https://www.acwifi.net/25308.html"/>
-        <updated>2023-08-19T17:34:20.128Z</updated>
-        <content type="html"><![CDATA[接了终端盒之后，打红光都能有光，我以为冇问题了。 出问题不只是一个地方，还有一个地方，打红光后很弱： 双LC的另一根光纤没问题，很强的光： 这样还能通信的，只是有一个方向非常非常非常慢，把这个LC头通过2.5G光模块接在XDR3060上，然后小米13 Pro连接XDR3060的5...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
