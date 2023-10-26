@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-25T17:34:18.952Z</updated>
+    <updated>2023-10-26T05:35:03.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TL-R5010PE-EN拆机全2.5G POE一体机，弱电箱好野 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25800.html</id>
+        <link href="https://www.acwifi.net/25800.html"/>
+        <updated>2023-10-26T05:34:53.316Z</updated>
+        <content type="html"><![CDATA[TP-LINK的TL-R5010PE-EN，说好的拆机一直拖到现在。外包装和机身如下： 没什么配件 ，也不需要配件，直接卡进去TL-EN4030信息箱（弱电箱）就行。没有电源，这也是它比R5010PE便宜的两个原因之一。 电源接口规格比较特殊，如果EN4030弱电箱里已经装了电源...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器6500 Pro上市预售 699元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/25836.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/25470.html"/>
         <updated>2023-09-21T17:34:15.525Z</updated>
         <content type="html"><![CDATA[一、拆机 贝锐蒲公英A20的外包装： 取出机身和配件： 安装支架：（支架本来装在机身上的） 说明书： 这台AP的尺寸大约：19x19cm。 外观比较圆滑： 背面： 有两个千兆网口，一WAN一LAN。WAN口支持48V POE供电。 实测用54V POE供电也没问题，POE供电待机...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSU双口2.5G网卡拆机和测试双口有没有瓶颈，X1-10Gb (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/25451.html</id>
-        <link href="https://www.acwifi.net/25451.html"/>
-        <updated>2023-09-01T17:34:42.449Z</updated>
-        <content type="html"><![CDATA[有人告诉我新出了一款PCIe 3.0 x1的双口2.5G网卡，RTL8125的。于是，买来看看是否真的是PCIe 3.0的。（以前拆过的都是2.0，双口同时传输有瓶颈） 包装里有安装螺丝和一片半高挡板： 散热片面积相对整个网卡本身的面积来看，算大的。要覆盖3颗芯片，不大不行呀，我...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
