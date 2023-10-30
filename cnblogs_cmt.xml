@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-10-29T17:34:39.888Z</updated>
+    <updated>2023-10-30T05:34:32.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[去上海出庭：因用户2020年转载一篇公众号文章被起诉]]></title>
+        <title type="html"><![CDATA[上周热点回顾（10.23-10.29）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/10.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/10.html"/>
         <updated>2023-10-14T05:34:52.765Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17795630">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17797100">
 摘要：        
-10月30日 10:30，因用户2020年转载一篇公众号文章而产生的信息网络传播权纠纷一案将在上海市宝山区人民法院开庭，我们将去上海出庭，亲眼目睹原告如何振振有词地在法庭上表演。我们原本准备最近注销上海的公司，专心在杭州运营，没想到会以这样的方式与上海告别：2位上海的自媒体个人，通过同一位上海的律师起诉之前园子在上海的备案主体公司，需要在注销上海公司之前去上海出庭2次。    <a href="https://www.cnblogs.com/cmt/p/17795630.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;C#winform软件实现一次编译，跨平台windows和linux兼容运行，兼容Visual Studio原生界面Form表单开发&nbsp;(j.king)·&nbsp;那个热血澎湃的少年，他居然顶不住了！&nbsp;(刘牌)·&nbsp;Net 高级调试之一：开始认识一些调试工具&nbsp;(可均可可)·&nbsp;浅析 C# Cons    <a href="https://www.cnblogs.com/cmt/p/17797100.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
