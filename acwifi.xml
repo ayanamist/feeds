@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-11-06T05:35:11.620Z</updated>
+    <updated>2023-11-06T17:34:06.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中兴巡天AX3000 Pro+ 无线路由器拆机]]></title>
+        <id>https://www.acwifi.net/25901.html</id>
+        <link href="https://www.acwifi.net/25901.html"/>
+        <updated>2023-11-06T17:33:58.660Z</updated>
+        <content type="html"><![CDATA[中兴巡天AX3000 Pro+是目前最便宜的双2.5G网口 Wi-Fi 6 无线路由器。拆机看一看它的硬件芯片。 产品外包装： 机身和配件： 电源输出规格是12V/1.5A，额定输出功率是18W： 实测接两个2.5G网口时的待机功率是5.9W，因为两个2.5G网口，所以电源功率给...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最便宜的双2.5G Wi-Fi 6 中兴巡天AX3000 Pro+开始预约]]></title>
         <id>https://www.acwifi.net/25872.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25629.html"/>
         <updated>2023-09-24T17:34:46.854Z</updated>
         <content type="html"><![CDATA[小米全屋路由子母装小（1母1子）上市预售价格是499元。 配置方便，不用猜了，小米通常会把硬件写得很清楚： 就是IPQ5000系列+QCN6102。 亮点是集成了蓝牙Mesh网关功能，对使用米家智能家居产品的用户有利一些。 内置天线的外壳，摆放不怎么占地方。 要注意，小的子路由，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-SE2109PB 2.5G PoE网管交换机拆机，有惊又有险]]></title>
-        <id>https://www.acwifi.net/25582.html</id>
-        <link href="https://www.acwifi.net/25582.html"/>
-        <updated>2023-09-23T05:34:30.786Z</updated>
-        <content type="html"><![CDATA[这款TP-LINK的L-SE2109PB最近刚出，比较多人问。我也想想看看它用的什么芯片，闲鱼和PDD的价格都是900元差不多。 SE2109PB的包装盒上写了“可用手机远程管理排障的交换机”： 取出机身和配件： 说明书： 2.5G系列还有SE2226PB和SE2420PB，这些...]]></content>
     </entry>
 </feed>
