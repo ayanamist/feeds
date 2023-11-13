@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-12T17:34:11.176Z</updated>
+    <updated>2023-11-13T05:34:12.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【故障公告】阿里云OSS故障造成图片无法上传]]></title>
+        <title type="html"><![CDATA[上周热点回顾（11.6-11.12）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17827633">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17828634">
 摘要：        
-今天 17:44~19:00 期间，我们使用的阿里云对象存储 OSS 出现突发故障，造成图片无法上传，由此给您带来麻烦，请您谅解。 故障期间对应的错误日志： The OSS Access Key Id you provided does not exist in our records. 正当我们准    <a href="https://www.cnblogs.com/cmt/p/17827633.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;听我一句劝，业务代码中，别用多线程。&nbsp;(why技术)·&nbsp;园子开店记-起名：万事开头难，起名难上难&nbsp;(博客园团队)·&nbsp;生产真实案例：震惊，几条SQL把服务器干崩了，事后还大言不惭！&nbsp;(冰河团队)·&nbsp;.net core 到底行不行！超高稳定性和性能的客服系统：性能实测&nbsp;(升讯威在线客服系    <a href="https://www.cnblogs.com/cmt/p/17828634.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
