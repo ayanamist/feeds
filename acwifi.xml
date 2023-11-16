@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-11-16T05:33:54.721Z</updated>
+    <updated>2023-11-16T17:34:08.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕ROG八爪鱼7电竞路由器双万兆口三频上市预售]]></title>
+        <id>https://www.acwifi.net/26059.html</id>
+        <link href="https://www.acwifi.net/26059.html"/>
+        <updated>2023-11-16T17:33:57.218Z</updated>
+        <content type="html"><![CDATA[先说价呀，不贵呀4999元，ROG哇。可是，外壳是用旧的吧？ 无线规格面，写的三频总速率13000Mbps：2.4G 1376Mbps；5G1和5G2都是5764Mbps，而5G2在国内是不支持5764Mbps的。（要改地区） 四核CPU，频率2.6G，不是高通。2GB内存。 网...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GL.iNet MT6000无线路由器拆机]]></title>
         <id>https://www.acwifi.net/25989.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25713.html"/>
         <updated>2023-10-22T05:34:15.531Z</updated>
         <content type="html"><![CDATA[华为AirEngine 8771-X1T是一款硬件完整的Wi-Fi 7企业级无线AP，拆机看看用什么无线芯片。机身比较好拆，但屏蔽罩不好拆，花了2天时间。 华为8771-X1T的外包装盒： 打开包装盒： 取出机身和配件 ： 这台无线AP的尺寸大约是22cm边长，厚度5cm： yq...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴AX3000巡天版与小米AX3000T无线对比测试]]></title>
-        <id>https://www.acwifi.net/25657.html</id>
-        <link href="https://www.acwifi.net/25657.html"/>
-        <updated>2023-10-19T05:34:22.359Z</updated>
-        <content type="html"><![CDATA[最近小米AX3000T比较火，为了引流，拿小米这台跟之前的中兴巡天版对比一下吧，中兴最近有大的更新，之前只用手机测了，现在用各款无线网卡测试看看。而且中兴AX3000巡天版和小米AX3000T都是联发科的无线方案，本篇简单测试两者的无线。以下的无线测试里，2.4G信道设置为12，...]]></content>
     </entry>
 </feed>
