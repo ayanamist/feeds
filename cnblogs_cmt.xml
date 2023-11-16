@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-15T17:34:15.524Z</updated>
+    <updated>2023-11-16T05:33:54.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最后的一次努力：尝试解决百度收录与排名（权重）问题]]></title>
+        <title type="html"><![CDATA[最后的一次努力：尝试解决百度收录与排名问题]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
