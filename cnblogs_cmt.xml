@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-19T17:34:24.794Z</updated>
+    <updated>2023-11-20T05:34:13.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,23 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最后的一次努力：尝试解决百度收录与排名问题]]></title>
+        <title type="html"><![CDATA[上周热点回顾（11.13-11.19）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17833993">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17843312">
 摘要：        
-2023年9月21日我们完全解除了对百度蜘蛛网段 116.179.37.0/24 的屏蔽，满怀希望地期待着百度的回心转意，心有余悸地担心着再也回不去。 当我们从百度那边得知——之前百度蜘蛛疯狂爬取与博文页面ajax请求太多有关，为了大幅减少ajax请求，我们重构代码花了很大力气，以表示我们的真心诚意    <a href="https://www.cnblogs.com/cmt/p/17833993.html" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张良计诉园子侵权案一审结束：需7天内证明转载博文是用户发布]]></title>
-        <id>https://www.cnblogs.com/cmt/archive/2023/10.html</id>
-        <link href="https://www.cnblogs.com/cmt/archive/2023/10.html"/>
-        <updated>2023-11-17T17:34:10.661Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17797851">
-摘要：        
-更新： 11月3日 14:35：在提交另一个诉讼的证据后，接到法院的电话，说11月15日开庭的诉讼不需要出庭了，原告已经开始提交撤诉申请。 11月3日 12:42：连环诉讼中的另一个转载公众号文章的诉讼也有了进展，我们联系了转载文章的博主，博主完成了手机号绑定，我们向法院提交了证据。 11月3日 1    <a href="https://www.cnblogs.com/cmt/p/17797851.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;30岁之前透支，30岁之后还债。&nbsp;(程序员济癫)·&nbsp;.NET 8正式发布&nbsp;(张善友)·&nbsp;阿里云崩了，总结我们从云上搬到线下经历了什么&nbsp;(iNeuOS工业互联网系统)·&nbsp;最后的一次努力：尝试解决百度收录与排名问题&nbsp;(博客园团队)·&nbsp;.NET8.0 AOT 经验分享 FreeSql/Fr    <a href="https://www.cnblogs.com/cmt/p/17843312.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
