@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-21T05:34:12.279Z</updated>
+    <updated>2023-11-21T17:36:44.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.13-11.19）]]></title>
+        <title type="html"><![CDATA[行行AI直播：OpenAI管理层“爆炸”GPTs的故事还能继续？]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17843312">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17847346">
 摘要：        
-热点随笔： ·&nbsp;30岁之前透支，30岁之后还债。&nbsp;(程序员济癫)·&nbsp;.NET 8正式发布&nbsp;(张善友)·&nbsp;阿里云崩了，总结我们从云上搬到线下经历了什么&nbsp;(iNeuOS工业互联网系统)·&nbsp;最后的一次努力：尝试解决百度收录与排名问题&nbsp;(博客园团队)·&nbsp;.NET8.0 AOT 经验分享 FreeSql/Fr    <a href="https://www.cnblogs.com/cmt/p/17843312.html" class="c_b_p_desc_readmore">阅读全文</a>
+OpenAI 首席执行官 Sam Altman 被免去首席执行官一职。随后，公司总裁 Greg Brockman 也宣布辞职。风波背后，到底发生了什么？ 前阵子 OpenAI 刚开完开发者大会,，CEO Sam Altman 还高调宣布了一系列创新，没想到自己却突然被罢免了。这场内讧充满了戏剧性！O    <a href="https://www.cnblogs.com/cmt/p/17847346.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
