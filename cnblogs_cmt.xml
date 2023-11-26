@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-25T17:33:55.715Z</updated>
+    <updated>2023-11-26T05:34:04.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【行行AI公开课】AIGC从模型到落地：促进技术落地与产业变革]]></title>
+        <title type="html"><![CDATA[惊喜小现：园子的 VSCode 插件]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17854890">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17856618">
 摘要：        
-11月26日北京大学的北大创新学社将举行“AI-FUSION”系列活动第十期。北大创新学社是北京大学团委和光华管理学院团委指导成立，是2023HICOOL全球创业者峰会唯一受邀参展的高校社团。“首都高校创新创业大赛”发起方及主办单位。“AI-FUSION”是AI创投部人工智能行业社群打造的系列活动，    <a href="https://www.cnblogs.com/cmt/p/17854890.html" class="c_b_p_desc_readmore">阅读全文</a>
+园子的 vscode 插件自从2021年12月29日在 vscode marketplace 上发布第一版本 v0.05 以来，已经快两年了。那时我们刚刚忙完忙了大半年的网站整改，百废不知从何处开始兴，一位 .NET 全栈开发同事一时兴趣边学边做，尝试开发园子的 vscode 插件。一开始就采用开源的方式，代码托管在 github 上。在发布几个版本后，发现不断有用户安装并使用，于是就把这个尝试持续。    <a href="https://www.cnblogs.com/cmt/p/17856618.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
