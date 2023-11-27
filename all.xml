@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-27T05:34:00.988Z</updated>
+    <updated>2023-11-27T17:34:26.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[华硕ROG八爪鱼7电竞路由器双万兆口三频上市预售 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -86,13 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.20-11.26） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[行行AI直播：2023极新AIGC行业峰会 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17858654">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17860059">
 摘要：        
-热点随笔： ·&nbsp;一套开源、强大且美观的WPF UI控件库 - HandyControl&nbsp;(追逐时光者)·&nbsp;记一次在线客服系统用户遭勒索，索要茶水费事件的 Windbg 分析与应对&nbsp;(升讯威在线客服系统)·&nbsp;6k Star！B站、滴滴、小红书都在用的网站防火墙&nbsp;(削微寒)·&nbsp;如何实现一套简单的oaut    <a href="https://www.cnblogs.com/cmt/p/17858654.html" class="c_b_p_desc_readmore">阅读全文</a>
+近年来，深度学习技术的进步推动了AIGC在各个领域的应用发展，年轻能打、经验丰富的创始人群体，各个行业大模型的发布，大量的资本涌入…… 然而，在热风口下最重要的是进行冷思考。 独角兽代表着商业的最新风口，也是时代的弄潮儿。在双循环格局下，中国AIGC的机会和未来是什么？大模型、人工智能、语料库等商业    <a href="https://www.cnblogs.com/cmt/p/17860059.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
