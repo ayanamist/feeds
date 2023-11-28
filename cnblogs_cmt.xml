@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-28T05:34:05.268Z</updated>
+    <updated>2023-11-28T17:34:49.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[行行AI直播：2023极新AIGC行业峰会]]></title>
+        <title type="html"><![CDATA[【行行AI直播】AI赋能千行百业：设计行业的无限可能]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17860059">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17862609">
 摘要：        
-近年来，深度学习技术的进步推动了AIGC在各个领域的应用发展，年轻能打、经验丰富的创始人群体，各个行业大模型的发布，大量的资本涌入…… 然而，在热风口下最重要的是进行冷思考。 独角兽代表着商业的最新风口，也是时代的弄潮儿。在双循环格局下，中国AIGC的机会和未来是什么？大模型、人工智能、语料库等商业    <a href="https://www.cnblogs.com/cmt/p/17860059.html" class="c_b_p_desc_readmore">阅读全文</a>
+伴随着AIGC相关研究的突破，人类社会正在面临一个新的拐点。多模态、可控扩散模型、大语言模型等技术，直接撬动了整个创意设计领域的生产过程的革新，带领着创意设计产业奔跑着向更深处前进。 在AIGC行业，按照输入的内容及输出形式来分类，可分为以文生文、以文生图、以图生图等赛道，而文和图的AI内容生成所依    <a href="https://www.cnblogs.com/cmt/p/17862609.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
