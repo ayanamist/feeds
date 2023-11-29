@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-29T05:34:01.202Z</updated>
+    <updated>2023-11-29T17:34:08.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[大型直播活动保障S13的实践和思考 (幻电物业 - B站技术中心)]]></title>
@@ -113,6 +113,13 @@
                     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[H3C BE18000上架预售，万兆路由器 WiFi7 无线速率18000M (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/26076.html</id>
+        <link href="https://www.acwifi.net/26076.html"/>
+        <updated>2023-11-29T17:33:58.925Z</updated>
+        <content type="html"><![CDATA[外壳沿用NX15000的，一样是四频，四频均是4条空间流，一个10G口，其它千兆口。价格1799元。 同样用的定向天线： 特点就是天线前方的信号特别强，一共有三片，而且每片连接着一颗独立的5G无线芯片。。。。 240MHz频宽是没可能在国内用单频来实现的。它也有了注解就是，用ML...]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华硕ROG八爪鱼7电竞路由器双万兆口三频上市预售 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/26059.html</id>
         <link href="https://www.acwifi.net/26059.html"/>
@@ -176,13 +183,6 @@
         <content type="html"><![CDATA[1. 活动时间： （1）活动参与时间：2023年10月23日20:00:00-2023年11月11日23:59:59（20天）；千万奖池，先到先得，发完即止。 （2）京东红包使用时间： 2023年10月23日-2023年11月3日期间领取的红包使用时间为2023年10月23日20...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拆过的第一台企业级Wi-Fi 7无线AP 华为AirEngine 8771-X1T拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/25713.html</id>
-        <link href="https://www.acwifi.net/25713.html"/>
-        <updated>2023-10-22T05:34:15.531Z</updated>
-        <content type="html"><![CDATA[华为AirEngine 8771-X1T是一款硬件完整的Wi-Fi 7企业级无线AP，拆机看看用什么无线芯片。机身比较好拆，但屏蔽罩不好拆，花了2天时间。 华为8771-X1T的外包装盒： 打开包装盒： 取出机身和配件 ： 这台无线AP的尺寸大约是22cm边长，厚度5cm： yq...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         弹尽粮绝，会员救园：会员上线，命悬一线 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/08.html</id>
@@ -194,13 +194,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【行行AI直播】AI赋能千行百业：设计行业的无限可能 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[小惊喜继续-vscode插件小更新：基于文件名中的 PostId 关联博文 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17862609">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17865193">
 摘要：        
-伴随着AIGC相关研究的突破，人类社会正在面临一个新的拐点。多模态、可控扩散模型、大语言模型等技术，直接撬动了整个创意设计领域的生产过程的革新，带领着创意设计产业奔跑着向更深处前进。 在AIGC行业，按照输入的内容及输出形式来分类，可分为以文生文、以文生图、以图生图等赛道，而文和图的AI内容生成所依    <a href="https://www.cnblogs.com/cmt/p/17862609.html" class="c_b_p_desc_readmore">阅读全文</a>
+在惊喜小现：园子的 vscode 插件的预热博文发布后，今天发布插件的一个小更新——基于文件名中包含的 PostId 关联博文。 将本地文件与服务端博文进行关联是通过插件在 vscode 中管理博文的基础，当您在插件的“随便列表”中点击一篇博文，会自动在工作空间的目录中创建以博文标题命名的文件，并且    <a href="https://www.cnblogs.com/cmt/p/17865193.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>

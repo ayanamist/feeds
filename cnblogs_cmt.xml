@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-11-29T05:34:01.144Z</updated>
+    <updated>2023-11-29T17:34:08.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【行行AI直播】AI赋能千行百业：设计行业的无限可能]]></title>
+        <title type="html"><![CDATA[小惊喜继续-vscode插件小更新：基于文件名中的 PostId 关联博文]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/11.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/11.html"/>
         <updated>2023-11-02T17:34:24.041Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17862609">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17865193">
 摘要：        
-伴随着AIGC相关研究的突破，人类社会正在面临一个新的拐点。多模态、可控扩散模型、大语言模型等技术，直接撬动了整个创意设计领域的生产过程的革新，带领着创意设计产业奔跑着向更深处前进。 在AIGC行业，按照输入的内容及输出形式来分类，可分为以文生文、以文生图、以图生图等赛道，而文和图的AI内容生成所依    <a href="https://www.cnblogs.com/cmt/p/17862609.html" class="c_b_p_desc_readmore">阅读全文</a>
+在惊喜小现：园子的 vscode 插件的预热博文发布后，今天发布插件的一个小更新——基于文件名中包含的 PostId 关联博文。 将本地文件与服务端博文进行关联是通过插件在 vscode 中管理博文的基础，当您在插件的“随便列表”中点击一篇博文，会自动在工作空间的目录中创建以博文标题命名的文件，并且    <a href="https://www.cnblogs.com/cmt/p/17865193.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>

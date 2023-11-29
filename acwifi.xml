@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-11-29T05:34:01.146Z</updated>
+    <updated>2023-11-29T17:34:08.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[H3C BE18000上架预售，万兆路由器 WiFi7 无线速率18000M]]></title>
+        <id>https://www.acwifi.net/26076.html</id>
+        <link href="https://www.acwifi.net/26076.html"/>
+        <updated>2023-11-29T17:33:58.925Z</updated>
+        <content type="html"><![CDATA[外壳沿用NX15000的，一样是四频，四频均是4条空间流，一个10G口，其它千兆口。价格1799元。 同样用的定向天线： 特点就是天线前方的信号特别强，一共有三片，而且每片连接着一颗独立的5G无线芯片。。。。 240MHz频宽是没可能在国内用单频来实现的。它也有了注解就是，用ML...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕ROG八爪鱼7电竞路由器双万兆口三频上市预售]]></title>
         <id>https://www.acwifi.net/26059.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25824.html"/>
         <updated>2023-10-23T17:34:31.583Z</updated>
         <content type="html"><![CDATA[1. 活动时间： （1）活动参与时间：2023年10月23日20:00:00-2023年11月11日23:59:59（20天）；千万奖池，先到先得，发完即止。 （2）京东红包使用时间： 2023年10月23日-2023年11月3日期间领取的红包使用时间为2023年10月23日20...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆过的第一台企业级Wi-Fi 7无线AP 华为AirEngine 8771-X1T拆机]]></title>
-        <id>https://www.acwifi.net/25713.html</id>
-        <link href="https://www.acwifi.net/25713.html"/>
-        <updated>2023-10-22T05:34:15.531Z</updated>
-        <content type="html"><![CDATA[华为AirEngine 8771-X1T是一款硬件完整的Wi-Fi 7企业级无线AP，拆机看看用什么无线芯片。机身比较好拆，但屏蔽罩不好拆，花了2天时间。 华为8771-X1T的外包装盒： 打开包装盒： 取出机身和配件 ： 这台无线AP的尺寸大约是22cm边长，厚度5cm： yq...]]></content>
     </entry>
 </feed>
