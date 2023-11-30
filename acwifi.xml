@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-11-30T05:34:19.652Z</updated>
+    <updated>2023-11-30T17:34:13.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi 7新品很快迎来井喷，除了6G，还有哪些7的优点。]]></title>
+        <id>https://www.acwifi.net/26083.html</id>
+        <link href="https://www.acwifi.net/26083.html"/>
+        <updated>2023-11-30T17:34:02.814Z</updated>
+        <content type="html"><![CDATA[随着半年前的《国家无线电办公室关于采用 IEEE 802.11be 技术标准的无线局域网设备新增型号核准技术要求及测试方法的通知（征求意见稿）》，到本月公布的《采用IEEE 802.11be技术标准的无线局域网设备型号核准技术要求及测试方法》通知。好多厂家的新品进入了认证阶段。 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H3C BE18000上架预售，万兆路由器 WiFi7 无线速率18000M]]></title>
         <id>https://www.acwifi.net/26076.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25836.html"/>
         <updated>2023-10-24T17:34:17.307Z</updated>
         <content type="html"><![CDATA[小米这次终于开了新模具，内置天线的款式，多数都好看！ 新出的这款叫小米路由器6500 Pro，有Pro就有不Pro的，将来可能出个普通版的小米6500，全千兆口，我猜的。预售价格699元，没什么优惠，但有赠品：小米米家电子温湿度计Pro，这小东西比较实用，能显示时间和温湿度，电子...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京东双11红包领取攻略]]></title>
-        <id>https://www.acwifi.net/25824.html</id>
-        <link href="https://www.acwifi.net/25824.html"/>
-        <updated>2023-10-23T17:34:31.583Z</updated>
-        <content type="html"><![CDATA[1. 活动时间： （1）活动参与时间：2023年10月23日20:00:00-2023年11月11日23:59:59（20天）；千万奖池，先到先得，发完即止。 （2）京东红包使用时间： 2023年10月23日-2023年11月3日期间领取的红包使用时间为2023年10月23日20...]]></content>
     </entry>
 </feed>
