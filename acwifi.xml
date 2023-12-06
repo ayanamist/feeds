@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-12-06T05:34:13.134Z</updated>
+    <updated>2023-12-06T17:34:34.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[怎样查看无线路由器支持MLO类型？从硬件、软件细说MLO支持的类型]]></title>
+        <id>https://www.acwifi.net/26144.html</id>
+        <link href="https://www.acwifi.net/26144.html"/>
+        <updated>2023-12-06T17:34:22.806Z</updated>
+        <content type="html"><![CDATA[一、前言 这几天都在几台小主机上反复安装win11系统，不断找资料找答案。现分享出来，本文的内容不一定全是对，欢迎有兴趣的一起讨论，互相吹下水。本文用到的无线路由器是小米7000，现在叫小米BE7000也没问题，无线AP是TP的TL-7HDAP13000TCS。小米6500Pro...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GL.iNet MT6000无线路由器评测]]></title>
         <id>https://www.acwifi.net/26069.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/25872.html"/>
         <updated>2023-10-27T17:34:31.363Z</updated>
         <content type="html"><![CDATA[299元，有2个2.5G网口的A3000无线路由器，目前最便宜的了。应该没错吧！ CPU信息不详，猜仍然用自研的中兴芯片。看介绍是主芯片的转发性能提升400%。 在APP里可以模拟无线Wi-Fi热力图，支持部分社区一键获取户型图，方便。 有人说AX3000用双2.5G网口没什么意...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-R5010PE-EN拆机全2.5G POE一体机，弱电箱好野]]></title>
-        <id>https://www.acwifi.net/25800.html</id>
-        <link href="https://www.acwifi.net/25800.html"/>
-        <updated>2023-10-26T05:34:53.316Z</updated>
-        <content type="html"><![CDATA[TP-LINK的TL-R5010PE-EN，说好的拆机一直拖到现在。外包装和机身如下： 没什么配件 ，也不需要配件，直接卡进去TL-EN4030信息箱（弱电箱）就行。没有电源，这也是它比R5010PE便宜的两个原因之一。 电源接口规格比较特殊，如果EN4030弱电箱里已经装了电源...]]></content>
     </entry>
 </feed>
