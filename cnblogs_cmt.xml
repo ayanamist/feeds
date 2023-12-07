@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-12-07T05:34:14.500Z</updated>
+    <updated>2023-12-07T17:34:53.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[行行AI直播：跨境出海将“风”起何方? 如何利用AI引领行业变革?]]></title>
+        <title type="html"><![CDATA[【故障公告】数据库服务器今年第七次 CPU 100% 故障]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/12.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/12.html"/>
         <updated>2023-12-04T05:34:00.324Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17880397">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17882309">
 摘要：        
-作为国际贸易发展新业态，中国跨境电商发展速度快，市场潜力大，带动作用强，日益成为外贸高质量发展的新引擎。商务部发布的数据显示，跨境电商占中国货物贸易进出口比重从2015年的1%增长到2022年的5%。今年前三季度跨境电商进出口额达1.7万亿元，同比增长14.4%，占同期货物贸易进出口比重的5.5%。    <a href="https://www.cnblogs.com/cmt/p/17880397.html" class="c_b_p_desc_readmore">阅读全文</a>
+自11月9日第六次数据库服务器 CPU 100% 故障之后，今天下午又出现数据库服务器 CPU 100% 故障，是今年的第七次。 今天的故障发生于 16:01~16:07 期间，发现故障后我们立即重启阿里云RDS实例，重启后恢复正常。 正准备发布这篇故障公告时，数据库服务器又出现 CPU 100%，    <a href="https://www.cnblogs.com/cmt/p/17882309.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
