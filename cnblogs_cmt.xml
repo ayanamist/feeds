@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-12-10T17:34:00.556Z</updated>
+    <updated>2023-12-11T05:34:23.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【故障公告】数据库服务器今年第七次 CPU 100% 故障（12月8日又出现）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（12.4-12.10）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/12.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/12.html"/>
         <updated>2023-12-04T05:34:00.324Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17882309">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17893818">
 摘要：        
-自11月9日第六次数据库服务器 CPU 100% 故障之后，今天下午又出现数据库服务器 CPU 100% 故障，是今年的第七次。 今天的故障发生于 16:01~16:07 期间，发现故障后我们立即重启阿里云RDS实例，重启后恢复正常。 正准备发布这篇故障公告时，数据库服务器又出现 CPU 100%，    <a href="https://www.cnblogs.com/cmt/p/17882309.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;【故障公告】数据库服务器今年第七次 CPU 100% 故障（12月8日又出现）&nbsp;(博客园团队)·&nbsp;C#/.NET/.NET Core优秀项目和框架2023年11月简报&nbsp;(追逐时光者)·&nbsp;带团队后的日常思考（十三）&nbsp;(咖啡机（K.F.J）)·&nbsp;公司敏感数据被上传Github，吓得我赶紧    <a href="https://www.cnblogs.com/cmt/p/17893818.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
