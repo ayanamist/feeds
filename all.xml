@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-22T05:33:52.106Z</updated>
+    <updated>2023-12-22T17:34:52.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-7HDAP13000TCS-PoE/DC易展版拆机 双10G口无线AP (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/25881.html</id>
+        <link href="https://www.acwifi.net/25881.html"/>
+        <updated>2023-12-22T17:34:20.493Z</updated>
+        <content type="html"><![CDATA[TP-LINKTL-7HDAP13000TCS-PoE/DC易展版的外包装如下： 型号太长了，以下简称7HDAP13000TCS。 机身和配件： 外观尺寸和外壳材料与XAP6000GC是一样的，即大部分是铝。 一共有三个接口，1个10G网口，一个2.5G网口，一个10G SFP+...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最便宜的2.5G PoE网管交换机（8+1光）拆机S1100WP-8GT-1SX-SE (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/26181.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/25989.html"/>
         <updated>2023-11-11T17:34:00.885Z</updated>
         <content type="html"><![CDATA[最近这一款GL.iNet MT6000有不少人在问，拆机看看吧。 外包装尺寸不大，但拿在手上沉甸甸的感觉： 机身和配件： 电源输出规格是12V/4A，电源额定功率给得挺大的，毕竟有USB3.0接口，以便你接入设备后有充足的供电。 实测接入两个2.5G网口时的待机功率是7W。对于双...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴巡天AX3000 Pro+ 无线路由器评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/25953.html</id>
-        <link href="https://www.acwifi.net/25953.html"/>
-        <updated>2023-11-09T17:34:11.065Z</updated>
-        <content type="html"><![CDATA[一、硬件配置 拆机文章在这里：中兴巡天AX3000 Pro+ 无线路由器拆机 芯片汇总图如下： CPU采用的是中兴自研的CPU：ZX279133，无线芯片是用联发科的MT7976DN+MT7916AN，这套无线芯片的特点是信号比较强。256MB内存，128MB闪存。 网口方面，有...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
