@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-12-24T17:34:09.248Z</updated>
+    <updated>2023-12-25T05:33:51.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【故障公告】疑似未知知名搜索引擎蜘蛛来袭，一台负载均衡带宽跑满]]></title>
+        <title type="html"><![CDATA[上周热点回顾（12.18-12.24）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/12.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/12.html"/>
         <updated>2023-12-04T05:34:00.324Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17917026">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17925564">
 摘要：        
-园子的博客站点使用了多台阿里云负载均衡，并且给每台负载均衡设置了监听带宽限速。 今天下午15:16-16:22，16:31~16:39，16:51 三个时间段，其中一台负载均衡被异常大量请求将带宽跑满。 从我们的防护策略上看，只有知名搜索引擎蜘蛛才可能发起这么高的请求，因为我们不敢拦截，怕被降权（解    <a href="https://www.cnblogs.com/cmt/p/17917026.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;【故障公告】疑似未知知名搜索引擎蜘蛛来袭，一台负载均衡带宽跑满&nbsp;(博客园团队)·&nbsp;如何快速优化几千万数据量的订单表&nbsp;(程序员济癫)·&nbsp;微软官方发布的C#开源、免费、实用的Windows工具箱&nbsp;(追逐时光者)·&nbsp;2023 年最后一波工具安利「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;当前    <a href="https://www.cnblogs.com/cmt/p/17925564.html" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
