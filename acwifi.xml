@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2023-12-29T05:34:17.950Z</updated>
+    <updated>2023-12-29T17:34:32.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XDR6010 v2.0拆机，顺手刷个第三方固件]]></title>
+        <id>https://www.acwifi.net/26336.html</id>
+        <link href="https://www.acwifi.net/26336.html"/>
+        <updated>2023-12-29T17:34:21.821Z</updated>
+        <content type="html"><![CDATA[XDR6010刚出到v2.0硬件版本，想不到有点惊喜。 包装外观什么的，都不说太多了。跟之前拆过的一模一样。XDR6010 V1.0的拆机链接：TP-LINK XDR6010无线路由器拆机 版本号在机身上有显示的： 电源规格没变：12V/1.5A XDR6010和XDR6020是...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴问天BE7200Pro+ WiFi7无线路由器新品上市预约]]></title>
         <id>https://www.acwifi.net/26328.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26076.html"/>
         <updated>2023-11-29T17:33:58.925Z</updated>
         <content type="html"><![CDATA[外壳沿用NX15000的，一样是四频，四频均是4条空间流，一个10G口，其它千兆口。价格1799元。 同样用的定向天线： 特点就是天线前方的信号特别强，一共有三片，而且每片连接着一颗独立的5G无线芯片。。。。 240MHz频宽是没可能在国内用单频来实现的。它也有了注解就是，用ML...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕ROG八爪鱼7电竞路由器双万兆口三频上市预售]]></title>
-        <id>https://www.acwifi.net/26059.html</id>
-        <link href="https://www.acwifi.net/26059.html"/>
-        <updated>2023-11-16T17:33:57.218Z</updated>
-        <content type="html"><![CDATA[先说价呀，不贵呀4999元，ROG哇。可是，外壳是用旧的吧？ 无线规格面，写的三频总速率13000Mbps：2.4G 1376Mbps；5G1和5G2都是5764Mbps，而5G2在国内是不支持5764Mbps的。（要改地区） 四核CPU，频率2.6G，不是高通。2GB内存。 网...]]></content>
     </entry>
 </feed>
