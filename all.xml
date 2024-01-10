@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-09T17:34:05.802Z</updated>
+    <updated>2024-01-10T05:34:40.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[中兴（ZTE）问天BE7200Pro+ 拆机评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/26372.html</id>
+        <link href="https://www.acwifi.net/26372.html"/>
+        <updated>2024-01-10T05:34:31.472Z</updated>
+        <content type="html"><![CDATA[中兴（ZTE）问天BE7200Pro+是中兴的第一款上市的Wi-Fi 7无线路由器，通过拆机和简单的测试看看它表现如何。 一、折机 中兴问天BE7200Pro+的外包装： 兴字图腾： “问天”： 机身和配件： 六类网线： 电源输出规格是12V/2.5A，实测插上两个2.5G网口后...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XA6000GC、XDR5400GC、XAP3000GC直观信号强度对比。 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/26362.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/26069.html"/>
         <updated>2023-12-05T05:34:11.369Z</updated>
         <content type="html"><![CDATA[这台GL.iNet MT6000之前拆过机了，拆机链接：GL.iNet MT6000无线路由器拆机 各芯片型号如下： 简单测一下这台无线路由器。 一、双2.5G口测试 由于软件问题，现在测不了小包性能。 用自建PPPoE服务和自建speedtest测速服务器，GL.iNet MT...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-Fi 7新品很快迎来井喷，除了6G，还有哪些7的优点。 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/26083.html</id>
-        <link href="https://www.acwifi.net/26083.html"/>
-        <updated>2023-11-30T17:34:02.814Z</updated>
-        <content type="html"><![CDATA[随着半年前的《国家无线电办公室关于采用 IEEE 802.11be 技术标准的无线局域网设备新增型号核准技术要求及测试方法的通知（征求意见稿）》，到本月公布的《采用IEEE 802.11be技术标准的无线局域网设备型号核准技术要求及测试方法》通知。好多厂家的新品进入了认证阶段。 ...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
