@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-01-12T05:34:43.097Z</updated>
+    <updated>2024-01-12T17:34:15.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK BE6500 7DR6560拆机，通过实测告诉你为啥四个2.5G网口共享5G带宽。]]></title>
+        <id>https://www.acwifi.net/26503.html</id>
+        <link href="https://www.acwifi.net/26503.html"/>
+        <updated>2024-01-12T17:34:05.980Z</updated>
+        <content type="html"><![CDATA[7DR6560的外包装： TL-7DR6560易展Turbo版，支持易展3.0，四2.5G口。 机身和配件： 电源适配器的输出规格是12V/2.5A。实测只连接一个光猫LAN口（1Gbps）时，待机功率是9.2W，如果插满四个2.5G网口，待机功率达到12.8W。这功耗有一点高！...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴（ZTE）问天BE7200Pro+ 拆机评测]]></title>
         <id>https://www.acwifi.net/26372.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26144.html"/>
         <updated>2023-12-06T17:34:22.806Z</updated>
         <content type="html"><![CDATA[一、前言 这几天都在几台小主机上反复安装win11系统，不断找资料找答案。现分享出来，本文的内容不一定全是对，欢迎有兴趣的一起讨论，互相吹下水。本文用到的无线路由器是小米7000，现在叫小米BE7000也没问题，无线AP是TP的TL-7HDAP13000TCS。小米6500Pro...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GL.iNet MT6000无线路由器评测]]></title>
-        <id>https://www.acwifi.net/26069.html</id>
-        <link href="https://www.acwifi.net/26069.html"/>
-        <updated>2023-12-05T05:34:11.369Z</updated>
-        <content type="html"><![CDATA[这台GL.iNet MT6000之前拆过机了，拆机链接：GL.iNet MT6000无线路由器拆机 各芯片型号如下： 简单测一下这台无线路由器。 一、双2.5G口测试 由于软件问题，现在测不了小包性能。 用自建PPPoE服务和自建speedtest测速服务器，GL.iNet MT...]]></content>
     </entry>
 </feed>
