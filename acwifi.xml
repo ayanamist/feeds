@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-01-14T05:34:42.334Z</updated>
+    <updated>2024-01-14T17:34:06.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米路由器BE3600预约，月底抢购 WiFi7]]></title>
+        <id>https://www.acwifi.net/26564.html</id>
+        <link href="https://www.acwifi.net/26564.html"/>
+        <updated>2024-01-14T17:33:56.560Z</updated>
+        <content type="html"><![CDATA[在小米官网还没看见有商品详细的，但京东开始预约了。 从商品页里的参数可以看出一些产品信息。比如是单2.5G网口。但无线协议里应该是填错了。Wi-Fi 7不是协议，它只是一种行业标准认证，它的一切标准内容是基于IEEE 802.11be。无线协议应该是填802.11be。 网上有人...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK BE6500 7DR6560拆机，通过实测告诉你为啥四个2.5G网口共享5G带宽。]]></title>
         <id>https://www.acwifi.net/26503.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26167.html"/>
         <updated>2023-12-07T17:34:44.582Z</updated>
         <content type="html"><![CDATA[价格有点夸张，一上市就这么低价，要其它Wi-Fi 6怎么卖呀。 最便宜的是7DR3610，价格229元，2.4G和5G均是2x2MIMO，无线总速率3600Mpbs，全千兆口，抢购时间是下个月的18号。京东预约链接 其次是7DR5130，价格279元，2.4G是2x2MIMO，5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样查看无线路由器支持MLO类型？从硬件、软件细说MLO支持的类型]]></title>
-        <id>https://www.acwifi.net/26144.html</id>
-        <link href="https://www.acwifi.net/26144.html"/>
-        <updated>2023-12-06T17:34:22.806Z</updated>
-        <content type="html"><![CDATA[一、前言 这几天都在几台小主机上反复安装win11系统，不断找资料找答案。现分享出来，本文的内容不一定全是对，欢迎有兴趣的一起讨论，互相吹下水。本文用到的无线路由器是小米7000，现在叫小米BE7000也没问题，无线AP是TP的TL-7HDAP13000TCS。小米6500Pro...]]></content>
     </entry>
 </feed>
