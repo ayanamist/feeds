@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-01-30T05:34:32.918Z</updated>
+    <updated>2024-01-30T17:35:15.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[acwifi拆过的所有TP-LINK的无线AP配置规格信息汇总表]]></title>
+        <id>https://www.acwifi.net/26666.html</id>
+        <link href="https://www.acwifi.net/26666.html"/>
+        <updated>2024-01-30T17:35:06.555Z</updated>
+        <content type="html"><![CDATA[加入了2款无线AP，之前的3007GC标错了网口速率，网口分类也修改了：区分PoE口和非PoE速率，也增加了5G2的无线参数，毕竟有三频的无线AP。 旧的文章不能修改图片，因此把整篇文章删除了，免得误导人。 在这里简单说一下”漫游阈值“和802.11r。 802.11r我是不建议...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK BE5100 7DR5130拆机，新的6nm芯片]]></title>
         <id>https://www.acwifi.net/26624.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26328.html"/>
         <updated>2023-12-25T05:33:39.949Z</updated>
         <content type="html"><![CDATA[中兴问天BE7200Pro+的总无线速率是7200Mbps（取整），7200就是双频均是4x4MIMO即各4条空间流。 接口方面，拥有2个2.5G网口，另外有３个千兆网口。 还有一个USB3.0。 中兴的无线路由器支持“家长管控“的功能。 组网方面，支持与巡天系列、晴天系列、小方...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-7HDAP13000TCS-PoE/DC易展版拆机 双10G口无线AP]]></title>
-        <id>https://www.acwifi.net/25881.html</id>
-        <link href="https://www.acwifi.net/25881.html"/>
-        <updated>2023-12-22T17:34:20.493Z</updated>
-        <content type="html"><![CDATA[TP-LINKTL-7HDAP13000TCS-PoE/DC易展版的外包装如下： 型号太长了，以下简称7HDAP13000TCS。 机身和配件： 外观尺寸和外壳材料与XAP6000GC是一样的，即大部分是铝。 一共有三个接口，1个10G网口，一个2.5G网口，一个10G SFP+...]]></content>
     </entry>
 </feed>
