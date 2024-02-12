@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-12T05:34:55.802Z</updated>
+    <updated>2024-02-12T17:33:49.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[用小米13 Pro和7TR13090实测MLO效果 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -86,13 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.29-2.4） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[上周热点回顾（2.5-2.11） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/02</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/02"/>
         <updated>2024-02-05T05:34:01.996Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18007495">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18013853">
 摘要：        
-热点随笔： ·&nbsp;发个阿里云广告，对园子脱困很重要：阿里云上部署幻兽帕鲁&nbsp;(博客园团队)·&nbsp;谁说后端不能画出美丽的动图？让我来给大家拜个年！&nbsp;(努力的小雨)·&nbsp;【深度思考】一线开发大头兵对于工作的感悟分享&nbsp;(Apluemxa)·&nbsp;C#/.NET/.NET Core优秀项目和框架2024年1月简报&nbsp;(追    <a href="https://www.cnblogs.com/cmt/p/18007495" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;5 款轻松上手的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;一款后台管理框架的年终总结&nbsp;(胡尐睿丶)·&nbsp;C#/.NET该如何自学入门？&nbsp;(追逐时光者)·&nbsp;.NET Avalonia开源、免费的桌面UI库 - SukiUI&nbsp;(追逐时光者)·&nbsp;WebAssembly核心编程[4]:    <a href="https://www.cnblogs.com/cmt/p/18013853" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
