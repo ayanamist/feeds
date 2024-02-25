@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-02-24T17:34:00.192Z</updated>
+    <updated>2024-02-25T05:33:58.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Insider Preview 26063.1 (24H2) 支持MLO，但]]></title>
+        <id>https://www.acwifi.net/26879.html</id>
+        <link href="https://www.acwifi.net/26879.html"/>
+        <updated>2024-02-25T05:33:48.562Z</updated>
+        <content type="html"><![CDATA[WIN系统支持归支持呀，无线网卡驱动还没有着落。更新说明的原文链接： https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-ca...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米BE3600无线路由器拆机]]></title>
         <id>https://www.acwifi.net/26827.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26503.html"/>
         <updated>2024-02-17T17:33:41.348Z</updated>
         <content type="html"><![CDATA[7DR6560的外包装： TL-7DR6560易展Turbo版，支持易展3.0，四2.5G口。 机身和配件： 电源适配器的输出规格是12V/2.5A。实测只连接一个光猫LAN口（1Gbps）时，待机功率是9.2W，如果插满四个2.5G网口，待机功率达到12.8W。这功耗有一点高！...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴（ZTE）问天BE7200Pro+ 拆机评测]]></title>
-        <id>https://www.acwifi.net/26372.html</id>
-        <link href="https://www.acwifi.net/26372.html"/>
-        <updated>2024-02-17T17:33:41.349Z</updated>
-        <content type="html"><![CDATA[中兴（ZTE）问天BE7200Pro+是中兴的第一款上市的Wi-Fi 7无线路由器，通过拆机和简单的测试看看它表现如何。 一、折机 中兴问天BE7200Pro+的外包装： 兴字图腾： “问天”： 机身和配件： 六类网线： 电源输出规格是12V/2.5A，实测插上两个2.5G网口后...]]></content>
     </entry>
 </feed>
