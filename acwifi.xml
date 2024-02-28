@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-02-28T05:34:38.026Z</updated>
+    <updated>2024-02-28T17:34:10.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-2420PB交换机拆机]]></title>
+        <id>https://www.acwifi.net/26891.html</id>
+        <link href="https://www.acwifi.net/26891.html"/>
+        <updated>2024-02-28T17:34:00.986Z</updated>
+        <content type="html"><![CDATA[这台交换机单手拿不起来，拆到我身水身汗。重，很重，非常重！5.5KG。 TP-LINK TL-2420PB的外包装盒也很大： 取向机身和配件： 耳朵那么短小，机身就必然很大。 机身一侧有两个散热风扇： 交换机正面： 2.5G网口一共有16个，10G SFP+ 一共有4个。端口数量...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Insider Preview 26063.1 (24H2) 支持MLO，但]]></title>
         <id>https://www.acwifi.net/26879.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26564.html"/>
         <updated>2024-02-17T17:33:41.346Z</updated>
         <content type="html"><![CDATA[在小米官网还没看见有商品详细的，但京东开始预约了。 从商品页里的参数可以看出一些产品信息。比如是单2.5G网口。但无线协议里应该是填错了。Wi-Fi 7不是协议，它只是一种行业标准认证，它的一切标准内容是基于IEEE 802.11be。无线协议应该是填802.11be。 网上有人...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK BE6500 7DR6560拆机，通过实测告诉你为啥四个2.5G网口共享5G带宽。]]></title>
-        <id>https://www.acwifi.net/26503.html</id>
-        <link href="https://www.acwifi.net/26503.html"/>
-        <updated>2024-02-17T17:33:41.348Z</updated>
-        <content type="html"><![CDATA[7DR6560的外包装： TL-7DR6560易展Turbo版，支持易展3.0，四2.5G口。 机身和配件： 电源适配器的输出规格是12V/2.5A。实测只连接一个光猫LAN口（1Gbps）时，待机功率是9.2W，如果插满四个2.5G网口，待机功率达到12.8W。这功耗有一点高！...]]></content>
     </entry>
 </feed>
