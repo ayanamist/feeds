@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-03-03T05:34:13.362Z</updated>
+    <updated>2024-03-03T17:33:55.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-ST5008F 拆机(v2.0) 全万兆三层交换机]]></title>
+        <id>https://www.acwifi.net/26942.html</id>
+        <link href="https://www.acwifi.net/26942.html"/>
+        <updated>2024-03-03T17:33:45.555Z</updated>
+        <content type="html"><![CDATA[TP-LINK 的TL-ST5008F v2.0外包装： 机身和配件： 配件有点多，以下这两根是Console线： 地线： 我还买了地排接线端子，准备接在机柜里： 交换机外壳已经连接了电源里面的地线，那么机身上的防雷接地柱还要不要接地呢？ 根TP-LINK网站上的《商用网络产品防...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器BE7000的MLO实测]]></title>
         <id>https://www.acwifi.net/26950.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26624.html"/>
         <updated>2024-02-17T17:33:41.344Z</updated>
         <content type="html"><![CDATA[7DR5130的外包装如下： BE5100 2.5G口 Wi-Fi 7，易展3.0。3.0是可以跟TP-LINK智能家居设备联网的，比如门锁、门铃、摄像头等。 机身和配件 ： 电源输出规格是12V/1A，实测联网后的待机功率是4.8W。功耗低。 这是一款新的模具： 天线布局如下：...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为BE3 Pro 2.5G版拆机，测一下无线它的极限。]]></title>
-        <id>https://www.acwifi.net/26369.html</id>
-        <link href="https://www.acwifi.net/26369.html"/>
-        <updated>2024-02-17T17:33:41.344Z</updated>
-        <content type="html"><![CDATA[华为BE3 Pro 2.5G版本，外包装如下： 华为路由BE3 Pro 四核Wi-Fi 7 双频聚合 性能叠加 2500兆疾速网口: 机身和配件： 电源输出规格是12V/1.5A，实测待机功率6W： 四根天线可以收起来： 四碌天线比较粗大，显得有些密密麻麻。2.4G和5G天线分布...]]></content>
     </entry>
 </feed>
