@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-03-10T17:34:17.794Z</updated>
+    <updated>2024-03-11T05:34:00.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI应用开发之路-准备：发起一个开源小项目 DashScope SDK for .NET]]></title>
+        <title type="html"><![CDATA[上周热点回顾（3.4-3.10）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/03</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/03"/>
         <updated>2024-03-04T06:05:03.696Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18052469">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18065677">
 摘要：        
-今年我们有一个眼高手低的计划，打算基于 Semantic Kernel + DashScope(阿里云模型服务灵积) + Qwen(通义千问大模型) ，结合园子已有的产品与应用场景，开发面向开发者的 AI 应用，并将整个过程与大家分享。 目前处于准备阶段，这篇博文分享的是遇到的第一个问题，并由此发起    <a href="https://www.cnblogs.com/cmt/p/18052469" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;这波操作看麻了！十亿行数据，从71s到1.7s的优化之路。&nbsp;(why技术)·&nbsp;开源.NET8.0小项目伪微服务框架（分布式、EFCore、Redis、RabbitMQ、Mysql等）&nbsp;(aehyok)·&nbsp;C#/.NET/.NET Core优秀项目和框架2024年2月简报&nbsp;(追逐时光者    <a href="https://www.cnblogs.com/cmt/p/18065677" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
