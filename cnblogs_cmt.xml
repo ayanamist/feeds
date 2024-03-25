@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-03-24T17:35:14.016Z</updated>
+    <updated>2024-03-25T05:34:01.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[园子的新版 favicon，您觉得哪款更好看]]></title>
+        <title type="html"><![CDATA[上周热点回顾（3.18-3.24）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/03</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/03"/>
         <updated>2024-03-04T06:05:03.696Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18087826">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18094048">
 摘要：        
-这周我们重新设计了园子的 favicon，经过一番纠结之后，终于找到了一种比较满意的很简洁的设计，现在唯一不能确定的是用宽边还是细边，今天发出来看看大家的反馈。 1）宽边版 宽边版预览效果 2）细边版 预览效果 3）改进版（不宽不细） 改进版预览效果 4）蓝色宽边版 注：这个蓝色 #007aff 来    <a href="https://www.cnblogs.com/cmt/p/18087826" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;京东大佬问我：下单后30分钟未支付，自动取消有什么设计方案么？&nbsp;(帝莘)·&nbsp;园子的新版 favicon，您觉得哪款更好看&nbsp;(博客园团队)·&nbsp;Garnet: 力压Redis的C#高性能分布式存储数据库&nbsp;(InCerry)·&nbsp;没想到三天10KStar的营销利器MediaCrawler开源    <a href="https://www.cnblogs.com/cmt/p/18094048" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
