@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-03-27T05:34:07.588Z</updated>
+    <updated>2024-03-27T17:34:07.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕RT-BE88U WiFi7路由器上市预售1999元，红蜘蛛卖谁去？]]></title>
+        <id>https://www.acwifi.net/27094.html</id>
+        <link href="https://www.acwifi.net/27094.html"/>
+        <updated>2024-03-27T17:33:58.412Z</updated>
+        <content type="html"><![CDATA[华硕RT-BE88U沿用88U系列的顶壳和底壳，背面由于接口的丰富，做了些小改去，都“7”了还沿用“5”的壳，天线也是。 BE88U不像以前的AX88U那么狐寒（1999元，全千兆网口）。这次华硕RT-BE88U给了1个10G电口， 1个10G光口，4个2.5G口，4个千兆口。W...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安装：12U机柜、5U开放式机架、配线架、理线架、打线与直通模块]]></title>
         <id>https://www.acwifi.net/27054.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26827.html"/>
         <updated>2024-02-23T17:34:19.224Z</updated>
         <content type="html"><![CDATA[小米BE3600的包装盒： 单2.5G网口版本： 机身和配件： 电源输出规格是DC 12V/1.5A，我心想，就这2x2MIMO的，不需要1.5A吧。一测待机功率7W，如果接2.5G网口，待机功率8.2W。 四根天线是固定不能动，性远点壳的组成部分，正因如此，外壳拆开所需要的时间...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK BE3600 7DR3610拆机]]></title>
-        <id>https://www.acwifi.net/26793.html</id>
-        <link href="https://www.acwifi.net/26793.html"/>
-        <updated>2024-02-21T05:33:40.705Z</updated>
-        <content type="html"><![CDATA[7DR3610的外包装盒： 支持易展3.0： 产品特点： 机身和配件： 电源输出规格是DC 12V/1A，实测联网后的待机功率4.4W： 白色机身： 双频均是2x2MIMO，用了五根天线，可以断定是联发科的芯片方案了。各天线布局如下图： 背面四个千兆网口： 机身底部： 产品型号：...]]></content>
     </entry>
 </feed>
