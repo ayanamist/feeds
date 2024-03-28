@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-03-28T05:34:55.609Z</updated>
+    <updated>2024-03-28T17:34:26.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK BE3600 7DR3630 拆机]]></title>
+        <id>https://www.acwifi.net/27079.html</id>
+        <link href="https://www.acwifi.net/27079.html"/>
+        <updated>2024-03-28T17:34:17.930Z</updated>
+        <content type="html"><![CDATA[7DR3630是7DR3610的单2.5G网口版本，我相信差别就只有这一个2.5G网口，其它一样。 7DR3630外包装： 易展3.0： 机身和配件 ： 电源输出规格是12V/1A，实测接千兆口联网时的待机功率是4.8W，如果插2.5G网口，这时待机功率是5.8W。 一个2.5G...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕RT-BE88U WiFi7路由器上市预售1999元，红蜘蛛卖谁去？]]></title>
         <id>https://www.acwifi.net/27094.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26879.html"/>
         <updated>2024-02-25T05:33:48.562Z</updated>
         <content type="html"><![CDATA[WIN系统支持归支持呀，无线网卡驱动还没有着落。更新说明的原文链接： https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-ca...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米BE3600无线路由器拆机]]></title>
-        <id>https://www.acwifi.net/26827.html</id>
-        <link href="https://www.acwifi.net/26827.html"/>
-        <updated>2024-02-23T17:34:19.224Z</updated>
-        <content type="html"><![CDATA[小米BE3600的包装盒： 单2.5G网口版本： 机身和配件： 电源输出规格是DC 12V/1.5A，我心想，就这2x2MIMO的，不需要1.5A吧。一测待机功率7W，如果接2.5G网口，待机功率8.2W。 四根天线是固定不能动，性远点壳的组成部分，正因如此，外壳拆开所需要的时间...]]></content>
     </entry>
 </feed>

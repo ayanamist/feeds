@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-28T05:34:55.603Z</updated>
+    <updated>2024-03-28T17:34:26.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK BE3600 7DR3630 拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/27079.html</id>
+        <link href="https://www.acwifi.net/27079.html"/>
+        <updated>2024-03-28T17:34:17.930Z</updated>
+        <content type="html"><![CDATA[7DR3630是7DR3610的单2.5G网口版本，我相信差别就只有这一个2.5G网口，其它一样。 7DR3630外包装： 易展3.0： 机身和配件 ： 电源输出规格是12V/1A，实测接千兆口联网时的待机功率是4.8W，如果插2.5G网口，这时待机功率是5.8W。 一个2.5G...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕RT-BE88U WiFi7路由器上市预售1999元，红蜘蛛卖谁去？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/27094.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[WIN系统支持归支持呀，无线网卡驱动还没有着落。更新说明的原文链接： https://blogs.windows.com/windows-insider/2024/02/22/announcing-windows-11-insider-preview-build-26063-ca...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小米BE3600无线路由器拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/26827.html</id>
-        <link href="https://www.acwifi.net/26827.html"/>
-        <updated>2024-02-23T17:34:19.224Z</updated>
-        <content type="html"><![CDATA[小米BE3600的包装盒： 单2.5G网口版本： 机身和配件： 电源输出规格是DC 12V/1.5A，我心想，就这2x2MIMO的，不需要1.5A吧。一测待机功率7W，如果接2.5G网口，待机功率8.2W。 四根天线是固定不能动，性远点壳的组成部分，正因如此，外壳拆开所需要的时间...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         园子周边第2季：更大的鼠标垫，没有logo的鼠标垫 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/03</id>
@@ -97,13 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.18-3.24） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[达摩院中试比高：欢迎参加2024阿里巴巴全球数学竞赛（AI可参赛） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/03</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/03"/>
         <updated>2024-03-04T06:05:03.696Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18094048">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18101414">
 摘要：        
-热点随笔： ·&nbsp;京东大佬问我：下单后30分钟未支付，自动取消有什么设计方案么？&nbsp;(帝莘)·&nbsp;园子的新版 favicon，您觉得哪款更好看&nbsp;(博客园团队)·&nbsp;Garnet: 力压Redis的C#高性能分布式存储数据库&nbsp;(InCerry)·&nbsp;没想到三天10KStar的营销利器MediaCrawler开源    <a href="https://www.cnblogs.com/cmt/p/18094048" class="c_b_p_desc_readmore">阅读全文</a>
+现在园子的收入来源除了会员与周边，也在做一些高品质广告，今天这个来自阿里达摩院的广告就是我们很想做的高品质广告，上一个高品质广告是通义灵码，也是来自阿里达摩院。 自从被百度全面降权并几乎停止收录后，园子损失了巨大的百度搜索流量，虽然损失惨重，但也带来一个“副作用”，访问园子的用户质量更高了。 阿里达    <a href="https://www.cnblogs.com/cmt/p/18101414" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
