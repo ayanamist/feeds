@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-04-05T05:34:02.739Z</updated>
+    <updated>2024-04-05T17:34:19.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中兴问天BE7200Pro+ 的小包转发率测试]]></title>
+        <id>https://www.acwifi.net/27214.html</id>
+        <link href="https://www.acwifi.net/27214.html"/>
+        <updated>2024-04-05T17:34:10.061Z</updated>
+        <content type="html"><![CDATA[中兴问天BE7200Pro+的拆机文章在这里： 中兴（ZTE）问天BE7200Pro+ 拆机评测 它的CPU型号是ZX279133 这颗芯片的资料能查到的非常少，只知道是双核A53，集成了8核64线程的NPU（京东商品详情页里说明的：8核64线程ZHT独立加速引擎）。 本次测试用...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米BE6500 Pro拆机]]></title>
         <id>https://www.acwifi.net/27123.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/26950.html"/>
         <updated>2024-03-01T17:40:16.964Z</updated>
         <content type="html"><![CDATA[今天把固件升级到了1.1.16，这是最新版本固件，不是昨天就是今天刚推送的吧。测试的终端，，我只有这台小米13 Pro能支持了。无线网卡到目前，即使配合win11 24H2也没办法用上。 （小米BE7000要开启MLO一定要先切换三频模式。） 我之前说过MLO要WPA3才行，原来...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-2420PB交换机拆机]]></title>
-        <id>https://www.acwifi.net/26891.html</id>
-        <link href="https://www.acwifi.net/26891.html"/>
-        <updated>2024-02-28T17:34:00.986Z</updated>
-        <content type="html"><![CDATA[这台交换机单手拿不起来，拆到我身水身汗。重，很重，非常重！5.5KG。 TP-LINK TL-2420PB的外包装盒也很大： 取向机身和配件： 耳朵那么短小，机身就必然很大。 机身一侧有两个散热风扇： 交换机正面： 2.5G网口一共有16个，10G SFP+ 一共有4个。端口数量...]]></content>
     </entry>
 </feed>
