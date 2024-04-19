@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-04-19T05:35:28.520Z</updated>
+    <updated>2024-04-19T17:34:11.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[京东云无线宝BE6500路由器拆机评测，最便宜的双5G MLO]]></title>
+        <id>https://www.acwifi.net/27270.html</id>
+        <link href="https://www.acwifi.net/27270.html"/>
+        <updated>2024-04-19T17:34:01.784Z</updated>
+        <content type="html"><![CDATA[京东云无线宝路由器BE6500，它可以双频也可以切换成三频，切换成三频后可以支持双5G MLO了，从目前549元的价格来看，是最便宜的三频Wi-Fi 7 路由器了。主要看看硬件和无线性能如何。 一、折机 外包装： 天线可折叠，所以外包装箱可以做得紧凑一些。 机身和配件： 电源输出...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TL-AC100 V4.0升级固件支持Wi-Fi 7 AP]]></title>
         <id>https://www.acwifi.net/27265.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27039.html"/>
         <updated>2024-03-11T17:34:05.153Z</updated>
         <content type="html"><![CDATA[TP-LINK出了一款四个2.5G网口的BE5100无线路由器，型号是7DR5160。 看描述应该是联发科的芯片方案。 &nbsp; 预售价格369元。从目前来看，的确是最便宜的四口2.5G的Wi-Fi 7路由器。 7DR5160京东预定链接 若有任何疑问可在公众号（acwifi...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-R5408PB-AC拆机路由器、PoE、AC一体机]]></title>
-        <id>https://www.acwifi.net/26992.html</id>
-        <link href="https://www.acwifi.net/26992.html"/>
-        <updated>2024-03-06T17:34:34.853Z</updated>
-        <content type="html"><![CDATA[TL-R5408PB-AC的外包装： 从外包装箱好难看出什么型号，除非仔细看外包装上的标签。等于是通用的包装箱，不同的尺寸包装不同的机身。 机身和配件： 机身正面： 1至4号网口是千兆，5至8号网口支持2.5G，八个网口均可支持802.3bt，单口最大功率90W。WAN口可以随便...]]></content>
     </entry>
 </feed>
