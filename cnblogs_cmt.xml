@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-04-21T17:33:59.071Z</updated>
+    <updated>2024-04-22T05:34:09.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博客园商业化之路-商业模式：帮助开发者用代码改变口袋]]></title>
+        <title type="html"><![CDATA[上周热点回顾（4.15-4.21）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/04</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/04"/>
         <updated>2024-04-12T17:35:11.312Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18148611">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18150234">
 摘要：        
-二十年来，由于一直没有找到商业模式，园子不是长大的，是亏大的，漫漫二十年只有3年左右是挣钱的，其他时间都是亏；这二十年，园子不是发展起来的，是挣扎起来的，经历了好几次起死回生。 在熬过三年危机后，现在到了不找到商业模式就活不下的穷困潦倒地步，之前在商业化上碌碌无为现在到了无路可退。 去年我们尝试了付    <a href="https://www.cnblogs.com/cmt/p/18148611" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;博客园商业化之路-开篇：开源的脚步，商业化的出路&nbsp;(博客园团队)·&nbsp;经过腾讯云这波故障，我想表扬的点和学到的职场保命法则。&nbsp;(why技术)·&nbsp;一周涨 15k Star 的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;面试官：为什么忘记密码要重置而不是告诉你原密码？&nbsp;(JavaGu    <a href="https://www.cnblogs.com/cmt/p/18150234" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
