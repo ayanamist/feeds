@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-04-22T05:34:09.474Z</updated>
+    <updated>2024-04-22T17:33:55.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中兴（ZTE）巡天BE5100上市预售]]></title>
+        <id>https://www.acwifi.net/27402.html</id>
+        <link href="https://www.acwifi.net/27402.html"/>
+        <updated>2024-04-22T17:33:45.533Z</updated>
+        <content type="html"><![CDATA[中兴巡天BE5100，上市的是全千兆版本，预售价格是229元，BE5100就是2.4G 2x2MIMO 、5G 3x3MIMO。意思是，中兴的Wi-Fi 7 产品，直接跳过了BE3600。 10核里面有8核是NPU，CPU就是双核了。估计是中兴BE7200Pro+的那个CPU，这...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京东云无线宝BE6500路由器拆机评测，最便宜的双5G MLO]]></title>
         <id>https://www.acwifi.net/27270.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27044.html"/>
         <updated>2024-03-25T17:34:02.639Z</updated>
         <content type="html"><![CDATA[TL-2420PB主要发热来源是53.5V/9.5A这个电源模块，当受电设备很少时，发热量少，自然就不必需要用到较高的风扇转速。如果你是放机房使用的，不必改风扇。拆机会损失保修，三思。 拆机文章：TP-LINK TL-2420PB交换机拆机 材料是一片2、3线温控小板子和一根三线...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最便宜的四口2.5G Wi-Fi 7 无线路由器 7DR5160上市预售]]></title>
-        <id>https://www.acwifi.net/27039.html</id>
-        <link href="https://www.acwifi.net/27039.html"/>
-        <updated>2024-03-11T17:34:05.153Z</updated>
-        <content type="html"><![CDATA[TP-LINK出了一款四个2.5G网口的BE5100无线路由器，型号是7DR5160。 看描述应该是联发科的芯片方案。 &nbsp; 预售价格369元。从目前来看，的确是最便宜的四口2.5G的Wi-Fi 7路由器。 7DR5160京东预定链接 若有任何疑问可在公众号（acwifi...]]></content>
     </entry>
 </feed>
