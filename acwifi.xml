@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-05-03T05:34:17.445Z</updated>
+    <updated>2024-05-03T17:34:25.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕TUF BE6500没有无线硬件加速？？无线测速时CPU最高占用98%]]></title>
+        <id>https://www.acwifi.net/27462.html</id>
+        <link href="https://www.acwifi.net/27462.html"/>
+        <updated>2024-05-03T17:34:15.126Z</updated>
+        <content type="html"><![CDATA[我是不懂技术的，所以发上来让大家看看是什么原因。下图是我用手机连接5G Wi-Fi 进行测速时的后台截图。从下图可以清楚看见，最高CPU占用的Core3达到了98%，Core1这到62%，最低的Core2达到了41%。&nbsp; 如果依照有些人的想法，这台华硕BE6500是不是没有无线硬...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴F7607P、G7615、G7615v2、F7615TV3、F7015TV3的功耗对比]]></title>
         <id>https://www.acwifi.net/27440.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27123.html"/>
         <updated>2024-03-31T17:33:55.855Z</updated>
         <content type="html"><![CDATA[小米路由器BE6500 Pro的外包装： 机身和配件 ： 电源输出规格是12V/2A，实测接一个2.5G网口联网后的待机功率是9.1W。 机身体积比图片中的要大，很大。 机身底部比较重，散热器在下方，高耸的机身摆放在台面上，也不至于容易倒。天线在机身上半部，无线覆盖 是一寸高一寸...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK BE3600 7DR3630 拆机]]></title>
-        <id>https://www.acwifi.net/27079.html</id>
-        <link href="https://www.acwifi.net/27079.html"/>
-        <updated>2024-03-28T17:34:17.930Z</updated>
-        <content type="html"><![CDATA[7DR3630是7DR3610的单2.5G网口版本，我相信差别就只有这一个2.5G网口，其它一样。 7DR3630外包装： 易展3.0： 机身和配件 ： 电源输出规格是12V/1A，实测接千兆口联网时的待机功率是4.8W，如果插2.5G网口，这时待机功率是5.8W。 一个2.5G...]]></content>
     </entry>
 </feed>
