@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-05-07T05:34:37.445Z</updated>
+    <updated>2024-05-07T17:34:08.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.29-5.5）]]></title>
+        <title type="html"><![CDATA[博客园商业化之路-众包平台：从第一单看基于「开发任务」的定位]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
         <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18174446">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18176385">
 摘要：        
-热点随笔： ·&nbsp;博客园商业化之路-开发任务众包平台：召集早期合作开发者&nbsp;(博客园团队)·&nbsp;一个开源轻量级的C#代码格式化工具（支持VS和VS Code）&nbsp;(追逐时光者)·&nbsp;.NET开源、功能强大、跨平台的图表库 - LiveCharts2&nbsp;(追逐时光者)·&nbsp;微软开源 MS-DOS「GitHub 热点    <a href="https://www.cnblogs.com/cmt/p/18174446" class="c_b_p_desc_readmore">阅读全文</a>
+虽然我们一再强调我们做的是「开发任务」众包平台，还是被不少人误解为「项目」众包平台，正好我们遇到的第一单就是一个典型案例，简单发篇博文分享一下。 4月29日我们开始召集众包平台的早期合作开发者，先以手动挡方式（微信+GitLab）验证基于「开发任务」的众包模式。 在召集博文中顺带加了个小广告： 如果    <a href="https://www.cnblogs.com/cmt/p/18176385" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
