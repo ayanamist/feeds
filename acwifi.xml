@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-05-08T17:34:13.144Z</updated>
+    <updated>2024-05-09T05:34:16.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米路由器BE5000上市预售单2.5G 发哥279元]]></title>
+        <id>https://www.acwifi.net/27479.html</id>
+        <link href="https://www.acwifi.net/27479.html"/>
+        <updated>2024-05-09T05:34:05.748Z</updated>
+        <content type="html"><![CDATA[我把重点都写在标题里了。BE5000和BE5100都是一鬼样的无线规格，区别在于怎么取整：四舍五入呢 四舍吾入。都是用联发科的无线方案。 小米BE5000用的外壳就是拆到手指都废了的与小米BE3600同款的外壳，白色的外壳，跟家居比较协调，就怕时间长了，发黄，真到发黄的时候，也该...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕TUF BE6500没有无线硬件加速？？无线测速时CPU最高占用98%]]></title>
         <id>https://www.acwifi.net/27462.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27214.html"/>
         <updated>2024-04-05T17:34:10.061Z</updated>
         <content type="html"><![CDATA[中兴问天BE7200Pro+的拆机文章在这里： 中兴（ZTE）问天BE7200Pro+ 拆机评测 它的CPU型号是ZX279133 这颗芯片的资料能查到的非常少，只知道是双核A53，集成了8核64线程的NPU（京东商品详情页里说明的：8核64线程ZHT独立加速引擎）。 本次测试用...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米BE6500 Pro拆机]]></title>
-        <id>https://www.acwifi.net/27123.html</id>
-        <link href="https://www.acwifi.net/27123.html"/>
-        <updated>2024-03-31T17:33:55.855Z</updated>
-        <content type="html"><![CDATA[小米路由器BE6500 Pro的外包装： 机身和配件 ： 电源输出规格是12V/2A，实测接一个2.5G网口联网后的待机功率是9.1W。 机身体积比图片中的要大，很大。 机身底部比较重，散热器在下方，高耸的机身摆放在台面上，也不至于容易倒。天线在机身上半部，无线覆盖 是一寸高一寸...]]></content>
     </entry>
 </feed>
