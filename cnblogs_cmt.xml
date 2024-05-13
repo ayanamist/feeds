@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-05-12T17:35:19.247Z</updated>
+    <updated>2024-05-13T05:36:16.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博客园商业化之路-众包平台：偶遇外包项目需求]]></title>
+        <title type="html"><![CDATA[上周热点回顾（5.6-5.12）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
         <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18187097">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18188757">
 摘要：        
-我们目前正在以众包平台的商业模式进行融资，在拿到融资之前，先以微信群 + GitLab 的原始方式运营筹建中的众包平台，目前在召集合作开发者，当前已召集到400多位开发者，在召集开发者的过程中就遇到了一些众包需求。 园子的众包平台定位于开发任务的众包，平台分发给开发者的是具体明确的开发任务。如果是一    <a href="https://www.cnblogs.com/cmt/p/18187097" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务&nbsp;(博客园团队)·&nbsp;C#.NET体系图文概述—2024最全总结&nbsp;(安木夕)·&nbsp;博客园商业化之路-众包平台：从第一单看基于「开发任务」的定位&nbsp;(博客园团队)·&nbsp;C#/.NET/.NET Core优秀项目和框架2024年4    <a href="https://www.cnblogs.com/cmt/p/18188757" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -33,7 +33,7 @@
         <updated>2024-04-12T17:35:11.312Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18165432">
 摘要：        
-园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5月8日已召集307人 截止5月9日已召集352人 截止5月10日已召集373人 截止5月11日已召集410人 园子的商业化进入关键阶段，最近在    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
+园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5月8日已召集307人 截止5月9日已召集352人 截止5月10日已召集373人 截止5月11日已召集410人 截止5月12日已召集427人 园    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
