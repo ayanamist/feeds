@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-05-15T05:34:28.199Z</updated>
+    <updated>2024-05-15T17:35:16.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -17,13 +17,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.6-5.12）]]></title>
+        <title type="html"><![CDATA[博客园商业化之路-众包平台：500位驭码好汉，等你来发单挑战]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
         <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18188757">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18188542">
 摘要：        
-热点随笔： ·&nbsp;博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务&nbsp;(博客园团队)·&nbsp;C#.NET体系图文概述—2024最全总结&nbsp;(安木夕)·&nbsp;博客园商业化之路-众包平台：从第一单看基于「开发任务」的定位&nbsp;(博客园团队)·&nbsp;C#/.NET/.NET Core优秀项目和框架2024年4    <a href="https://www.cnblogs.com/cmt/p/18188757" class="c_b_p_desc_readmore">阅读全文</a>
+众包平台是我们今年5月开始 all in 的商业模式，是园子商业化的突破口，目前一边在融资，一边在召集早期合作开发者。 今天完成了第一个里程碑——召集到500位早期合作开发者，正好一群（微信群）人。 这次召集结果远超我们的预期，召集到一群码场经验很丰富的开发者，绝大多数有多年工作经验，超过十年工作经    <a href="https://www.cnblogs.com/cmt/p/18188542" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -33,7 +33,7 @@
         <updated>2024-04-12T17:35:11.312Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18165432">
 摘要：        
-园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5月8日已召集307人 截止5月9日已召集352人 截止5月10日已召集373人 截止5月11日已召集410人 截止5月12日已召集427人 截    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
+第一批合作开发者召集已结束，现在只能先成为预备合作开发者，详见 https://www.cnblogs.com/cmt/p/18188542 园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>

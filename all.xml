@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-15T05:34:28.185Z</updated>
+    <updated>2024-05-15T17:35:16.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK BE7200 7DR7260上市预售599元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/27585.html</id>
+        <link href="https://www.acwifi.net/27585.html"/>
+        <updated>2024-05-15T17:35:06.145Z</updated>
+        <content type="html"><![CDATA[TP-LINK的7DR7260是双频4x4MIMO，相对Wi-Fi 6的AX6000提升1.2倍总速率，也就是BE7200。外壳仍旧使用之前的轻舟系列： 一共有五个2.5G网口，没有USB接口。 没有外置的FEM，都是射频芯片里面集成的，由于5G是支持5T5R（联发科的特色），所...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米路由器BE5000上市预售单2.5G 发哥279元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/27479.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[TP-LINK 7TR13090的外包装箱： 机身和配件： 电源输出规格是12V/5A，实测插一个2.5G联网后的待机功率是16W，插两上10G网口时的功率是19.4W，只插一个10G网口时的功率17.3W，插满四个2.5G和两个10G网口时，功率23.8W。所以配了这个12V/...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中兴问天BE7200Pro+ 的小包转发率测试 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/27214.html</id>
-        <link href="https://www.acwifi.net/27214.html"/>
-        <updated>2024-04-05T17:34:10.061Z</updated>
-        <content type="html"><![CDATA[中兴问天BE7200Pro+的拆机文章在这里： 中兴（ZTE）问天BE7200Pro+ 拆机评测 它的CPU型号是ZX279133 这颗芯片的资料能查到的非常少，只知道是双核A53，集成了8核64线程的NPU（京东商品详情页里说明的：8核64线程ZHT独立加速引擎）。 本次测试用...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
@@ -86,13 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.6-5.12） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[博客园商业化之路-众包平台：500位驭码好汉，等你来发单挑战 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
         <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18188757">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18188542">
 摘要：        
-热点随笔： ·&nbsp;博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务&nbsp;(博客园团队)·&nbsp;C#.NET体系图文概述—2024最全总结&nbsp;(安木夕)·&nbsp;博客园商业化之路-众包平台：从第一单看基于「开发任务」的定位&nbsp;(博客园团队)·&nbsp;C#/.NET/.NET Core优秀项目和框架2024年4    <a href="https://www.cnblogs.com/cmt/p/18188757" class="c_b_p_desc_readmore">阅读全文</a>
+众包平台是我们今年5月开始 all in 的商业模式，是园子商业化的突破口，目前一边在融资，一边在召集早期合作开发者。 今天完成了第一个里程碑——召集到500位早期合作开发者，正好一群（微信群）人。 这次召集结果远超我们的预期，召集到一群码场经验很丰富的开发者，绝大多数有多年工作经验，超过十年工作经    <a href="https://www.cnblogs.com/cmt/p/18188542" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -102,7 +102,7 @@
         <updated>2024-04-12T17:35:11.312Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18165432">
 摘要：        
-园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5月8日已召集307人 截止5月9日已召集352人 截止5月10日已召集373人 截止5月11日已召集410人 截止5月12日已召集427人 截    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
+第一批合作开发者召集已结束，现在只能先成为预备合作开发者，详见 https://www.cnblogs.com/cmt/p/18188542 园子正在以众包平台为商业模式进行融资，详见博文 博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 第一批合作开发者计划召集500人： 截止5    <a href="https://www.cnblogs.com/cmt/p/18165432" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
