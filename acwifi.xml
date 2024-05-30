@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-05-30T05:34:17.667Z</updated>
+    <updated>2024-05-30T17:34:21.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FiberHome烽火5G CPE Pro Wi-Fi 7 BE7200上市预售]]></title>
+        <id>https://www.acwifi.net/27690.html</id>
+        <link href="https://www.acwifi.net/27690.html"/>
+        <updated>2024-05-30T17:34:11.864Z</updated>
+        <content type="html"><![CDATA[烽火刚上市一款新的5G CPE，无线配置方面，给了BE7200 Wi-Fi 7，直接把无线Wi-Fi 拉满了。 有外置FEM芯片： 接口方面，有2个2.5G网口： 四核SOC芯片用的4nm制程，猜不出用的哪颗。 2GB内存和4GB闪存： 重点来了，支持载波聚合，即“把不同物理层的...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[京东618大红包领取攻略]]></title>
         <id>https://www.acwifi.net/27683.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27440.html"/>
         <updated>2024-04-30T05:34:26.585Z</updated>
         <content type="html"><![CDATA[先来个全家福： 这五款2.5G光猫，可算是中兴2.5G光猫产品的发展历程了。最初的版本是F7607P，由于时间关系，用于FTTR组网用的下行光，用了外插PON模块的方式，OLT芯片用了FPGA，这两个方面，可以缩短从研到成口上市的时间。后来的G7615，把下行光模块内置了，且把无...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锐捷路由器BE72Pro上市预售,首款MTK双频4×4 Wi-Fi 7]]></title>
-        <id>https://www.acwifi.net/27430.html</id>
-        <link href="https://www.acwifi.net/27430.html"/>
-        <updated>2024-04-26T17:33:42.364Z</updated>
-        <content type="html"><![CDATA[锐捷路由器BE72Pro的特别是网口好鬼多。一共有5个2.5G网口，还有4个千兆网口。一共9个网口，问你怕未。在千元区间里面，它现时最多网口了。虽然现在的2.5G交换机便到冇人有，“5+1”也不到150元，但能省一百多也不错。 还有USB3.0接口，据说速度有250M/s，不知这...]]></content>
     </entry>
 </feed>
