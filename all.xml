@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-06T05:35:20.482Z</updated>
+    <updated>2024-06-06T17:35:04.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK家用产品和企业产品的易展版本号查询库 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/27773.html</id>
+        <link href="https://www.acwifi.net/27773.html"/>
+        <updated>2024-06-06T17:34:56.532Z</updated>
+        <content type="html"><![CDATA[不久前我说过：易展2.0和3.0的家用无线路由器可以被一体机和AC100接入控制。即可以单控制每台子路同睥无线参数，如果无线路由器用易展组网，子路由是不能被单独设置参数的。然后有不少人来咨询哪里可以查看，其实商品页里都会说明易展版本。不过现在更方便&nbsp;了，刚刚发现在前天，TP-LI...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米2.5G交换机上市预售 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/27700.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/27479.html"/>
         <updated>2024-05-09T05:34:05.748Z</updated>
         <content type="html"><![CDATA[我把重点都写在标题里了。BE5000和BE5100都是一鬼样的无线规格，区别在于怎么取整：四舍五入呢 四舍吾入。都是用联发科的无线方案。 小米BE5000用的外壳就是拆到手指都废了的与小米BE3600同款的外壳，白色的外壳，跟家居比较协调，就怕时间长了，发黄，真到发黄的时候，也该...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕TUF BE6500没有无线硬件加速？？无线测速时CPU最高占用98% (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/27462.html</id>
-        <link href="https://www.acwifi.net/27462.html"/>
-        <updated>2024-05-03T17:34:15.126Z</updated>
-        <content type="html"><![CDATA[我是不懂技术的，所以发上来让大家看看是什么原因。下图是我用手机连接5G Wi-Fi 进行测速时的后台截图。从下图可以清楚看见，最高CPU占用的Core3达到了98%，Core1这到62%，最低的Core2达到了41%。&nbsp; 如果依照有些人的想法，这台华硕BE6500是不是没有无线硬...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
