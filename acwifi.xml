@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-06-11T17:35:52.415Z</updated>
+    <updated>2024-06-12T05:35:22.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[三款100多元的10G电口模块哪款温度最低？]]></title>
+        <id>https://www.acwifi.net/27839.html</id>
+        <link href="https://www.acwifi.net/27839.html"/>
+        <updated>2024-06-12T05:35:12.243Z</updated>
+        <content type="html"><![CDATA[10G电口模块是没有低温的。我最近又买了三支10G电口模块。都是PDD买的，价格150元左右，不同芯片有不同的温度，也有不同的价格。 （测温度都是把模块插到爱快3009交换机，然后插上网线连接电脑网卡X550，协商10G，5分钟后马上拨出测温。） 以下三款都插在爱快3009和水星...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴巡天BE5100Pro+拆机评测 最便宜的双2.5G口Wi-Fi 7]]></title>
         <id>https://www.acwifi.net/27614.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27580.html"/>
         <updated>2024-05-19T05:34:13.188Z</updated>
         <content type="html"><![CDATA[上次发一篇华硕TUF BE6500在无线测速时四核CPU占用都很高，这次重测了，且再买来华硕TUF BE3600和之前买的天选AX6000一起测试看看CPU占用率有啥不同。 之前测的TUF BE6500在京东小哥送来之后开箱，更新固件，然后直接测了， 这次直接恢复出厂设置，其它2...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK 7DR7230新品预售499元，最便宜的双频BE7200 WiFi7]]></title>
-        <id>https://www.acwifi.net/27591.html</id>
-        <link href="https://www.acwifi.net/27591.html"/>
-        <updated>2024-05-16T17:36:12.793Z</updated>
-        <content type="html"><![CDATA[昨天走漏眼了，不知道还有这款单2.5G网口的7DR7230，与全2.5G网口的7DR7260相差100元，这款预售价格为499元。 外观跟7DR7260是一模一样的。也是没有USB口，也是内置的9颗FEM。一个2.5G网口，四个千兆网口： &nbsp; 单2.5G网口的双频BE7...]]></content>
     </entry>
 </feed>
