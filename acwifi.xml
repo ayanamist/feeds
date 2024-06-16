@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-06-16T05:36:07.750Z</updated>
+    <updated>2024-06-16T17:34:14.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[最新 2024年上半年无线路由器选购攻略，先吹一下Wi-Fi 7的水]]></title>
+        <id>https://www.acwifi.net/27983.html</id>
+        <link href="https://www.acwifi.net/27983.html"/>
+        <updated>2024-06-16T17:34:04.441Z</updated>
+        <content type="html"><![CDATA[一、前言有些详 由于6GHz没有开放给Wi-Fi 使用，失望的不只是我们消费者，还有厂家，少了好多新品来眼引消费者。没有320MHz频宽的支持，使得Wi-Fi 7 所带来的速度相对于Wi-Fi 6 来说，提升是不痛不痒的，因此消费者就没有更新换代的冲动。（本文内容也抛开了6GHz...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FiberHome烽火5G CPE Pro拆机评测 Wi-Fi 7 BE7200]]></title>
         <id>https://www.acwifi.net/27845.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27641.html"/>
         <updated>2024-05-27T17:34:01.818Z</updated>
         <content type="html"><![CDATA[R5005P-AC的外包装： 机身和配件 ： R5005P-AC为啥型号后面不带E呢？因为带E的是另一个版本R5005PE-AC，差别在于这个PoE电源额定输出功率，即机身没差别，差别在电源。 R5005P-AC的电源输出规格是56.5V/1.22A，POE总功率是50W。如果用...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK的烟灰缸上市 BE3650和BE5150]]></title>
-        <id>https://www.acwifi.net/27607.html</id>
-        <link href="https://www.acwifi.net/27607.html"/>
-        <updated>2024-05-20T17:33:57.810Z</updated>
-        <content type="html"><![CDATA[BE3650和BE5650都是同个外壳： &nbsp; BE3650和BE5150都是一个2.5G口+两个千兆口。 都有这些功能： BE3650是BE3600的无线规格，BE5150是BE5100的无线规格。两者的2.4G无线是一样的，两者的5G射频均是3T3R，差别在5G无线基...]]></content>
     </entry>
 </feed>
