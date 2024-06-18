@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-18T05:36:08.481Z</updated>
+    <updated>2024-06-18T17:36:08.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[最新 2024年上半年无线路由器选购攻略，先吹一下Wi-Fi 7的水 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -86,23 +86,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.10-6.16） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[希望六月：参加阿里云 PolarDB 与「AI函数计算」动手活动，送博客园T恤 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/06"/>
         <updated>2024-06-02T05:34:21.421Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18253869">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18247621">
 摘要：        
-热点随笔： ·&nbsp;「指间灵动，快码加编」：阿里云通义灵码，再次降临博客园&nbsp;(博客园团队)·&nbsp;老生常谈！程序员为什么要阅读源代码？&nbsp;(Yxh_blogs)·&nbsp;千万级流量冲击下，如何保证极致性能&nbsp;(Hello-Brand)·&nbsp;面试官：你讲下接口防重放如何处理？&nbsp;(程序员博博)·&nbsp;C#开发的目录图标更改器     <a href="https://www.cnblogs.com/cmt/p/18253869" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.20-5.26） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
-        <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18215321">
-摘要：        
-热点随笔： ·&nbsp;开源低代码框架 ReZero API 正式版本发布 ，界面操作直接生成API&nbsp;(阿妮亚)·&nbsp;【阿里云X博客园】参与征文赢面试绿通资格！还有特别福利哦！&nbsp;(博客园团队)·&nbsp;聊聊一个差点被放弃的项目以及近期的开源计划&nbsp;(程序设计实验室)·&nbsp;OpenAI“杀疯了”，GPT–4o模型保姆级使    <a href="https://www.cnblogs.com/cmt/p/18215321" class="c_b_p_desc_readmore">阅读全文</a>
+今年六月是园子与阿里云的推广合作季，同时有好几个推广项目在合作，比如： 阿里云开发者社区有奖征文活动，期待您出文相助 「指间灵动，快码加编」：阿里云通义灵码，再次降临博客园 阿里云618创新加速季，5亿补贴享不停，上云礼包抢先领 再加上今天发布的 PolarDB 与 AI函数计算 动手活动，还有一个    <a href="https://www.cnblogs.com/cmt/p/18247621" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
