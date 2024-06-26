@@ -2,28 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-06-26T05:34:56.927Z</updated>
+    <updated>2024-06-26T17:34:36.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[置顶]
-        「废话少说，放码过来」：博客园2024夏季T恤上架预售]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
-        <updated>2024-05-06T05:34:38.822Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18219378">
-摘要：        
-周边网站：https://cnblogs.vip/store T恤是今年园子周边的重头戏，经过三版设计（1，2，3），差点没戏，还好我们没有放弃，回归最初的设计，终于上架等穿上它的你。 在第三版设计预览发布之后，我们开始打样看实物效果，收到样品后，我们被星星的可爱惊呆了，比设计图中还要可爱的多，穿上    <a href="https://www.cnblogs.com/cmt/p/18219378" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.17-6.23）]]></title>
+        <title type="html"><![CDATA[一码胜千言，博园Polo衫，上架预售啦]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/06"/>
         <updated>2024-06-02T05:34:21.421Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18264504">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18269272">
 摘要：        
-热点随笔： ·&nbsp;博客园众包平台：50w+驱动开发大单，全园找人接单&nbsp;(博客园团队)·&nbsp;开源的网络瑞士军刀「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;哎，被这个叫做at least once的玩意坑麻了。&nbsp;(why技术)·&nbsp;希望六月：参加阿里云 PolarDB 与「函数计算」动手活动，送博客园T恤&nbsp;(博    <a href="https://www.cnblogs.com/cmt/p/18264504" class="c_b_p_desc_readmore">阅读全文</a>
+在5月30日博客园T恤上架后，考虑到有些园友上班不能穿T恤，我们将周边下一站锁定在 polo 衫。 锁定容易设计难，polo 衫容不得半点复杂的设计，我们没有想到更好的创意，于是偷懒地沿用T恤的设计，去掉「废话少说」(TALK IS CHEAP)，删掉「放码过来」(Show me the code.    <a href="https://www.cnblogs.com/cmt/p/18269272" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
