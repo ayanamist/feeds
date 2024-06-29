@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-06-28T17:34:51.589Z</updated>
+    <updated>2024-06-29T05:38:01.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[水星SE106拆机2.5G交换机“5+1 “]]></title>
+        <id>https://www.acwifi.net/28090.html</id>
+        <link href="https://www.acwifi.net/28090.html"/>
+        <updated>2024-06-29T05:37:51.897Z</updated>
+        <content type="html"><![CDATA[近排都是拆2.5G交换机了。（小米“万兆交换机”已经在京东下单，但状态是采购中） 水星SE106外包装如下： 外包装上的产品标签： 由于这台交换机买来有半年了吧，用了一段时间。外壳有点划花，四个脚垫也粘了上去用。所以下图配件是看不见有脚垫。 电源输出规格是12V/1.5A，比较厚...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[磊科GS10 拆机”8+2“ 八个2.5G网口+两个10G SFP不是螃蟹芯片]]></title>
         <id>https://www.acwifi.net/28054.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27773.html"/>
         <updated>2024-06-06T17:34:56.532Z</updated>
         <content type="html"><![CDATA[不久前我说过：易展2.0和3.0的家用无线路由器可以被一体机和AC100接入控制。即可以单控制每台子路同睥无线参数，如果无线路由器用易展组网，子路由是不能被单独设置参数的。然后有不少人来咨询哪里可以查看，其实商品页里都会说明易展版本。不过现在更方便&nbsp;了，刚刚发现在前天，TP-LI...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米2.5G交换机上市预售]]></title>
-        <id>https://www.acwifi.net/27700.html</id>
-        <link href="https://www.acwifi.net/27700.html"/>
-        <updated>2024-05-31T17:34:45.460Z</updated>
-        <content type="html"><![CDATA[你要叫小米万兆交换机也行，反正我是不是会这么叫的。它只是2.5G交换机。外观是好看的，但可惜是塑料外壳。 四个2.5G网口加上两个10G光口，总的背板带宽是 (2.5×4 + 10 +10 ），双向就是2倍，即60Gbps. 交换机就是单芯片方案，详见acwifi在N久...]]></content>
     </entry>
 </feed>
