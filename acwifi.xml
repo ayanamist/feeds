@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-07-01T05:35:44.190Z</updated>
+    <updated>2024-07-01T17:35:50.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中兴F7615TV3和F7015TV3拆机对比,便宜的2.5G光猫]]></title>
+        <id>https://www.acwifi.net/28124.html</id>
+        <link href="https://www.acwifi.net/28124.html"/>
+        <updated>2024-07-01T17:35:04.288Z</updated>
+        <content type="html"><![CDATA[2024年2.5G光猫已经白菜价了，除了数量特别多的中兴品牌，还有其它的也涌出来上市了。这次把两款光猫一起拆了看看！ 中兴F7615TV3和F7015TV3的外包装如下： 两台机身尺寸比较小，不带无线和下行光的F7015TV3体积更小。 两款光猫跟爱快2.5G交换机放在一起对比尺...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水星SE106拆机2.5G交换机“5+1 “]]></title>
         <id>https://www.acwifi.net/28090.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27799.html"/>
         <updated>2024-06-09T05:34:04.796Z</updated>
         <content type="html"><![CDATA[这台4个2.5G网口加上2个10G光口的交换机型号是S600WP-4GT-2SX-SE，端口配置跟所谓的小米万兆交换机是一模一样的，价格也一样，都是299元。 它和小米也是属于2.5G交换机！ hasivo的2.5G PoE交换机还有个特点：1号端口支持90W供电，即支持802....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK家用产品和企业产品的易展版本号查询库]]></title>
-        <id>https://www.acwifi.net/27773.html</id>
-        <link href="https://www.acwifi.net/27773.html"/>
-        <updated>2024-06-06T17:34:56.532Z</updated>
-        <content type="html"><![CDATA[不久前我说过：易展2.0和3.0的家用无线路由器可以被一体机和AC100接入控制。即可以单控制每台子路同睥无线参数，如果无线路由器用易展组网，子路由是不能被单独设置参数的。然后有不少人来咨询哪里可以查看，其实商品页里都会说明易展版本。不过现在更方便&nbsp;了，刚刚发现在前天，TP-LI...]]></content>
     </entry>
 </feed>
