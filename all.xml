@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-30T17:34:11.534Z</updated>
+    <updated>2024-07-01T05:35:44.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[水星SE106拆机2.5G交换机“5+1 “ (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -73,6 +73,16 @@
         <link href="https://www.acwifi.net/27773.html"/>
         <updated>2024-06-06T17:34:56.532Z</updated>
         <content type="html"><![CDATA[不久前我说过：易展2.0和3.0的家用无线路由器可以被一体机和AC100接入控制。即可以单控制每台子路同睥无线参数，如果无线路由器用易展组网，子路由是不能被单独设置参数的。然后有不少人来咨询哪里可以查看，其实商品页里都会说明易展版本。不过现在更方便&nbsp;了，刚刚发现在前天，TP-LI...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（6.24-6.30） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
+        <updated>2024-07-01T05:35:43.479Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18277633">
+摘要：        
+热点随笔： ·&nbsp;呼吁改正《上海市卫生健康信息技术应用创新白皮书》 C# 被认定为A 组件 的 错误认知&nbsp;(张善友)·&nbsp;CSDN 大规模抓取 GitHub 上的项目到 GitCode，伪造开发者主页引公愤&nbsp;(gt-it)·&nbsp;一码胜千言，博园Polo衫，上架预售啦&nbsp;(博客园团队)·&nbsp;仓颉语言HelloW    <a href="https://www.cnblogs.com/cmt/p/18277633" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一码胜千言，博园Polo衫，上架预售啦 (博客园官方博客)]]></title>
