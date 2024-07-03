@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-03T05:35:51.740Z</updated>
+    <updated>2024-07-03T17:34:41.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米2.5G交换机拆机“万兆交换机“猜到它会用RTL8372但没想到它用了… (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28162.html</id>
+        <link href="https://www.acwifi.net/28162.html"/>
+        <updated>2024-07-03T17:34:31.006Z</updated>
+        <content type="html"><![CDATA[我是不认为它是万兆交换机，所以我会在小米“万兆交换机”当中加个双引号，我只是引用它的商品标题，以下我都统称为小米2.5G交换机。在上市预约的时候我就说过小米2.5G交换机是用了RTL8372单芯片方案，这已经是近年来成熟的廉价的公版方案了。单芯片RTL8372的产品卖299元已经...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴F7615TV3和F7015TV3拆机对比,便宜的2.5G光猫 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28124.html</id>
@@ -68,20 +75,13 @@
         <content type="html"><![CDATA[一、拆机 中兴巡天BE5100Pro+的外包装如下： 中兴BE5100Pro+是双2.5G网口版本： 机身和配件： 附送的网线是6类： 电源输出规格是12发/1.5A，实测接入WAN口联网后的待机功率是5.2W，再插入2.5G网口后待机功率为6W。 外置五根天线的频段布局： 顶身...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[花“小米万兆交换机”的钱就能买到的4+2+POE+网管的hasivo2.5G交换机拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/27799.html</id>
-        <link href="https://www.acwifi.net/27799.html"/>
-        <updated>2024-06-09T05:34:04.796Z</updated>
-        <content type="html"><![CDATA[这台4个2.5G网口加上2个10G光口的交换机型号是S600WP-4GT-2SX-SE，端口配置跟所谓的小米万兆交换机是一模一样的，价格也一样，都是299元。 它和小米也是属于2.5G交换机！ hasivo的2.5G PoE交换机还有个特点：1号端口支持90W供电，即支持802....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.24-6.30） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[炎炎夏日，清凉上线：博客园T恤丝光棉款上架预售 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
         <updated>2024-07-01T05:35:43.479Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18277633">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18281415">
 摘要：        
-热点随笔： ·&nbsp;呼吁改正《上海市卫生健康信息技术应用创新白皮书》 C# 被认定为A 组件 的 错误认知&nbsp;(张善友)·&nbsp;CSDN 大规模抓取 GitHub 上的项目到 GitCode，伪造开发者主页引公愤&nbsp;(gt-it)·&nbsp;一码胜千言，博园Polo衫，上架预售啦&nbsp;(博客园团队)·&nbsp;仓颉语言HelloW    <a href="https://www.cnblogs.com/cmt/p/18277633" class="c_b_p_desc_readmore">阅读全文</a>
+2024年7月开始了，炎炎夏日来了，决定园子命运的季度也到了，多一份努力，多一份收入，就多一份希望。在园子的第二十年，出一些周边，留一点记忆，本身就有一定意义，虽然有人质疑，但我们的确是诚心诚意。    <a href="https://www.cnblogs.com/cmt/p/18281415" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>

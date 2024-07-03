@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-07-03T05:35:51.735Z</updated>
+    <updated>2024-07-03T17:34:41.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米2.5G交换机拆机“万兆交换机“猜到它会用RTL8372但没想到它用了…]]></title>
+        <id>https://www.acwifi.net/28162.html</id>
+        <link href="https://www.acwifi.net/28162.html"/>
+        <updated>2024-07-03T17:34:31.006Z</updated>
+        <content type="html"><![CDATA[我是不认为它是万兆交换机，所以我会在小米“万兆交换机”当中加个双引号，我只是引用它的商品标题，以下我都统称为小米2.5G交换机。在上市预约的时候我就说过小米2.5G交换机是用了RTL8372单芯片方案，这已经是近年来成熟的廉价的公版方案了。单芯片RTL8372的产品卖299元已经...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴F7615TV3和F7015TV3拆机对比,便宜的2.5G光猫]]></title>
         <id>https://www.acwifi.net/28124.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27614.html"/>
         <updated>2024-06-11T05:35:34.800Z</updated>
         <content type="html"><![CDATA[一、拆机 中兴巡天BE5100Pro+的外包装如下： 中兴BE5100Pro+是双2.5G网口版本： 机身和配件： 附送的网线是6类： 电源输出规格是12发/1.5A，实测接入WAN口联网后的待机功率是5.2W，再插入2.5G网口后待机功率为6W。 外置五根天线的频段布局： 顶身...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花“小米万兆交换机”的钱就能买到的4+2+POE+网管的hasivo2.5G交换机拆机]]></title>
-        <id>https://www.acwifi.net/27799.html</id>
-        <link href="https://www.acwifi.net/27799.html"/>
-        <updated>2024-06-09T05:34:04.796Z</updated>
-        <content type="html"><![CDATA[这台4个2.5G网口加上2个10G光口的交换机型号是S600WP-4GT-2SX-SE，端口配置跟所谓的小米万兆交换机是一模一样的，价格也一样，都是299元。 它和小米也是属于2.5G交换机！ hasivo的2.5G PoE交换机还有个特点：1号端口支持90W供电，即支持802....]]></content>
     </entry>
 </feed>
