@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-07-08T05:36:30.173Z</updated>
+    <updated>2024-07-08T17:34:31.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[岭雁YHGGPON41光猫拆机]]></title>
+        <id>https://www.acwifi.net/28238.html</id>
+        <link href="https://www.acwifi.net/28238.html"/>
+        <updated>2024-07-08T17:34:21.840Z</updated>
+        <content type="html"><![CDATA[这是装联通宽带时配送的光猫，简单拆一下。这是千兆口的。放了几个月后，再拿出来用时，已经坏了：光纤指示灯亮红，后来报修，免费换了个中兴的旧猫F607Za。 岭雁YHGGPON41的外包装： 包装盒上的标签信息： 配件： 电源输出规格12V/1A 实测待机功率是2.9W，这款是纯有线...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hasivo海思视讯2.5G交换机拆机S600W-4GT-1SX-1XGT-SE带10G电口和轻网管]]></title>
         <id>https://www.acwifi.net/28206.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/27845.html"/>
         <updated>2024-06-14T17:36:09.674Z</updated>
         <content type="html"><![CDATA[一、拆机 FiberHome烽火5G CPE Pro的外包装如下： 双模全网通丨Wi-Fi 7 BE7200丨2.5G网口丨NFC 一触即连 盒子背面的描述： 取出机身和配件： &nbsp; &nbsp; 机身比较高，高是有原因的，里面的天线有许多。 电源输出规格是12V/2.5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三款100多元的10G电口模块哪款温度最低？]]></title>
-        <id>https://www.acwifi.net/27839.html</id>
-        <link href="https://www.acwifi.net/27839.html"/>
-        <updated>2024-06-12T05:35:12.243Z</updated>
-        <content type="html"><![CDATA[10G电口模块是没有低温的。我最近又买了三支10G电口模块。都是PDD买的，价格150元左右，不同芯片有不同的温度，也有不同的价格。 （测温度都是把模块插到爱快3009交换机，然后插上网线连接电脑网卡X550，协商10G，5分钟后马上拨出测温。） 以下三款都插在爱快3009和水星...]]></content>
     </entry>
 </feed>
