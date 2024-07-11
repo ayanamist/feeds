@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-11T05:37:19.572Z</updated>
+    <updated>2024-07-11T17:35:19.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[烽火HG5382A拆机，又一便宜的带2.5G网口纯有线光猫 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28300.html</id>
+        <link href="https://www.acwifi.net/28300.html"/>
+        <updated>2024-07-11T17:35:11.821Z</updated>
+        <content type="html"><![CDATA[烽火HG5382A是在闲鱼120元收回，带包装，成色很新。 外包装和机身： 配件 ： 电源输出规格是12V/1A： 实测接光纤联网+插2.5G网口时的待机功率是5.2W。比中兴F7015TV3要高1.5W。 烽火HG5382A的机身也比较小巧：（135x92x43mm） 背面接口...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL SE2109交换机拆机云管理交换机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28265.html</id>
@@ -68,20 +75,13 @@
         <content type="html"><![CDATA[一、异地组网 贝锐蒲公英新出了一款X5Pro，对比之前的X5的AX1800无线规格，提升到了AX3000。（下图左边是贝锐蒲公英X5Pro，右边是贝锐蒲公英X5） 贝锐蒲公英X5Pro有一个2.5G网口，可以让无线突破千兆。 下图是2.5G WAN到5G无线的测速： &nbsp;...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最新 2024年上半年无线路由器选购攻略，先吹一下Wi-Fi 7的水 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/27983.html</id>
-        <link href="https://www.acwifi.net/27983.html"/>
-        <updated>2024-06-16T17:34:04.441Z</updated>
-        <content type="html"><![CDATA[一、前言有些详 由于6GHz没有开放给Wi-Fi 使用，失望的不只是我们消费者，还有厂家，少了好多新品来眼引消费者。没有320MHz频宽的支持，使得Wi-Fi 7 所带来的速度相对于Wi-Fi 6 来说，提升是不痛不痒的，因此消费者就没有更新换代的冲动。（本文内容也抛开了6GHz...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痴星不改：博客园T恤星星款设计稿预览 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[面对百度的无期徒刑，幸好还有微软的必应 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
         <updated>2024-07-01T05:35:43.479Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18291047">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18295901">
 摘要：        
-在出第一款博客园T恤时，由于第三版设计的星星款打样出来的实物效果过于可爱，我们做了一个艰难的决定——弃星上码，改为废话少说，放码过来，从而伤了一颗星——园子的闪存幸运星。 在上架后复盘时我们认识到天生可爱不是星星的错，伤星才是大错，于是我们决定将功补过，为星星重新来过，重新设计星星款T恤。 在推倒重    <a href="https://www.cnblogs.com/cmt/p/18291047" class="c_b_p_desc_readmore">阅读全文</a>
+昨天我们通过【i博客园】公众号发布文章 被百度降权的经历：没有百度的日子，是百度给的无期徒刑 时发现，百度不但没有回心转意，反而对园子的处罚更加严厉了，博客主站（www域名）的新发内容一天内0收录。 而在去年9月21日我们完全解除对百度蜘蛛的屏蔽后（详见博文），9月25日那天一天内的百度收录有20页    <a href="https://www.cnblogs.com/cmt/p/18295901" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
