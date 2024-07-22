@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-07-22T05:37:06.079Z</updated>
+    <updated>2024-07-22T17:36:35.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[电信天翼TYFZA1拆机2.5G光猫 它可以变成最便宜的单2.5G AX3000路由器]]></title>
+        <id>https://www.acwifi.net/28425.html</id>
+        <link href="https://www.acwifi.net/28425.html"/>
+        <updated>2024-07-22T17:36:26.385Z</updated>
+        <content type="html"><![CDATA[电信天翼TYFZA1外包装： 机身和配件 ： 电源输出是12V/2A，是的24W的电源，为啥呢？因为它插2.5G口联网后的先机功率有10.4W，所以很有必要给24W的电源。这个功耗值，让我怀疑它是不是跟中兴G7615的硬件一样！ 这款TYFZA1光猫的机身比较大，跟中兴G7615...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[95元包邮的2.5G光猫创维SK-D840N拆机 设置移动版光猫用在联通宽带上]]></title>
         <id>https://www.acwifi.net/28378.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28090.html"/>
         <updated>2024-06-29T05:37:51.897Z</updated>
         <content type="html"><![CDATA[近排都是拆2.5G交换机了。（小米“万兆交换机”已经在京东下单，但状态是采购中） 水星SE106外包装如下： 外包装上的产品标签： 由于这台交换机买来有半年了吧，用了一段时间。外壳有点划花，四个脚垫也粘了上去用。所以下图配件是看不见有脚垫。 电源输出规格是12V/1.5A，比较厚...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[磊科GS10 拆机”8+2“ 八个2.5G网口+两个10G SFP不是螃蟹芯片]]></title>
-        <id>https://www.acwifi.net/28054.html</id>
-        <link href="https://www.acwifi.net/28054.html"/>
-        <updated>2024-06-26T17:34:28.227Z</updated>
-        <content type="html"><![CDATA[好奇这款磊科GS10用的是啥芯片，618时便宜一点就买来了。现在常见的“8+1“会使用RTL8373+RTL8224芯片，由于交换机主控芯片RTL 8373只有两个SERDES，一个接了SFP，另一个接了RTL8224，如果要加多一个10G 光口，就要换更贵的主控了。而磊科GS1...]]></content>
     </entry>
 </feed>
