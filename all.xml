@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-21T17:34:41.192Z</updated>
+    <updated>2024-07-22T05:37:06.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[95元包邮的2.5G光猫创维SK-D840N拆机 设置移动版光猫用在联通宽带上 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -75,13 +75,13 @@
         <content type="html"><![CDATA[好奇这款磊科GS10用的是啥芯片，618时便宜一点就买来了。现在常见的“8+1“会使用RTL8373+RTL8224芯片，由于交换机主控芯片RTL 8373只有两个SERDES，一个接了SFP，另一个接了RTL8224，如果要加多一个10G 光口，就要换更贵的主控了。而磊科GS1...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（7.8-7.14） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[上周热点回顾（7.15-7.21） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
         <updated>2024-07-01T05:35:43.479Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18302699">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18315754">
 摘要：        
-热点随笔： ·&nbsp;面对百度的无期徒刑，幸好还有微软的必应&nbsp;(博客园团队)·&nbsp;一台 3000 元主机装配方案&nbsp;(bringlu)·&nbsp;博客园与vivo首度合作：蓝河技术沙龙招募开启，邀您共探Rust与AI新时代&nbsp;(博客园团队)·&nbsp;GitHub 创始人资助的开源浏览器「GitHub 热点速览」&nbsp;(削微寒)·    <a href="https://www.cnblogs.com/cmt/p/18302699" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;求救信：救下园子，保住这块开发者的天地&nbsp;(博客园团队)·&nbsp;给博客园的寄语&nbsp;(☆№忧忧★♂)·&nbsp;36岁，大龄剩男，2024上半年总结......&nbsp;(久曲健)·&nbsp;我不应该用JWT的！&nbsp;(sum墨)·&nbsp;线程池遇到父子任务，有大坑，要注意！&nbsp;(why技术)·&nbsp;架构与思维：微服务架构的思想本质    <a href="https://www.cnblogs.com/cmt/p/18315754" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
