@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-26T05:36:53.703Z</updated>
+    <updated>2024-07-26T17:35:13.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[烽火HG3142F拆机 CPU和无线芯片都是博通的？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28502.html</id>
+        <link href="https://www.acwifi.net/28502.html"/>
+        <updated>2024-07-26T17:35:03.486Z</updated>
+        <content type="html"><![CDATA[闲鱼花150元收了一这套烽火的FTTR光猫，除了主光猫HG3142F带2.5G网口外，它的子光猫HG6371F也有2.5G网口。简直痴L线啦！烽火的子光猫居然也有2.5G网口，星光F50一边凉快去吧，还卖过千元一套。 二手的，没有包装盒，机身也有点使用痕迹，且电源是后配，所以电源...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米千兆交换机拆机SW-108G 我第一次见这芯片 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28483.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28162.html"/>
         <updated>2024-07-03T17:34:31.006Z</updated>
         <content type="html"><![CDATA[我是不认为它是万兆交换机，所以我会在小米“万兆交换机”当中加个双引号，我只是引用它的商品标题，以下我都统称为小米2.5G交换机。在上市预约的时候我就说过小米2.5G交换机是用了RTL8372单芯片方案，这已经是近年来成熟的廉价的公版方案了。单芯片RTL8372的产品卖299元已经...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴F7615TV3和F7015TV3拆机对比,便宜的2.5G光猫 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28124.html</id>
-        <link href="https://www.acwifi.net/28124.html"/>
-        <updated>2024-07-01T17:35:04.288Z</updated>
-        <content type="html"><![CDATA[2024年2.5G光猫已经白菜价了，除了数量特别多的中兴品牌，还有其它的也涌出来上市了。这次把两款光猫一起拆了看看！ 中兴F7615TV3和F7015TV3的外包装如下： 两台机身尺寸比较小，不带无线和下行光的F7015TV3体积更小。 两款光猫跟爱快2.5G交换机放在一起对比尺...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[给园子的会员送送优惠，和你的数据库聊聊天：会员权益「Chat2DB 特惠」上线 (博客园官方博客)]]></title>
