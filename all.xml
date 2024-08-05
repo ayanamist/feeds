@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-04T17:34:06.344Z</updated>
+    <updated>2024-08-05T05:37:28.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[烽火HG3142F拆机 CPU和无线芯片都是博通的？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -76,6 +76,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
+        感谢「河南图奕网络」赞助园子，成为第一家创始赞助商 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
+        <updated>2024-08-01T05:35:43.141Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18341478">
+摘要：        
+在8月1日发布救援行动-赞助商计划后，我们并没有抱什么奢望，更没有妄想很快能找到赞助商，只是为救园多一点可能的希望，万一找到一家赞助商，就会多一份救园力量。没想到第2天就有幸遇到一家有意向的企业    <a href="https://www.cnblogs.com/cmt/p/18341478" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[置顶]
         求救信：救下园子，保住这块开发者的天地 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
@@ -86,13 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[参加阿里云X优酷AI江湖创作大赛，赠送博客园T恤 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[上周热点回顾（7.29-8.4） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
         <updated>2024-08-01T05:35:43.141Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18336492">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18342721">
 摘要：        
-8月刚开始就接到一个阿里云的广告单子，也是 CPA(Cost Per Action) 方式，按有效参赛人数付费，KPI是完成500人参赛。参赛方式是基于阿里云函数计算服务部署的AI绘画平台创作图片作品，参赛者基于网剧《少年白马醉春风》的故事内容、人物角色、场景或以“少年江湖”为精神内核进行自由创作    <a href="https://www.cnblogs.com/cmt/p/18336492" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;救园行动——赞助商计划&nbsp;(博客园团队)·&nbsp;我们的前端开发逆天了！1 小时搞定了新网站，还跟我说 “不要钱”&nbsp;(程序员鱼皮)·&nbsp;《花100块做个摸鱼小网站! · 序》灵感来源&nbsp;(sum墨)·&nbsp;我的编程经历，从天桥地摊Basic到西藏阿里的.Net AOT。（一，从井到Sharp）&nbsp;(d    <a href="https://www.cnblogs.com/cmt/p/18342721" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
