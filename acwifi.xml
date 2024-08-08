@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-08-08T05:36:28.797Z</updated>
+    <updated>2024-08-08T17:35:19.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新品小米路由器BE6500上市预售价499元，CPU用了小米BE3600的？]]></title>
+        <id>https://www.acwifi.net/28566.html</id>
+        <link href="https://www.acwifi.net/28566.html"/>
+        <updated>2024-08-08T17:35:10.822Z</updated>
+        <content type="html"><![CDATA[今天我才知道京东上架了这款新品不带pro的小米BE6500，等于去掉了中枢网关，去掉的同时，CPU也换了跟小米BE3600一样的IPQ5312（从描述的算力和四核1.1GHz得知）。 四个2.5G网口，真的不要纠结什么5Gbps瓶颈，它才四个网口而已。纠结这个有L用！况且现在的2...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烽火HG3142F拆机 CPU和无线芯片都是博通的？]]></title>
         <id>https://www.acwifi.net/28502.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28206.html"/>
         <updated>2024-07-05T17:34:53.968Z</updated>
         <content type="html"><![CDATA[这款海思视讯(hasivo)2.5G交换机的型号是S600W-4GT-1SX-1XGT-SE，型号太长，我都不知道该如何去简称它了。这款2.5G交换机的特点是有一个10G电口，重点看看用了哪款10G&nbsp;PHY。 S600W-4GT-1SX-1XGT-SE的外包装： 外包装上的标签条...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米2.5G交换机拆机“万兆交换机“猜到它会用RTL8372但没想到它用了…]]></title>
-        <id>https://www.acwifi.net/28162.html</id>
-        <link href="https://www.acwifi.net/28162.html"/>
-        <updated>2024-07-03T17:34:31.006Z</updated>
-        <content type="html"><![CDATA[我是不认为它是万兆交换机，所以我会在小米“万兆交换机”当中加个双引号，我只是引用它的商品标题，以下我都统称为小米2.5G交换机。在上市预约的时候我就说过小米2.5G交换机是用了RTL8372单芯片方案，这已经是近年来成熟的廉价的公版方案了。单芯片RTL8372的产品卖299元已经...]]></content>
     </entry>
 </feed>
