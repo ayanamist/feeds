@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-08-19T05:36:32.081Z</updated>
+    <updated>2024-08-19T17:35:48.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[烽火HG6371F子光猫随便跟“别人”做无线AP组网，也可以做主路由]]></title>
+        <id>https://www.acwifi.net/28620.html</id>
+        <link href="https://www.acwifi.net/28620.html"/>
+        <updated>2024-08-19T17:35:37.235Z</updated>
+        <content type="html"><![CDATA[烽火HG6371F的拆机在这篇文章里： 烽火HG3142F主光猫和HG6371F子光猫拆机 烽火HG6371F拆机文章里忘记了说待机功率是6.1W，算是较高的功耗。它默认就是桥接模式，可以跟任何的品牌组网，支持无缝漫游（默认就支持k和v，子光猫的角色天生就是有不强的无线信号，更有...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烽火HG3142F主光猫和HG6371F子光猫拆机]]></title>
         <id>https://www.acwifi.net/28575.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28265.html"/>
         <updated>2024-07-10T17:35:13.408Z</updated>
         <content type="html"><![CDATA[TP-LINK SE2109的外包装和机身： 外包装上的标签信息： 配件： 电源输出规格是12V/2A，少有呀，八口2.5G交换机可以给到2A的电源。 实测各种端口的工况如下： 空口先机功率1.94W； 插四个2.5G口时 5.15W； 插八个2.5G口时 8.1W； 插八个2....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岭雁YHGGPON41光猫拆机]]></title>
-        <id>https://www.acwifi.net/28238.html</id>
-        <link href="https://www.acwifi.net/28238.html"/>
-        <updated>2024-07-08T17:34:21.840Z</updated>
-        <content type="html"><![CDATA[这是装联通宽带时配送的光猫，简单拆一下。这是千兆口的。放了几个月后，再拿出来用时，已经坏了：光纤指示灯亮红，后来报修，免费换了个中兴的旧猫F607Za。 岭雁YHGGPON41的外包装： 包装盒上的标签信息： 配件： 电源输出规格12V/1A 实测待机功率是2.9W，这款是纯有线...]]></content>
     </entry>
 </feed>
