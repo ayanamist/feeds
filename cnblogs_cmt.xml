@@ -2,7 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-08-23T05:37:08.713Z</updated>
+    <updated>2024-08-23T17:38:18.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[置顶]
+        感谢「河南图奕网络」赞助园子，成为第一家创始赞助商]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
+        <updated>2024-08-23T17:38:17.373Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18341478">
+摘要：        
+在8月1日发布救援行动-赞助商计划后，我们并没有抱什么奢望，更没有妄想很快能找到赞助商，只是为救园多一点可能的希望，万一找到一家赞助商，就会多一份救园力量。没想到第2天就有幸遇到一家有意向的企业    <a href="https://www.cnblogs.com/cmt/p/18341478" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[置顶]
+        求救信：救下园子，保住这块开发者的天地]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
+        <updated>2024-08-23T17:38:17.376Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18302049">
+摘要：        
+创建园子，是人生的最大押注，相信只要专心为开发者服务，一定会有出路。 二十年的专注，如今除了园子一无所有，却要在2024年第三季度一掷孤注，尽一切可能让这块伴随众多开发者成长的热土被保住。 时间的脚步一刻不停留，将园子推到命运的关口，如果这个季度再不解决资金的缺口，园子将无路可走。 2023年在多方    <a href="https://www.cnblogs.com/cmt/p/18302049" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【故障公告】博客站点遭遇大规模 DDoS 攻击]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
+        <updated>2024-08-23T17:38:17.377Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18375777">
+摘要：        
+今天 12:24 开始收到阿里云的电话、短信与邮件通知，博客站点的其中一台负载均衡因 DDoS 攻击被阿里云屏蔽 您的IP: x.x.x.x 实例名称：yy 受到攻击，攻击流量已超过DDoS基础防护的黑洞阈值，服务器的所有公网访问已被屏蔽，屏蔽时长20分钟，屏蔽时间内未再次被攻击将自动解除否则会延期    <a href="https://www.cnblogs.com/cmt/p/18375777" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
 </feed>
