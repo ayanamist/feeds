@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-09-01T17:34:44.395Z</updated>
+    <updated>2024-09-02T05:38:01.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[[置顶]
-        会员力量：非常感谢82位园友成为终身会员]]></title>
+        会员力量：非常感谢83位园友成为终身会员]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
         <updated>2024-08-27T05:36:49.212Z</updated>
@@ -26,6 +26,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18302049">
 摘要：        
 创建园子，是人生的最大押注，相信只要专心为开发者服务，一定会有出路。 二十年的专注，如今除了园子一无所有，却要在2024年第三季度一掷孤注，尽一切可能让这块伴随众多开发者成长的热土被保住。 时间的脚步一刻不停留，将园子推到命运的关口，如果这个季度再不解决资金的缺口，园子将无路可走。 2023年在多方    <a href="https://www.cnblogs.com/cmt/p/18302049" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（8.26-9.1）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/09</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/09"/>
+        <updated>2024-09-02T05:38:00.154Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18392281">
+摘要：        
+热点随笔： ·&nbsp;记录荒废了三年的四年.net开发的第三次面试，苏州斯莱克&nbsp;(ggtc)·&nbsp;甲方扔给两个存在包名与类名均相同的Jar包，要在工程中同时使用怎么办？&nbsp;(顾志兵)·&nbsp;程序员失业日记4：半个月拿下4个offer&nbsp;(小码A梦)·&nbsp;.NET 开源实时监控系统 - WatchDog&nbsp;(小码编匠)·    <a href="https://www.cnblogs.com/cmt/p/18392281" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
