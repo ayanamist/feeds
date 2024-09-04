@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-09-04T05:38:21.436Z</updated>
+    <updated>2024-09-04T17:38:05.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TL-R5009PE-AC 拆机 跟便宜一半的R5005P有什么不同？]]></title>
+        <id>https://www.acwifi.net/28663.html</id>
+        <link href="https://www.acwifi.net/28663.html"/>
+        <updated>2024-09-04T17:37:54.693Z</updated>
+        <content type="html"><![CDATA[这款TL-R5009PE-AC 问的朋友不少。刚上市的！ 外包装： 机身和配件 : 电源体积不大，不过输出功率不小：53.5V/2.4A，电源输出功率有128W呢。 我拿了同输出功率的R5010PE的电源来对比体积： 对于塞弱电箱里使用，体积小的好。难道用了新材料？ 功耗方面，实...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米BE6500跟BE6500Pro在小包性能上差距多少？如要接交换机需要注意哪些]]></title>
         <id>https://www.acwifi.net/28642.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28378.html"/>
         <updated>2024-07-16T17:35:33.407Z</updated>
         <content type="html"><![CDATA[这台移动版本的2.5G网口光猫在闲鱼上花95元包邮收来。听说是中兴的CPU，拆机看看吧！ 创维SK-D840N的外包装如下: 包装盒上的标签内容： 机身和配件： 电源输出规格是12V/1A，实测插2.5G口联网后的先机功率是4.6W，不高。 机身比中兴的F7015TV3大一点点，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于等来了好便宜的华为2.5G网口的光猫HN8145X6N拆机]]></title>
-        <id>https://www.acwifi.net/28335.html</id>
-        <link href="https://www.acwifi.net/28335.html"/>
-        <updated>2024-07-15T05:35:38.711Z</updated>
-        <content type="html"><![CDATA[什么星光F50一边去吧。离地的价格我都懒得看。现在这款华为HN8145X6N光猫闲鱼152元收来的，带有一个2.5G LAN口，不带下行光口，即不是FTTR产品，更省电一些。你们换光猫都只为2.5G网口而已，乱六七糟的不需要吧。关键是价格贴近普罗大众呀！我不是说FTTR垃圾，FT...]]></content>
     </entry>
 </feed>
