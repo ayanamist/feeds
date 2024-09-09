@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-09-09T05:38:09.126Z</updated>
+    <updated>2024-09-09T17:39:05.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7DR7250上市BE7200，内置天线]]></title>
+        <id>https://www.acwifi.net/28716.html</id>
+        <link href="https://www.acwifi.net/28716.html"/>
+        <updated>2024-09-09T17:38:54.252Z</updated>
+        <content type="html"><![CDATA[7DR7250的外壳跟XDR6086一样的。 同样也是双2.5G网口，另外两个是千兆口。 集成FEM，没有外置，有外置就不是这个价格了。由于联发科的BE7200方案里的5G RF 需要用到5颗FEM ，所以一共是集成了9颗FEM 。 硬件方面跟7DR7230差不多，就是把期中一个...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TL-R5009PE-AC 拆机 跟便宜一半的R5005P有什么不同？]]></title>
         <id>https://www.acwifi.net/28663.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28425.html"/>
         <updated>2024-07-22T17:36:26.385Z</updated>
         <content type="html"><![CDATA[电信天翼TYFZA1外包装： 机身和配件 ： 电源输出是12V/2A，是的24W的电源，为啥呢？因为它插2.5G口联网后的先机功率有10.4W，所以很有必要给24W的电源。这个功耗值，让我怀疑它是不是跟中兴G7615的硬件一样！ 这款TYFZA1光猫的机身比较大，跟中兴G7615...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[95元包邮的2.5G光猫创维SK-D840N拆机 设置移动版光猫用在联通宽带上]]></title>
-        <id>https://www.acwifi.net/28378.html</id>
-        <link href="https://www.acwifi.net/28378.html"/>
-        <updated>2024-07-16T17:35:33.407Z</updated>
-        <content type="html"><![CDATA[这台移动版本的2.5G网口光猫在闲鱼上花95元包邮收来。听说是中兴的CPU，拆机看看吧！ 创维SK-D840N的外包装如下: 包装盒上的标签内容： 机身和配件： 电源输出规格是12V/1A，实测插2.5G口联网后的先机功率是4.6W，不高。 机身比中兴的F7015TV3大一点点，...]]></content>
     </entry>
 </feed>
