@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-10T05:37:44.252Z</updated>
+    <updated>2024-09-10T17:36:54.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[苹果16全系列手机支持Wi-Fi 7 ? 最高速率是多少？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28726.html</id>
+        <link href="https://www.acwifi.net/28726.html"/>
+        <updated>2024-09-10T17:36:44.720Z</updated>
+        <content type="html"><![CDATA[下面的参数截图来自于苹果官网这个链接：https://www.apple.com.cn/iphone/compare/ 苹果16各型号均支持802.11be，2x2MIMO。（备注10：6GHz频段的支持与否，根据不同国家或地区的政策而定。） 我从上图字面的理解就是，苹果16全系...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7DR7250上市BE7200，内置天线 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28716.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28483.html"/>
         <updated>2024-07-23T17:35:10.799Z</updated>
         <content type="html"><![CDATA[售价是129元，且是塑料壳，算是高贵了。 小米千兆交换机的外包装： 机身和配件： 电源输出规格是5V/1A ，实测空口待机功率是0.56W， 能给你5W的电源，它满载也不会超过3W。这个DC插头尺寸是5.5/2.5mm的。可能怕你拿12V的DC头 5.5/2.1mm插进去交换机，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电信天翼TYFZA1拆机2.5G光猫 它可以变成最便宜的单2.5G AX3000路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28425.html</id>
-        <link href="https://www.acwifi.net/28425.html"/>
-        <updated>2024-07-22T17:36:26.385Z</updated>
-        <content type="html"><![CDATA[电信天翼TYFZA1外包装： 机身和配件 ： 电源输出是12V/2A，是的24W的电源，为啥呢？因为它插2.5G口联网后的先机功率有10.4W，所以很有必要给24W的电源。这个功耗值，让我怀疑它是不是跟中兴G7615的硬件一样！ 这款TYFZA1光猫的机身比较大，跟中兴G7615...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
