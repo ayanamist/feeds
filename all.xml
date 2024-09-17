@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-17T05:37:19.250Z</updated>
+    <updated>2024-09-17T17:36:23.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TL-R5010PE-AC v2.0拆机, 与旧版v1.1差别在哪？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28771.html</id>
+        <link href="https://www.acwifi.net/28771.html"/>
+        <updated>2024-09-17T17:36:13.986Z</updated>
+        <content type="html"><![CDATA[TL-R5010PE-AC v2.0的外包装：（以下简称R5010PE v2.0了） R5010PE v2.0的机身和配件： TP-LINK的电源，输出规格是53.5发/2.4A，整机最大PoE输出功率为105W。实测空口时的待机功率为6.9W，插2个2.5G网口时的功率为8.2...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TL-R5406PE-AC拆机，比R5408PE少了2个千兆口，值得吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28712.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28566.html"/>
         <updated>2024-08-08T17:35:10.822Z</updated>
         <content type="html"><![CDATA[今天我才知道京东上架了这款新品不带pro的小米BE6500，等于去掉了中枢网关，去掉的同时，CPU也换了跟小米BE3600一样的IPQ5312（从描述的算力和四核1.1GHz得知）。 四个2.5G网口，真的不要纠结什么5Gbps瓶颈，它才四个网口而已。纠结这个有L用！况且现在的2...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烽火HG3142F拆机 CPU和无线芯片都是博通的？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28502.html</id>
-        <link href="https://www.acwifi.net/28502.html"/>
-        <updated>2024-07-26T17:35:03.486Z</updated>
-        <content type="html"><![CDATA[闲鱼花150元收了一这套烽火的FTTR光猫，除了主光猫HG3142F带2.5G网口外，它的子光猫HG6371F也有2.5G网口。简直痴L线啦！烽火的子光猫居然也有2.5G网口，星光F50一边凉快去吧，还卖过千元一套。 二手的，没有包装盒，机身也有点使用痕迹，且电源是后配，所以电源...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
