@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-22T05:37:03.401Z</updated>
+    <updated>2024-09-22T17:37:00.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米万兆路由和7TR13090哪个MLO速度高？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28852.html</id>
+        <link href="https://www.acwifi.net/28852.html"/>
+        <updated>2024-09-22T17:36:51.617Z</updated>
+        <content type="html"><![CDATA[小米万兆路由和7TR13090都是三频W-Fi 7，三频均是4x4MIMO，5G芯片方面，小米万兆路由用的是QCN6274，TP的7TR13090用的是QCN9274，在这里不谈两款芯片的参数差距。尽情地去测双5G MLO。 测试的无线网卡是QCN7851，接口是PCI-e x1...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再买了一张QCNCM865换上后正常了,再谈IPhone 16的MLO (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28840.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28642.html"/>
         <updated>2024-09-01T17:34:36.309Z</updated>
         <content type="html"><![CDATA[先测一下有没有5G瓶颈，之后再测小包转发性能，这样能容易理解一些。 小米BE6500和小米BE6500Pro都是四个2.5G网口。直接在路由模式下测试四个2.5G网口同时双向时的速度： 然后是小米BE6500 Pro的： 我把各种“打流方向”汇总成如下的表格，方便对照。如下图：（...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕BE86U新品上市预售到手价1799元 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28638.html</id>
-        <link href="https://www.acwifi.net/28638.html"/>
-        <updated>2024-08-21T17:34:47.881Z</updated>
-        <content type="html"><![CDATA[华硕RT-BE86U，2.4G是3x3MIMO，5G是4x4MIMO，有一个10G网口（电口）和四个2.5G网口，1G内存。预售到手机1799元。 CPU是博通的四核2.6GHz，跟BE88U用的一样了。华硕BE86U比BE88U差在2.4G无线、少了1G内存、少了一个10G S...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
