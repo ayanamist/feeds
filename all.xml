@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-29T17:35:49.440Z</updated>
+    <updated>2024-10-01T17:37:58.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[华为BE7拆机,看看跟BE7 Pro有什么不同 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/28992.html</id>
+        <link href="https://www.acwifi.net/28992.html"/>
+        <updated>2024-10-01T17:37:49.702Z</updated>
+        <content type="html"><![CDATA[华为BE7的外包装如下： 机身和配件： 天线就不拆了，都是FPC天线，跟华为BE7 Pro是一鬼样的。 电源输出规格是12V/2A，跟BE7 pro用的一样。实测空口待机功率为6.9W，插两个2.5G网口联网时的功率为9.1W。功耗比BE7 Pro低1W左右。 机身没什么特别，不...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为BE7 Pro拆机BE6500无线路由器 系统并无MLO开关 不支持？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/28927.html</id>
@@ -68,24 +75,6 @@
         <content type="html"><![CDATA[下面的参数截图来自于苹果官网这个链接：https://www.apple.com.cn/iphone/compare/ 苹果16各型号均支持802.11be，2x2MIMO。（备注10：6GHz频段的支持与否，根据不同国家或地区的政策而定。） 我从上图字面的理解就是，苹果16全系...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7DR7250上市BE7200，内置天线 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28716.html</id>
-        <link href="https://www.acwifi.net/28716.html"/>
-        <updated>2024-09-09T17:38:54.252Z</updated>
-        <content type="html"><![CDATA[7DR7250的外壳跟XDR6086一样的。 同样也是双2.5G网口，另外两个是千兆口。 集成FEM，没有外置，有外置就不是这个价格了。由于联发科的BE7200方案里的5G RF 需要用到5颗FEM ，所以一共是集成了9颗FEM 。 硬件方面跟7DR7230差不多，就是把期中一个...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[置顶]
-        秋天希望的田野，九月最后的救园：终身会员计划 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/09</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/09"/>
-        <updated>2024-09-02T05:38:00.154Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18401581">
-摘要：        
-如果终身会员名额满了，说明救园成功了。如果终身会员名额未满，还要看年度会员、周边、捐助、赞助的收入情况。如果救下了园子，明年我们将会给大家带来新园子。如果熬过这次二十年的大难关，我们相信会迎来接下来二十年与开发者共赢的大发展    <a href="https://www.cnblogs.com/cmt/p/18401581" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         感谢「河南图奕网络」赞助园子，成为第一家创始赞助商 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
@@ -98,33 +87,23 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
-        求救信：救下园子，保住这块开发者的天地 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/07</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/07"/>
-        <updated>2024-08-27T05:36:49.212Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18302049">
+        博客园商业化之路：融资做与众不同的众包平台，让开发能力成为一种服务 (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2024/05</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2024/05"/>
+        <updated>2024-10-01T17:37:57.765Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18172236">
 摘要：        
-创建园子，是人生的最大押注，相信只要专心为开发者服务，一定会有出路。二十年的专注，如今除了园子一无所有，却要在2024年第三季度一掷孤注，尽一切可能让这块伴随众多开发者成长的热土被保住。时间的脚步一刻不停留，将园子推到命运的关口，如果这个季度再不解决资金的缺口，园子将无路可走    <a href="https://www.cnblogs.com/cmt/p/18302049" class="c_b_p_desc_readmore">阅读全文</a>
+园子的诞生，与商业无关，是一位编程爱好者业余时间的偶然。园子的坚持，也与商业无关，是来自服务于成千上万开发者的成就感。当十多年前业余时间无法支撑园子的进一步发展时，初生牛犊不怕虎地毅然辞职从江苏扬州来到上海开始为园子的发展而创业，当时心里知道，只有商业化，才有未来。    <a href="https://www.cnblogs.com/cmt/p/18172236" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[风雨过后见彩虹：救园倒计时，最后一天 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[上周热点回顾（9.23-9.29） (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/09</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/09"/>
         <updated>2024-09-02T05:38:00.154Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18432948">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18441375">
 摘要：        
-如果终身VIP会员名额满了，说明救园肯定成功了。如果终身VIP会员名额没满，还要看年度会员、周边、捐助、赞助的收入情况，只要2天收入达到40w左右，救园就成功了。如果救下来，就是园子的一次重生，就是一次脱胎换骨的辞旧迎新（10月开始建设新园子）    <a href="https://www.cnblogs.com/cmt/p/18432948" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（8.19-8.25） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/08"/>
-        <updated>2024-08-27T05:36:49.212Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18380553">
-摘要：        
-热点随笔： ·&nbsp;会员力量：非常感谢58位园友成为终身会员&nbsp;(博客园团队)·&nbsp;【故障公告】博客站点遭遇大规模 DDoS 攻击&nbsp;(博客园团队)·&nbsp;使用FModel提取《黑神话:悟空》的资产&nbsp;(paw5zx)·&nbsp;寻访中国100家.NET中大企业 —— 第二站：苏州行&nbsp;(一线码农)·&nbsp;花了一天时间帮财务朋友    <a href="https://www.cnblogs.com/cmt/p/18380553" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;风雨过后见彩虹：救园倒计时，最后一天&nbsp;(博客园团队)·&nbsp;救园最后7天：「坚持你所相信的，相信你所坚持的」&nbsp;(博客园团队)·&nbsp;作为博主和曾经员工，谈谈近期的园子&nbsp;(田园里的蟋蟀)·&nbsp;裁员，这一次终于轮到了我&nbsp;(ops-coffee)·&nbsp;博客园终身会员小福利，送华为云服务器&nbsp;(博客园团队    <a href="https://www.cnblogs.com/cmt/p/18441375" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
