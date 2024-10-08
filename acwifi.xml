@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-10-08T05:38:31.432Z</updated>
+    <updated>2024-10-08T17:36:50.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[收了张MT7925无线网卡 支持者4096-QAM 但MLO不叠加]]></title>
+        <id>https://www.acwifi.net/29054.html</id>
+        <link href="https://www.acwifi.net/29054.html"/>
+        <updated>2024-10-08T17:36:40.979Z</updated>
+        <content type="html"><![CDATA[华硕主板的拆机卡，型号是MT7925B22M。几十块钱收的。超过100元都不值得买的东西。 忘记拍照背面，已经装上小主机用。 我在这里下的驱动：（版本是5.4.0.2566） https://www.station-drivers.com/index.php/fr-ca/comp...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教你在手机上查看无线路由器是否支持kvr、mu-mimo、4096-QAM和MLO]]></title>
         <id>https://www.acwifi.net/29038.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28771.html"/>
         <updated>2024-09-17T17:36:13.986Z</updated>
         <content type="html"><![CDATA[TL-R5010PE-AC v2.0的外包装：（以下简称R5010PE v2.0了） R5010PE v2.0的机身和配件： TP-LINK的电源，输出规格是53.5发/2.4A，整机最大PoE输出功率为105W。实测空口时的待机功率为6.9W，插2个2.5G网口时的功率为8.2...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-R5406PE-AC拆机，比R5408PE少了2个千兆口，值得吗？]]></title>
-        <id>https://www.acwifi.net/28712.html</id>
-        <link href="https://www.acwifi.net/28712.html"/>
-        <updated>2024-09-13T05:37:55.807Z</updated>
-        <content type="html"><![CDATA[TL-R5406PE-AC的外包装： 机身和配件 ： 电源输出规格是53.5V/1.6A，整机PoE最大输出总功率为75W。实测不插任何网口的情况下功率为4W，插两个2.5G网口时功率为5.3W。 机身正面： DC插头跟网口在同一面。一共有6个网口，其中有4个是2.5G口，2个是...]]></content>
     </entry>
 </feed>
