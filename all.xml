@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-11T05:38:39.702Z</updated>
+    <updated>2024-10-11T17:37:37.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米全屋路由器BE3600Pro 上市预售 还内置蓝牙网关 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/29074.html</id>
+        <link href="https://www.acwifi.net/29074.html"/>
+        <updated>2024-10-11T17:37:28.274Z</updated>
+        <content type="html"><![CDATA[小米路由器BE3600Pro内置天线外观，黑色，单2.5G网口，两个千兆口。BE3600，双频2x2MIMO，高通芯片方案。价格349元，小米BE3600pro 京东预定链接。 &nbsp; 集成了蓝牙网关，还有NFC免密连钢，轻轻掂一下就连上Wi-Fi 了。（听说华为路由团队换...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收了张MT7925无线网卡 支持者4096-QAM 但MLO不叠加 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/29054.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[就在昨天华为BE7上架预定了，价格是599元。无线规格是BE6500，即2.4G为2x2MIMO，5G为4x4MIMO，网口方面，第一次见华为家用无线路由器产品配了两个2.5G网口。 除了双网口是一个特点之外，还配有了温控散热风扇，温度高时就会开启主动散热。 &nbsp; 其它没...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TL-R5010PE-AC v2.0拆机, 与旧版v1.1差别在哪？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28771.html</id>
-        <link href="https://www.acwifi.net/28771.html"/>
-        <updated>2024-09-17T17:36:13.986Z</updated>
-        <content type="html"><![CDATA[TL-R5010PE-AC v2.0的外包装：（以下简称R5010PE v2.0了） R5010PE v2.0的机身和配件： TP-LINK的电源，输出规格是53.5发/2.4A，整机最大PoE输出功率为105W。实测空口时的待机功率为6.9W，插2个2.5G网口时的功率为8.2...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         感谢「河南图奕网络」赞助园子，成为第一家创始赞助商 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/08</id>
@@ -97,13 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11年之后双11之前：终于要做一个决定，是否要换一朵云 (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[做点华为云代理业务，挣点小收入 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/10</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/10"/>
         <updated>2024-10-07T05:40:17.616Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18453394">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18457617">
 摘要：        
-用了11年的阿里云，却要在今年双11之前做一个艰难的决定，是否要换一朵云。不管是分手，还是继续相守，这个决定就在这个十月金秋。换云有两个诉求，一是进一步降低云上成本，一是找一个更好的云生态。在度过生死难关，开始建设新园子的新长征之际，选择一个有未来的云生态，就是在选择自己的未来    <a href="https://www.cnblogs.com/cmt/p/18453394" class="c_b_p_desc_readmore">阅读全文</a>
+救园成功后，我们首先要做的是增加收入来源，实现收支平衡。 这个月开始做一些云代理业务，先从华为云开始做，选择华为云是华为云代理商的推动。 这家代理商和园子在2019年就有过合作，现在已经发展成为华为云代理商的前三，在救园期间他们主动联系我们商谈合作，并且是目前第一家也是唯一一家给园子终身会员送福利的    <a href="https://www.cnblogs.com/cmt/p/18457617" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>

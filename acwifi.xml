@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-10-11T05:38:39.700Z</updated>
+    <updated>2024-10-11T17:37:37.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米全屋路由器BE3600Pro 上市预售 还内置蓝牙网关]]></title>
+        <id>https://www.acwifi.net/29074.html</id>
+        <link href="https://www.acwifi.net/29074.html"/>
+        <updated>2024-10-11T17:37:28.274Z</updated>
+        <content type="html"><![CDATA[小米路由器BE3600Pro内置天线外观，黑色，单2.5G网口，两个千兆口。BE3600，双频2x2MIMO，高通芯片方案。价格349元，小米BE3600pro 京东预定链接。 &nbsp; 集成了蓝牙网关，还有NFC免密连钢，轻轻掂一下就连上Wi-Fi 了。（听说华为路由团队换...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收了张MT7925无线网卡 支持者4096-QAM 但MLO不叠加]]></title>
         <id>https://www.acwifi.net/29054.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28812.html"/>
         <updated>2024-09-18T05:38:09.658Z</updated>
         <content type="html"><![CDATA[就在昨天华为BE7上架预定了，价格是599元。无线规格是BE6500，即2.4G为2x2MIMO，5G为4x4MIMO，网口方面，第一次见华为家用无线路由器产品配了两个2.5G网口。 除了双网口是一个特点之外，还配有了温控散热风扇，温度高时就会开启主动散热。 &nbsp; 其它没...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-R5010PE-AC v2.0拆机, 与旧版v1.1差别在哪？]]></title>
-        <id>https://www.acwifi.net/28771.html</id>
-        <link href="https://www.acwifi.net/28771.html"/>
-        <updated>2024-09-17T17:36:13.986Z</updated>
-        <content type="html"><![CDATA[TL-R5010PE-AC v2.0的外包装：（以下简称R5010PE v2.0了） R5010PE v2.0的机身和配件： TP-LINK的电源，输出规格是53.5发/2.4A，整机最大PoE输出功率为105W。实测空口时的待机功率为6.9W，插2个2.5G网口时的功率为8.2...]]></content>
     </entry>
 </feed>
