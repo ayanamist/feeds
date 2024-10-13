@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-10-13T05:38:10.719Z</updated>
+    <updated>2024-10-13T17:36:02.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[全球最全面的实测IPhone 16的MLO、4096-QAM]]></title>
+        <id>https://www.acwifi.net/29063.html</id>
+        <link href="https://www.acwifi.net/29063.html"/>
+        <updated>2024-10-13T17:35:52.199Z</updated>
+        <content type="html"><![CDATA[我找来三台无线路由器做测试，分别代表了高通博通和联发科的，而且都是能在路由器上查看实时连接速率的。如下图的华硕TUF BE6500和TUF BE3600，联发科的代表就是用锐捷BE72 Pro。 先看看IPhone 16手机Wi-Fi 支持4096-QAM的情况如何。看看连接速率...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米全屋路由器BE3600Pro 上市预售 还内置蓝牙网关]]></title>
         <id>https://www.acwifi.net/29074.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28820.html"/>
         <updated>2024-09-19T17:36:40.759Z</updated>
         <content type="html"><![CDATA[WCN7851终于有驱动支持MLO了，但我买到的QCNCM865有硬件BUG。如题！ 首先，最近有新的驱动，更新后，只要是24H2的版本，大概就是“2600”以上的版本、都可以支持了，我也试了好几个版本，所以才这么说的。我为啥这么“柒”去换不同的win11版本去试？不就因为那个硬...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为BE7新品上市599元,史无前例地配了2个2.5G网口（家用无线路由器）]]></title>
-        <id>https://www.acwifi.net/28812.html</id>
-        <link href="https://www.acwifi.net/28812.html"/>
-        <updated>2024-09-18T05:38:09.658Z</updated>
-        <content type="html"><![CDATA[就在昨天华为BE7上架预定了，价格是599元。无线规格是BE6500，即2.4G为2x2MIMO，5G为4x4MIMO，网口方面，第一次见华为家用无线路由器产品配了两个2.5G网口。 除了双网口是一个特点之外，还配有了温控散热风扇，温度高时就会开启主动散热。 &nbsp; 其它没...]]></content>
     </entry>
 </feed>
