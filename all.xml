@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-16T05:39:36.932Z</updated>
+    <updated>2024-10-16T17:42:22.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[锐捷天蝎BE72Pro拆机 网口多到用不完 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/29158.html</id>
+        <link href="https://www.acwifi.net/29158.html"/>
+        <updated>2024-10-16T17:42:12.847Z</updated>
+        <content type="html"><![CDATA[锐捷天蝎BE72Pro的外包装： 锐捷be72pro拆机的卖点是有5个2.5G网口。 机身和配件 ： 电源输出规格是12V/3A，实测空口待机7.3W，插2个2.5G网口联网后的功率为8.7W。 机身看似笨重，但拿在手里有点轻手的感觉。 &nbsp; 机身顶盖上的透气孔： 网口有...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年双11京东红包领取攻略 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/29147.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28852.html"/>
         <updated>2024-09-22T17:36:51.617Z</updated>
         <content type="html"><![CDATA[小米万兆路由和7TR13090都是三频W-Fi 7，三频均是4x4MIMO，5G芯片方面，小米万兆路由用的是QCN6274，TP的7TR13090用的是QCN9274，在这里不谈两款芯片的参数差距。尽情地去测双5G MLO。 测试的无线网卡是QCN7851，接口是PCI-e x1...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再买了一张QCNCM865换上后正常了,再谈IPhone 16的MLO (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28840.html</id>
-        <link href="https://www.acwifi.net/28840.html"/>
-        <updated>2024-09-21T17:37:22.234Z</updated>
-        <content type="html"><![CDATA[下图左边是前天测试过的QCNCM865（芯片是WCN7851），右边是刚收到货的QCN865 （闲鱼230元收来）。两张在外观是上是有明显不同的，特别是背面。下图是正面： 背面：（左边是旧的，右是新买的） 新买的这张，背面有好多丝印字体。有ANATEL：03368-23-0653...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
