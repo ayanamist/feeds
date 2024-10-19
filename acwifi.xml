@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-10-18T17:40:06.959Z</updated>
+    <updated>2024-10-19T05:38:12.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[一图读懂TP-LINK所有AC一体机的硬件配置 哪款性价比高？]]></title>
+        <id>https://www.acwifi.net/29243.html</id>
+        <link href="https://www.acwifi.net/29243.html"/>
+        <updated>2024-10-19T05:38:03.917Z</updated>
+        <content type="html"><![CDATA[以下是我拆过的TP-LINK的AC一体机硬件配置和属性支持的情况，没拆过的，我就不放在里面了。 R5010PE，我没放1.0的的版本，因为除了风扇，就是跟V1.1版本一样。我都注明了硬件版本，大家购买的时候要往新的版本买，这样在功能上的支持会好些，还有BUG也会少些。 实测的空口...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL-AC100 v5.0无线控制器拆机]]></title>
         <id>https://www.acwifi.net/29217.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/28927.html"/>
         <updated>2024-09-29T17:35:39.749Z</updated>
         <content type="html"><![CDATA[华为BE7要到1号才发货，大家又等着看，就下买了Pro的版本，京东当天就发了货。华为BE7 Pro的外包装如下： 从商品内页到外包装外页，只字不提MLO这个Wi-Fi 7 特性。 &nbsp; 机身和配件： 电源输出规格是12V/2A，实测空口街机功率为8W，插两个2.5G网口后...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK 7DR7250拆机Wi-Fi7 无线路由器, CPU不是6nm制程？]]></title>
-        <id>https://www.acwifi.net/28865.html</id>
-        <link href="https://www.acwifi.net/28865.html"/>
-        <updated>2024-09-27T17:37:26.693Z</updated>
-        <content type="html"><![CDATA[TP-LINK 7DR7250的外包装如下： 双2.5G网口、易展3.0： 机身和配件： 电源输出规格是12V/2A，实测空口待机功率为6.5W，插两个2.5G网口时的功率为8.6W。 机身是旧款外款外壳，没什么特别。 背面： 机身顶部一圈的透气孔： 两个千兆网口，两个2.5G网...]]></content>
     </entry>
 </feed>
