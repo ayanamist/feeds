@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-22T05:39:02.419Z</updated>
+    <updated>2024-10-22T17:38:10.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK 7DR7230拆机BE7200无线路由器单2.5G网口 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/29253.html</id>
+        <link href="https://www.acwifi.net/29253.html"/>
+        <updated>2024-10-22T17:38:01.591Z</updated>
+        <content type="html"><![CDATA[TP-LINK 7DR7230的外包装如下： 机身和配件 ： 电源输出规格是12/2A，实测空口待机功率为6.3W，插一个2.5G口时的功率为7W。 天线可以全部收起来，可以塞进电电视柜，效果怎样你试过便知。 一共五个网口，四个千兆，一个2.5G: 机身底部： 标签内容，型号：T...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一图读懂TP-LINK所有AC一体机的硬件配置 哪款性价比高？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/29243.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/28992.html"/>
         <updated>2024-10-01T17:37:49.702Z</updated>
         <content type="html"><![CDATA[华为BE7的外包装如下： 机身和配件： 天线就不拆了，都是FPC天线，跟华为BE7 Pro是一鬼样的。 电源输出规格是12V/2A，跟BE7 pro用的一样。实测空口待机功率为6.9W，插两个2.5G网口联网时的功率为9.1W。功耗比BE7 Pro低1W左右。 机身没什么特别，不...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为BE7 Pro拆机BE6500无线路由器 系统并无MLO开关 不支持？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/28927.html</id>
-        <link href="https://www.acwifi.net/28927.html"/>
-        <updated>2024-09-29T17:35:39.749Z</updated>
-        <content type="html"><![CDATA[华为BE7要到1号才发货，大家又等着看，就下买了Pro的版本，京东当天就发了货。华为BE7 Pro的外包装如下： 从商品内页到外包装外页，只字不提MLO这个Wi-Fi 7 特性。 &nbsp; 机身和配件： 电源输出规格是12V/2A，实测空口街机功率为8W，插两个2.5G网口后...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
