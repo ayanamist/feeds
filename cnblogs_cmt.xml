@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-10-23T05:39:20.714Z</updated>
+    <updated>2024-10-24T05:39:04.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（10.14-10.20）]]></title>
+        <title type="html"><![CDATA[祝大家程序员节快乐，开发者的未来依然可期]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/10</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/10"/>
         <updated>2024-10-07T05:40:17.616Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18488906">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18498757">
 摘要：        
-热点随笔： ·&nbsp;园子商业化的烦恼：吐槽阿里云，得罪了用户&nbsp;(博客园团队)·&nbsp;致阿里云：我有一个小需求，请帮忙去掉AI助手&nbsp;(博客园团队)·&nbsp;我被 .NET8 JIT 的一个BUG反复折磨了半年之久(JIT tier1 finally optimizations)&nbsp;(czd890)·&nbsp;开源的口袋妖怪自    <a href="https://www.cnblogs.com/cmt/p/18488906" class="c_b_p_desc_readmore">阅读全文</a>
+在今年的程序员节，这个破园子，只能发篇简短的博文，在闪存上几颗节日星，寒碜地庆祝一下。但我们希望大家不嫌弃现在这个百废待兴的破园子，希望和我们一起努力创造开发者的未来    <a href="https://www.cnblogs.com/cmt/p/18498757" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
