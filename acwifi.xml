@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-10-27T05:40:51.662Z</updated>
+    <updated>2024-10-27T17:36:39.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK 7DR5160无线路由器拆机]]></title>
+        <id>https://www.acwifi.net/29331.html</id>
+        <link href="https://www.acwifi.net/29331.html"/>
+        <updated>2024-10-27T17:36:29.073Z</updated>
+        <content type="html"><![CDATA[TP-LINK 7DR5160的外包装： 产品特征：BE5100+4个2.5G口。目前来看，BE5100的无线路由器，只有这款TL-7DR5160是有四个2.5G网口的。 机身和配件： 这台机，我前天拆的时候发现接缝处有被搬过的痕迹，我才想起来这台无线路由器在四月份的时候已经拆了...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK 7DR7260拆机BE7200无线路由器 有5个2.5G网口]]></title>
         <id>https://www.acwifi.net/29294.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/29054.html"/>
         <updated>2024-10-08T17:36:40.979Z</updated>
         <content type="html"><![CDATA[华硕主板的拆机卡，型号是MT7925B22M。几十块钱收的。超过100元都不值得买的东西。 忘记拍照背面，已经装上小主机用。 我在这里下的驱动：（版本是5.4.0.2566） https://www.station-drivers.com/index.php/fr-ca/comp...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教你在手机上查看无线路由器是否支持kvr、mu-mimo、4096-QAM和MLO]]></title>
-        <id>https://www.acwifi.net/29038.html</id>
-        <link href="https://www.acwifi.net/29038.html"/>
-        <updated>2024-10-02T17:36:59.937Z</updated>
-        <content type="html"><![CDATA[虽然用winfi是可以查看kvr和MU-MIMO这些，不过winfi由于多年没更新，所以不能查看4096-QAM和MLO是否支持，而且开电脑的朋友越来越少了，如果用手机直接能查看就更方便 。要说的这款和机APP我之前也提过了，不过有好多朋友安装了之后查看不了或查不了MLO属性。我...]]></content>
     </entry>
 </feed>

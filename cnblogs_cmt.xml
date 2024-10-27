@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-10-27T05:40:51.665Z</updated>
+    <updated>2024-10-27T17:36:39.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[博客园众包平台]]></title>
+        <title type="html"><![CDATA[AI之旅-开篇：从云计算之路到AI之旅，从搬上阿里云到留在阿里云]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/10</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/10"/>
         <updated>2024-10-07T05:40:17.616Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18500368">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18508242">
 摘要：        
-众包平台是博客园2024年重新开始的商业化进程中正在探索的最重要的商业模式。 目前一边在融资，一边在召集早期合作开发者，一边在介绍一些单子给合作开发者。 当前已召集2000多位很有经验的合作开发者，其中不少有十年以上的工作经验，其中不少是园子的老用户。 如果您有软件开发外包需求，想找靠谱的有经验的开    <a href="https://www.cnblogs.com/cmt/p/18500368" class="c_b_p_desc_readmore">阅读全文</a>
+2024年的金秋十月，刚刚被开发者救活的园子在杭州云栖小镇，又写了一篇小学生作文，在经过十一年之痒的纠结之后，做了一个重要决定——继续留在有巨多人使用的阿里云，基于阿里提供的AI服务，建设AI时代的新园子，开启AI之旅    <a href="https://www.cnblogs.com/cmt/p/18508242" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
