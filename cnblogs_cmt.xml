@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-11-21T17:38:50.664Z</updated>
+    <updated>2024-11-22T05:39:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -39,13 +39,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【故障公告】2w左右QPS攻击请求造成博客站点502]]></title>
+        <title type="html"><![CDATA[【故障公告】2w左右QPS的cc攻击请求造成博客站点502]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/11</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/11"/>
         <updated>2024-11-01T05:39:03.379Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18561337">
 摘要：        
-今天 17:55-18:10 左右，园子博客站点部分负载均衡遭遇2w左右QPS的攻击请求，部署在 k8s 集群上的 pod 不堪重负而宕机，甚至拖垮了一台节点服务器，造成博客站点无法正常访问，由此给您带来麻烦，请您谅解。    <a href="https://www.cnblogs.com/cmt/p/18561337" class="c_b_p_desc_readmore">阅读全文</a>
+今天（11月21日） 17:55-18:10 左右，园子博客站点部分负载均衡遭遇2w左右QPS的攻击请求，部署在 k8s 集群上的 pod 不堪重负而宕机，甚至拖垮了一台节点服务器，造成博客站点无法正常访问，由此给您带来麻烦，请您谅解。 更新：11月22日凌晨 2:00-3:50 左右，又被攻击了，    <a href="https://www.cnblogs.com/cmt/p/18561337" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
