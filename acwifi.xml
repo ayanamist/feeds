@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2024-11-26T05:40:16.079Z</updated>
+    <updated>2024-11-26T17:39:35.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[各路由器IPTV功能设置与使用傻瓜交换机解决单线复用小白教程]]></title>
+        <id>https://www.acwifi.net/29649.html</id>
+        <link href="https://www.acwifi.net/29649.html"/>
+        <updated>2024-11-26T17:39:26.617Z</updated>
+        <content type="html"><![CDATA[这个话题的重点是IPTV单线复用，之前有过一篇文章，是用两台网管交换机实现单线复用的问题，这是万能解决方案，跟光猫和主路由无关，也无需设置光猫和路由，只要有一根网线，你想接啥设备都行。文章链接：弱电箱到客厅只有一根网线的解决方案: 交换机单线复用设置教程 而这篇的方法 ，是需要设...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK  TL-R498GPM-AC拆机]]></title>
         <id>https://www.acwifi.net/29620.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/29331.html"/>
         <updated>2024-11-13T17:37:50.174Z</updated>
         <content type="html"><![CDATA[TP-LINK 7DR5160的外包装： 产品特征：BE5100+4个2.5G口。目前来看，BE5100的无线路由器，只有这款TL-7DR5160是有四个2.5G网口的。 机身和配件： 这台机，我前天拆的时候发现接缝处有被搬过的痕迹，我才想起来这台无线路由器在四月份的时候已经拆了...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK 7DR7260拆机BE7200无线路由器 有5个2.5G网口]]></title>
-        <id>https://www.acwifi.net/29294.html</id>
-        <link href="https://www.acwifi.net/29294.html"/>
-        <updated>2024-11-13T17:37:50.180Z</updated>
-        <content type="html"><![CDATA[TP-LINK 7DR7260的外包装上醒目地写上了“5个2.5G口”： 机身和配件 ： 电源输出规格是12V/2A，实测空口待机功率为7W，插2个2.5G网口时的功率为8.4W。 7DR7260的网口全是2.5G口的，目前在几百元的无线路由器里，就只有这款7dr7260和锐捷的...]]></content>
     </entry>
 </feed>
