@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2024-11-25T17:38:56.758Z</updated>
+    <updated>2024-11-26T05:40:16.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
@@ -39,13 +39,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.18-11.24）]]></title>
+        <title type="html"><![CDATA[园子与阿里云的推广合作：直播预告｜FFA 2024 上海主论坛，11月29日正式上线！]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2024/11</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2024/11"/>
         <updated>2024-11-01T05:39:03.379Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18567567">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18568184">
 摘要：        
-热点随笔： ·&nbsp;鱼厂实习，光速转正了！&nbsp;(程序员鱼皮)·&nbsp;.NET9 - 新功能体验（一）&nbsp;(IT规划师)·&nbsp;【故障公告】2w左右QPS的cc攻击请求造成博客站点502&nbsp;(博客园团队)·&nbsp;C# 入门深度学习：万字长文讲解微积分和梯度下降&nbsp;(痴者工良)·&nbsp;.NET +Vue 开发的高级报表工具&nbsp;(小码    <a href="https://www.cnblogs.com/cmt/p/18567567" class="c_b_p_desc_readmore">阅读全文</a>
+为 Apache Flink 社区备受期待的年度盛会之一，本届大会将于 11 月 29 至 30 日在上海隆重举行。Flink Forward Asia（简称 FFA）是由 Apache 官方授权的社区技术大会，旨在汇聚领先的行业实践与技术动态。在众多合作伙伴和技术开发者的支持下，FFA 已成功举办六届    <a href="https://www.cnblogs.com/cmt/p/18568184" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
