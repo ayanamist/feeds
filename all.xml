@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-01T17:35:48.087Z</updated>
+    <updated>2025-01-02T05:38:36.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[最便宜的8口2.5G网管交换机拆机水星SE109 Pro (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/30153.html</id>
+        <link href="https://www.acwifi.net/30153.html"/>
+        <updated>2025-01-02T05:38:26.675Z</updated>
+        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 听说水星SE109 Pro开卖了，PDD卖 220元，于是买回来拆机看看。 机身和配件： 电源忘记拍照了，是12V/1.5A的，实测空口待机功率为1.94W，染插4个2.5G 网口时的功率为4.8W 。 机身DC电源与网口在同一面...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK、水星和hasivo网管交换机系统功能对比 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/30146.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/29856.html"/>
         <updated>2024-12-05T17:39:13.901Z</updated>
         <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 华为TC7620是电信运营商定制机，二手150多元收来。在拆华为Q7之前，也要先拆它看看，因为有些答案需要在不同的机型里寻找和总结。 外包装： 机身和配件： 电源输出规格是12V/1A，实测空口时的待机功率为3.6W，插一个2.5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hasivo S5800W-24GT-6SX-SE 网管交换机拆机 24个2.5G口+6个万兆 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/29800.html</id>
-        <link href="https://www.acwifi.net/29800.html"/>
-        <updated>2024-12-04T17:39:48.524Z</updated>
-        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 这台hasivo的网管交换机一共有30个口，其中有24个2.5G网口和6个10G SFP+，而且具备双电源冗余设计。拆机看看是什么芯片可以拥有那么多个口。 hasivo S5800W-24GT-6SX-SE的外包装： 机身和配件：...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
