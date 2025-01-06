@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-01-06T05:38:30.020Z</updated>
+    <updated>2025-01-06T17:36:59.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[腾达BE6L Pro 拆机云霄BE5100 W-Fi 7]]></title>
+        <id>https://www.acwifi.net/30262.html</id>
+        <link href="https://www.acwifi.net/30262.html"/>
+        <updated>2025-01-06T17:36:49.098Z</updated>
+        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 腾达BE6L Pro的外包装： 机身和配件： 电源输出规格是12V/1.5A，实测空口时的待机功率为4.4W，插2.5G WAN联网后的功率为5.6W： 腾达这台BE6L Pro的外壳，有点像NX54的，是不。 背面： 一个2.5...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让MLO和“死都不要双频合一”共存互不影响]]></title>
         <id>https://www.acwifi.net/30219.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30017.html"/>
         <updated>2024-12-16T17:38:04.248Z</updated>
         <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 其实，喜欢就好啦，没有值不值的。每个人的需求不一样！ 算一下上图的设备一共要多少钱。 R5010PE-EN：800元，54V/2.5A电源+DC转接头就50元。 7AP5100HI，单台350元，3台一共1050元（上图只有一个是...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为凌霄子母路由 Q7竟然有2.5G瓶颈？能否跟华为路由MESH组网？]]></title>
-        <id>https://www.acwifi.net/29999.html</id>
-        <link href="https://www.acwifi.net/29999.html"/>
-        <updated>2024-12-10T17:39:29.504Z</updated>
-        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 华为凌霄子母路由 Q7有5G瓶颈吗？这个问题在拆机时自己问自己都觉得挺幼稚的，怎么会呢，它可是用了RTL8372N呀。在我打算1元起拍卖掉它之前，对它的六个2.5G LAN口进行简单的测试。测试的是六个2.5G LAN口，如下图红...]]></content>
     </entry>
 </feed>
