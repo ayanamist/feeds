@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-01-13T05:39:01.876Z</updated>
+    <updated>2025-01-13T17:37:26.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年广告第一单，试试这款永久免费的开源BI工具]]></title>
+        <title type="html"><![CDATA[上周热点回顾（1.6-1.12）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/01</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/01"/>
         <updated>2025-01-06T05:38:29.167Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18655089">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18668381">
 摘要：        
-元旦之后，我们和国内领先的开源软件公司飞致云达成了重要合作，合作分两部分，一是推广飞致云旗下的免费开源软件，一是双方合作推出联合会员。飞致云旗下有多款免费开源软件，1月6日上线了第一个文字链广告，推广的是是飞致云旗下永久免费的开源 BI 工具 —— DataEase    <a href="https://www.cnblogs.com/cmt/p/18655089" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;2025年广告第一单，试试这款永久免费的开源BI工具&nbsp;(博客园团队)·&nbsp;欧阳的2024年终总结，迷茫，重生与失业&nbsp;(前端欧阳)·&nbsp;SQL优化的这15招，真香！&nbsp;(苏三说技术)·&nbsp;史上最全的Cursor IDE教程&nbsp;(ProsperousEnding)·&nbsp;为什么 .NET8线程池 容易    <a href="https://www.cnblogs.com/cmt/p/18668381" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -45,16 +45,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18640591">
 摘要：        
 热点随笔： ·&nbsp;跟着 8.6k Star 的开源数据库，搞 RAG！&nbsp;(削微寒)·&nbsp;3款.NET开源、功能强大的通讯调试工具，效率提升利器！&nbsp;(追逐时光者)·&nbsp;在 .NET Core 中使用 Channel 实现生产者消费者模式&nbsp;(贾光辉)·&nbsp;为什么推荐在 .NET 中使用 YAML 配置文件&nbsp;(c    <a href="https://www.cnblogs.com/cmt/p/18640591" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI之旅：Microsoft.Extensions.AI 送惊喜，Cnblogs.DashScope.AI 表支持]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/11</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/11"/>
-        <updated>2024-11-01T05:39:03.379Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18577574">
-摘要：        
-2024年10月8日，微软 .NET 官方博客发布了一篇博文，给 .NET 开发者带来了一个小惊喜，.NET 类库将增加一个统一的调用 AI 服务的抽象接口层。这个小惊喜对我们的 AI 之旅是场及时雨。今年3月，我们准备尝试基于 Semantic Kernel 使用通义千问大模型开发 AI 应用    <a href="https://www.cnblogs.com/cmt/p/18577574" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
