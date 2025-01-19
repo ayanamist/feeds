@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-01-19T05:36:00.662Z</updated>
+    <updated>2025-01-19T17:37:50.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[小米BE6500拆机,67了撬崩无线芯片]]></title>
+        <id>https://www.acwifi.net/30388.html</id>
+        <link href="https://www.acwifi.net/30388.html"/>
+        <updated>2025-01-19T17:37:10.934Z</updated>
+        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 小米BE6500现在来拆机，会不会太迟了。好过冇啦！ 外包装： 机身和配件： 电源输出规格是12V/2A，实测插上2.5G WAN口联网后的先机功率为7.84W。 外壳比较容易显脏： 四个2.5G网口： 机身背面： 产品型号：RN...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六口全万兆轻网管交换机联果LG510S-4T2XS拆机]]></title>
         <id>https://www.acwifi.net/30351.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30115.html"/>
         <updated>2024-12-30T17:35:49.990Z</updated>
         <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 中兴路由器的固件更新真是积极，各个型号都不断更新新的功能，比如这台中兴BE5100Pro+: V1.0.0.2B4.8000版本的更新内容如下： [新增]通过APP唤醒接入设备(WOL) [新增]双WAN端口绑定场景下NAT66 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒲公英X4pro拆机评测八网口内置4G上网]]></title>
-        <id>https://www.acwifi.net/30033.html</id>
-        <link href="https://www.acwifi.net/30033.html"/>
-        <updated>2024-12-25T05:38:04.791Z</updated>
-        <content type="html"><![CDATA[在京东APP上搜索“我要红包101”会有大红包！ 一、拆机 蒲公英X4pro的外包装： 机身和配件： 电源输出规格是12V/2A，实测联网后的待机功率为4.1W，不高。 机身正面： 一个USB2.0接口，八个千兆网口，八个网口的无线路由器是很少见，交换机都省了。 机身侧面有防雷接...]]></content>
     </entry>
 </feed>
