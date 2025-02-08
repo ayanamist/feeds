@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-02-08T05:36:10.516Z</updated>
+    <updated>2025-02-08T17:34:50.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-ER6220T拆机万兆企业VPN路由器]]></title>
+        <id>https://www.acwifi.net/30432.html</id>
+        <link href="https://www.acwifi.net/30432.html"/>
+        <updated>2025-02-08T17:34:40.556Z</updated>
+        <content type="html"><![CDATA[TP-LINK 的TL-ER6220T跟TL-ER2260T，在价格上相差了一倍多。拆机看看硬件有什么差异。 ER6220T机身和外包装都比ER2260T大： 挺多配件： &nbsp; 接地线很粗： 机身很大：（440 x 227 x 44 mm） 接口配置方面也比较丰富，除了有...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米BE6500拆机,67了撬崩无线芯片]]></title>
         <id>https://www.acwifi.net/30388.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30146.html"/>
         <updated>2025-01-01T17:35:38.259Z</updated>
         <content type="html"><![CDATA[TP-LINK、水星和hasivo这三台交换机都是”8+1″的2.5G网管交换机，我手里的hasivo只有带PoE的”8+1″，我不把PoE的功能截出来。 都是简单的截图，并没有细分到详细&nbsp;的设置。 水星SE109 Pro的系统菜单...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实测多款Wi-Fi 7无线路由器QoS限速后的小包转发率 总有意想不到的]]></title>
-        <id>https://www.acwifi.net/30115.html</id>
-        <link href="https://www.acwifi.net/30115.html"/>
-        <updated>2024-12-30T17:35:49.990Z</updated>
-        <content type="html"><![CDATA[中兴路由器的固件更新真是积极，各个型号都不断更新新的功能，比如这台中兴BE5100Pro+: V1.0.0.2B4.8000版本的更新内容如下： [新增]通过APP唤醒接入设备(WOL) [新增]双WAN端口绑定场景下NAT66 [新增]IPv6状态防火墙独立开关 [新增]用户自...]]></content>
     </entry>
 </feed>
