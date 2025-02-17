@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-02-16T17:36:08.282Z</updated>
+    <updated>2025-02-17T05:39:28.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -39,13 +39,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.3-2.9）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（2.10-2.16）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/02</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/02"/>
         <updated>2025-02-04T05:38:04.354Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18707321">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18719678">
 摘要：        
-热点随笔： ·&nbsp;手把手教你部署 DeepSeek 本地模型&nbsp;(AlfredZhao)·&nbsp;如何在WPS和Word/Excel中直接使用DeepSeek功能&nbsp;(麻雀小妖)·&nbsp;Ubuntu Linux部署DeepSeek&nbsp;(DECHIN)·&nbsp;通过Ollama本地部署DeepSeek R1以及简单使用的教程    <a href="https://www.cnblogs.com/cmt/p/18707321" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;本地部署 DeepSeek：小白也能轻松搞定！&nbsp;(程序员晓凡)·&nbsp;这或许是全网最全的 DeepSeek 使用指南，95% 的人都不知道的使用技巧&nbsp;(狂师)·&nbsp;本地搭建DeepSeek和知识库 Dify做智能体Agent(推荐)&nbsp;(黑水滴)·&nbsp;DeepSeek-R1本地部署如何选择适合    <a href="https://www.cnblogs.com/cmt/p/18719678" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -56,16 +56,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18694542">
 摘要：        
 热点随笔： ·&nbsp;DeepSeek V3 两周使用总结&nbsp;(曾左)·&nbsp;我干了两个月的大项目，开源了！&nbsp;(程序员鱼皮)·&nbsp;不到万不得已，千万不要去外包&nbsp;(小码A梦)·&nbsp;盘点！HelloGitHub 年度热门开源项目&nbsp;(削微寒)·&nbsp;千万级的大表，如何做性能调优？&nbsp;(苏三说技术)·&nbsp;回顾我的软件开发经历（1）    <a href="https://www.cnblogs.com/cmt/p/18694542" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（12.23-12.29）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2024/12</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2024/12"/>
-        <updated>2024-12-02T05:41:25.376Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18640591">
-摘要：        
-热点随笔： ·&nbsp;跟着 8.6k Star 的开源数据库，搞 RAG！&nbsp;(削微寒)·&nbsp;3款.NET开源、功能强大的通讯调试工具，效率提升利器！&nbsp;(追逐时光者)·&nbsp;在 .NET Core 中使用 Channel 实现生产者消费者模式&nbsp;(贾光辉)·&nbsp;为什么推荐在 .NET 中使用 YAML 配置文件&nbsp;(c    <a href="https://www.cnblogs.com/cmt/p/18640591" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
