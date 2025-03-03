@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-03-02T17:36:19.680Z</updated>
+    <updated>2025-03-03T05:39:29.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -36,6 +36,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18341478">
 摘要：        
 在8月1日发布救援行动-赞助商计划后，我们并没有抱什么奢望，更没有妄想很快能找到赞助商，只是为救园多一点可能的希望，万一找到一家赞助商，就会多一份救园力量。没想到第2天就有幸遇到一家有意向的企业    <a href="https://www.cnblogs.com/cmt/p/18341478" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（2.24-3.2）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/03</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/03"/>
+        <updated>2025-03-03T05:39:28.984Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18747436">
+摘要：        
+热点随笔： ·&nbsp;微软正式发布.NET 10 Preview 1：开启下一代开发框架新篇章&nbsp;(张善友)·&nbsp;DeepSeek “源神”启动！「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;没有源码，如何修改代码逻辑？&nbsp;(踩刀诗人)·&nbsp;我与微信审核的“相爱相杀”看个人小程序副业&nbsp;(！win ！)·&nbsp;CSnake    <a href="https://www.cnblogs.com/cmt/p/18747436" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
