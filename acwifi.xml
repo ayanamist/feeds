@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-03-04T05:38:56.855Z</updated>
+    <updated>2025-03-05T05:39:27.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-R5408PE-AC一体路由器拆机v2.0版本]]></title>
+        <id>https://www.acwifi.net/30691.html</id>
+        <link href="https://www.acwifi.net/30691.html"/>
+        <updated>2025-03-05T05:39:16.289Z</updated>
+        <content type="html"><![CDATA[拆机这台TP-LINK的TL-R5408PE-AC跟之前拆过的旧版v1.0有什么差别，以下简称R5408PE v2.0。 R5408PE v2.0的外观： 配件 ： 电源输出规格是53.3V/2.4A，实测空口待机功率为4.8W，接两个2.5G网口后的功率为5.9W。 机身前脸：...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荣耀路由5 拆机BE3600千兆版]]></title>
         <id>https://www.acwifi.net/30657.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30333.html"/>
         <updated>2025-01-15T17:35:51.172Z</updated>
         <content type="html"><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp;2024年是WIFI7元年，新华三集团作为数字化解决方案领导者，也是国内企业级路由器领军品牌。在经历差不多半年时间的等待，终于等到H3C WA7220 WIFI7企业级AP上市的消息，赶紧入手一台。 &nbsp; &nbsp; &nbsp; &nbsp;H3C WA7220无线产品是新华三技术有限公司（H...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TL-7AP5100HC拆机WI-Fi 7 吸顶AP]]></title>
-        <id>https://www.acwifi.net/30292.html</id>
-        <link href="https://www.acwifi.net/30292.html"/>
-        <updated>2025-01-12T17:34:29.362Z</updated>
-        <content type="html"><![CDATA[TP-LINK的TL-7AP5100HC好便宜呀，2.5G网口的BE5100吸顶AP才368元，拆机看看吧 机身和配件： 外壳就是用XAP5400GC、XAP3020GC这种： 一圈透气孔： 一个12V DC 5.5/2.1mm口，一个2.5G网口可WAN可LAN，支持PoE，一...]]></content>
     </entry>
 </feed>
