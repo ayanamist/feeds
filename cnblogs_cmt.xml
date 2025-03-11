@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-03-11T05:38:21.414Z</updated>
+    <updated>2025-03-11T17:38:37.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -39,13 +39,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.3-3.9）]]></title>
+        <title type="html"><![CDATA[Chat2DB 3.0 发布：SQL 界的「Cursor」到底有多炸？]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/03</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/03"/>
         <updated>2025-03-03T05:39:28.984Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18762191">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18765612">
 摘要：        
-热点随笔： ·&nbsp;阿里最新开源QwQ-32B，效果媲美deepseek-r1满血版，部署成本又又又降低了！&nbsp;(程序猿DD)·&nbsp;全程不用写代码，我用AI程序员写了一个飞机大战&nbsp;(北京-宏哥)·&nbsp;DeepSeek 开源周回顾「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;AI编程工具终极对决：字节Trae VS    <a href="https://www.cnblogs.com/cmt/p/18762191" class="c_b_p_desc_readmore">阅读全文</a>
+经两个月打磨，今天，Chat2DB 3.0 终于发布了！这不是一次普通更新，而是一场针对&nbsp;SQL 开发痛点的「精准爆破」——从核心产品能力到使用体验的细枝末节，我们重构了每一个细节，SQL 开发者终于有了自己的「Cursor」    <a href="https://www.cnblogs.com/cmt/p/18765612" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
