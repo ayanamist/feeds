@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-03-25T05:39:39.527Z</updated>
+    <updated>2025-03-25T17:38:49.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK 7DR7260 v2.0拆机,跟v1.0有什么不同？]]></title>
+        <id>https://www.acwifi.net/30908.html</id>
+        <link href="https://www.acwifi.net/30908.html"/>
+        <updated>2025-03-25T17:38:40.030Z</updated>
+        <content type="html"><![CDATA[TP-LINk TL-7DR7260 v2.0的整个包装重量是1078克，比v1.0的重量轻了111克。 机身配件里面的网线，由v1.0的单股24AWG六类网线蓝色，换成了多股线26AWG，没标明多少类的柔软的黄色网线： 电源方面没变化，7DR7260的v2.0和v1.0版本都是...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL-7DR7280拆机,CPU决定了不能给你10G口]]></title>
         <id>https://www.acwifi.net/30763.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30512.html"/>
         <updated>2025-02-20T17:36:39.880Z</updated>
         <content type="html"><![CDATA[直接拆机华为AX1。看图就好！多说无益。 有时候，会有人问怎么恢复出厂设置，你看看WPS键的另一个作用就知道了，如下图： 华为AX1的四个千兆口，接的是这颗千兆交换芯片RTL8367RB。（LAYER 2 MANAGED 5+2-PORT 10/100/1000 SWITCH C...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-7DR5132拆机墙插式Wi-Fi 7无线路由器]]></title>
-        <id>https://www.acwifi.net/30463.html</id>
-        <link href="https://www.acwifi.net/30463.html"/>
-        <updated>2025-02-20T05:38:05.197Z</updated>
-        <content type="html"><![CDATA[TP-LINK TL-7DR5132易展版，它的外观像一个无线扩展器，实质它可以做无线路由器也可以做有线AP或无线中继器，是L蛋都可以的。特点就是拥有86面板的宽带，直插墙面插座而不影响旁边的插座使用。 机身和配件： 只有一个2.5G网口，可WAN可LAN。 &nbsp; 易展按...]]></content>
     </entry>
 </feed>
