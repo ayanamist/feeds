@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-03-30T17:36:33.769Z</updated>
+    <updated>2025-03-31T05:40:10.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.17-3.23）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（3.24-3.30）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/03</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/03"/>
         <updated>2025-03-03T05:39:28.984Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18788961">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18801720">
 摘要：        
-热点随笔： ·&nbsp;历时 8 年，我冲上开源榜前 8 了！&nbsp;(程序员鱼皮)·&nbsp;Apifox不支持离线，Apipost可以！&nbsp;(Codebill)·&nbsp;分享一个我遇到过的“量子力学”级别的BUG。&nbsp;(why技术)·&nbsp;对象命名为何需要避免'-er'和'-or'后缀&nbsp;(CareySon)·&nbsp;Trae 开发工具与    <a href="https://www.cnblogs.com/cmt/p/18788961" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;“你见过凌晨四点的洛杉矶吗？”--《我们为什么要睡觉》&nbsp;(CuriosityWang)·&nbsp;编程神器Trae：当我用上后，才知道自己的创造力被低估了多少&nbsp;(AI粉嫩特攻队)· 用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互&nbsp;(绿荫阿广)·&nbsp;从    <a href="https://www.cnblogs.com/cmt/p/18801720" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
