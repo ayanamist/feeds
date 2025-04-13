@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-13T05:42:51.858Z</updated>
+    <updated>2025-04-13T17:36:49.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL-7DR7230 v2.0拆机,跟v1.0版本有什么不同? (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -97,13 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.31-4.6） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[博客园2025新款「AI繁忙」系列T恤上架 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/04</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/04"/>
         <updated>2025-04-07T05:40:17.559Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18812317">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18823520">
 摘要：        
-热点随笔： ·&nbsp;35岁程序员的中年求职记：四次碰壁后的深度反思&nbsp;(Minily)·&nbsp;后端思维之高并发处理方案&nbsp;(陈珙)·&nbsp;Cursor预测程序员行业倒计时：CTO应做好50%裁员计划&nbsp;(叶小钗)·&nbsp;千万级大表的优化技巧&nbsp;(苏三说技术)·&nbsp;10年+ .NET Coder 心语 ── 继承的思维：从思维    <a href="https://www.cnblogs.com/cmt/p/18812317" class="c_b_p_desc_readmore">阅读全文</a>
+园子的2025新款T恤上架啦！去年的第一款T恤以「代码」为主题，文案选择了 Linus Torvarlds 的名言「Talk is cheap. Show me the code.」，展示「动手写代码」的重要性。今年的第一款T恤以「AI」为主题，文案选择了 DeepSeek 聊天机器人曾经的口头禅「服务器繁忙，请稍后再试」，记录一下2025年第一季度 DeepSeek 给 AI 领域带来的惊喜与火爆    <a href="https://www.cnblogs.com/cmt/p/18823520" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -114,16 +114,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18801720">
 摘要：        
 热点随笔： ·&nbsp;“你见过凌晨四点的洛杉矶吗？”--《我们为什么要睡觉》&nbsp;(CuriosityWang)·&nbsp;编程神器Trae：当我用上后，才知道自己的创造力被低估了多少&nbsp;(AI粉嫩特攻队)· 用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互&nbsp;(绿荫阿广)·&nbsp;从    <a href="https://www.cnblogs.com/cmt/p/18801720" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（2.17-2.23） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/02</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/02"/>
-        <updated>2025-02-04T05:38:04.354Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18733659">
-摘要：        
-热点随笔： ·&nbsp;DeepSeek 解答了困扰我五年的技术问题。时代确实变了！&nbsp;(why技术)·&nbsp;本地部署DeepSeek后，没有好看的交互界面怎么行！&nbsp;(程序员晓凡)·&nbsp;为什么说在企业级应用开发中，后端往往是效率杀手？&nbsp;(张飞洪[厦门])·&nbsp;PPT革命！DeepSeek+Kimi=N小时工作5分钟完    <a href="https://www.cnblogs.com/cmt/p/18733659" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
