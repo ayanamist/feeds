@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-17T05:42:44.327Z</updated>
+    <updated>2025-04-17T17:40:04.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK S30套装拆机R405GP-AC、XDR3000S-PoE (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31035.html</id>
+        <link href="https://www.acwifi.net/31035.html"/>
+        <updated>2025-04-17T17:39:54.671Z</updated>
+        <content type="html"><![CDATA[S30套装的外包装如下： S30套装里面包含了一台五口的主路由（R405GP-AC）和三台子路由（XDR3000S-PoE）。 内包装： 机身和配件： 一台主机和三台子路由，也可以叫做一台AC、路由PoE一体机和三台86面板AP，本来就是。 电源输出规格是53.5V/1.22A，...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为X1Pro新品上市，值得买吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31096.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/30723.html"/>
         <updated>2025-03-08T18:41:56.308Z</updated>
         <content type="html"><![CDATA[华硕(ASUS) BE88U和TP-LINK的7DR7280，这两者都是双频4x4MIMO的Wi-Fi 7 无线路由器，前者是博通，后者是高通。至于价格方面，相差不大，华硕比TP这款贵不了多少，少人买7DR7280，我想一来是贵呀，没有10G口所以就不那么值得买，二来当时一下子就...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-R5408PE-AC一体路由器拆机v2.0版本 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/30691.html</id>
-        <link href="https://www.acwifi.net/30691.html"/>
-        <updated>2025-03-05T05:39:16.289Z</updated>
-        <content type="html"><![CDATA[拆机这台TP-LINK的TL-R5408PE-AC跟之前拆过的旧版v1.0有什么差别，以下简称R5408PE v2.0。 R5408PE v2.0的外观： 配件 ： 电源输出规格是53.3V/2.4A，实测空口待机功率为4.8W，接两个2.5G网口后的功率为5.9W。 机身前脸：...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
