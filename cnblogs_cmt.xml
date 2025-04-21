@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-04-20T17:37:23.094Z</updated>
+    <updated>2025-04-21T05:42:50.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.7-4.13）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（4.14-4.20）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/04</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/04"/>
         <updated>2025-04-07T05:40:17.559Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18824278">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18838146">
 摘要：        
-热点随笔： ·&nbsp;基于Docker+DeepSeek+Dify ：搭建企业级本地私有化知识库超详细教程&nbsp;(不愿透露姓名的菜鸟)·&nbsp;短信接口被刷爆：我用Nginx临时止血&nbsp;(ASER_1989)·&nbsp;如何开发 MCP 服务？保姆级教程！&nbsp;(程序员鱼皮)·&nbsp;一文彻底搞懂 MCP：AI 大模型的标准化工具箱&nbsp;    <a href="https://www.cnblogs.com/cmt/p/18824278" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;7 个最近很火的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;DeepSeekV3：写代码很强了&nbsp;(七号楼)·&nbsp;解锁.NET 9性能优化黑科技：从内存管理到Web性能的最全指南&nbsp;(AI·NET极客圈)·&nbsp;.net clr 8年才修复的BUG，你让我损失太多了&nbsp;(fanly11)·    <a href="https://www.cnblogs.com/cmt/p/18838146" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
