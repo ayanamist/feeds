@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-04-22T05:41:35.908Z</updated>
+    <updated>2025-04-22T17:39:06.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7TR13090的K点速度,双5G MLO在远距离会有提升吗？]]></title>
+        <id>https://www.acwifi.net/31127.html</id>
+        <link href="https://www.acwifi.net/31127.html"/>
+        <updated>2025-04-22T17:38:57.293Z</updated>
+        <content type="html"><![CDATA[7TR13090一直没有测过K点。它是一款三频4x4MIMO，在相同的无线射频前端配置下，无线会比双频的弱一些。（7TR13090和7DR7280的5G无线芯片和FEM都是QCN9274和SKY85797-11） K点平面图： 由于是三频，拥有两个5G频段，我分频都测了。5G1信...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕BE88U更新固件后再测速]]></title>
         <id>https://www.acwifi.net/31116.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30733.html"/>
         <updated>2025-03-11T17:38:27.358Z</updated>
         <content type="html"><![CDATA[一、拆机 烽火5G CPE Air的外包装： 产品特点： 拿出机身和配件：DC电源输出规格是12V/2A，实测空口时待机功率为 4.96W。 插入2个网口后的待机功率为5.36W： 圆润的机身： 机身顶部有一圈隐藏散热孔： &nbsp; &nbsp; 前脸的状态指示灯: 机身背面...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7TR13090现在到手价1699元]]></title>
-        <id>https://www.acwifi.net/30739.html</id>
-        <link href="https://www.acwifi.net/30739.html"/>
-        <updated>2025-03-11T05:38:11.098Z</updated>
-        <content type="html"><![CDATA[&nbsp; &nbsp; &nbsp; &nbsp;7TR13090现在预售2299元，付100元定金可抵600元，等于实付1699元。 &nbsp; &nbsp; &nbsp; &nbsp;拆机链接: TP-LINK 7TR13090拆机Wi-Fi7双10G三频无线路由器 &nbsp; &nbsp; &nbsp; &nbsp;在无线和接口方面，这台都是顶配了。但不代表无线信号就很强，追求单台信...]]></content>
     </entry>
 </feed>
