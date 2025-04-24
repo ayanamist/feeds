@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-04-23T17:41:02.958Z</updated>
+    <updated>2025-04-24T17:37:31.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新品中兴（ZTE）问天BE6800Pro+ 上市开售]]></title>
+        <id>https://www.acwifi.net/31150.html</id>
+        <link href="https://www.acwifi.net/31150.html"/>
+        <updated>2025-04-24T17:37:21.410Z</updated>
+        <content type="html"><![CDATA[中兴BE6800Pro+，采用联发科的无线方案，如上图。6nm目前就联发科有。BE6800的无线规格，即2.4G 3x3MIMO 1032Mbps，5G 4x4MIMO&nbsp; 5765Mbps。 由于联发科的5G射频是采用4T5R，所以呢，下图就了这样的描述：“7空间流8内置放大器”...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7TR13090的K点速度,双5G MLO在远距离会有提升吗？]]></title>
         <id>https://www.acwifi.net/31127.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30763.html"/>
         <updated>2025-03-16T17:35:54.387Z</updated>
         <content type="html"><![CDATA[7DR7280的外包装： 机身和配件： 只要是这款机身，里面装的东西都不会差。 电源输出规格是12V/4A，实测空口待机功率为9.3W，插一个2.5G口时功率为10.4W。 双频4x4MIMO，外置了八根单频天线，刚刚好。 背面四个2.5G网口，还有一个USB3.0，可惜没有10...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FiberHome烽火5G CPE Air拆机评测]]></title>
-        <id>https://www.acwifi.net/30733.html</id>
-        <link href="https://www.acwifi.net/30733.html"/>
-        <updated>2025-03-11T17:38:27.358Z</updated>
-        <content type="html"><![CDATA[一、拆机 烽火5G CPE Air的外包装： 产品特点： 拿出机身和配件：DC电源输出规格是12V/2A，实测空口时待机功率为 4.96W。 插入2个网口后的待机功率为5.36W： 圆润的机身： 机身顶部有一圈隐藏散热孔： &nbsp; &nbsp; 前脸的状态指示灯: 机身背面...]]></content>
     </entry>
 </feed>
