@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-04-27T17:37:01.794Z</updated>
+    <updated>2025-04-28T05:50:58.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.14-4.20）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（4.21-4.27）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/04</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/04"/>
         <updated>2025-04-07T05:40:17.559Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18838146">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18851183">
 摘要：        
-热点随笔： ·&nbsp;7 个最近很火的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;DeepSeekV3：写代码很强了&nbsp;(七号楼)·&nbsp;解锁.NET 9性能优化黑科技：从内存管理到Web性能的最全指南&nbsp;(AI·NET极客圈)·&nbsp;.net clr 8年才修复的BUG，你让我损失太多了&nbsp;(fanly11)·    <a href="https://www.cnblogs.com/cmt/p/18838146" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;工良出品 | 长文讲解 MCP 和案例实战&nbsp;(痴者工良)·&nbsp;一天 Star 破万的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景&nbsp;(AI·NET极客圈)·&nbsp;记一次 .NET某旅行社酒店管理系统 卡死分析    <a href="https://www.cnblogs.com/cmt/p/18851183" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
