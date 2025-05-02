@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-05-02T05:40:52.170Z</updated>
+    <updated>2025-05-02T17:38:35.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华为X1路由在K点的测速,还有跟华为星光F50的测速,还没拆机]]></title>
+        <id>https://www.acwifi.net/31286.html</id>
+        <link href="https://www.acwifi.net/31286.html"/>
+        <updated>2025-05-02T17:38:26.353Z</updated>
+        <content type="html"><![CDATA[华为X1收到货还没时间拆机，先在快测点K点位置简单测速看看吧，顺便也拿出买了有4个多月的华为星光F50尊享版套装，当时是430元。在购买星光F50之前已经拆过了三款海思的Wi-Fi 7 无线芯片，我相信除了丝印之外，芯片没啥不同，所以呀，F50主光猫还没拆机。 &nbsp; 先放...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新品中兴（ZTE）问天BE6800Pro+ 上市开售]]></title>
         <id>https://www.acwifi.net/31150.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30908.html"/>
         <updated>2025-03-25T17:38:40.030Z</updated>
         <content type="html"><![CDATA[TP-LINk TL-7DR7260 v2.0的整个包装重量是1078克，比v1.0的重量轻了111克。 机身配件里面的网线，由v1.0的单股24AWG六类网线蓝色，换成了多股线26AWG，没标明多少类的柔软的黄色网线： 电源方面没变化，7DR7260的v2.0和v1.0版本都是...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK TL-7DR7280拆机,CPU决定了不能给你10G口]]></title>
-        <id>https://www.acwifi.net/30763.html</id>
-        <link href="https://www.acwifi.net/30763.html"/>
-        <updated>2025-03-16T17:35:54.387Z</updated>
-        <content type="html"><![CDATA[7DR7280的外包装： 机身和配件： 只要是这款机身，里面装的东西都不会差。 电源输出规格是12V/4A，实测空口待机功率为9.3W，插一个2.5G口时功率为10.4W。 双频4x4MIMO，外置了八根单频天线，刚刚好。 背面四个2.5G网口，还有一个USB3.0，可惜没有10...]]></content>
     </entry>
 </feed>
