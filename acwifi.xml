@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-05-03T05:40:05.583Z</updated>
+    <updated>2025-05-03T17:36:45.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华硕TUF BE6500、TUF BE3600、灵耀魔方BD4在K点的测速,改区会变强吗？]]></title>
+        <id>https://www.acwifi.net/31295.html</id>
+        <link href="https://www.acwifi.net/31295.html"/>
+        <updated>2025-05-03T17:36:35.953Z</updated>
+        <content type="html"><![CDATA[华硕两款小旋风Wi-Fi 7 买得早呀没国补，价格显得比较高，买了有一年还没拆机。不用拆机，用抓空包或用winfi软件也可以查看用什么芯片方案。华硕小旋风Pro 即TUF BE6500是用高通，华硕小旋风即TUF BE3600是用博通，BD4是用高通。不知什么时候会拿出来拆机，先...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为X1路由在K点的测速,还有跟华为星光F50的测速,还没拆机]]></title>
         <id>https://www.acwifi.net/31286.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/30816.html"/>
         <updated>2025-03-27T05:39:00.412Z</updated>
         <content type="html"><![CDATA[一、拆机 GL-BE3600 (GL.iNet）的包装、机 如下： 附送的PD电源，C口输出。 电源输出规格是5V/3A、12V/2.5A、15V/2A、20V/1.5A： C口输出协议： 实测空口时的待机功率为4.9W，插一个2.5G口联网后功率为6.7W，插两个2.5G口时功...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK 7DR7260 v2.0拆机,跟v1.0有什么不同？]]></title>
-        <id>https://www.acwifi.net/30908.html</id>
-        <link href="https://www.acwifi.net/30908.html"/>
-        <updated>2025-03-25T17:38:40.030Z</updated>
-        <content type="html"><![CDATA[TP-LINk TL-7DR7260 v2.0的整个包装重量是1078克，比v1.0的重量轻了111克。 机身配件里面的网线，由v1.0的单股24AWG六类网线蓝色，换成了多股线26AWG，没标明多少类的柔软的黄色网线： 电源方面没变化，7DR7260的v2.0和v1.0版本都是...]]></content>
     </entry>
 </feed>
