@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-11T05:40:19.204Z</updated>
+    <updated>2025-05-11T17:36:36.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK K73套装即7DR5150拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31343.html</id>
+        <link href="https://www.acwifi.net/31343.html"/>
+        <updated>2025-05-11T17:36:27.861Z</updated>
+        <content type="html"><![CDATA[TP-LINK K73套装的外包装： K73套装里面包含了两台7DR515易展版： &nbsp; 把两台7DR5150从包装里面拿出来： 两个机身都有封塑膜（我提前撕了一个用来测速） 网线是6类单股AWG24，TP自家产的网线。 &nbsp; 电源输出规格是12V/1A，实测空口...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK的AC一体机可以接在其它主路由使用吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31332.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31035.html"/>
         <updated>2025-04-17T17:39:54.671Z</updated>
         <content type="html"><![CDATA[S30套装的外包装如下： S30套装里面包含了一台五口的主路由（R405GP-AC）和三台子路由（XDR3000S-PoE）。 内包装： 机身和配件： 一台主机和三台子路由，也可以叫做一台AC、路由PoE一体机和三台86面板AP，本来就是。 电源输出规格是53.5V/1.22A，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为X1Pro新品上市，值得买吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31096.html</id>
-        <link href="https://www.acwifi.net/31096.html"/>
-        <updated>2025-04-16T05:40:02.894Z</updated>
-        <content type="html"><![CDATA[我不敢说。 华为X1Pro是四2.5G网口，价格是899元，还有一款不带Pro的华为X1，这是两2.5G网口。两者的无线规格都是BE3600，都支持星闪网关。 如果不需要星闪网关，还是算了吧。 有人问华为X1 Pro用什么芯片。我也不知道呀，要么高通要么海思吧。 支持星闪的话用海...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
