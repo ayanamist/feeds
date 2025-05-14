@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-05-13T05:41:19.844Z</updated>
+    <updated>2025-05-14T05:41:50.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025最新京东618红包领取攻略]]></title>
+        <id>https://www.acwifi.net/31392.html</id>
+        <link href="https://www.acwifi.net/31392.html"/>
+        <updated>2025-05-14T05:41:43.326Z</updated>
+        <content type="html"><![CDATA[京东红包PC端领取链接 京东红包手机端领取链接 或在京东APP上面直接搜索“送红包844”，也可以扫以下二维码领取红包： 1. 活动时间： （1）活动参与时间：2025年5月13日20:00:00-2025年6月18日23:59:59（37天）；千万奖池，先到先得，发完即止。 （...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新品小米全屋路由BE3600 Pro网线版一拖四，你们怎么看？]]></title>
         <id>https://www.acwifi.net/31382.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31127.html"/>
         <updated>2025-04-22T17:38:57.293Z</updated>
         <content type="html"><![CDATA[7TR13090一直没有测过K点。它是一款三频4x4MIMO，在相同的无线射频前端配置下，无线会比双频的弱一些。（7TR13090和7DR7280的5G无线芯片和FEM都是QCN9274和SKY85797-11） K点平面图： 由于是三频，拥有两个5G频段，我分频都测了。5G1信...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕BE88U更新固件后再测速]]></title>
-        <id>https://www.acwifi.net/31116.html</id>
-        <link href="https://www.acwifi.net/31116.html"/>
-        <updated>2025-04-18T17:37:34.082Z</updated>
-        <content type="html"><![CDATA[上次测K点速度时的固件版本是3.0.0.6.102_37103，今天开机发现有新版固件：3.0.0.6.102_37963 ，于是升级了，再测一次速。 结果：除了小米10，其它三台手机测速明显好了。 下图是TP-LINK的7DR7280。 有人会问华硕BE86U跟BE88U怎么选...]]></content>
     </entry>
 </feed>
