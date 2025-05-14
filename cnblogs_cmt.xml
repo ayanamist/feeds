@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-05-14T05:41:50.247Z</updated>
+    <updated>2025-05-14T17:40:07.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
         <title type="html"><![CDATA[[置顶]
-        博客园 & 1Panel 以及 Halo 联合终身会员上线]]></title>
+        博客园 & 1Panel 以及 Halo 联合终身会员上线（1Panel V2 开放公测）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/01</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/01"/>
         <updated>2025-01-06T05:38:29.167Z</updated>
