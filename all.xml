@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-15T05:41:50.578Z</updated>
+    <updated>2025-05-15T17:38:55.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[400多元的联果8口万兆三层全光交换机拆机LG-SWTGW3C8F (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31396.html</id>
+        <link href="https://www.acwifi.net/31396.html"/>
+        <updated>2025-05-15T17:38:47.236Z</updated>
+        <content type="html"><![CDATA[联果这台万兆三层交换机的外包装： 外包装上的标签： 配件： 电源输出规格是12V/2A，实测交换机在空口时的待机功率为3.9W，插满8个10G口时（4个单模和4个多模）总功率为14.2W。 桌面式的交换机，机身尺寸大约是22.2×12.5×2.9cm： 正脸：...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025最新京东618红包领取攻略 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31392.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31150.html"/>
         <updated>2025-04-24T17:37:21.410Z</updated>
         <content type="html"><![CDATA[中兴BE6800Pro+，采用联发科的无线方案，如上图。6nm目前就联发科有。BE6800的无线规格，即2.4G 3x3MIMO 1032Mbps，5G 4x4MIMO&nbsp; 5765Mbps。 由于联发科的5G射频是采用4T5R，所以呢，下图就了这样的描述：“7空间流8内置放大器”...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7TR13090的K点速度,双5G MLO在远距离会有提升吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31127.html</id>
-        <link href="https://www.acwifi.net/31127.html"/>
-        <updated>2025-04-22T17:38:57.293Z</updated>
-        <content type="html"><![CDATA[7TR13090一直没有测过K点。它是一款三频4x4MIMO，在相同的无线射频前端配置下，无线会比双频的弱一些。（7TR13090和7DR7280的5G无线芯片和FEM都是QCN9274和SKY85797-11） K点平面图： 由于是三频，拥有两个5G频段，我分频都测了。5G1信...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
