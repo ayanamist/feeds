@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-05-26T05:42:26.318Z</updated>
+    <updated>2025-05-26T17:39:08.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.5-5.11）]]></title>
+        <title type="html"><![CDATA[上周热点回顾（5.19-5.25）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/05</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/05"/>
         <updated>2025-05-05T05:41:57.759Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18872299">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18896812">
 摘要：        
-热点随笔： ·&nbsp;C#/.NET/.NET Core优秀项目和框架2025年4月简报&nbsp;(追逐时光者)·&nbsp;C# 14 新增功能一览，你觉得实用吗？&nbsp;(追逐时光者)·&nbsp;Excel百万数据高性能导出方案！&nbsp;(苏三说技术)·&nbsp;日常问题排查-空闲一段时间再请求就超时&nbsp;(无毁的湖光-Al)·&nbsp;如何把ASP.NET    <a href="https://www.cnblogs.com/cmt/p/18872299" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;为什么互联网这么卷？&nbsp;(Jimmy Zhang)·&nbsp;.NET 的全新低延时高吞吐自适应 GC - Satori GC&nbsp;(hez2010)·&nbsp;聊一聊 微软的裁员计划对技术团队的冲击&nbsp;(张善友)·&nbsp;重磅消息，微软宣布 VS Code Copilot 开源，剑指 Cursor！&nbsp;(追逐时光    <a href="https://www.cnblogs.com/cmt/p/18896812" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
