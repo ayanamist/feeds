@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-02T05:45:05.268Z</updated>
+    <updated>2025-06-02T17:40:54.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -25,6 +25,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18341478">
 摘要：        
 在8月1日发布救援行动-赞助商计划后，我们并没有抱什么奢望，更没有妄想很快能找到赞助商，只是为救园多一点可能的希望，万一找到一家赞助商，就会多一份救园力量。没想到第2天就有幸遇到一家有意向的企业    <a href="https://www.cnblogs.com/cmt/p/18341478" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（5.26-6.1）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
+        <updated>2025-06-02T17:40:53.727Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18907031">
+摘要：        
+热点随笔： ·&nbsp;40岁后，想清楚这5件事，比努力更重要&nbsp;(Jaryleely)·&nbsp;SharpIco：用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译&nbsp;(程序设计实验室)·&nbsp;《HelloGitHub》第 110 期&nbsp;(削微寒)·&nbsp;.NET8带来的一些新特性&nbsp;(熊泽-学习中的苦与乐)·    <a href="https://www.cnblogs.com/cmt/p/18907031" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>

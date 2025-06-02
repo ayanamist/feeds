@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-02T05:45:05.271Z</updated>
+    <updated>2025-06-02T17:40:54.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[1147元下单了小米全屋路由套装，要更便宜就别漏了这个券 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31576.html</id>
+        <link href="https://www.acwifi.net/31576.html"/>
+        <updated>2025-06-02T17:40:46.751Z</updated>
+        <content type="html"><![CDATA[这款小米全屋路由BE3600Pro网线版套装，原价1599元（一拖三），在5月30日的时候也有很不错的价格，当时领了两张券，叠加上去可以做到1140元左右的价格，在快忙完编辑路由器选购攻略的时候，国补突然取消了。那个心里难受呀！直到昨天才恢复了国补，但昨天找不到原先的1500-9...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年上半年无线路由器选购攻略 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31550.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[TP-LINK K73套装的外包装： K73套装里面包含了两台7DR515易展版： &nbsp; 把两台7DR5150从包装里面拿出来： 两个机身都有封塑膜（我提前撕了一个用来测速） 网线是6类单股AWG24，TP自家产的网线。 &nbsp; 电源输出规格是12V/1A，实测空口...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TP-LINK的AC一体机可以接在其它主路由使用吗？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31332.html</id>
-        <link href="https://www.acwifi.net/31332.html"/>
-        <updated>2025-05-10T17:36:12.966Z</updated>
-        <content type="html"><![CDATA[有时遇到有朋友提这个问题，可以是可以，就是浪费了，除非你本身就有，不想浪费掉，如果专门购买来使用的话，真的没必要。本文拿R5005P-AC举例，各设备连接示意图如下： 还是用古老的办法：AC一体机关闭DHCP服务。 进R5005P的设置页，在基本设置里的LAN设置下，把DHCP服...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         博客园 & 1Panel 以及 Halo 联合终身会员上线 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/01</id>
@@ -94,6 +94,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18341478">
 摘要：        
 在8月1日发布救援行动-赞助商计划后，我们并没有抱什么奢望，更没有妄想很快能找到赞助商，只是为救园多一点可能的希望，万一找到一家赞助商，就会多一份救园力量。没想到第2天就有幸遇到一家有意向的企业    <a href="https://www.cnblogs.com/cmt/p/18341478" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（5.26-6.1） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
+        <updated>2025-06-02T17:40:53.727Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18907031">
+摘要：        
+热点随笔： ·&nbsp;40岁后，想清楚这5件事，比努力更重要&nbsp;(Jaryleely)·&nbsp;SharpIco：用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译&nbsp;(程序设计实验室)·&nbsp;《HelloGitHub》第 110 期&nbsp;(削微寒)·&nbsp;.NET8带来的一些新特性&nbsp;(熊泽-学习中的苦与乐)·    <a href="https://www.cnblogs.com/cmt/p/18907031" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
