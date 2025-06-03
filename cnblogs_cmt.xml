@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-03T05:43:34.700Z</updated>
+    <updated>2025-06-03T17:42:09.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.26-6.1）]]></title>
+        <title type="html"><![CDATA[博客园的心动：当一群程序员决定开源共建一个相亲平台]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
         <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18907031">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18894723">
 摘要：        
-热点随笔： ·&nbsp;40岁后，想清楚这5件事，比努力更重要&nbsp;(Jaryleely)·&nbsp;SharpIco：用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译&nbsp;(程序设计实验室)·&nbsp;《HelloGitHub》第 110 期&nbsp;(削微寒)·&nbsp;.NET8带来的一些新特性&nbsp;(熊泽-学习中的苦与乐)·    <a href="https://www.cnblogs.com/cmt/p/18907031" class="c_b_p_desc_readmore">阅读全文</a>
+一个三人开发团队，本着「开源精神」，打着「程序员整顿婚恋市场」的旗号，创造了「山川屿你」。一款针对互联网企业、科技企业的「干净、简单、真诚」的相亲小程序。山川屿你，可能是全网唯一敢说「无会员功能卡点、无红娘骚扰、无机器人」的婚恋小程序    <a href="https://www.cnblogs.com/cmt/p/18894723" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -55,16 +55,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18851183">
 摘要：        
 热点随笔： ·&nbsp;工良出品 | 长文讲解 MCP 和案例实战&nbsp;(痴者工良)·&nbsp;一天 Star 破万的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景&nbsp;(AI·NET极客圈)·&nbsp;记一次 .NET某旅行社酒店管理系统 卡死分析    <a href="https://www.cnblogs.com/cmt/p/18851183" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.24-3.30）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/03</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/03"/>
-        <updated>2025-03-03T05:39:28.984Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18801720">
-摘要：        
-热点随笔： ·&nbsp;“你见过凌晨四点的洛杉矶吗？”--《我们为什么要睡觉》&nbsp;(CuriosityWang)·&nbsp;编程神器Trae：当我用上后，才知道自己的创造力被低估了多少&nbsp;(AI粉嫩特攻队)· 用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互&nbsp;(绿荫阿广)·&nbsp;从    <a href="https://www.cnblogs.com/cmt/p/18801720" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>

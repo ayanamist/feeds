@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-06-03T05:43:34.701Z</updated>
+    <updated>2025-06-03T17:42:09.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[不好意思呀：现在还有不支持在AP模式下MESH组网的！]]></title>
+        <id>https://www.acwifi.net/31590.html</id>
+        <link href="https://www.acwifi.net/31590.html"/>
+        <updated>2025-06-03T17:42:02.247Z</updated>
+        <content type="html"><![CDATA[前几天就发布了一篇选购攻略嘛： 2025年上半年无线路由器选购攻略 之后有人问我现在有哪些可以支持AP模式下MESH组网的，我回答说现在都可以。。。昨晚又有人说在AP模式下不能MESH组网，我说不可能。。。。于是拿出两台试了。。果然不可能，不管是无线还是有线，也不支持MESH组网...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1147元下单了小米全屋路由套装，要更便宜就别漏了这个券]]></title>
         <id>https://www.acwifi.net/31576.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31382.html"/>
         <updated>2025-05-12T17:39:26.571Z</updated>
         <content type="html"><![CDATA[小米商城上了一款众筹：小米全屋路由BE3600 Pro网线版，一拖四PoE供电，众筹价1799元。这是一套一拖四的Mesh套装。 总结一下特点：主路由内置了中枢网关，四个子路由都内置了蓝牙Mesh网关，主路由和子路由的所有网口均支持2.5G。 但有个明显的弱项：只有4个LAN口，...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-LINK K73套装即7DR5150拆机]]></title>
-        <id>https://www.acwifi.net/31343.html</id>
-        <link href="https://www.acwifi.net/31343.html"/>
-        <updated>2025-05-11T17:36:27.861Z</updated>
-        <content type="html"><![CDATA[TP-LINK K73套装的外包装： K73套装里面包含了两台7DR515易展版： &nbsp; 把两台7DR5150从包装里面拿出来： 两个机身都有封塑膜（我提前撕了一个用来测速） 网线是6类单股AWG24，TP自家产的网线。 &nbsp; 电源输出规格是12V/1A，实测空口...]]></content>
     </entry>
 </feed>

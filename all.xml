@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-03T05:43:34.704Z</updated>
+    <updated>2025-06-03T17:42:09.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[不好意思呀：现在还有不支持在AP模式下MESH组网的！ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31590.html</id>
+        <link href="https://www.acwifi.net/31590.html"/>
+        <updated>2025-06-03T17:42:02.247Z</updated>
+        <content type="html"><![CDATA[前几天就发布了一篇选购攻略嘛： 2025年上半年无线路由器选购攻略 之后有人问我现在有哪些可以支持AP模式下MESH组网的，我回答说现在都可以。。。昨晚又有人说在AP模式下不能MESH组网，我说不可能。。。。于是拿出两台试了。。果然不可能，不管是无线还是有线，也不支持MESH组网...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1147元下单了小米全屋路由套装，要更便宜就别漏了这个券 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31576.html</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[小米商城上了一款众筹：小米全屋路由BE3600 Pro网线版，一拖四PoE供电，众筹价1799元。这是一套一拖四的Mesh套装。 总结一下特点：主路由内置了中枢网关，四个子路由都内置了蓝牙Mesh网关，主路由和子路由的所有网口均支持2.5G。 但有个明显的弱项：只有4个LAN口，...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TP-LINK K73套装即7DR5150拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31343.html</id>
-        <link href="https://www.acwifi.net/31343.html"/>
-        <updated>2025-05-11T17:36:27.861Z</updated>
-        <content type="html"><![CDATA[TP-LINK K73套装的外包装： K73套装里面包含了两台7DR515易展版： &nbsp; 把两台7DR5150从包装里面拿出来： 两个机身都有封塑膜（我提前撕了一个用来测速） 网线是6类单股AWG24，TP自家产的网线。 &nbsp; 电源输出规格是12V/1A，实测空口...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[置顶]
         博客园 & 1Panel 以及 Halo 联合终身会员上线 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/01</id>
@@ -97,13 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.26-6.1） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[博客园的心动：当一群程序员决定开源共建一个相亲平台 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
         <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18907031">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18894723">
 摘要：        
-热点随笔： ·&nbsp;40岁后，想清楚这5件事，比努力更重要&nbsp;(Jaryleely)·&nbsp;SharpIco：用纯C#打造零依赖的.ico图标生成器，支持.NET9与AOT编译&nbsp;(程序设计实验室)·&nbsp;《HelloGitHub》第 110 期&nbsp;(削微寒)·&nbsp;.NET8带来的一些新特性&nbsp;(熊泽-学习中的苦与乐)·    <a href="https://www.cnblogs.com/cmt/p/18907031" class="c_b_p_desc_readmore">阅读全文</a>
+一个三人开发团队，本着「开源精神」，打着「程序员整顿婚恋市场」的旗号，创造了「山川屿你」。一款针对互联网企业、科技企业的「干净、简单、真诚」的相亲小程序。山川屿你，可能是全网唯一敢说「无会员功能卡点、无红娘骚扰、无机器人」的婚恋小程序    <a href="https://www.cnblogs.com/cmt/p/18894723" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -124,16 +124,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18851183">
 摘要：        
 热点随笔： ·&nbsp;工良出品 | 长文讲解 MCP 和案例实战&nbsp;(痴者工良)·&nbsp;一天 Star 破万的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景&nbsp;(AI·NET极客圈)·&nbsp;记一次 .NET某旅行社酒店管理系统 卡死分析    <a href="https://www.cnblogs.com/cmt/p/18851183" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（3.24-3.30） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/03</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/03"/>
-        <updated>2025-03-03T05:39:28.984Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18801720">
-摘要：        
-热点随笔： ·&nbsp;“你见过凌晨四点的洛杉矶吗？”--《我们为什么要睡觉》&nbsp;(CuriosityWang)·&nbsp;编程神器Trae：当我用上后，才知道自己的创造力被低估了多少&nbsp;(AI粉嫩特攻队)· 用纯.NET开发并制作一个智能桌面机器人（四）：结合BotSharp智能体框架开发语音交互&nbsp;(绿荫阿广)·&nbsp;从    <a href="https://www.cnblogs.com/cmt/p/18801720" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
