@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-16T05:44:00.256Z</updated>
+    <updated>2025-06-16T17:41:10.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.9-6.15）]]></title>
+        <title type="html"><![CDATA[开源 Linux 服务器运维管理面板 1Panel V2 版本正式发布]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
         <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18930751">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18931232">
 摘要：        
-热点随笔： ·&nbsp;【故障公告】6月9日 17:24~17:34 再次遭遇攻击（晚上遭遇更疯狂的攻击）&nbsp;(博客园团队)·&nbsp;时隔半年，拾笔分享：来自一个大龄程序员的迷茫自问&nbsp;(JavaBuild)·&nbsp;一则复杂 SQL 改写后有感&nbsp;(dayceng)·&nbsp;接口被刷百万QPS，怎么防？&nbsp;(苏三说技术)·&nbsp;3 个    <a href="https://www.cnblogs.com/cmt/p/18930751" class="c_b_p_desc_readmore">阅读全文</a>
+2025年6月10日，现代化、开源的Linux服务器运维管理面板1Panel迎来了项目演进历程中的里程碑时刻，1Panel V2版本正式发布。在V2版本中，1Panel全面支持多机统一管理。“让1Panel能够管理多台服务器”，是1Panel开源项目组对用户需求的积极反馈。长期以来，社区用户一直强烈希望1Panel在单机环境中所营造的简单、高效的运维管理体验，能够延伸至多机管理场景中    <a href="https://www.cnblogs.com/cmt/p/18931232" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
