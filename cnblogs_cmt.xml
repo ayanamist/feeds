@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-15T17:38:48.737Z</updated>
+    <updated>2025-06-16T05:44:00.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[完成微博外链备案，微博中直接可以打开园子的链接]]></title>
+        <title type="html"><![CDATA[上周热点回顾（6.9-6.15）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
         <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18929466">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18930751">
 摘要：        
-不知从什么时候开始，微博增加了外链白名单机制，需要网站运营主体完成企业认证与外链备案，才能直接在微博中打开。不然，打开链接时会出现「访问的网址不受信任」的提示，而且提示中没有提供直接的链接，需要手动复制粘贴网址到浏览器地址栏才能访问。在一位园友的推动下，我们提交 了「博客园」微博账号的企业认证    <a href="https://www.cnblogs.com/cmt/p/18929466" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;【故障公告】6月9日 17:24~17:34 再次遭遇攻击（晚上遭遇更疯狂的攻击）&nbsp;(博客园团队)·&nbsp;时隔半年，拾笔分享：来自一个大龄程序员的迷茫自问&nbsp;(JavaBuild)·&nbsp;一则复杂 SQL 改写后有感&nbsp;(dayceng)·&nbsp;接口被刷百万QPS，怎么防？&nbsp;(苏三说技术)·&nbsp;3 个    <a href="https://www.cnblogs.com/cmt/p/18930751" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
@@ -45,16 +45,6 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18896812">
 摘要：        
 热点随笔： ·&nbsp;为什么互联网这么卷？&nbsp;(Jimmy Zhang)·&nbsp;.NET 的全新低延时高吞吐自适应 GC - Satori GC&nbsp;(hez2010)·&nbsp;聊一聊 微软的裁员计划对技术团队的冲击&nbsp;(张善友)·&nbsp;重磅消息，微软宣布 VS Code Copilot 开源，剑指 Cursor！&nbsp;(追逐时光    <a href="https://www.cnblogs.com/cmt/p/18896812" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（4.21-4.27）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/04</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/04"/>
-        <updated>2025-04-07T05:40:17.559Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18851183">
-摘要：        
-热点随笔： ·&nbsp;工良出品 | 长文讲解 MCP 和案例实战&nbsp;(痴者工良)·&nbsp;一天 Star 破万的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;C#高性能开发之类型系统：从 C# 7.0 到 C# 14 的类型系统演进全景&nbsp;(AI·NET极客圈)·&nbsp;记一次 .NET某旅行社酒店管理系统 卡死分析    <a href="https://www.cnblogs.com/cmt/p/18851183" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
