@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-25T17:42:32.584Z</updated>
+    <updated>2025-06-26T05:43:30.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,23 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（6.16-6.22）]]></title>
+        <title type="html"><![CDATA[博客园众包平台：诚征3D影像景深延拓实时处理方案（预算8-15万）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
         <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18944674">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18948571">
 摘要：        
-热点随笔： ·&nbsp;编码之道，道心破碎。&nbsp;(why技术)·&nbsp;知名开源项目Alist被收购！惹程序员众怒，开团炮轰甲方&nbsp;(程序员鱼皮)·&nbsp;一周 Star 破万的开源项目「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;历时半年，我将一个大型asp.net的零代码快速开发平台转成了java&nbsp;(chegan)·&nbsp;推荐    <a href="https://www.cnblogs.com/cmt/p/18944674" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.19-5.25）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/05</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/05"/>
-        <updated>2025-05-05T05:41:57.759Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18896812">
-摘要：        
-热点随笔： ·&nbsp;为什么互联网这么卷？&nbsp;(Jimmy Zhang)·&nbsp;.NET 的全新低延时高吞吐自适应 GC - Satori GC&nbsp;(hez2010)·&nbsp;聊一聊 微软的裁员计划对技术团队的冲击&nbsp;(张善友)·&nbsp;重磅消息，微软宣布 VS Code Copilot 开源，剑指 Cursor！&nbsp;(追逐时光    <a href="https://www.cnblogs.com/cmt/p/18896812" class="c_b_p_desc_readmore">阅读全文</a>
+园子的众包业务最近接到一个单子，虽然已经推荐了近10位合作开发者给客户，但到目前没有开发者有把握接这个单子。想着咱们园子高手如云、藏龙卧虎，我们决定在园子里发文公开招募接单开发者，期待园子里这方面的高手能够出手帮客户解决这个问题，同时也能促进平台资源的良性整合    <a href="https://www.cnblogs.com/cmt/p/18948571" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
