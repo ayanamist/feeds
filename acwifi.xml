@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-06-28T05:42:03.175Z</updated>
+    <updated>2025-06-28T17:38:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[华为BE3 Pro两个新版本，突出一个字”+”，在Wi-Fi 7&nbsp;后面多了一个“+”号。 以下是官网上截的图，即三款华为BE3 Pro的对比，我又补上了没有标准的内存参数。华为BE3 Pro是用高通的方案，内存512MB，疾风版和雷电版的内存都是256MB...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025最新京东618红包领取攻略]]></title>
-        <id>https://www.acwifi.net/31392.html</id>
-        <link href="https://www.acwifi.net/31392.html"/>
-        <updated>2025-05-14T05:41:43.326Z</updated>
-        <content type="html"><![CDATA[京东红包PC端领取链接 京东红包手机端领取链接 或在京东APP上面直接搜索“送红包844”，也可以扫以下二维码领取红包： 1. 活动时间： （1）活动参与时间：2025年5月13日20:00:00-2025年6月18日23:59:59（37天）；千万奖池，先到先得，发完即止。 （...]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[不建议买七类网线]]></title>
         <id>https://www.acwifi.net/31524.html</id>
         <link href="https://www.acwifi.net/31524.html"/>
@@ -74,5 +67,12 @@
         <link href="https://www.acwifi.net/31396.html"/>
         <updated>2025-05-15T17:38:47.236Z</updated>
         <content type="html"><![CDATA[联果这台万兆三层交换机的外包装： 外包装上的标签： 配件： 电源输出规格是12V/2A，实测交换机在空口时的待机功率为3.9W，插满8个10G口时（4个单模和4个多模）总功率为14.2W。 桌面式的交换机，机身尺寸大约是22.2×12.5×2.9cm： 正脸：...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新品小米全屋路由BE3600 Pro网线版一拖四，你们怎么看？]]></title>
+        <id>https://www.acwifi.net/31382.html</id>
+        <link href="https://www.acwifi.net/31382.html"/>
+        <updated>2025-06-28T17:38:51.072Z</updated>
+        <content type="html"><![CDATA[小米商城上了一款众筹：小米全屋路由BE3600 Pro网线版，一拖四PoE供电，众筹价1799元。这是一套一拖四的Mesh套装。 总结一下特点：主路由内置了中枢网关，四个子路由都内置了蓝牙Mesh网关，主路由和子路由的所有网口均支持2.5G。 但有个明显的弱项：只有4个LAN口，...]]></content>
     </entry>
 </feed>
