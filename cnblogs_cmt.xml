@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-06-30T05:44:13.493Z</updated>
+    <updated>2025-06-30T17:46:09.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <updated>2025-06-02T17:40:53.727Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18950170">
 摘要：        
-不管你是传统企业 IT 部门的开发大哥，每天被大量内部审批处理、数据采集表单搞得焦头烂额，还是软件公司开发团队的骨干，为了满足客户各种奇葩需求不停定制开发，成本蹭蹭往上涨，又或者是政企信息化部门的技术达人，面对堆积如山的线下纸质文档电子化需求头大不已，FlashTable 都能精准服务到位    <a href="https://www.cnblogs.com/cmt/p/18950170" class="c_b_p_desc_readmore">阅读全文</a>
+各位程序员兄弟姐妹们，今天必须给大家安利一款堪称表单开发救星的神器 —— [FlashTable](https://flashtable.cn/)！咱搞开发的，谁没被表单开发折磨过？业务流程里它是刚需，可传统开发那叫一个坑：写代码写到眼冒金星，稍微一个小细节没注意就出错，改完这里改那里，调试到怀疑人生，简直是开发路上的 "拦路虎"    <a href="https://www.cnblogs.com/cmt/p/18950170" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
