@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-01T05:45:29.815Z</updated>
+    <updated>2025-07-01T17:44:06.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[H3C  S1506FX、S1509FXC-U、S1510FX、S1510FX-UP 2.5G交换机拆机评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31682.html</id>
+        <link href="https://www.acwifi.net/31682.html"/>
+        <updated>2025-07-01T17:43:58.505Z</updated>
+        <content type="html"><![CDATA[新华三（H3C）近期新出了四款2.5G交换机，型号分别是： S1506FX，有四个2.5G网口和两个10G SFP+，非网管交换机； S1509FXC-U，有八个2.5G网口和一个10G SFP+，一键VLAN隔离和静态聚合模式； SF1510FX，有八个2.5G网口和两个10G...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中兴（ZTE）巡天BE3600Pro青云版拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31521.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31396.html"/>
         <updated>2025-05-15T17:38:47.236Z</updated>
         <content type="html"><![CDATA[联果这台万兆三层交换机的外包装： 外包装上的标签： 配件： 电源输出规格是12V/2A，实测交换机在空口时的待机功率为3.9W，插满8个10G口时（4个单模和4个多模）总功率为14.2W。 桌面式的交换机，机身尺寸大约是22.2×12.5×2.9cm： 正脸：...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新品小米全屋路由BE3600 Pro网线版一拖四，你们怎么看？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31382.html</id>
-        <link href="https://www.acwifi.net/31382.html"/>
-        <updated>2025-06-28T17:38:51.072Z</updated>
-        <content type="html"><![CDATA[小米商城上了一款众筹：小米全屋路由BE3600 Pro网线版，一拖四PoE供电，众筹价1799元。这是一套一拖四的Mesh套装。 总结一下特点：主路由内置了中枢网关，四个子路由都内置了蓝牙Mesh网关，主路由和子路由的所有网口均支持2.5G。 但有个明显的弱项：只有4个LAN口，...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
