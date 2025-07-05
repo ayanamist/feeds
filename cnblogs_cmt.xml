@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-07-04T17:40:01.370Z</updated>
+    <updated>2025-07-05T05:41:36.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -34,7 +34,7 @@
         <updated>2025-07-04T17:40:00.616Z</updated>
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18966389">
 摘要：        
-今天园子的众包业务又接到一个高难度的单子，在合作开发者群中发单后到目前没人接单，发帖在园子里找高手接单。 需求描述 基于 LinuxCNC V2.9.2 版本，实现五轴S曲线速度控制算法（五轴数控机床）。 备注 LinuxCNC 是一款基于 Linux 操作系统的开源实时数控系统，可将普通计算机转变    <a href="https://www.cnblogs.com/cmt/p/18966389" class="c_b_p_desc_readmore">阅读全文</a>
+今天园子的众包业务又接到一个高难度的单子，在合作开发者群中发单后到目前没人接单，发帖在园子里找高手接单。 需求描述 基于 LinuxCNC V2.9.2 版本，实现五轴S曲线速度控制算法（五轴数控机床）。数控系统已经开发了，只是实现一个算法。 备注 LinuxCNC 是一款基于 Linux 操作系统    <a href="https://www.cnblogs.com/cmt/p/18966389" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
