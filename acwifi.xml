@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-07-09T05:46:40.802Z</updated>
+    <updated>2025-07-09T17:42:50.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[通则ZLT X300 MAX 5G CPE拆机，三频BE19000支持6G和N79]]></title>
+        <id>https://www.acwifi.net/31824.html</id>
+        <link href="https://www.acwifi.net/31824.html"/>
+        <updated>2025-07-09T17:42:42.908Z</updated>
+        <content type="html"><![CDATA[这是一台三频的5G CPE，不过在国内只能当双频来用，而且它拥有一个5G网口，第一次拆有5G网口的CPE。 通则ZLT X300 MAX的外包装和机身： &nbsp; 内盒里的配件： DC电源输出规格为12V/3A，实测空口待机功率为11.7W，插入一个5G网口后的功率为13.6...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H3C  S1506FX、S1509FXC-U、S1510FX、S1510FX-UP 2.5G交换机拆机评测]]></title>
         <id>https://www.acwifi.net/31682.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31444.html"/>
         <updated>2025-05-16T17:38:55.080Z</updated>
         <content type="html"><![CDATA[有人留言要我更新华为BE7 Pro用苹果16测速数据，我看见有新固件更新了，还有华为BE3 Pro也有更新，于是这两台我重新测试了一次。 华为BE7 Pro的固件版本是4.2.0.36，更新内容就是增强了系统安全性和稳定性： &nbsp; 华为BE3 Pro的新固件版本是4.2....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400多元的联果8口万兆三层全光交换机拆机LG-SWTGW3C8F]]></title>
-        <id>https://www.acwifi.net/31396.html</id>
-        <link href="https://www.acwifi.net/31396.html"/>
-        <updated>2025-05-15T17:38:47.236Z</updated>
-        <content type="html"><![CDATA[联果这台万兆三层交换机的外包装： 外包装上的标签： 配件： 电源输出规格是12V/2A，实测交换机在空口时的待机功率为3.9W，插满8个10G口时（4个单模和4个多模）总功率为14.2W。 桌面式的交换机，机身尺寸大约是22.2×12.5×2.9cm： 正脸：...]]></content>
     </entry>
 </feed>
