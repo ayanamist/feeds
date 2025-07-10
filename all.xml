@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-10T05:45:19.156Z</updated>
+    <updated>2025-07-10T17:43:53.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[教你怎么100%分辨出小米AX3000T是人还是鬼 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31936.html</id>
+        <link href="https://www.acwifi.net/31936.html"/>
+        <updated>2025-07-10T17:43:45.236Z</updated>
+        <content type="html"><![CDATA[我才发现小米AX3000T一直没拆机，不久前就抽奖免费送出去了。经过一个多星期，终于买回来了两个不同的版本。先是在PDD上买了全新的小米AX3000T，一看是联发科的，想再买一台，怕又是联发科，所以就在闲鱼蹲了几天，确认过眼神（SN后面是6开头），是高通，就110包邮买来回来。 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通则ZLT X300 MAX 5G CPE拆机，三频BE19000支持6G和N79 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31824.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31434.html"/>
         <updated>2025-05-19T17:39:38.710Z</updated>
         <content type="html"><![CDATA[我个人认为华为X1 Pro 跟拆机的这台华为X1在CPU和无线芯片上是一样的，所以没打算买Pro的版本来拆，钱不是大风刮来！ 华为X1的外包装： 机身比预想中的要粗大，机身高度有22cm。 立讯精密代工的电源，输出规格为12V/1.5A，实测空口时的待机功率为4.7W，接入中兴F...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为BE7 Pro、华为BE3 Pro和华为X1在K点的测速对比,X1最快？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31444.html</id>
-        <link href="https://www.acwifi.net/31444.html"/>
-        <updated>2025-05-16T17:38:55.080Z</updated>
-        <content type="html"><![CDATA[有人留言要我更新华为BE7 Pro用苹果16测速数据，我看见有新固件更新了，还有华为BE3 Pro也有更新，于是这两台我重新测试了一次。 华为BE7 Pro的固件版本是4.2.0.36，更新内容就是增强了系统安全性和稳定性： &nbsp; 华为BE3 Pro的新固件版本是4.2....]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
