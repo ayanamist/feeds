@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-11T17:43:10.990Z</updated>
+    <updated>2025-07-12T05:43:04.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK新品大道7DR6430上市预售4×4的5G好便宜 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/31958.html</id>
+        <link href="https://www.acwifi.net/31958.html"/>
+        <updated>2025-07-12T05:42:55.801Z</updated>
+        <content type="html"><![CDATA[久违的大道、飞流、盛世三大系列，而这个把飞流和大道融合在一起了：飞充入大道。（如果我没理解错） 我先说无线规格呀，它的5G呀，是WI-Fi 7 的4x4MIMO 5764Mbps，2.4G是Wi-Fi 6 的2x2MIMO 576Mbps，所以这款7DR6430的总无线速率是64...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怎么区分小米BE6500Pro缩水版？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31949.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31539.html"/>
         <updated>2025-05-25T17:37:57.209Z</updated>
         <content type="html"><![CDATA[华为BE3 Pro两个新版本，突出一个字”+”，在Wi-Fi 7&nbsp;后面多了一个“+”号。 以下是官网上截的图，即三款华为BE3 Pro的对比，我又补上了没有标准的内存参数。华为BE3 Pro是用高通的方案，内存512MB，疾风版和雷电版的内存都是256MB...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不建议买七类网线 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31524.html</id>
-        <link href="https://www.acwifi.net/31524.html"/>
-        <updated>2025-05-23T17:39:20.777Z</updated>
-        <content type="html"><![CDATA[劝你们好多年了，总有些人不听，于是我买了七类网线回来，京东上面下单了泛达的七类网线。下单不久，就有电话打来，是泛达的客服打来，问我如果家用没必要买七类。这么贴心的吗？必须赞！我就说买回来看看，我没摸过七类，买回来摸一摸。我还怕不卖给我。 我还需要做一些跳的跳线，就一起凑单了无骨六...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
