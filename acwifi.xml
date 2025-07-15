@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-07-15T05:48:00.811Z</updated>
+    <updated>2025-07-15T17:43:08.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK TL-ER3220T万兆企业级路由拆机，几百元的双10G]]></title>
+        <id>https://www.acwifi.net/31967.html</id>
+        <link href="https://www.acwifi.net/31967.html"/>
+        <updated>2025-07-15T17:43:00.496Z</updated>
+        <content type="html"><![CDATA[TP-LINK TL-ER3220T以下简单ER3220T。简单点来说，它是ER2260T差不多。 ER3220T的机身比较大，宽44cm。440(w)x180(D)x44(H) mm 机身和配件： 实测ER3220T空口待机功率才2.8W。 有四个千兆口和两个10G&nbsp;SFP+。...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2999元的三频2.5G Wi-Fi 7 无线路由器你会买不？]]></title>
         <id>https://www.acwifi.net/31970.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31576.html"/>
         <updated>2025-06-02T17:40:46.751Z</updated>
         <content type="html"><![CDATA[这款小米全屋路由BE3600Pro网线版套装，原价1599元（一拖三），在5月30日的时候也有很不错的价格，当时领了两张券，叠加上去可以做到1140元左右的价格，在快忙完编辑路由器选购攻略的时候，国补突然取消了。那个心里难受呀！直到昨天才恢复了国补，但昨天找不到原先的1500-9...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年上半年无线路由器选购攻略]]></title>
-        <id>https://www.acwifi.net/31550.html</id>
-        <link href="https://www.acwifi.net/31550.html"/>
-        <updated>2025-05-30T17:40:02.791Z</updated>
-        <content type="html"><![CDATA[2025年上半年，无线路由器的选购攻略，给出的商品价格都是国补后的。一个帐号今年只有一个补贴，要买多台就要用多个帐号了，或者买套装。路由器应该像空调那样，有3个指标才合理呀。你们说是不？ 现在的价格因为有了国补才显得便宜了些，可能因为有了国补，商家的降价力度不是很足。你们觉得是不...]]></content>
     </entry>
 </feed>
