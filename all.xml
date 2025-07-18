@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-18T05:50:11.429Z</updated>
+    <updated>2025-07-18T17:44:00.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK XDR3010v9.0拆机，第一次见这熟悉而又陌生的芯片 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/32017.html</id>
+        <link href="https://www.acwifi.net/32017.html"/>
+        <updated>2025-07-18T17:43:51.812Z</updated>
+        <content type="html"><![CDATA[想不到呀，现在最新的XDR3010已经出到V9.0的版本了。从包装盒上的图片来看，XDR3010的天线变得粗壮了。 打开包装： 机身和配件： 电源输出规格是12V/1A，实测空口时的待机功率为3.27W，功耗低。 &nbsp; 先上个称看看机身重量吧。 没撕膜，机身重量为381g...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK TL-ER3220T万兆企业级路由拆机，几百元的双10G (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/31967.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31590.html"/>
         <updated>2025-06-03T17:42:02.247Z</updated>
         <content type="html"><![CDATA[前几天就发布了一篇选购攻略嘛： 2025年上半年无线路由器选购攻略 之后有人问我现在有哪些可以支持AP模式下MESH组网的，我回答说现在都可以。。。昨晚又有人说在AP模式下不能MESH组网，我说不可能。。。。于是拿出两台试了。。果然不可能，不管是无线还是有线，也不支持MESH组网...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1147元下单了小米全屋路由套装，要更便宜就别漏了这个券 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31576.html</id>
-        <link href="https://www.acwifi.net/31576.html"/>
-        <updated>2025-06-02T17:40:46.751Z</updated>
-        <content type="html"><![CDATA[这款小米全屋路由BE3600Pro网线版套装，原价1599元（一拖三），在5月30日的时候也有很不错的价格，当时领了两张券，叠加上去可以做到1140元左右的价格，在快忙完编辑路由器选购攻略的时候，国补突然取消了。那个心里难受呀！直到昨天才恢复了国补，但昨天找不到原先的1500-9...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
