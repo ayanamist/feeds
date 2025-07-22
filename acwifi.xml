@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-07-22T05:47:49.756Z</updated>
+    <updated>2025-07-22T17:44:36.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP新款7DR6430拆机，它的K点测速离了个谱]]></title>
+        <id>https://www.acwifi.net/32058.html</id>
+        <link href="https://www.acwifi.net/32058.html"/>
+        <updated>2025-07-22T17:44:28.059Z</updated>
+        <content type="html"><![CDATA[7DR6430的外包装： 包装盒上的描述： 打开包装： 取出机身和配件 ： 机身不撕膜的重量为447克，撕膜后的机身重量为441克，整包装不撕膜的重量为932克。 电源输出规格为12V/1.5A ，实测空口待机功率为6W，对于4空间流的5G无线路由器来说功耗不算高。（高通BE65...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP-LINK XDR3010v9.0拆机，第一次见这熟悉而又陌生的芯片]]></title>
         <id>https://www.acwifi.net/32017.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31521.html"/>
         <updated>2025-06-09T05:43:53.699Z</updated>
         <content type="html"><![CDATA[&nbsp;一、拆机 中兴巡天BE3600Pro青云版的外包装： 红点设计大奖： 机身和配件 ： 电源输出规格是12V/1A，实测空口的待机功率为4.4W，插入2.5G WAN口联网后的功率为5.3W。 机身正面： &nbsp; 机身侧面： 机身背面： 一共有四个网口，其中一个2.5G网口...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不好意思呀：现在还有不支持在AP模式下MESH组网的！]]></title>
-        <id>https://www.acwifi.net/31590.html</id>
-        <link href="https://www.acwifi.net/31590.html"/>
-        <updated>2025-06-03T17:42:02.247Z</updated>
-        <content type="html"><![CDATA[前几天就发布了一篇选购攻略嘛： 2025年上半年无线路由器选购攻略 之后有人问我现在有哪些可以支持AP模式下MESH组网的，我回答说现在都可以。。。昨晚又有人说在AP模式下不能MESH组网，我说不可能。。。。于是拿出两台试了。。果然不可能，不管是无线还是有线，也不支持MESH组网...]]></content>
     </entry>
 </feed>
