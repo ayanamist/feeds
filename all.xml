@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-27T17:42:51.079Z</updated>
+    <updated>2025-07-28T05:56:49.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TP新款7DR6430拆机，它的K点测速离了个谱 (路由器交流-无线路由器使用分享与评测对比)]]></title>
@@ -97,23 +97,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[里程碑 | 1Panel 开源面板 GitHub Star 数量突破 30,000 个！ (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[AI 的力量，开发者的翅膀：欢迎使用字节旗下的 AI 原生开发工具 TRAE (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/07</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/07"/>
         <updated>2025-07-04T17:40:00.616Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19005787">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19004092">
 摘要：        
-截至2025年7月23日20:00，飞致云旗下开源项目—— 1Panel 开源Linux服务器运维管理面板GitHub Star数超过30,000个！继Halo之后，1Panel成为飞致云旗下第二个GitHub Star数量超过30,000个的开源项目，也是飞致云旗下最快达成30,000个GitHub Star目标的项目。1Panel开源项目（https://github.com/1Panel-dev）于2023年3月20日发布    <a href="https://www.cnblogs.com/cmt/p/19005787" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlashTable：表单开发神器，程序员的效率救星 (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/06</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/06"/>
-        <updated>2025-06-02T17:40:53.727Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_18950170">
-摘要：        
-各位程序员兄弟姐妹们，今天必须给大家安利一款堪称表单开发救星的神器 —— [FlashTable](https://flashtable.cn/)！咱搞开发的，谁没被表单开发折磨过？业务流程里它是刚需，可传统开发那叫一个坑：写代码写到眼冒金星，稍微一个小细节没注意就出错，改完这里改那里，调试到怀疑人生，简直是开发路上的 "拦路虎"    <a href="https://www.cnblogs.com/cmt/p/18950170" class="c_b_p_desc_readmore">阅读全文</a>
+7月份，园子的广告业务遇惊喜，我们和字节旗下的 TRAE 官方达成了合作，在园子里全面推广 TRAE，合作到年底。欢迎大家下载体验字节倾力为开发者打造的 AI 原生系列开发工具 TRAE，期待大家在园子里分享 TRAE 的使用感受与经验！    <a href="https://www.cnblogs.com/cmt/p/19004092" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
