@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-29T05:53:25.644Z</updated>
+    <updated>2025-07-29T17:52:24.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[小米AX3000T新旧版本有哪些大不同？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/32106.html</id>
+        <link href="https://www.acwifi.net/32106.html"/>
+        <updated>2025-07-29T17:52:16.755Z</updated>
+        <content type="html"><![CDATA[小米AX3000T最新版是改用了高通方案（旧款用联发科）。现时两款是混着发，也没有用版本号做区分。（怎么区分版本的文章链接）： 教你怎么100%分辨出小米AX3000T是人还是鬼 主要看明显的差别，但这些差别不一定都对正常使用会造成影响。 一、温度 由于芯片制程的不同，直接导致功...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TP新款7DR6430拆机，它的K点测速离了个谱 (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/32058.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31682.html"/>
         <updated>2025-07-01T17:43:58.505Z</updated>
         <content type="html"><![CDATA[新华三（H3C）近期新出了四款2.5G交换机，型号分别是： S1506FX，有四个2.5G网口和两个10G SFP+，非网管交换机； S1509FXC-U，有八个2.5G网口和一个10G SFP+，一键VLAN隔离和静态聚合模式； SF1510FX，有八个2.5G网口和两个10G...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴（ZTE）巡天BE3600Pro青云版拆机和评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31521.html</id>
-        <link href="https://www.acwifi.net/31521.html"/>
-        <updated>2025-06-09T05:43:53.699Z</updated>
-        <content type="html"><![CDATA[&nbsp;一、拆机 中兴巡天BE3600Pro青云版的外包装： 红点设计大奖： 机身和配件 ： 电源输出规格是12V/1A，实测空口的待机功率为4.4W，插入2.5G WAN口联网后的功率为5.3W。 机身正面： &nbsp; 机身侧面： 机身背面： 一共有四个网口，其中一个2.5G网口...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
