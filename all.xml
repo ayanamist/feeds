@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-03T05:49:22.943Z</updated>
+    <updated>2025-08-03T17:53:56.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[华为新品上市：坤灵FG736 双2.5G口的BE3600路由器 (路由器交流-无线路由器使用分享与评测对比)]]></title>
+        <id>https://www.acwifi.net/32125.html</id>
+        <link href="https://www.acwifi.net/32125.html"/>
+        <updated>2025-08-03T17:53:47.206Z</updated>
+        <content type="html"><![CDATA[华为坤灵双FG736 上市预售价格为349元，付20元定金立减70元，即到手价为279元，双2.5G口的BE36000。比华为BE3 Pro 2.5G版本多了一个2.5G口。 这一款白色机身且内置天线的路由器，外壳有点像华为的FTTR光猫。 商品页里没有明确的背面图片，但有一种这...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小米AX3000T新旧版本有哪些大不同？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
         <id>https://www.acwifi.net/32106.html</id>
@@ -66,13 +73,6 @@
         <link href="https://www.acwifi.net/31824.html"/>
         <updated>2025-07-09T17:42:42.908Z</updated>
         <content type="html"><![CDATA[这是一台三频的5G CPE，不过在国内只能当双频来用，而且它拥有一个5G网口，第一次拆有5G网口的CPE。 通则ZLT X300 MAX的外包装和机身： &nbsp; 内盒里的配件： DC电源输出规格为12V/3A，实测空口待机功率为11.7W，插入一个5G网口后的功率为13.6...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H3C  S1506FX、S1509FXC-U、S1510FX、S1510FX-UP 2.5G交换机拆机评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/31682.html</id>
-        <link href="https://www.acwifi.net/31682.html"/>
-        <updated>2025-07-01T17:43:58.505Z</updated>
-        <content type="html"><![CDATA[新华三（H3C）近期新出了四款2.5G交换机，型号分别是： S1506FX，有四个2.5G网口和两个10G SFP+，非网管交换机； S1509FXC-U，有八个2.5G网口和一个10G SFP+，一键VLAN隔离和静态聚合模式； SF1510FX，有八个2.5G网口和两个10G...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
