@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-08-08T17:41:32.671Z</updated>
+    <updated>2025-08-09T17:39:59.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,7 +28,7 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[飞算科技，让代码飞：体验 JavaAI 开发助手，参加炫技赛]]></title>
+        <title type="html"><![CDATA[飞算科技，让代码飞：欢迎体验 JavaAI 开发助手，参加炫技赛]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/08</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/08"/>
         <updated>2025-08-04T05:58:58.322Z</updated>
