@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-08-11T17:45:58.966Z</updated>
+    <updated>2025-08-12T05:42:05.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK新款企业路由 TL-ER3228ET 拆机双10G+4个2.5G+4个1G]]></title>
+        <id>https://www.acwifi.net/32134.html</id>
+        <link href="https://www.acwifi.net/32134.html"/>
+        <updated>2025-08-12T05:41:58.511Z</updated>
+        <content type="html"><![CDATA[TP-LINK终于出了一款新的ER系列的企业路由器，加入了大家越来越想要四个2.5G网口，弥补ER2260T之类的缺少2.5G口的遗憾。 TL-ER3228ET的机身和外包装： 配件： 它机身尺寸为440*180*44mm。 ER3220ET的网口比较丰富：四个千兆网口、四个2....]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为新品上市：坤灵FG736 双2.5G口的BE3600路由器]]></title>
         <id>https://www.acwifi.net/32125.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.acwifi.net/31936.html"/>
         <updated>2025-07-10T17:43:45.236Z</updated>
         <content type="html"><![CDATA[我才发现小米AX3000T一直没拆机，不久前就抽奖免费送出去了。经过一个多星期，终于买回来了两个不同的版本。先是在PDD上买了全新的小米AX3000T，一看是联发科的，想再买一台，怕又是联发科，所以就在闲鱼蹲了几天，确认过眼神（SN后面是6开头），是高通，就110包邮买来回来。 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通则ZLT X300 MAX 5G CPE拆机，三频BE19000支持6G和N79]]></title>
-        <id>https://www.acwifi.net/31824.html</id>
-        <link href="https://www.acwifi.net/31824.html"/>
-        <updated>2025-07-09T17:42:42.908Z</updated>
-        <content type="html"><![CDATA[这是一台三频的5G CPE，不过在国内只能当双频来用，而且它拥有一个5G网口，第一次拆有5G网口的CPE。 通则ZLT X300 MAX的外包装和机身： &nbsp; 内盒里的配件： DC电源输出规格为12V/3A，实测空口待机功率为11.7W，插入一个5G网口后的功率为13.6...]]></content>
     </entry>
 </feed>
