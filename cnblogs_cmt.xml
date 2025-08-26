@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-08-26T05:42:11.148Z</updated>
+    <updated>2025-08-26T17:38:45.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -28,13 +28,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（8.18-8.24）]]></title>
+        <title type="html"><![CDATA[2025 HarmonyOS 创新赛正式启动，百万大奖等你挑战！]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/08</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/08"/>
         <updated>2025-08-04T05:58:58.322Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19056394">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19058738">
 摘要：        
-热点随笔： ·&nbsp;程序员感觉工作没有成长，怎么破局？&nbsp;(程序员鱼皮)·&nbsp;家里有密码锁的注意了，这真不是 BUG，是 feature。&nbsp;(why技术)·&nbsp;C#实现屏幕墙：同时监控多个电脑桌面（支持Windows、信创Linux、银河麒麟、统信UOS）&nbsp;(zhuweisky)·&nbsp;我的AI自学路线，可能对你    <a href="https://www.cnblogs.com/cmt/p/19056394" class="c_b_p_desc_readmore">阅读全文</a>
+2025年6月21日-2025年10月底，一年一度的 HarmonyOS 创新赛正式启幕！现已面向所有开发者开放报名通道。 这是一场鸿蒙生态面向开发者领域的顶级开发赛事，你可以尝试：1、多种特性，抢先尝鲜：使用最新的 HarmonyOS 6 开发者 Beta 版本、配套工具和 SDK 能力，自由打造全新体验、全新交互的跨终端鸿蒙应用及元服务！2、高手过招，大展风采：与来自不同行业、不同背景的开发者同台竞技，玩转创意！    <a href="https://www.cnblogs.com/cmt/p/19058738" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
