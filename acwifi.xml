@@ -2,7 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.acwifi.net/page/1</id>
     <title>路由器交流-无线路由器使用分享与评测对比</title>
-    <updated>2025-10-20T05:50:51.377Z</updated>
+    <updated>2025-11-01T17:40:58.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.acwifi.net/page/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025年下半年无线路由器选购攻略]]></title>
+        <id>https://www.acwifi.net/32842.html</id>
+        <link href="https://www.acwifi.net/32842.html"/>
+        <updated>2025-11-01T17:40:50.021Z</updated>
+        <content type="html"><![CDATA[这次只写无线路由器的选购，一些组网呀，网线呀，AP呀看上半年的就行。我轻轻地带上两句：不要执着于用MESH方式组网；不要买七类网线，钱多又不怕麻烦可以买超六。 2025年上半年无线路由器选购攻略 MESH组网可有可无，还不如用万能组网方式潇洒走一回 如果你没有适合的摆放位置做到一...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米AX3000T拆机MTK版本（旧版本或v2）]]></title>
+        <id>https://www.acwifi.net/32792.html</id>
+        <link href="https://www.acwifi.net/32792.html"/>
+        <updated>2025-11-01T17:40:50.022Z</updated>
+        <content type="html"><![CDATA[本应该在几年前就要拆的，现在才来拆，第一台没有拆就抽奖免费送出，这台小米AX3000T是第二次买。 小米AX3000T的外包装： 机身和配件：（机身净重413克） 空口待机功率为3.9W，插一个WAN口联网后的功率为4.2W。 四根可以收起来的天线： 又细又长的四根天线： 背面的...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK无线路由器、无线AP在K点的测速数据汇总]]></title>
+        <id>https://www.acwifi.net/32588.html</id>
+        <link href="https://www.acwifi.net/32588.html"/>
+        <updated>2025-11-01T17:40:50.023Z</updated>
+        <content type="html"><![CDATA[这是我拆过的TP-LINK的且还在柜子里的，覆盖不了所有在售产品。 型号后面没有注明硬件版本号的，都是v1.0。测速只测5G，信道44，如果是三频，5G就是149信道。采用自建speedtest测速服务器接待测路由器的WAN口。 本文章会随时更新，可以收藏本链接。 7TR1039...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7DR3630 v4.0拆机，居然用这芯片？]]></title>
+        <id>https://www.acwifi.net/32735.html</id>
+        <link href="https://www.acwifi.net/32735.html"/>
+        <updated>2025-11-01T17:40:50.024Z</updated>
+        <content type="html"><![CDATA[7DR3630 v4.0的外包装： 取出机身和配件： 不撕天线塑料膜的机身重量为422.5克： 电源输出规格为12V/1.5A，实测空口待机功率为3.7W，插2.5G WAN口联网后的功率为4.2W，功耗比较低。 从天线外形来看，4.0版本的7DR3630换成了像素天线。由于之前...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米BE3600Pro网线版的一些问题]]></title>
+        <id>https://www.acwifi.net/32763.html</id>
+        <link href="https://www.acwifi.net/32763.html"/>
+        <updated>2025-11-01T17:40:50.024Z</updated>
+        <content type="html"><![CDATA[第一次遇见自己组不上的MESH设备。我习惯用电脑插网线来设置，所以我先用电脑单独接线小米BE3600Pro的主机，设置好上网和无线参数，再接入它套装里的子路由，通常是这样就能自动MESH组网，如果不行，按MESH键也能组上。但小米这款不行，我试了4次，分别是换另一只刚拆封的子路由...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7DR6450拆机，跟7DR6430有哪些区别？]]></title>
+        <id>https://www.acwifi.net/32655.html</id>
+        <link href="https://www.acwifi.net/32655.html"/>
+        <updated>2025-11-01T17:40:50.026Z</updated>
+        <content type="html"><![CDATA[7DR6450的外包装： 机身和配件： 外包装不撕膜的总重量为619克，机身重量为308.5克： 电源输出规格是12V/1.5A，实测空口待机功率为6.4W，接入2.5G网口联网扣的功率为7.1W。 7DR6450用了经典的散热效果好的烟灰缸外壳： 一共有三个网口，其中有一个2....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7DR7290的四个2.5G网口共享5Gbps带宽，小包转发性能没想到]]></title>
+        <id>https://www.acwifi.net/32639.html</id>
+        <link href="https://www.acwifi.net/32639.html"/>
+        <updated>2025-11-01T17:40:50.030Z</updated>
+        <content type="html"><![CDATA[上次只发了拆机，没测小包转化率和它的网口。拆机文章链接： TP-LINK 7DR7290拆机，成为XDR5480的替代者？ 先用PacketMaster工具测度7DR7290的64字节包转发率，测得单向的转发率为3.55Mpps，没跑满呀（3.72Mpps）。 双向同时转发，实测...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7DR7270全球首拆，看看跟7DR6430有什么差别]]></title>
+        <id>https://www.acwifi.net/32596.html</id>
+        <link href="https://www.acwifi.net/32596.html"/>
+        <updated>2025-11-01T17:40:50.031Z</updated>
+        <content type="html"><![CDATA[TP-LINK 7DR7270的外包装： 不撕膜的包装总重量为1179克： 机身不撕膜的重量为686克。 机身和配件： 电源输出规格是12V/2A，实测空口待机功率为8.8W，接一个2.5G WAN口联网后的功率为9.3W，接多一个2.5G LAN口为10Ｗ，插满所有网口时总功率...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TP-LINK 7DR7290拆机，成为XDR5480的替代者？]]></title>
+        <id>https://www.acwifi.net/32528.html</id>
+        <link href="https://www.acwifi.net/32528.html"/>
+        <updated>2025-11-01T17:40:50.032Z</updated>
+        <content type="html"><![CDATA[新鲜热辣啦，拆机1小时，装机3小时。。唉！ 7DR7290的包外装： 飞流系列TL-7DR7290，卖点是BE7200和四个2.5G口+四个千兆口，无线方面，能披上这个XDR5480皮肤的，我相信它的无线信号也不会差。对不？ 整个包装不撕膜的总重量为1758克： 抽出内包装： 机...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两款新款无线路由器7DR7270和7DR7290相差200元，差别在哪里？]]></title>
+        <id>https://www.acwifi.net/32520.html</id>
+        <link href="https://www.acwifi.net/32520.html"/>
+        <updated>2025-11-01T17:40:50.033Z</updated>
+        <content type="html"><![CDATA[TP-LINK刚上市了两款新的Wi-Fi 7 BE7200的无线路由器，售价分别为399元的7DR7270和599元的7DR7290，两者无线规格是一样的，其它差别在哪里呢？ 最明显的是网口，7DR7270一共有六个网口，其中有两个是2.5G网口，四个是1G网口： 7DR7290...]]></content>
+    </entry>
 </feed>
