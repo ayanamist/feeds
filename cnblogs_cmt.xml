@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-11-02T05:51:37.972Z</updated>
+    <updated>2025-11-03T05:40:53.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -25,6 +25,16 @@
         <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19081960">
 摘要：        
 在2025年开学之际，园子迎来了一家通过创新科技赋能教育的特别赞助商 —— 北京新途径教育科技有限公司（简称新途径数科）！非常感谢新途径数科对园子的支持！新途径数科的特别之处在于，他们赞助园子，只有一个诉求，就是希望能在园子里找到优秀的开发人才加入团队，在赞助商介绍博文中只要求展示职位信息    <a href="https://www.cnblogs.com/cmt/p/19081960" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（10.27-11.2）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/11</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/11"/>
+        <updated>2025-11-03T05:40:52.765Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19185879">
+摘要：        
+热点随笔： ·&nbsp;开发上架鸿蒙应用，现金激励超亿元！&nbsp;(博客园团队)·&nbsp;Web优化躬行记（7）——后台上传大批量图优化&nbsp;(咖啡机（K.F.J）)·&nbsp;《HelloGitHub》第 115 期&nbsp;(削微寒)·&nbsp;Blazor 感觉回到了ASP时代？&nbsp;(码农刚子)·&nbsp;前后端分离，千万别再搞错了！&nbsp;(程序员鱼皮)    <a href="https://www.cnblogs.com/cmt/p/19185879" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
