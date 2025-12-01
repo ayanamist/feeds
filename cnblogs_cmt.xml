@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-11-21T17:44:28.905Z</updated>
+    <updated>2025-12-01T05:58:17.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://assets.cnblogs.com/favicon_v2_1.svg</icon>
+    <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[置顶]
+        注册成为鸿蒙开发者，支持博客园 HarmonyOS 社区建设]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/11</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/11"/>
+        <updated>2025-11-03T05:40:52.765Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19241983">
+摘要：        
+今年8月我们和华为达成了合作，在园子里建设 HarmonyOS 开发者社区。第一期合作项目的主要内容是 HarmonyOS 专区的初步搭建与运营，目前专区已上线，欢迎访问。这期项目有个目标，要在2025年12月18日之前，在园子里邀请 4000 位开发者注册成为鸿蒙开发者，邀请方式是通过博客园专属链接在华为开发者联盟 HarmonyOS 官网注册账号并完成实名认证    <a href="https://www.cnblogs.com/cmt/p/19241983" class="c_b_p_desc_readmore">阅读全文</a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
         诚邀您体验阿里推出的新一代 Agentic 编程平台 Qoder]]></title>
@@ -28,34 +39,23 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[置顶]
-        2025 HarmonyOS 创新赛，百万大奖等你摘（11.10报名截止）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/08</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/08"/>
-        <updated>2025-11-21T17:44:28.034Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19058738">
+        <title type="html"><![CDATA[上周热点回顾（11.24-11.30）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/12</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/12"/>
+        <updated>2025-12-01T05:58:16.841Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19291358">
 摘要：        
-2025年6月21日-2025年11月底，一年一度的 HarmonyOS 创新赛正式启幕！现已面向所有开发者开放报名通道。 这是一场鸿蒙生态面向开发者领域的顶级开发赛事，你可以尝试：1、多种特性，抢先尝鲜：使用最新的 HarmonyOS 6 开发者版本、配套工具和 SDK 能力，自由打造全新体验、全新交互的跨终端鸿蒙应用及元服务！2、高手过招，大展风采：与来自不同行业、不同背景的开发者同台竞技，玩转创意！    <a href="https://www.cnblogs.com/cmt/p/19058738" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · 又被 Cursor 烧了 1 万块，我麻了。。。 (程序员鱼皮) · TypedSql：在 C# 类型系统上实现一个 SQL 查询引擎 (hez2010) · 公司新来的00后老板让我们把数据库改成PostgreSQL，大家怒了(大卫小东（Sheldon）) · Visual Stu    <a href="https://www.cnblogs.com/cmt/p/19291358" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[注册成为鸿蒙开发者，支持博客园 HarmonyOS 社区建设]]></title>
+        <title type="html"><![CDATA[上周热点回顾（11.17-11.23）]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/11</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/11"/>
         <updated>2025-11-03T05:40:52.765Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19241983">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19262181">
 摘要：        
-今年8月我们和华为达成了合作，在园子里建设 HarmonyOS 开发者社区。第一期合作项目的主要内容是 HarmonyOS 专区的初步搭建与运营，目前专区已上线，欢迎访问。这期项目有个目标，要在2025年12月18日之前，在园子里邀请 4000 位开发者注册成为鸿蒙开发者，邀请方式是通过博客园专属链接在华为开发者联盟 HarmonyOS 官网注册账号并完成实名认证    <a href="https://www.cnblogs.com/cmt/p/19241983" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发上架鸿蒙应用，现金激励超亿元！]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/10</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/10"/>
-        <updated>2025-10-16T05:47:01.243Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19175385">
-摘要：        
-鸿蒙应用开发者激励计划2025，是由华为发起的开发者支持项目，旨在通过提供现金激励，鼓励开发者参与鸿蒙应用、游戏（含游戏App和小游戏，以下如无特指均使用“游戏”统一描述）、元服务的开发，以推动鸿蒙生态的建设和繁荣发展    <a href="https://www.cnblogs.com/cmt/p/19175385" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · Visual Studio 2026 上手体验，AI 懂你、界面清爽、协作无缝 (小码编匠) · 九成九新自用C#入门文档 (假设狐狸有信箱) · .net 行不行？在线客服系统成功支持客户双11大促，21客服在线，高峰超300会话并发 (升讯威在线客服系统) · 网页版微信来了！无    <a href="https://www.cnblogs.com/cmt/p/19262181" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
