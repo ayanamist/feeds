@@ -2,78 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-24T17:40:16.988Z</updated>
+    <updated>2026-01-14T18:01:23.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[双2.5G口的华为BE3 Pro+是什么芯片？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33304.html</id>
-        <link href="https://www.acwifi.net/33304.html"/>
-        <updated>2025-12-24T17:40:08.292Z</updated>
-        <content type="html"><![CDATA[经常有人来问双2.5G口的华为BE3 Pro+是仍是用高通芯片还是换了用海思芯片？所以我买了一台回来看看，昨天下单实付271元。有点肉赤！京东现在有好多东西直接用塑料袋，所以又一个包装盒上又搞出一个窿窿。 从商品描述页里面写了支持Wi-Fi 7+，所以肯定是用海思芯片了。还包括华...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中兴问天BE7200MAX上市，最便宜的10G Wi-Fi 7 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33282.html</id>
-        <link href="https://www.acwifi.net/33282.html"/>
-        <updated>2025-12-24T17:40:08.297Z</updated>
-        <content type="html"><![CDATA[好久没有看见有10G口的Wi-Fi 7 无线路由器了，且还不到700元，这就是中兴将要开卖的问天BE7200MAX： 问天BE7200MAX不只是增加了一个10G SFP+，且终于有四个2.5G网口的中兴无线路由器了。 还多了灯效： 一个10G SFP+和四个2.5G网口，无线是...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新品7AP3622HI跟小米BE3600Pro网线版子路由在K点的对比 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33256.html</id>
-        <link href="https://www.acwifi.net/33256.html"/>
-        <updated>2025-12-24T17:40:08.297Z</updated>
-        <content type="html"><![CDATA[TP-LINK终于出了一款双2.5G网口的86面板AP，型号是TL-7AP3622HI-PoE，闲鱼全新价格370元。 测小米BE3600Pro网线版的子路由的K点时又测了7AP3622HI，现在放一起对比看看。（摆放位置一样） &nbsp; 接在PoE交换机上面查看功率，刷新多...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米BE3600Pro网线版套装拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/32986.html</id>
-        <link href="https://www.acwifi.net/32986.html"/>
-        <updated>2025-12-24T17:40:08.298Z</updated>
-        <content type="html"><![CDATA[小米BE3600网线版的包外装： 打开包装： 把套装里的东西都取出来，长条的主路由和三个86面板式的子路由： 先拆它的全2.5G网口的主路由： 机身和配件： PoE电源输出规格为53V/1.25A，实测空口待机功率为4.1W，插上2.5G WAN联网后的功率为4.5W，接上一个面...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为Mate80 Pro 支持哪些Wi-Fi 特性？ (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33114.html</id>
-        <link href="https://www.acwifi.net/33114.html"/>
-        <updated>2025-12-24T17:40:08.298Z</updated>
-        <content type="html"><![CDATA[我自己比较关心华为Mate80 Pro是否支持4096-QAM和叠加模式的MLO。测试会用到海思方案的华为星光F50尊享版(V271-20)，因为我手里没有其它采用海思芯片的Wi-Fi&nbsp; 7 无线路由器，也会用到高通方案的华为BE7&nbsp; Pro无线路由器。为了对比，我用MT7927...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性价比高的2.5G光猫XG-040G-MD拆机 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33006.html</id>
-        <link href="https://www.acwifi.net/33006.html"/>
-        <updated>2025-12-24T17:40:08.301Z</updated>
-        <content type="html"><![CDATA[今天拆一台老早买回来的2.5G光猫，闲鱼二手价格为40元包邮，型号是上海诺基亚贝尔XG-040G-MD。 机身和配件： 电源输出规格是12V/1A，空口待机功率4.1W 插2.5G口联网后的功率为5.4W。 光猫正面： 机身背面一共有四个网口，有一个2.5G；还有电源开关（方便硬...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[acwifi告诉你什么是Mesh (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/33002.html</id>
-        <link href="https://www.acwifi.net/33002.html"/>
-        <updated>2025-12-24T17:40:08.302Z</updated>
-        <content type="html"><![CDATA[看以下这张图就知道了，一个节点和所有子节点，拼成了一张网，所以Mesh就是网状网络的意思。它可以插网线也可以不插网线用无线连接彼此，也可以自动切换有线或无线连接。 回顾一下7年以前，当时有Linksys的Velop和Netgear 的Orbi系列产品出现（还有我没摸过的Googl...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米AX3000T新版拆机高通版 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/32952.html</id>
-        <link href="https://www.acwifi.net/32952.html"/>
-        <updated>2025-12-24T17:40:08.303Z</updated>
-        <content type="html"><![CDATA[包装盒有点残，因为收的二手（为了确保买到的是高通版本）。 机身和配件：（机身净重419克） 电源输出规格为12V/1A，实测空口待机功率5.8W。 正面： 小米AX3000T的外壳，又好看散热效果又好。 背面接口： 机身底部： 标签内容，产品型号：RD03。 拆开外壳： 散热铝板...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GL-BE6500拆机评测 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/32710.html</id>
-        <link href="https://www.acwifi.net/32710.html"/>
-        <updated>2025-12-24T17:40:08.305Z</updated>
-        <content type="html"><![CDATA[一、拆机 GL-BE6500的外包装如下： “Wi-Fi 7 桌面无线路由器 Flint 3e” 包装侧面： 取出主机和配件： 电源输出规格是12V/3A，实测空口待机功率为7.8W，接一个2.5G WAN口后的功率为8.3W，把所有2.5G网口插满时的功率为11.6W。 &amp;nb...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年下半年无线路由器选购攻略 (路由器交流-无线路由器使用分享与评测对比)]]></title>
-        <id>https://www.acwifi.net/32842.html</id>
-        <link href="https://www.acwifi.net/32842.html"/>
-        <updated>2025-12-24T17:40:08.306Z</updated>
-        <content type="html"><![CDATA[&nbsp; 这次只写无线路由器的选购，一些组网呀，网线呀，AP呀看上半年的就行。我轻轻地带上两句：不要执着于用MESH方式组网；不要买七类网线，钱多又不怕麻烦可以买超六。 2025年上半年无线路由器选购攻略 MESH组网可有可无，还不如用万能组网方式潇洒走一回 如果你没有适合的...]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
         感谢艾思科蓝成为博客园赞助商 (博客园官方博客)]]></title>
@@ -87,18 +17,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
-        诚邀您体验阿里推出的新一代 Agentic 编程平台 Qoder (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/10</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/10"/>
-        <updated>2025-10-16T05:47:01.243Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19165152">
-摘要：        
-最近我们和阿里达成了合作，在园子里邀请开发者体验阿里推出的新一代 Agentic 编程平台 Qoder，期待您通过园子的 专属链接 注册账号（支持 github 账号集成登录），下载安装 Qoder 进行体验，新用户可以免费领取1000积分。Qoder 集成海外顶尖模型，已支持最新的 Claude Sonnet 4.5 模型    <a href="https://www.cnblogs.com/cmt/p/19165152" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[置顶]
-        感谢「北京新途径教育科技有限公司」成为博客园赞助商 (博客园官方博客)]]></title>
+        感谢新途径数科成为博客园赞助商 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/09</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/09"/>
         <updated>2025-09-01T05:40:46.527Z</updated>
@@ -108,23 +27,23 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Halo 商业版发售，自建商城新选择！ (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/12</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/12"/>
-        <updated>2025-12-01T05:58:16.841Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19392609">
+        <title type="html"><![CDATA[上周热点回顾（1.5-1.11） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2026/01</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2026/01"/>
+        <updated>2026-01-14T18:01:22.847Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19469697">
 摘要：        
-凌霞软件是博客园的战略合作伙伴，今年年初合作推出了 Halo 联合终身会员，现在凌霞软件推出 Halo 商业版，欢迎大家关注！2026年1月23日之前，联合会员的 Halo 专业版可以免费变更到商业版。    <a href="https://www.cnblogs.com/cmt/p/19392609" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · Claude Code 完全指南：使用方式、技巧与最佳实践 (knqiufan) · 从 TIOBE 2025 年度语言到 2026 年 C# 智能体生态的全面崛起 (张善友) · 可怕，看到一个冷血的算法。 (why技术) · 嫌 AI 写的界面太丑？装上这个开源插件，秒变资深设计    <a href="https://www.cnblogs.com/cmt/p/19469697" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.17-11.23） (博客园官方博客)]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/11</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/11"/>
-        <updated>2025-11-03T05:40:52.765Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19262181">
+        <title type="html"><![CDATA[上周热点回顾（12.22-12.28） (博客园官方博客)]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/12</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/12"/>
+        <updated>2025-12-01T05:58:16.841Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19413726">
 摘要：        
-热点随笔： · Visual Studio 2026 上手体验，AI 懂你、界面清爽、协作无缝 (小码编匠) · 九成九新自用C#入门文档 (假设狐狸有信箱) · .net 行不行？在线客服系统成功支持客户双11大促，21客服在线，高峰超300会话并发 (升讯威在线客服系统) · 网页版微信来了！无    <a href="https://www.cnblogs.com/cmt/p/19262181" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · 从 MCP 到 Agent Skills，AI Ready 的 .NET 10 正当时 (「圣杰」) · 未来已来 | 写给 .NET 开发者的 2025 年度总结 (「圣杰」) · 高并发下如何防止重复提交订单？ (苏三说技术) · 电信公网IPV4被收回之后：家庭网络的“绝地求生    <a href="https://www.cnblogs.com/cmt/p/19413726" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>

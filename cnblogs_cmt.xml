@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2025-12-24T17:40:16.982Z</updated>
+    <updated>2026-01-14T18:01:23.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.cnblogs.com/favicon_v3_2.ico</icon>
     <entry>
@@ -18,18 +18,7 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[置顶]
-        诚邀您体验阿里推出的新一代 Agentic 编程平台 Qoder]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/10</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/10"/>
-        <updated>2025-10-16T05:47:01.243Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19165152">
-摘要：        
-最近我们和阿里达成了合作，在园子里邀请开发者体验阿里推出的新一代 Agentic 编程平台 Qoder，期待您通过园子的 专属链接 注册账号（支持 github 账号集成登录），下载安装 Qoder 进行体验，新用户可以免费领取1000积分。Qoder 集成海外顶尖模型，已支持最新的 Claude Sonnet 4.5 模型    <a href="https://www.cnblogs.com/cmt/p/19165152" class="c_b_p_desc_readmore">阅读全文</a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[置顶]
-        感谢「北京新途径教育科技有限公司」成为博客园赞助商]]></title>
+        感谢新途径数科成为博客园赞助商]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2025/09</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2025/09"/>
         <updated>2025-09-01T05:40:46.527Z</updated>
@@ -39,23 +28,23 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Halo 商业版发售，自建商城新选择！]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/12</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/12"/>
-        <updated>2025-12-01T05:58:16.841Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19392609">
+        <title type="html"><![CDATA[上周热点回顾（1.5-1.11）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2026/01</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2026/01"/>
+        <updated>2026-01-14T18:01:22.847Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19469697">
 摘要：        
-凌霞软件是博客园的战略合作伙伴，今年年初合作推出了 Halo 联合终身会员，现在凌霞软件推出 Halo 商业版，欢迎大家关注！2026年1月23日之前，联合会员的 Halo 专业版可以免费变更到商业版。    <a href="https://www.cnblogs.com/cmt/p/19392609" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · Claude Code 完全指南：使用方式、技巧与最佳实践 (knqiufan) · 从 TIOBE 2025 年度语言到 2026 年 C# 智能体生态的全面崛起 (张善友) · 可怕，看到一个冷血的算法。 (why技术) · 嫌 AI 写的界面太丑？装上这个开源插件，秒变资深设计    <a href="https://www.cnblogs.com/cmt/p/19469697" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（11.17-11.23）]]></title>
-        <id>https://www.cnblogs.com/cmt/p/archive/2025/11</id>
-        <link href="https://www.cnblogs.com/cmt/p/archive/2025/11"/>
-        <updated>2025-11-03T05:40:52.765Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19262181">
+        <title type="html"><![CDATA[上周热点回顾（12.22-12.28）]]></title>
+        <id>https://www.cnblogs.com/cmt/p/archive/2025/12</id>
+        <link href="https://www.cnblogs.com/cmt/p/archive/2025/12"/>
+        <updated>2025-12-01T05:58:16.841Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19413726">
 摘要：        
-热点随笔： · Visual Studio 2026 上手体验，AI 懂你、界面清爽、协作无缝 (小码编匠) · 九成九新自用C#入门文档 (假设狐狸有信箱) · .net 行不行？在线客服系统成功支持客户双11大促，21客服在线，高峰超300会话并发 (升讯威在线客服系统) · 网页版微信来了！无    <a href="https://www.cnblogs.com/cmt/p/19262181" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： · 从 MCP 到 Agent Skills，AI Ready 的 .NET 10 正当时 (「圣杰」) · 未来已来 | 写给 .NET 开发者的 2025 年度总结 (「圣杰」) · 高并发下如何防止重复提交订单？ (苏三说技术) · 电信公网IPV4被收回之后：家庭网络的“绝地求生    <a href="https://www.cnblogs.com/cmt/p/19413726" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
 </feed>
