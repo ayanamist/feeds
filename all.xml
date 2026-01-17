@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ayanamist.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-01-14T18:01:23.766Z</updated>
+    <updated>2026-01-17T17:50:09.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[置顶]
@@ -27,13 +27,13 @@
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（1.5-1.11） (博客园官方博客)]]></title>
+        <title type="html"><![CDATA[【求职信息】1位园友求职前端开发岗位 (博客园官方博客)]]></title>
         <id>https://www.cnblogs.com/cmt/p/archive/2026/01</id>
         <link href="https://www.cnblogs.com/cmt/p/archive/2026/01"/>
         <updated>2026-01-14T18:01:22.847Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19469697">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_19488426">
 摘要：        
-热点随笔： · Claude Code 完全指南：使用方式、技巧与最佳实践 (knqiufan) · 从 TIOBE 2025 年度语言到 2026 年 C# 智能体生态的全面崛起 (张善友) · 可怕，看到一个冷血的算法。 (why技术) · 嫌 AI 写的界面太丑？装上这个开源插件，秒变资深设计    <a href="https://www.cnblogs.com/cmt/p/19469697" class="c_b_p_desc_readmore">阅读全文</a>
+求职职位：前端开发 个人介绍 计算机专业毕业; 精通 Html、Css、Javascript; 熟练掌握 React、Vue 、UmiJS 、Next.js 等前端技术框架; 熟练使用 Antd、Antv(Echart)、Elelmemt 等组件库; 熟练使用 Uniapp、Taro、React N    <a href="https://www.cnblogs.com/cmt/p/19488426" class="c_b_p_desc_readmore">阅读全文</a>
 </div>]]></content>
     </entry>
     <entry>
